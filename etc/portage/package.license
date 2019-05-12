@@ -1,0 +1,20 @@
+net-im/skype skype-eula
+media-video/makemkv MakeMKV-EULA
+www-client/google-chrome google-chrome
+>=www-plugins/adobe-flash-11.2.202.235 AdobeFlash-10.3
+>=www-plugins/adobe-flash-11.2.202.270 AdobeFlash-11.x
+dev-java/sun-jdk Oracle-BCLA-JavaSE
+>=dev-java/oracle-jdk-bin-1.7.0.51-r1 Oracle-BCLA-JavaSE
+>=www-plugins/chrome-binary-plugins-36.0.1985.97_beta1:beta google-chrome
+# required by www-client/google-chrome-unstable (argument)
+>=www-client/google-chrome-unstable-42.0.2311.4_p1 google-chrome
+# required by @selected
+# required by @world (argument)
+>=www-plugins/chrome-binary-plugins-42.0.2311.90_p1:stable google-chrome
+app-emulation/virtualbox-extpack-oracle PUEL
+# required by virtualbox-bin (argument)
+=app-emulation/virtualbox-bin-4.3.28.100309 PUEL
+# required by lastpass (argument)
+>=app-admin/lastpass-3.1.61 LastPass
+# required by vivaldi (argument)
+=www-client/vivaldi-1.4.589.29_p1 Vivaldi

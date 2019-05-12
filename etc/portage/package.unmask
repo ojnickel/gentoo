@@ -1,0 +1,58 @@
+
+# ---
+# BEGIN: gnome-base/gnome-3.2.0
+# ---
+# ---
+# END: gnome-base/gnome-3.2.0
+# ---
+
+# required by =media-video/handbrake-0.9.9 (argument)
+# /usr/portage/profiles/package.mask:
+# Tom Wijsman <TomWij@gentoo.org> (05 May 2013)
+# Masking media-video/handbrake until =media-video/ffmpeg-1.2 is unmasked.
+#=media-video/handbrake-0.9.9
+# required by media-video/mplayer2-2.0_p20120828
+# required by @selected
+# required by @world (argument)
+# /usr/portage/profiles/package.mask:
+# Diego Elio Pettenò <flameeyes@gentoo.org> (14 Nov 2012)
+# Masked for testing as some packages fail.
+# See bug #443230 for tracking the progress
+#=virtual/ffmpeg-9
+#media-video/ffmpeg::gentoo 
+# required by dev-perl/Net-SMTP-SSL-1.10.0-r1
+# required by dev-vcs/git-2.0.5[perl]
+# required by @selected
+# required by @world (argument)
+# /usr/portage/profiles/package.mask:
+# Andreas K. Huettel <dilfridge@gentoo.org> (29 Mar 2015)
+# Mask Perl 5.18 for removal. Please upgrade to Perl 5.20
+=dev-lang/perl-5.18.2-r2
+# required by sys-fs/udev (argument)
+# /usr/portage/profiles/targets/systemd/package.mask:
+# Pacho Ramos <pacho@gentoo.org> (21 Apr 2015)
+# This is for running sys-apps/systemd and also helps
+# portage to not try to pull in other providers leading to
+# strange blockers.
+=sys-fs/udev-225-r1
+# required by @preserved-rebuild (argument)
+# /usr/portage/profiles/package.mask:
+# Michał Górny <mgorny@gentoo.org>, Andreas K. Hüttel <dilfridge@gentoo.org>,
+# Matthias Maier <tamiko@gentoo.org> (21 May 2017)
+# These old versions of toolchain packages (binutils, gcc, glibc) are no
+# longer officially supported and are not suitable for general use. Using
+# these packages can result in build failures (and possible breakage) for
+# many packages, and may leave your system vulnerable to known security
+# exploits.
+# If you still use one of these old toolchain packages, please upgrade (and
+# switch the compiler / the binutils) ASAP. If you need them for a specific
+# (isolated) use case, feel free to unmask them on your system.
+=sys-devel/binutils-2.25.1-r1
+# required by www-client/conkeror-1.0.4::gentoo
+# required by @selected
+# required by @world (argument)
+# /usr/portage/profiles/package.mask:
+# Thomas Deutschmann <whissi@gentoo.org> (12 Oct 2018)
+# EOL and has known vulnerabilities. Please move to
+# Firefox 60 or newer if you can.
+#=www-client/firefox-52.9.0
