@@ -1,0 +1,5 @@
+alias rpi ="ssh ossi@rpi"
+alias sfr ="sftp ossi@rpi"
+alias n-net-1 ="nmcli c up dd68f4f4-4b19-4975-8a5a-458fa7d6e1de ifname wlan0"
+alias n-net-0 ="nmcli c down dd68f4f4-4b19-4975-8a5a-458fa7d6e1de ifname wlan0"
+alias gr ="grep"

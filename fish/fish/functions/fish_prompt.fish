@@ -1,0 +1,1 @@
+/home/ossi/.local/share/omf/themes/agnoster/fish_prompt.fish
