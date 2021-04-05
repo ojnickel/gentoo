@@ -1,0 +1,1046 @@
+{
+   "200": {
+      "message": "간헐적인 문제를 다시 시도 하십시오!"
+   },
+   "24hourMode": {
+      "message": "24 시간 표시"
+   },
+   "24hourModeTitle": {
+      "message": "즉 24 시간으로 표시 합니다. 18: 00"
+   },
+   "401": {
+      "message": "무단!"
+   },
+   "403": {
+      "message": "이메일 또는 입력 한 암호가 올바르지 않습니다."
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "Xminute": {
+      "message": "$1 분"
+   },
+   "Xminutes": {
+      "message": "$1 분"
+   },
+   "Xseconds": {
+      "message": "$1 초"
+   },
+   "aboutMe": {
+      "message": "나에 대해"
+   },
+   "account": {
+      "message": "계정"
+   },
+   "addCalendar": {
+      "message": "달력 추가"
+   },
+   "addCalendarTitle": {
+      "message": "개인 URL 통해 일정 추가"
+   },
+   "addSpeechEngines": {
+      "message": "음성 엔진 추가"
+   },
+   "addToGoogleCalendar": {
+      "message": "구글 캘린더에 추가"
+   },
+   "addedForSomeday": {
+      "message": "$1에 $2을 추가"
+   },
+   "addedForSomedayAt": {
+      "message": "$1에 $2와 $3을 추가"
+   },
+   "addedForToday": {
+      "message": "오늘 일정에 $1을 추가"
+   },
+   "addedForTodayAt": {
+      "message": "$2을 $1에 추가"
+   },
+   "addedForTomorrow": {
+      "message": "내일 $1를 추가 "
+   },
+   "addedForTomorrowAt": {
+      "message": "$2를 추가 $1 내일일정에"
+   },
+   "addedTimedEventInThePast": {
+      "message": "이 이벤트의 시간이 이미 지났습니다! 내일 동시에 변경 하 시겠습니까?"
+   },
+   "agenda": {
+      "message": "의제"
+   },
+   "agendaOnly": {
+      "message": "일정만"
+   },
+   "alertMe": {
+      "message": "또는 알림..."
+   },
+   "all": {
+      "message": "모든"
+   },
+   "alreadyDonated": {
+      "message": "이미 기증했습니까?"
+   },
+   "amount": {
+      "message": "금액"
+   },
+   "andMyExtensions": {
+      "message": "그리고 저의 다른 프로그램"
+   },
+   "backgroundOfNotification": {
+      "message": "알림 팝업의 배경색"
+   },
+   "backgroundOfNotificationTooltip": {
+      "message": "알림 팝업의 배경 색상 설정"
+   },
+   "byEmailSubject": {
+      "message": "전자 우편 제목?"
+   },
+   "calendar": {
+      "message": "일정"
+   },
+   "calendarHelper": {
+      "message": "일정 도우미를"
+   },
+   "calendarViewAgenda": {
+      "message": "일정 보기: 의제"
+   },
+   "calendarViewAgendaTitle": {
+      "message": "때 달력 아이콘을 클릭 하면 표시 됩니다 아래 이벤트와 작은 달력 의제 형식"
+   },
+   "calendarViewRegular": {
+      "message": "일정 보기: 일반"
+   },
+   "calendarViewRegularTitle": {
+      "message": "캘린더 내에서 표시 된 경우 달력 아이콘을 클릭 하면 일정이 표시 됩니다."
+   },
+   "calendarViewTitle": {
+      "message": "기본 달력 보기 선택"
+   },
+   "canceledInAppPurchase": {
+      "message": "페이팔을 대신 시도? 질문에 대 한 저에 게 연락 하거나"
+   },
+   "cannotUpdateEventsInThePast": {
+      "message": "문제 발생! 현재 오늘 또는 즉각적인 미래에 이벤트를 업데이트할 수는 과거에 일어난 이벤트를 업데이트할 수 없습니다. 지난 이벤트에 대 한 Google 달력 웹 페이지를 사용할 수 있습니다!"
+   },
+   "changeThisDomain": {
+      "message": "지금이 이메일 도메인을 변경 하려면 $1"
+   },
+   "changeThisDomain2": {
+      "message": "로그 아웃 하 고 다른 사용자로 로그인"
+   },
+   "changeView": {
+      "message": "보기 변경"
+   },
+   "changingIcon": {
+      "message": "아이콘 변경"
+   },
+   "choosePaymentMethod": {
+      "message": "결제 방법을 선택"
+   },
+   "clearCache": {
+      "message": "분명히 확장 캐시"
+   },
+   "contact": {
+      "message": "연락처"
+   },
+   "contactHelp": {
+      "message": "연락처-도움말"
+   },
+   "continue": {
+      "message": "계속"
+   },
+   "continueWithoutFeatures": {
+      "message": "기부가 있어야만 달력의 특별한 기능을 사용 할 수 있습니다."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "추가 기능 없이 계속 사용"
+   },
+   "contributeToContinue": {
+      "message": "기부"
+   },
+   "copyPrivateAddress": {
+      "message": "달력의 개인 주소 (XML)를 클립보드에 복사 합니다."
+   },
+   "copyPrivateAddressTitle": {
+      "message": "귀하의 Google 캘린더에 페이지 왼쪽에 달력 목록, 당신의 선택의 일정 옆에 있는 화살표 버튼을 클릭 이면 일정 설정을 선택 합니다. ' 개인 주소 ' 옆에 XML을 선택 하 고 주소를 클립보드에 복사 합니다. 참고: ' 개인 주소 '를 찾을 수 없는 경우 다음 도메인 관리자 수준에서 설정을 변경 해야 서비스-달력의"
+   },
+   "createDeleteEvents": {
+      "message": "달력에서 일정을 삭제하거나 추가"
+   },
+   "createEvent": {
+      "message": "이벤트 만들기"
+   },
+   "creditCardOrPaypal": {
+      "message": "귀하의 신용 카드 또는 페이팔을 사용할 수 있습니다."
+   },
+   "currencyCode": {
+      "message": "JPY"
+   },
+   "currencySymbol": {
+      "message": "¥"
+   },
+   "currentPage": {
+      "message": "현재 페이지"
+   },
+   "custom": {
+      "message": "사용자 정의"
+   },
+   "customizeCalendar": {
+      "message": "높이, 너비, 표시 달력, 색상, 등을 변경 합니다."
+   },
+   "customizeCalendarTitle": {
+      "message": "팝업 달력에서 '사용자 정의'를 '보기'를 설정 해야 합니다."
+   },
+   "customized": {
+      "message": "사용자 지정"
+   },
+   "d": {
+      "message": "d"
+   },
+   "daysAgo": {
+      "message": "$1 일 전"
+   },
+   "daysArray": {
+      "message": "일요일,월요일,화요일,수요일,목요일,금요일,토요일,일요일"
+   },
+   "daysArrayShort": {
+      "message": "일,월,화,수,목,금,토,일"
+   },
+   "daysLeft": {
+      "message": "$1 일 후에"
+   },
+   "delete": {
+      "message": "삭제"
+   },
+   "developingMore": {
+      "message": "제안을 주시며 수정 하겠습니다."
+   },
+   "ding": {
+      "message": "땡~"
+   },
+   "dismiss": {
+      "message": "무시"
+   },
+   "dismissAll": {
+      "message": "모두 해제"
+   },
+   "doNotShowNotificationsForAlldayEvents": {
+      "message": "하루 일정에 대한 알림을 전체 표시 하지 않습니다"
+   },
+   "doNotShowNotificationsForAlldayEventsTitle": {
+      "message": "하루 일정에 대한 알림을 표시 하지 않습니다"
+   },
+   "doNotShowNotificationsWhenBrowserClosed": {
+      "message": "브라우저 창이 닫히면 알림 표시 안 함"
+   },
+   "doNotShowNotificationsWhenBrowserClosedTooltip": {
+      "message": "귀하의 크롬 브라우저 아이콘, 트레이 함께 백그라운드에서 실행 됩니다 하지만 알림이 표시 되지 않습니다!"
+   },
+   "doNotShowPastNotifications": {
+      "message": "지난 일정에 대한 알림을 표시 하지 않습니다"
+   },
+   "doNotShowPastNotificationsTitle": {
+      "message": "지난 일정에 대한 알림을 표시 하지 않습니다"
+   },
+   "donationRequired": {
+      "message": "기부가 필요합니다."
+   },
+   "drawAttentionToBrowser": {
+      "message": "Windows 작업 표시줄에서 크롬 깜박임 또는 반송 크롬 아이콘 맥 (베타)에"
+   },
+   "drawAttentionToBrowserTooltip": {
+      "message": "초점은 브라우저에서 경우에 일이 일어날 것입니다. Windows에서 여러 개의 작업 공간을... 사용 하는 경우에 유용: 작업 표시줄에서 깜박이 크롬 응용. 에 맥: 반송 크롬 아이콘"
+   },
+   "email": {
+      "message": "메일 주소:"
+   },
+   "enableLanguageDetection": {
+      "message": "이메일에서 사용 가능한 언어를 검색"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "Detectlanguage.com 서비스를 사용 하여 이메일에 사용 가능한 언어 검색"
+   },
+   "enablePrivateAddressTitle": {
+      "message": "컨트롤 패널에서 일정 서비스 설정 섹션에 다음 '모든 정보를 공유 하 고 외부 일정을 변경할 수 있습니다' 옵션을 선택"
+   },
+   "enterATitle": {
+      "message": "제목을 입력 해야 합니다!"
+   },
+   "enterAnAmount": {
+      "message": "금액을 입력 해야 합니다!"
+   },
+   "errorAddingEvent": {
+      "message": "오류 추가 이벤트! 인터넷 연결 없음으로 인해!"
+   },
+   "errorGettingCalendar": {
+      "message": "문제가 점점 달력 URL을 확인 하 고 다시 시도 하십시오! (오류: $1)"
+   },
+   "errorGettingCalendarUnauthorized": {
+      "message": "무단! 먼저 로그인 해야 합니다 귀하의 Google 애플 리 케이 션 캘린더에 새 탭을 열어"
+   },
+   "eventAdded": {
+      "message": "일정 추가"
+   },
+   "eventCreated": {
+      "message": "일정 생성"
+   },
+   "eventDeleted": {
+      "message": "이벤트 삭제"
+   },
+   "eventDescription": {
+      "message": "일정 설명"
+   },
+   "eventUpdated": {
+      "message": "이벤트 업데이트"
+   },
+   "eventsAndSnoozes": {
+      "message": "이벤트 및 겉"
+   },
+   "ex": {
+      "message": "예를 들어"
+   },
+   "example": {
+      "message": "예제"
+   },
+   "excludeCalendar": {
+      "message": "일정 제외"
+   },
+   "excludeCalendarFrom": {
+      "message": "일정에서 제외"
+   },
+   "excludeCalendarFrom2": {
+      "message": "의제 및 일정 보기"
+   },
+   "excludeCalendarFrom3": {
+      "message": "버튼 아이콘 및 알림"
+   },
+   "excludeCalendarFromTitle": {
+      "message": "달력/일정 보기에서 특정 캘린더를 숨기 거 나 '검사' 버튼 아이콘 및 알림 특정 달력에서 이벤트를 제외 클릭 ' 보기'를 클릭합니다"
+   },
+   "excludeCalendarsCheckboxChecking": {
+      "message": "이 옵션의 오른쪽에 있는 링크를 클릭 하십시오"
+   },
+   "excludeRecurringEventsButtonIcon": {
+      "message": "버튼 아이콘에서 반복 이벤트를 제외"
+   },
+   "excludeRecurringEventsButtonIconTooltip": {
+      "message": "모든 이벤트를 반복 해야 설정 버튼 아이콘에 표시 되지 않습니다 하지만 여전히 그들의 통보를 받게 됩니다."
+   },
+   "excluded": {
+      "message": "제외"
+   },
+   "extraFeatures": {
+      "message": "추가 기능"
+   },
+   "failureWithInAppPurchase": {
+      "message": "취소 또는 트랜잭션 실패! 페이팔을 대신 시도?"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "취소 또는 트랜잭션 실패! 대신 구글 체크 아웃을 시도?"
+   },
+   "forProblemSolving": {
+      "message": "문제만 해결 하는 것에 대 한"
+   },
+   "forSuggestions": {
+      "message": "제안 또는 더 찾기"
+   },
+   "forever": {
+      "message": "영원히"
+   },
+   "googleAppsCalendars": {
+      "message": "Google앱 캘린더"
+   },
+   "googleAppsCalendarsForce": {
+      "message": "Google의 여러 로그인을 Google앱 캘린더에 항상 기본 설정 합니다"
+   },
+   "googleAppsCalendarsTitle": {
+      "message": "기업 또는 교육 일정에 대한 귀하의 Google앱을  사용 하려는 경우 확인 하십시오. Note,이 기능은 일반 Google 캘린더를 억제할 것 입니다!"
+   },
+   "googleAppsNote": {
+      "message": "이 기능은 일반 Google 캘린더를 비활성화 됩니다."
+   },
+   "h": {
+      "message": "h"
+   },
+   "helpMeTranslate": {
+      "message": "당신은 나의 번역 하는 것을 도울 수 있습니까? $1 올바른 것 들!"
+   },
+   "helpMeTranslate2": {
+      "message": "이메일 날"
+   },
+   "helpSupport": {
+      "message": "이 확장을 지원하는데!"
+   },
+   "highlightCurrentDay": {
+      "message": "현재 날짜를 강조 표시"
+   },
+   "highlightCurrentDayTooltip": {
+      "message": "간단히 고동치는 달에서 현재 날짜 보기 일정을 볼 때"
+   },
+   "highlightWeekends": {
+      "message": "주말 강조"
+   },
+   "highlightWeekendsTitle": {
+      "message": "가볍게 주말 일 이지만만 '일반' 달 달력 보기 선글라스"
+   },
+   "hours": {
+      "message": "시간"
+   },
+   "hoursAgo": {
+      "message": "$1 시간 전"
+   },
+   "hoursLeft": {
+      "message": "$1 시간 후에"
+   },
+   "hoursRemaining": {
+      "message": "일정의 남은 시간 표시"
+   },
+   "hoursRemainingTitle": {
+      "message": "하루에 24시간 안의 일정을 표시 예: 4 h"
+   },
+   "iconClassic": {
+      "message": "클래식 아이콘"
+   },
+   "iconDefault": {
+      "message": "기본 아이콘"
+   },
+   "iconDefault2WithDate": {
+      "message": "기본 아이콘에 오늘 날짜 추가"
+   },
+   "iconMonochrome": {
+      "message": "현재 날짜와 어두운 아이콘"
+   },
+   "iconNew": {
+      "message": "새로운 아이콘"
+   },
+   "iconNew2": {
+      "message": "어두운 아이콘"
+   },
+   "iconNew2WithDate": {
+      "message": "현재 날짜와 어두운 아이콘"
+   },
+   "iconNewWithDate": {
+      "message": "현재 날짜와 함께 새로운 아이콘"
+   },
+   "iconTooltip": {
+      "message": "팝업창에 단축 아이콘 사용"
+   },
+   "inVARhour": {
+      "message": "$1 시간"
+   },
+   "inVARhours": {
+      "message": "$1 시간"
+   },
+   "inVARminutes": {
+      "message": "$1 분"
+   },
+   "keepHoveringOverTheBluePlusOne": {
+      "message": "텍스트가 표시 될 때까지 블루 1 유혹 계속 다음 클릭 하 여 Google에서 공유 하는 "
+   },
+   "language": {
+      "message": "언어"
+   },
+   "languageToolTip": {
+      "message": "디스플레이 및 음성 알림 언어를 변경 합니다. : 당신은 수도 참고 여러 언어 한 번에 이러한 규칙이 있기 때문에: 그것은 여기에서 선택한 언어에 번역 했습니다 표시 됩니다, 그을 번역 하지 않은 경우 그것에 대 한 귀하의 브라우저의 언어에서 보이는 것입니다 몇 가지 단어를 번역 하지 않은 경우 그것은 영어로 표시 됩니다."
+   },
+   "largest": {
+      "message": "최대"
+   },
+   "licenseOnlyValidFor": {
+      "message": "라이센스와 함께 그들의 Google 어카운트에 로그인 하는 사용자에 대 한 유효 해야만 한"
+   },
+   "loading": {
+      "message": "로드 중..."
+   },
+   "logEventsAndSnoozes": {
+      "message": "이벤트 로그 및 겉"
+   },
+   "longerSnoozeTimes": {
+      "message": "알림 시간 연장"
+   },
+   "m": {
+      "message": "m"
+   },
+   "maxDaysAhead": {
+      "message": "최대 볼 수 있는 날짜 일수 "
+   },
+   "maxDaysAheadTitle": {
+      "message": "최대 볼 수 있는 날짜 일수"
+   },
+   "meetMe": {
+      "message": "만나요"
+   },
+   "meetMeTitle": {
+      "message": "비디오에서 보자!"
+   },
+   "min": {
+      "message": "분"
+   },
+   "minimumAmount": {
+      "message": "적어도 $1 이상 기부 해야 합니다"
+   },
+   "minimumDonation": {
+      "message": "50"
+   },
+   "minimumDonationForGoogleCheckout": {
+      "message": "0.50"
+   },
+   "minutesAgo": {
+      "message": "$1 분전"
+   },
+   "minutesLeft": {
+      "message": "$1 분 후에"
+   },
+   "missingOptions": {
+      "message": "옵션을 놓치고 있다? 번역 나쁜 건가요? 연락처"
+   },
+   "missingOptions2": {
+      "message": "제안!"
+   },
+   "month": {
+      "message": "달"
+   },
+   "monthsArray": {
+      "message": "1월,2월,3월,4월,5월,6월,7월,8월,9월,10월,11월,12월"
+   },
+   "monthsArrayShort": {
+      "message": "1,2,3,4,5,6,7,8,9,10,11,12"
+   },
+   "more": {
+      "message": "기타"
+   },
+   "moreInfo": {
+      "message": "더 많은 정보"
+   },
+   "multipleUserLicense": {
+      "message": "귀하의 조직에 대 한 다중 사용자 라이센스를 얻을"
+   },
+   "mustAddCalendar": {
+      "message": "Google 애플 리 케이 션을 사용 하는 경우에 일정을 추가 해야 합니다!"
+   },
+   "mustClickShareLinks": {
+      "message": "한번 팝업 달력 아래 공유 링크를 사용 하 고 당신은 그들을 모두 여기에서 제거할 수 있습니다!"
+   },
+   "mustSignInToPay": {
+      "message": "귀하의 Gmail에 로그인 하 고이 확장을 로드할 때까지 기다립니다 해야 합니다!"
+   },
+   "myPreference": {
+      "message": "내 기본 설정"
+   },
+   "needHelp": {
+      "message": "도움이 필요 하십니까?"
+   },
+   "noDetails": {
+      "message": "간략하게"
+   },
+   "noPermissionOnEvent": {
+      "message": "이 이벤트를 이동 하는 문제가 사용 권한이 없을 수 있습니다!"
+   },
+   "notLoggedIn": {
+      "message": "로그인 하지 않은"
+   },
+   "notTaxExempt": {
+      "message": "면제 조직 아니에요"
+   },
+   "notificationFontSize": {
+      "message": "알림 텍스트 크기"
+   },
+   "notificationFontSizeTooltip": {
+      "message": "팝업 알림에서 이벤트 제목의 글꼴 크기를 설정합니다. 때 긴 이벤트 제목에 대 한 최소값 설정 하 고 짧은 이벤트 제목 경우에 대 한 최대 설정"
+   },
+   "notificationSound": {
+      "message": "사운드 알림"
+   },
+   "notificationSoundTitle": {
+      "message": "일정이 발생 한 경우 위의 알림을 사용 해서 소리를 재생"
+   },
+   "notificationTextToSpeech": {
+      "message": "음성 알림"
+   },
+   "notificationTextToSpeechTitle": {
+      "message": "일정을 소리 읽어주기"
+   },
+   "notificationZoom": {
+      "message": "알림 창 확대/축소"
+   },
+   "notificationZoomTooltip": {
+      "message": "이 사용 하 여 (그 높은 DPI 스케일링에 대 한 유용한) 알림 창에서 '모두' 텍스트 축소"
+   },
+   "offlineMode": {
+      "message": "오프 라인 모드"
+   },
+   "offlineModeTitle": {
+      "message": "인터넷에 연결 하지 않고도 일정을 통지 받을! 경고: 귀하의 일정이 컴퓨터에 저장 됩니다!"
+   },
+   "omniboxDefault": {
+      "message": "오후 7시 저녁식사"
+   },
+   "omniboxDefaultTom": {
+      "message": "8 오전 기상"
+   },
+   "onlyPopupsForOwner": {
+      "message": "자신의 일정에서 이벤트에 대 한 알림 표시"
+   },
+   "onlyPopupsForOwnerTooltip": {
+      "message": "알림 것만 일정에서 이벤트 표시 소유자는. 이 일반적으로 '내 캘린더' 아래와 공유 되는 일정에서 또는 '기타 캘린더' 섹션에서 달력을 의미"
+   },
+   "onlyRemoveAfterDonation": {
+      "message": "기부 링크 기부금 후에 제거할 수 있습니다!"
+   },
+   "openCalendar": {
+      "message": "일정 열기"
+   },
+   "option": {
+      "message": "옵션"
+   },
+   "optionToCustomizeWith": {
+      "message": "사용 합니다"
+   },
+   "options": {
+      "message": "옵션"
+   },
+   "or": {
+      "message": "또는"
+   },
+   "orPayUsing_": {
+      "message": "또는 사용 하 여 지불할 수 있습니다."
+   },
+   "password": {
+      "message": "암호:"
+   },
+   "pastDays": {
+      "message": "지난 일 회색"
+   },
+   "pastDaysTitle": {
+      "message": "지난 일 달력의, 하지만, '일반' 달 달력 보기에만 회색"
+   },
+   "pasteHTML": {
+      "message": "아래 HTML을 붙여"
+   },
+   "pastePrivateAddress": {
+      "message": "여기에 일정의 개인 주소 (XML)를 붙여"
+   },
+   "pitch": {
+      "message": "조절"
+   },
+   "pollingInterval": {
+      "message": "폴링 간격"
+   },
+   "pollingIntervalTooltip": {
+      "message": "새로운 이메일을 가져올 간격을 설정"
+   },
+   "popupGoogleCalendarWebsite": {
+      "message": "팝업 하는 대신 단추 오픈 Google 캘린더 웹사이트 만들기"
+   },
+   "popupGoogleCalendarWebsiteHelpTitle": {
+      "message": "단추 아이콘을 클릭 하면 작은 팝업 창 대신 구글 캘린더 웹 사이트를 엽니다. (아이콘을 클릭할 때 ctrl 키를 잡고도 할 것입니다!)"
+   },
+   "poweredByGoogle": {
+      "message": "Google에 의해 구동"
+   },
+   "problemCommunicatingTryAgain": {
+      "message": "오류: $1 다시 시도 하십시오 문제와 통신$2,!"
+   },
+   "problemSigningIn": {
+      "message": "로그인 문제! 인터넷 연결 없음으로 인해!"
+   },
+   "processing": {
+      "message": "처리"
+   },
+   "quickAdd": {
+      "message": "빠른 추가"
+   },
+   "quickAddDefaultText": {
+      "message": "예: 오후 7 저녁 식사"
+   },
+   "quickAddTitle": {
+      "message": "예를 들어 축구경기 20분"
+   },
+   "rate": {
+      "message": "속도"
+   },
+   "rateTitle": {
+      "message": "음성의 속도: 분당 단어"
+   },
+   "recentlyAddedEvent": {
+      "message": "문제 발생! 최근에 웹 페이지를 통해이 이벤트를 추가 하는 경우 새로 고침 아이콘을 클릭 하거나 다른 Google 달력 웹 페이지를 사용 하십시오!"
+   },
+   "referToAlreadyDonated": {
+      "message": "$1 참조"
+   },
+   "referToAlreadyDonated2": {
+      "message": "이미 기증"
+   },
+   "refresh": {
+      "message": "새로 고침"
+   },
+   "rememberQuickAdd": {
+      "message": "' 빠른 추가 ' 로그인 기억"
+   },
+   "rememberQuickAddTitle": {
+      "message": "참고:이 저장 됩니다 구글 AuthKey 하지만 하지 귀하의 로그인 자격 증명"
+   },
+   "remindersBeforeEvent": {
+      "message": "일정에 대한 알림 표시"
+   },
+   "remindersBeforeEventHelpTitle": {
+      "message": "Google 캘린더에서 페이지 왼쪽에는 달력 목록 당신의 선택의 일정 옆에 있는 화살표 버튼 클릭 '알림'을 선택 합니다. 그런 다음 '팝업' 미리 알림 추가 하고 미리 알림 시간을 설정 합니다. 참고: 또한 무시할 수 있습니다. 이 옵션을 추가 하거나 편집하는 것을"
+   },
+   "remindersBeforeEventPopupReminder": {
+      "message": "'팝업' 알림"
+   },
+   "remove": {
+      "message": "제거"
+   },
+   "removeDonationLink": {
+      "message": "기부 링크 제거"
+   },
+   "removeDonationLinkTitle": {
+      "message": "달력 아래 기부 링크를 제거 됩니다."
+   },
+   "removeQuickAdd": {
+      "message": "'빠른 추가' 제거"
+   },
+   "removeQuickAddTitle": {
+      "message": "' 빠른 추가 ' 기능 숨기기"
+   },
+   "removeShareLinks": {
+      "message": "공유 링크 제거"
+   },
+   "removeShareLinksTooltip": {
+      "message": "제거 페이 스 북, 트위터 링크 팝업 달력 아래 등"
+   },
+   "removeTitle": {
+      "message": "일정 제거"
+   },
+   "repeatSound": {
+      "message": "알림 소리를 반복 마다"
+   },
+   "repeatSound2": {
+      "message": "후 중지"
+   },
+   "repeatSound3": {
+      "message": "시간"
+   },
+   "repeatSoundTooltip": {
+      "message": "알림 팝업 창이 해산 하지 하는 경우 알림 또는 음성 소리 반복"
+   },
+   "reschedule": {
+      "message": "일정 다시 만들기"
+   },
+   "runInBackground": {
+      "message": "구글 크롬 닫힐 때 백그라운드에서 실행"
+   },
+   "runInBackgroundToolTip": {
+      "message": "귀하의 브라우저를 종료 하는 동안에 새 전자 메일 알림을 받는 것을 계속 해 라! 고급 사용자에 대해서만이 추천 한다."
+   },
+   "runInBackgroundWarning1": {
+      "message": "에 대해 주의 깊게 읽어 보시기 바랍니다 $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "배경 애플 리 케이 션"
+   },
+   "runInBackgroundWarning2": {
+      "message": "크롬에서 배경 애플 리 케이 션을 사용 하지 않도록 설정 하는 경우를 읽어서 그들을 다시 수 합니다 $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "마지막 클릭할 섹션"
+   },
+   "runInBackgroundWarning3": {
+      "message": "사용 해야 할 수도 있습니다를 $1 Gmail 로그인 페이지에서"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "로그인 유지"
+   },
+   "save": {
+      "message": "저장"
+   },
+   "saveSettings": {
+      "message": "설정 저장"
+   },
+   "saved": {
+      "message": "저장된!"
+   },
+   "saving": {
+      "message": "저장..."
+   },
+   "securely": {
+      "message": "안전 하게 합니다."
+   },
+   "seeVideo": {
+      "message": "비디오를 보기"
+   },
+   "selectACalendar": {
+      "message": "일정 선택"
+   },
+   "selectCalendar": {
+      "message": "먼저 일정을 선택 해야 합니다!"
+   },
+   "setDateTime": {
+      "message": "날짜/시간 설정"
+   },
+   "share": {
+      "message": "공유"
+   },
+   "showAgendaOptions": {
+      "message": "의제 보기에서 옵션 링크를 표시"
+   },
+   "showAgendaOptionsTitle": {
+      "message": "의제 보기에서 옵션 링크를 표시"
+   },
+   "showButtonTooltip": {
+      "message": "버튼 아이콘 위로 가져가면 도구 설명 표시"
+   },
+   "showButtonTooltipTooltip": {
+      "message": "버튼 아이콘 위로 감쌀 때 다음 이벤트 표시"
+   },
+   "showConsoleMessages": {
+      "message": "자바 스크립트 콘솔에 로그 메시지"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "만 디버깅에 대 한 의미 하 고 있습니다 확장 천천히 조금!"
+   },
+   "showContextMenuItem": {
+      "message": "보기 상황에 맞는 메뉴 항목에 마우스 오른쪽 버튼 클릭"
+   },
+   "showContextMenuItemTooltip": {
+      "message": "어떤 웹 페이지 또는 귀하의 캘린더에 빠르게 추가 하려면 전자 메일 웹 페이지에서 마우스 오른쪽 단추로 클릭할 때 메뉴 항목 추가"
+   },
+   "showDataFeeds": {
+      "message": "일정 데이터 피드 표시"
+   },
+   "showDayOnBadge": {
+      "message": "버튼 아이콘에 현재 요일 표시"
+   },
+   "showDayOnBadgeExceptWhenDaysLeft": {
+      "message": "다음 이벤트는 멀리 일 경우 제외"
+   },
+   "showDayOnBadgeExceptWhenHoursLeft": {
+      "message": "다음 이벤트 시간 거리는 하는 경우를 제외 하"
+   },
+   "showDayOnBadgeExceptWhenMinutesLeft": {
+      "message": "다음 이벤트 분 거리는 하는 경우를 제외 하"
+   },
+   "showDayOnBadgeTooltip": {
+      "message": "다음 이벤트 표시 '화' 같은 현재 요일에 카운트 하는 대신 등등. 참고: 예외 목록도 있습니다!"
+   },
+   "showDesktopNotifications": {
+      "message": "데스크톱 알림"
+   },
+   "showDesktopNotificationsTitle": {
+      "message": "일정에 이벤트가 발생할 때 알림을 표시 하려면이 활성화"
+   },
+   "showEventTimeOnBadge": {
+      "message": "단축 아이콘에 대한 일정의 시간 표시"
+   },
+   "showEventTimeOnBadgeTooltip": {
+      "message": "디스플레이 아이콘의 위에 다음 이벤트까지 시간"
+   },
+   "showHeader": {
+      "message": "팝업 창에서 위쪽 머리글 표시"
+   },
+   "showHeaderTooltip": {
+      "message": "팝업의 위쪽 부분에서 빠른 추가 및 기타 명령 표시"
+   },
+   "showMinutesLeftInBadge": {
+      "message": "일정의 시간 대신 남은 분 보기"
+   },
+   "showMinutesLeftInBadgeTitle": {
+      "message": "일정의 남은 분을 표시 합니다."
+   },
+   "showOpenCalendar": {
+      "message": "일정 열기 아이콘 표시"
+   },
+   "showOpenCalendarTooltip": {
+      "message": "쇼 달력 아이콘을 엽니다."
+   },
+   "showQuickAdd": {
+      "message": "'빠른 추가' 표시"
+   },
+   "showQuickAddTooltip": {
+      "message": "표시 빠른 왼쪽 상단 텍스트 입력된 영역에 추가"
+   },
+   "showRefresh": {
+      "message": "새로 고침 아이콘 표시"
+   },
+   "showRefreshTooltip": {
+      "message": "새로 고침 아이콘 표시"
+   },
+   "showTimeSpecificEventsBeforeAllDay": {
+      "message": "모든 하루 이벤트를 검색 하기 전에 시간 특정 이벤트 보기"
+   },
+   "showTimeSpecificEventsBeforeAllDayTooltip": {
+      "message": "1 D 대신 오전 10 표시 됩니다 경우 내일 하루 종일 오전 10 이벤트"
+   },
+   "showViewDropDown": {
+      "message": "쇼 보기 드롭다운"
+   },
+   "showViewDropDownTooltip": {
+      "message": "'보기' 드롭다운 목록을 표시 합니다 (참고:이 처음 보기를 변경할 볼 필요가, 나중에 숨길 수 있습니다:"
+   },
+   "signIn": {
+      "message": "로그인"
+   },
+   "signInAsUserOfOrg": {
+      "message": "당신이 해야 합니다 $1 귀사의 이메일"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "로그 아웃 하 고 귀하의 gmail 계정에 로그인"
+   },
+   "smallest": {
+      "message": "최소"
+   },
+   "snooze": {
+      "message": "잠시 연기"
+   },
+   "snoozeAll": {
+      "message": "모두 다시 알림"
+   },
+   "somedayAt": {
+      "message": "언젠가"
+   },
+   "sound": {
+      "message": "사운드"
+   },
+   "speechEngine": {
+      "message": "음성 엔진"
+   },
+   "ssl": {
+      "message": "항상 SSL을 사용"
+   },
+   "sslTitle": {
+      "message": "Google 캘린더에 엑세스할때 SSL 암호화를 항상 사용"
+   },
+   "staySignedIn": {
+      "message": "로그인 유지"
+   },
+   "successful": {
+      "message": "성공"
+   },
+   "supportAndRequestsPrioritized": {
+      "message": "나를 지원 하 고 우선 요청 얻는다!"
+   },
+   "testDescription": {
+      "message": "테스트 설명"
+   },
+   "testEvent": {
+      "message": "테스트 이벤트"
+   },
+   "testIt": {
+      "message": "테스트!"
+   },
+   "thankYouForYourContribution": {
+      "message": "당신의 기부에 정말 감사 드립니다!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "이제 창을 닫고 즐거운 시간 되세요!"
+   },
+   "timeout": {
+      "message": "타임 아웃 지연"
+   },
+   "timeoutNote": {
+      "message": "일정 또는 이벤트의 많은 경우에 변경"
+   },
+   "timeoutTooltip": {
+      "message": "로그인 문제를 제거, 10 개 이상의 달력 경우에 또는 이벤트 많을 경우 증가 수 있습니다)"
+   },
+   "timeoutTryAgain": {
+      "message": "초과와 통신할 때 $1, 다시 시도 하십시오!"
+   },
+   "toSeeCalendar": {
+      "message": "캘린더 보기!"
+   },
+   "today": {
+      "message": "오늘"
+   },
+   "todayAt": {
+      "message": "오늘"
+   },
+   "tom": {
+      "message": "내일"
+   },
+   "tomorrow": {
+      "message": "내일"
+   },
+   "tomorrowAt": {
+      "message": "내일"
+   },
+   "undo": {
+      "message": "실행 취소"
+   },
+   "unlockFeatures": {
+      "message": "단 한번의 기부만으로 당신은 특별한 기능을 즉시 사용할 수 있습니다!"
+   },
+   "unlockHeader": {
+      "message": "추가 기능을 얻으시고 개발자를 지원해 주세요"
+   },
+   "view": {
+      "message": "보기"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "컴퓨터가 대기 상태일 경우"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "컴퓨터가 대기 상태일 경우 자동으로 이메일을 읽어 줍니다."
+   },
+   "volume": {
+      "message": "볼륨"
+   },
+   "wantToStaySignedIn": {
+      "message": "로그인 유지 하 고 싶어?"
+   },
+   "week": {
+      "message": "주"
+   },
+   "what": {
+      "message": "무엇"
+   },
+   "when": {
+      "message": "언제"
+   },
+   "whyContribute": {
+      "message": "왜 기부 해야 하는가?"
+   },
+   "whyContributeReason1": {
+      "message": "업데이트 및 지원에 많은 시간이 소요 $1 귀하의 제안에 응답 하기 위해"
+   },
+   "whyContributeReason1_1": {
+      "message": "내 모든 확장"
+   },
+   "whyContributeReason2": {
+      "message": "읽고: 귀하의 의견과 리뷰에 대한 빠른 피드백을 제공"
+   },
+   "whyContributeReason3": {
+      "message": "금액과 상관없이 기부 하시고 행복 하세요!"
+   },
+   "whyContributeReason4": {
+      "message": "이 프로그램 점점 좋아지게 됩니다 $1 당신에게 감사 드립니다!"
+   },
+   "whyContributeReason4_1": {
+      "message": "리뷰"
+   },
+   "whyContributeReason5": {
+      "message": "나에 대해 자세히 알아보려면 $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "귀하 또는 귀하의 비즈니스에 대한 더 생산성이 Google 사용자"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "보다 많이 저렴 $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "writeAboutMe": {
+      "message": "내 다른 인기 있는 확장을 시도 하십시오!"
+   },
+   "writeSomethingNice": {
+      "message": "이 애플 리 케이이 션 또는 어떻게 또는 왜 당신이 그것을 사용 하는 방법에 대 한 좋은 의견에이 텍스트를 바꿉니다"
+   },
+   "yesterday": {
+      "message": "어제"
+   }
+}

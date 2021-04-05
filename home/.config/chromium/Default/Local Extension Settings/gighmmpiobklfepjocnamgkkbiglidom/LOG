@@ -1,0 +1,20 @@
+2021/04/05-16:48:42.029 619d Reusing MANIFEST /home/ossi/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/04/05-16:48:42.029 619d Recovering log #1596
+2021/04/05-16:48:42.029 619d Reusing old log /home/ossi/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/001596.log 
+2021/04/05-16:49:45.610 619d Level-0 table #1600: started
+2021/04/05-16:49:45.667 619d Level-0 table #1600: 5863431 bytes OK
+2021/04/05-16:49:45.674 619d Delete type=0 #1596
+2021/04/05-16:49:45.675 619d Compacting 4@0 + 2@1 files
+2021/04/05-16:49:45.744 619d Generated table #1601@0: 1 keys, 5863279 bytes
+2021/04/05-16:49:45.747 619d Generated table #1602@0: 8 keys, 451 bytes
+2021/04/05-16:49:45.748 619d Compacted 4@0 + 2@1 files => 5863730 bytes
+2021/04/05-16:49:45.753 619d compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/04/05-16:49:45.753 619d Delete type=2 #1589
+2021/04/05-16:49:45.753 619d Delete type=2 #1590
+2021/04/05-16:49:45.753 619d Delete type=2 #1592
+2021/04/05-16:49:45.753 619d Delete type=2 #1595
+2021/04/05-16:49:45.753 619d Delete type=2 #1597
+2021/04/05-16:49:45.753 619d Delete type=2 #1600
+2021/04/05-17:22:19.885 69d7 Level-0 table #1604: started
+2021/04/05-17:22:19.941 69d7 Level-0 table #1604: 5863280 bytes OK
+2021/04/05-17:22:19.947 69d7 Delete type=0 #1599

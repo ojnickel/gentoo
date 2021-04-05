@@ -1,0 +1,224 @@
+{
+   "about_add_new_rule": {
+      "message": "Cuir Riail Nua Leis"
+   },
+   "about_ext_description": {
+      "message": "Criptigh an Gréasán! Bain úsáid as slándáil HTTPS go huathoibríoch ar go leor suíomh."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Leagan na rialacha le haghaidh"
+   },
+   "about_title": {
+      "message": "Faoi HTTPS Everywhere"
+   },
+   "about_version": {
+      "message": "Leagan"
+   },
+   "cancel_copied_url": {
+      "message": "Cóipeáilte go dtí an Ghearrthaisce"
+   },
+   "cancel_copy_url": {
+      "message": "Cóipeáil an URL"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "Thug HTTPS Everywhere faoi deara go raibh tú ag iarraidh cuairt a thabhairt ar leathanach gan HTTPS, agus rinne sé iarracht an leagan HTTPS a sheoladh chugat ina áit, ach theip air toisc nach bhfuil an leagan HTTPS ar fáil. Is dócha nach dtacaíonn an suíomh seo le HTTPS, ach d'fhéadfadh sé gur chuir ionsaitheoir cosc ar an leagan HTTPS. Más mian leat an leagan neamhchriptithe den leathanach seo a fháil, is féidir leat é sin a dhéanamh trí 'Criptiú Nuair is Féidir (EASE)' a mhúchadh sa mbreiseán HTTPS Everywhere. Má mhúchann tú an rogha seo, b'fhurasta ionsaí íosghrádaithe a dhéanamh ort ar na suímh Ghréasáin a dtugann tú cuairt orthu."
+   },
+   "cancel_he_blocking_network": {
+      "message": "ionsaithe íosghrádaithe ar an líonra"
+   },
+   "cancel_http_once": {
+      "message": "Proceed anyway (unsafe)"
+   },
+   "cancel_open_page": {
+      "message": "Disable on this site"
+   },
+   "chrome_add_new_rule": {
+      "message": "Cuir riail nua i bhfeidhm ar an suíomh seo"
+   },
+   "chrome_add_rule": {
+      "message": "Cuir riail i bhfeidhm ar an suíomh seo"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Bain úsáid as https i gcónaí leis an óstríomhaire seo"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "Disable on this site"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "Enable on this site"
+   },
+   "chrome_experimental_rules": {
+      "message": "Rialacha turgnamhacha"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "D'fhéadfadh seo a bheith ina chúis le rabhaidh nó le hearráidí. Díchumasaithe de réir réamhshocraithe."
+   },
+   "chrome_hide_advanced": {
+      "message": "Folaigh na hardroghanna"
+   },
+   "chrome_host": {
+      "message": "Óstríomhaire:"
+   },
+   "chrome_redirect_to": {
+      "message": "Atreoraigh chuig"
+   },
+   "chrome_regex": {
+      "message": "A mheaitseálann slonn"
+   },
+   "chrome_rule_name": {
+      "message": "Ainm na rialach"
+   },
+   "chrome_settings_for_this_site_explained": {
+      "message": "Is féidir leat sainroghanna difriúla a shocrú ar shuímh dhifriúla"
+   },
+   "chrome_settings_for_this_site_header": {
+      "message": "Socruithe don suíomh seo"
+   },
+   "chrome_settings_for_this_site_subheader": {
+      "message": "Athraigh na roghanna a bhaineann le ceangail chriptithe"
+   },
+   "chrome_show_advanced": {
+      "message": "Taispeáin na hardroghanna"
+   },
+   "chrome_stable_rules": {
+      "message": "Rialacha cobhsaí"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Fórsáil ceangal criptithe leis na suímh seo:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Cuir ar ceal"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Tabhair síntiús airgid don EFF"
+   },
+   "menu_encryptAllSitesEligibleOff": {
+      "message": "Criptiú Nuair is Féidir (EASE): MÚCHTA"
+   },
+   "menu_encryptAllSitesEligibleOn": {
+      "message": "Criptiú Nuair is Féidir (EASE): AR SIÚL"
+   },
+   "menu_globalDisable": {
+      "message": "HTTPS Everywhere MÚCHTA"
+   },
+   "menu_globalEnable": {
+      "message": "HTTPS Everywhere AR SIÚL"
+   },
+   "menu_httpNoWhereExplainedAllowed": {
+      "message": "Tá iarratais neamhchriptithe ceadaithe faoi láthair"
+   },
+   "menu_httpNoWhereExplainedBlocked": {
+      "message": "Tá cosc ar iarratais neamhchriptithe faoi láthair"
+   },
+   "menu_httpNoWhereMore": {
+      "message": "Cuireann an mód seo cosc ar ábhar agus ar iarratais neamhchriptithe"
+   },
+   "menu_observatory": {
+      "message": "Sainroghanna SSL Observatory"
+   },
+   "menu_seeLess": {
+      "message": "Níos lú"
+   },
+   "menu_seeMore": {
+      "message": "Tuilleadh"
+   },
+   "menu_showCounter": {
+      "message": "Taispeáin Áiritheoir"
+   },
+   "menu_viewAllRules": {
+      "message": "Taispeáin Gach Riail"
+   },
+   "onboarding_footer": {
+      "message": "Is tionscadal de chuid an EFF é HTTPS Everywhere"
+   },
+   "onboarding_header": {
+      "message": "Nuashonraíodh HTTPS Everywhere!"
+   },
+   "onboarding_intro": {
+      "message": "Criptigh an Gréasán! Bain úsáid as slándáil HTTPS go huathoibríoch ar go leor suíomh."
+   },
+   "options_addDisabledSite": {
+      "message": "Cuir Suíomh Díchumasaithe Leis"
+   },
+   "options_addUpdateChannel": {
+      "message": "Cainéal Nuashonraithe Nua"
+   },
+   "options_advancedSettings": {
+      "message": "Ardsocruithe"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Nuashonraigh rialacha go huathoibríoch"
+   },
+   "options_debuggingRulesets": {
+      "message": "Tacair Rialacha a Dhífhabhtú (casta)"
+   },
+   "options_delete": {
+      "message": "Scrios"
+   },
+   "options_disabledUrlsListed": {
+      "message": "Suímh ar ar díchumasaíodh HTTPS Everywhere"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Cumasaigh rialacha d'ábhar measctha"
+   },
+   "options_enterDisabledSite": {
+      "message": "Cuir isteach suíomh díchumasaithe"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Cuir isteach ainm an chainéil nuashonraithe"
+   },
+   "options_generalSettings": {
+      "message": "Socruithe Ginearálta"
+   },
+   "options_hostNotFormattedCorrectly": {
+      "message": "Níorbh fhéidir an t-óstach a chur leis toisc go raibh an fhormáid mícheart. Deimhnigh é agus bain triail eile as."
+   },
+   "options_settings": {
+      "message": "Socruithe"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Taispeáin cluaisín na n-uirlisí forbartha"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Leagan na rialacha atá stóráilte:"
+   },
+   "options_update": {
+      "message": "Nuashonrú"
+   },
+   "options_updateChannels": {
+      "message": "Cainéil Nuashonraithe"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Rabhadh: Má úsáideann tú cainéal nuashonraithe, tugann sé deis do dhrochdhaoine ionsaí a dhéanamh ar do bhrabhsálaí. Ná hathraigh aon rud sa rannán seo mura bhfuil tú lánchinnte!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Lorgaíodh nuashonrú:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "ní lorgaíodh riamh"
+   },
+   "options_userRulesListed": {
+      "message": "Rialacha Úsáideora HTTPS Everywhere"
+   },
+   "prefs_export_settings": {
+      "message": "Easpórtáil Socruithe"
+   },
+   "prefs_reset_defaults": {
+      "message": "Fill ar Réamhshocruithe"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Fillfidh gach tacar rialacha ar a réamhshocrú. An bhfuil tú cinnte?"
+   },
+   "standalone_proxy_server_info_prefix": {
+      "message": "Tá an seachfhreastalaí ag rith ar"
+   },
+   "standalone_transparent_false": {
+      "message": "Caithfidh tú do chuid feidhmchlár a chumrú chun seachfhreastalaí HTTP a úsáid ar an óstach agus ar an bport sonraithe."
+   },
+   "standalone_transparent_true": {
+      "message": "Caithfidh tú do chuid rialacha balla dóiteáin a shocrú sa chaoi go gcuirfear paicéid ar aghaidh go dtí an t-óstach agus an port sonraithe."
+   }
+}

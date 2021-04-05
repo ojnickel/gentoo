@@ -116,14 +116,14 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 #worspace names
-set $workspace1 ""
-set $workspace2 ""
-set $workspace3 ""
-set $workspace4 ""
-set $workspace5 ""
-set $workspace6 ""
-set $workspace7 ""
-
+set $workspace1 "1:"
+set $workspace2 "2:"
+set $workspace3 "3:"
+set $workspace4 "4:"
+set $workspace5 "5:"
+set $workspace6 "6:"
+set $workspace7 "7:"
+set $workspace8 "8:"
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
 bindsym $mod+2 workspace $workspace2
@@ -151,8 +151,8 @@ bindsym $mod+Shift+0 move container to workspace 10
 assign [class="Xfce4-terminal"] $workspace1
 assign [class="Chromium-browser-chromium"] $workspace2
 #assign [class="Google-chrome"] $workspace2
-assign [class="Thunderbird"] $workspace3
-assign [class="Firefox"] $workspace4
+assign [class="Thunderbird"] $workspace4
+assign [class="Firefox"] $workspace3
 assign [class="Simple-scan"] $workspace5
 assign [class="libreoffice-impress"] $workspace7
 

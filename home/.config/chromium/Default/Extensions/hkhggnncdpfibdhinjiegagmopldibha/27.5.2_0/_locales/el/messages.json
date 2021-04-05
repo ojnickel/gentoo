@@ -1,0 +1,17 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "НЕ УДАЛЯТЬ"
+   },
+   "currencyCode": {
+      "message": "EUR"
+   },
+   "currencySymbol": {
+      "message": "€"
+   },
+   "minimumDonation": {
+      "message": "0.50"
+   },
+   "minimumDonationForGoogleCheckout": {
+      "message": "0.50"
+   }
+}

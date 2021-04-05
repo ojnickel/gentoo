@@ -1,0 +1,5 @@
+2021/03/22-17:53:40.464 37a9 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_itstillworks.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-17:58:57.128 3b87 Level-0 table #5: started
+2021/03/22-17:58:57.138 3b87 Level-0 table #5: 368829 bytes OK
+2021/03/22-17:58:57.144 3b87 Delete type=0 #3
+2021/03/22-17:58:57.145 37a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

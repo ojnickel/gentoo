@@ -1,0 +1,1364 @@
+{
+   "24hourMode": {
+      "message": "نمایش زمان ۲۴ ساعته"
+   },
+   "24hourModeTitle": {
+      "message": "زمان ۲۴ ساعته نشان داده شود؛ مانند ۱۸:۰۰"
+   },
+   "DND": {
+      "message": "بکش و ول کن"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "Xday": {
+      "message": "روز $1"
+   },
+   "Xdays": {
+      "message": "$1 روز"
+   },
+   "Xhour": {
+      "message": "$1 ساعت"
+   },
+   "Xhours": {
+      "message": "$1 ساعت"
+   },
+   "Xminute": {
+      "message": "$1 دقیقه"
+   },
+   "Xminutes": {
+      "message": "$1 دقیقه"
+   },
+   "Xseconds": {
+      "message": "$1 ثانیه"
+   },
+   "Xuser": {
+      "message": "$1 کاربر"
+   },
+   "Xusers": {
+      "message": "تعداد $1 کاربر"
+   },
+   "Xweeks": {
+      "message": "$1 هفته"
+   },
+   "aboutMe": {
+      "message": "درباره من"
+   },
+   "accessNotGrantedSeeAccountOptions": {
+      "message": "دسترسی داده نشده! $1 لطفا مراجعه کنید به بخش $2."
+   },
+   "accessNotGrantedSeeAccountOptions_BR": {
+      "message": ""
+   },
+   "accessNotGrantedSeeAccountOptions_accounts": {
+      "message": "حساب‌ها"
+   },
+   "account": {
+      "message": " حساب کاربری"
+   },
+   "accounts": {
+      "message": " حساب کاربری"
+   },
+   "actionPopupsAfterAWhile": {
+      "message": "اعلان‌ها را به طور خودکار پس از"
+   },
+   "actionPopupsAfterAWhileToolTip": {
+      "message": "اعلان‌های جهنده به طور خودکار پس از X بار بسته می‌شوند."
+   },
+   "addNotification": {
+      "message": "اضافه کردن یک اعلان"
+   },
+   "addSpeechEngines": {
+      "message": "اضافه کردن موتورهاى گفتار"
+   },
+   "addToGoogleCalendar": {
+      "message": "به تقویم گوگل اضافه شد."
+   },
+   "addedForSomeday": {
+      "message": "$1 برای $2 اضافه شد."
+   },
+   "addedForSomedayAt": {
+      "message": "$1 برای 2$ ساعت 3$ اضافه شد."
+   },
+   "addedForToday": {
+      "message": "$1 برای امروز اضافه شد."
+   },
+   "addedForTodayAt": {
+      "message": "$1 برای $2 اضافه شد."
+   },
+   "addedForTomorrow": {
+      "message": "$1 برای فردا اضافه شد."
+   },
+   "addedForTomorrowAt": {
+      "message": "$1 برای فردا ساعت 2$ اضافه شد."
+   },
+   "addedTimedEventInThePast": {
+      "message": "زمان این رویداد گذشته است. می‌خواهید روی فردا همان ساعت تنظیمش کنم؟"
+   },
+   "admin": {
+      "message": "مدیر سیستم"
+   },
+   "agenda": {
+      "message": "دستور کار"
+   },
+   "agendaOnly": {
+      "message": "تنها دستور کار "
+   },
+   "all": {
+      "message": "همه"
+   },
+   "allDayText": {
+      "message": "تمام‌روز"
+   },
+   "allowThisExtensionToReadYourFacebookEvent": {
+      "message": "به این افزونه اجازه دهید رویدادهای فیس‌بوک شما را بخواند."
+   },
+   "alreadyDonated": {
+      "message": "قبلا مبلغی اهدا کرده‌اید؟"
+   },
+   "alsoExtraFeaturesForGmail": {
+      "message": "یک بار اهدا و همچنین باز کردن ویژگی های اضافی از من $1"
+   },
+   "alsoExtraFeaturesForGmail2": {
+      "message": "چکرپلاس برای جی‌میل"
+   },
+   "always": {
+      "message": "همیشه"
+   },
+   "alwaysSpeak": {
+      "message": "همیشه صحبت می‌کند"
+   },
+   "amount": {
+      "message": "مبلغ"
+   },
+   "andNightTimesAfter": {
+      "message": "و ساعت‌های شب پس از"
+   },
+   "anyAmount": {
+      "message": "هر مقدار"
+   },
+   "appearSignedOut": {
+      "message": "به صورت «خارج شده» نمایش داده شود، ولی همچنان به صندوق پستی جی‌میل دسترسی داشته باشد (تا زمانی که خودتان دسترسی را پس بگیرید.)"
+   },
+   "auto": {
+      "message": "خودکار"
+   },
+   "backgroundColor": {
+      "message": "رنگ پس‌زمینه"
+   },
+   "backgroundOfNotification": {
+      "message": "رنگ پس‌زمینه پنجره جهنده اعلان"
+   },
+   "backgroundOfNotificationTooltip": {
+      "message": " رنگ پس‌زمینه پنجره جهنده اعلان را تنظیم می‌کند."
+   },
+   "beforeEachEvent": {
+      "message": "قبل از هر رویداد"
+   },
+   "button": {
+      "message": "دکمه"
+   },
+   "byEmailSubject": {
+      "message": "با موضوع ایمیل?"
+   },
+   "calendar": {
+      "message": "تقویم"
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "canceledInAppPurchase": {
+      "message": "پی‌پل را امتحان کنید یا با من تماس بگیرید، در"
+   },
+   "cannotUpdateEventsInThePast": {
+      "message": "مشکلی پیش آمده است. رویدادهای گذشته را نمی‌توان ویرایش کرد. برای تغییر رویدادهای گذشته از صفحه تقویم گوگل استفاده کنید. "
+   },
+   "changeThisDomain": {
+      "message": "برای تغییر این دامنه، %1"
+   },
+   "changeThisDomain2": {
+      "message": "خارج و با حساب کاربری دیگری وارد شوید"
+   },
+   "changelog": {
+      "message": "سابقه تغییرات"
+   },
+   "changingIcon": {
+      "message": "آیکون دکمه را تغییر یا تاریخ روز را نمایش می‌دهد"
+   },
+   "choosePaymentMethod": {
+      "message": "روش پرداخت با کارت اعتباری را انتخاب کنید"
+   },
+   "clearCache": {
+      "message": "نهان‌انباره افزونه را پاک کن"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "کلیک کردن روی هر نقطه از اعلان"
+   },
+   "clickingXOnNotification": {
+      "message": "کلیک روی علامت X در پنجره اعلان"
+   },
+   "closeEsc": {
+      "message": "بستن (Esc)"
+   },
+   "contactHelp": {
+      "message": "تماس با ما - راهنما"
+   },
+   "continue": {
+      "message": "ادامه"
+   },
+   "continueWithoutFeatures": {
+      "message": "به استفاده از این افزونه با تنظیمات فراوان ادامه بده، اما..."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "بدون امکانات اضافی، ادامه دهید"
+   },
+   "contribute": {
+      "message": "کمک"
+   },
+   "contributeToContinue": {
+      "message": "مبلغ مورد نظر خود را اهدا کنید"
+   },
+   "createDeleteEvents": {
+      "message": "ایجاد یا حذف رویدادها با کلیک کردن در تقویم"
+   },
+   "createEvent": {
+      "message": "ایجاد رویداد"
+   },
+   "createdBy": {
+      "message": "ایجاد شده توسط"
+   },
+   "currentDefaultHasNotBeenGrantedAccess": {
+      "message": "در حال حاضر دسترسی $1 $2 شما صادر نشده است!"
+   },
+   "currentDefaultHasNotBeenGrantedAccess_DefaultAccount": {
+      "message": "حساب پیش‌فرض"
+   },
+   "currentDefaultHasNotBeenGrantedAccess_EMAIL_HERE": {
+      "message": "[نشانی ایمیل]"
+   },
+   "custom": {
+      "message": "سفارشی"
+   },
+   "customizeCalendar": {
+      "message": "تغییر ارتفاع، عرض،  تقویم‌های قابل مشاهده، رنگ، و غیره."
+   },
+   "customizeCalendarTitle": {
+      "message": "در پنجره تقویم دکمه تنظیمات را بزنید و سپس 'سفارشی‌سازی' را کلیک کنید."
+   },
+   "customizeNotifications": {
+      "message": "سفارشی‌سازی اعلان‌ها"
+   },
+   "customized": {
+      "message": "سفارشی کردن"
+   },
+   "d": {
+      "message": "روز"
+   },
+   "day": {
+      "message": "روز"
+   },
+   "days": {
+      "message": "روز"
+   },
+   "daysAgo": {
+      "message": "$1 روز قبل"
+   },
+   "daysArray": {
+      "message": "یکشنبه,دوشنبه,سه‌شنبه,چهارشنبه,پنج‌شنبه,جمعه,شنبه"
+   },
+   "daysArrayShort": {
+      "message": "یکشنبه,دوشنبه,سه‌شنبه,چهارشنبه,پنج‌شنبه,جمعه,شنبه"
+   },
+   "daysLeft": {
+      "message": "$1 روز مانده"
+   },
+   "daysRemaining": {
+      "message": "نمایش روز باقی مانده به جای زمان رویداد"
+   },
+   "daysRemainingToolTip": {
+      "message": "اگر رویداد چند روز دیگر است، تعداد روزهای باقی مانده را نشان بده."
+   },
+   "debug": {
+      "message": "اشکال‌زدایی"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "developingMore": {
+      "message": "روی پیشنهادات‌تان سخت کار می‌کنم."
+   },
+   "developingMoreSuggestions": {
+      "message": "و من سخت مشغول به کار روی $1 از سوی شما هستم."
+   },
+   "developingMoreSuggestions_suggestions": {
+      "message": "پیشنهادات"
+   },
+   "ding": {
+      "message": "دینگ"
+   },
+   "dir": {
+      "message": "rtl"
+   },
+   "discoverMyApps": {
+      "message": "کشف برنامه‌های کاربردی من"
+   },
+   "dismiss": {
+      "message": "بستن"
+   },
+   "dismissAll": {
+      "message": "بستن نمودن همه"
+   },
+   "dismissAllInNotificationWindow": {
+      "message": "اخراج تمام وقایع در پنجره اطلاع رسانی"
+   },
+   "dismissesEvents": {
+      "message": "رویدادها را می‌بندد"
+   },
+   "doNotDisturb": {
+      "message": "مزاحم نشو"
+   },
+   "doNotDisturbForTodayToolTip": {
+      "message": "تا ساعت ۷ صبح فردا مزاحم نشو!"
+   },
+   "doNotDisturbIndefinitelyToolTip": {
+      "message": "ویژگی «مزاحم نشو» را تا زمانی که خودتان فعالش کنید، فعال نگه می‌دارد."
+   },
+   "doNotDisturbToolTip": {
+      "message": "صدا و زنگ اعلان‌های دسکتاپ این پسوند را خاموش کن."
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "به‌روزرسانی‌ها را من اطلاع نده"
+   },
+   "doNotShowNotificationsForAlldayEvents": {
+      "message": "نشان ندادن اعلان برای وقایع تمام‌روز"
+   },
+   "doNotShowNotificationsForAlldayEventsTitle": {
+      "message": "اعلان را برای وقایع تمام‌روز نشان نمی‌دهد."
+   },
+   "doNotShowNotificationsForRepeatingEvents": {
+      "message": "نشان ندادن اعلان برای رویدادهای تکراری"
+   },
+   "doNotShowNotificationsWhenBrowserClosed": {
+      "message": "نشان ندادن اعلان، هنگامی که پنجره مرورگر بسته است"
+   },
+   "doNotShowNotificationsWhenBrowserClosedTooltip": {
+      "message": "مرورگر کروم در پس‌زمینه اجرا می‌شود، ولی اعلان نمایش داده نمی‌شود."
+   },
+   "doNotShowPastNotifications": {
+      "message": "نشان ندادن اعلان‌های مربوط به رویدادهای گذشته."
+   },
+   "doNotShowPastNotificationsTitle": {
+      "message": "وقتی اعلان را روی بیش از یک دستگاه دریافت می‌کنید (مثلا روی موبایل‌تان)، می‌توانید از این گزینه برای غیرفعال کردن اعلان رویدادهای گذشته استفاده کنید."
+   },
+   "donate": {
+      "message": "کمک مالی"
+   },
+   "donationRequired": {
+      "message": "کمک مالی الزامی است."
+   },
+   "drawAttentionToBrowser": {
+      "message": "چشمک زدن در نوار وظیفه گوگل کروم نسخه ویندوز یا جهیدن نماد گوگل کروم در مک"
+   },
+   "drawAttentionToBrowserTooltip": {
+      "message": "فقط وقتی فوکوس روی مرورگر نباشد، این اتفاق می‌افتد. وقتی در ویندوز از چندین محیط کاری استفاده می‌کنید مفید است. در نوار وظیفه کروم چشم می‌زند یا نماد کروم در مک بالا و پایین می‌پرد."
+   },
+   "editEventDetails": {
+      "message": "ویرایش رویداد"
+   },
+   "email": {
+      "message": "ایمیل:"
+   },
+   "enableLanguageDetection": {
+      "message": "زبان در ایمیل تشخیص داده شود"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "با استفاده از سرویس تشخیص زبان در جی‌میل، به همان زبان صحبت شود"
+   },
+   "enterATitle": {
+      "message": "عنوان را وارد کنید!"
+   },
+   "enterAnAmount": {
+      "message": "شما باید مبلغی را وارد کنید!"
+   },
+   "event": {
+      "message": "رویداد"
+   },
+   "eventAdded": {
+      "message": "رویداد افزوده شد"
+   },
+   "eventColors": {
+      "message": "استفاده از رنگ تقویم\u003Cspan class='newLookOnly'>تنها در ظاهر جدید\u003C/span>"
+   },
+   "eventColorsToolTip": {
+      "message": "وقتی رنگ رویدادی را در تقویم گوگل عوض کنید، در این جا هم نشان داده می‌شود."
+   },
+   "eventDeleted": {
+      "message": "رویداد حذف شد"
+   },
+   "eventDescription": {
+      "message": "شرح"
+   },
+   "eventUpdated": {
+      "message": "رویدادتان به‌روز شد"
+   },
+   "eventsAndSnoozes": {
+      "message": "رویدادها و تعویق‌ها"
+   },
+   "ex": {
+      "message": "مثال: "
+   },
+   "example": {
+      "message": "مثال"
+   },
+   "excludeCalendar": {
+      "message": "تقویمی را حذف کنید"
+   },
+   "excludeCalendarFrom": {
+      "message": "حذف تقویم از "
+   },
+   "excludeCalendarFrom2": {
+      "message": "نمای تقویم"
+   },
+   "excludeCalendarFrom3": {
+      "message": "اعلان‌ها"
+   },
+   "excludeCalendarFromTitle": {
+      "message": "روز «نما» کلید کنید تا تقویم‌های خاص را برای نمایش در تقویم یا دستور کار خود انتخاب کنید یا روی «وارسی» کلیک کنید تا رویدادها از نماد دکمه و اعلان‌ها را از تقویم‌های خاص حذف کنید."
+   },
+   "excludeCalendarsFromNotificationsNote": {
+      "message": "(از جمله آیکون دکمه)"
+   },
+   "excludeCalendarsNote": {
+      "message": "تنها شامل نمای 'قدیمی می‌شود! نمای جدید از تقویم‌های منتخب صفحه وب استفاده می‌کند)"
+   },
+   "excludeHiddenCalendarsFromButton": {
+      "message": "تقویم‌های پنهان را در لیست نماد  دکمه نشان نده"
+   },
+   "excludeHiddenCalendarsFromButtonToolTip": {
+      "message": "تقویم‌هایی که در تقویم گوگل خود پنهان کرده‌اید، نشان داده نمی‌شوند. "
+   },
+   "excludeRecurringEventsButtonIcon": {
+      "message": "حذف حوادث تکرار شونده از آیکون دکمه"
+   },
+   "excludeRecurringEventsButtonIconTooltip": {
+      "message": "رویدادهای تکرار شونده در آیکون دکمه نشان داده نخواهند شد."
+   },
+   "excluded": {
+      "message": "حذف شدند"
+   },
+   "extensionUpdated": {
+      "message": "افزونه به‌روز شده!"
+   },
+   "extraFeatures": {
+      "message": "ویژگی‌های اضافی"
+   },
+   "extraFeaturesClicked": {
+      "message": "گویا می‌خواهید یکی از این ویژگی‌های اضافی را استفاده کنید:"
+   },
+   "extraFeaturesPopup1": {
+      "message": "این گزینه‌های کم‌نور امکاناتی اضافه هستند که وقت زیادی برای تولیدشان صرف می‌کنم."
+   },
+   "extraFeaturesPopup2": {
+      "message": "اگر شما مانند هر مقدار را به باز کردن آنها و به من کمک کمک."
+   },
+   "failureWithInAppPurchase": {
+      "message": "تراکنش با اشکال مواجه شد؟ می‌خواهید پی‌پل را امتحان کنید؟"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "تراکنش با اشکال مواجه یا لغو شد؟ می‌خواهید گوگل چک‌آوت را امتحان کنید؟"
+   },
+   "feedback": {
+      "message": "انتقادات و پیشنهادات"
+   },
+   "followMe": {
+      "message": "دنبالم بیا"
+   },
+   "forProblemSolving": {
+      "message": "تنها برای اشکال‌زدایی"
+   },
+   "forever": {
+      "message": "برای همیشه"
+   },
+   "general": {
+      "message": "عمومی"
+   },
+   "goToToday": {
+      "message": "برو به امروز"
+   },
+   "going": {
+      "message": "می‌روم"
+   },
+   "googleAccount": {
+      "message": "حساب کابری گوگل"
+   },
+   "grantAccess": {
+      "message": "اعطای دسترسی"
+   },
+   "grantAccessAgain": {
+      "message": "ایجاد امکان دسترسی دوباره"
+   },
+   "grantedTo": {
+      "message": "اجازه داده شده به"
+   },
+   "groupNotifications": {
+      "message": "گروه‌بندی تمام رویدادها در یک اعلان"
+   },
+   "h": {
+      "message": "ساعت"
+   },
+   "help": {
+      "message": "راهنما"
+   },
+   "helpMeTranslate": {
+      "message": "می‌توانید در ترجمه کمکم کنید؟ $1 موارد جدید."
+   },
+   "helpMeTranslate2": {
+      "message": "به من ایمیل بزنید"
+   },
+   "hideAfter": {
+      "message": "پنهان کردن پس از "
+   },
+   "hideButton": {
+      "message": "پنهان کردن دکمه"
+   },
+   "hideByJason": {
+      "message": "مخفی کردن By Jason Savard'"
+   },
+   "hideColonInTime": {
+      "message": "پنهان کردن «دو نقطه» در زمان ۲۴ ساعته"
+   },
+   "hideColonInTimeToolTip": {
+      "message": "به دلیل محدودیت فضای نمایش، به جای مثلا 10:00 مقدار 1000 را نمایش می‌دهد."
+   },
+   "hideHoursToolTip": {
+      "message": "«تنها» در نماهای مربوط به ظاهر جدید اعمال می‌شود."
+   },
+   "hideMorningAndNightHours": {
+      "message": "مخفی کردن ساعت صبح و شب در نماهای روز/هفته"
+   },
+   "hideMorningHoursBefore": {
+      "message": "پنهان کردن ساعت‌های صبح، قبل از"
+   },
+   "hideMyName": {
+      "message": "پنهان کردن نام من 'By Jason Savard'"
+   },
+   "highlightCurrentDay": {
+      "message": "برجسته‌سازی روز جاری"
+   },
+   "highlightCurrentDayTooltip": {
+      "message": "در نمای ماه، روز جاری چشمک می‌زند."
+   },
+   "highlightWeekends": {
+      "message": "برجسته کردن تعطیلات آخر هفته"
+   },
+   "highlightWeekendsTitle": {
+      "message": "روزهای آخر هفته را سایه‌دار می‌کند؛ اما، تنها در نمای تقویم ماه «عادی»"
+   },
+   "hours": {
+      "message": "ساعت"
+   },
+   "hoursAgo": {
+      "message": "$1 ساعت قبل"
+   },
+   "hoursLeft": {
+      "message": "$1 ساعت مانده"
+   },
+   "hoursRemaining": {
+      "message": "نمایش ساعات باقی مانده به جای زمان رویداد"
+   },
+   "hoursRemainingTitle": {
+      "message": "اگر این رویداد طی در همان روز (با فاصله کمتر از 24 ساعت) باشدباقی مانده نشان داده خواهد شد. مثلا: 4 ساعت"
+   },
+   "iconClassic": {
+      "message": "آیکون کلاسیک"
+   },
+   "iconDefault": {
+      "message": "آیکون پیش‌فرض"
+   },
+   "iconDefault2WithDate": {
+      "message": "آیکون پیش‌فرض با تاریخ کنونی"
+   },
+   "iconDefault2WithDateInverted": {
+      "message": "آیکون پیش‌فرض با تاریخ روز معکوس شود"
+   },
+   "iconMonochrome": {
+      "message": "آیکون تک‌رنگ"
+   },
+   "iconMonochrome2": {
+      "message": "آیکون تک‌رنگ"
+   },
+   "iconMonochrome2WithDate": {
+      "message": "آیکون تک رنگ با تاریخ کنونی"
+   },
+   "iconNew": {
+      "message": "آیکون جدید"
+   },
+   "iconNew2": {
+      "message": "آیکون تاریک"
+   },
+   "iconNew2WithDate": {
+      "message": "آیکون تاریک با تاریخ کنونی"
+   },
+   "iconNewWithDate": {
+      "message": "آیکون جدید با تاریخ کنونی"
+   },
+   "iconTooltip": {
+      "message": "آیکون برای استفاده از دکمه پنجره جهنده"
+   },
+   "inVARhour": {
+      "message": "در $1 ساعت"
+   },
+   "inVARhours": {
+      "message": "در $1 ساعت"
+   },
+   "inVARminutes": {
+      "message": "در $1 دقیقه"
+   },
+   "indefinitely": {
+      "message": "نامحدود"
+   },
+   "individualNotifications": {
+      "message": "نمایش هر رویداد در اعلانی مجزا"
+   },
+   "joinVideoCall": {
+      "message": "عضویت در تماس تصویری"
+   },
+   "language": {
+      "message": "زبان"
+   },
+   "languageToolTip": {
+      "message": "زبان و نمایش اعلان را عوض می‌کند. نکته: ممکن است چندین زبان را هم‌زمان ببینید؛ این یک قاعده است. آن چه را که من به زبانی که انتخاب کرده‌اید، نمایش می‌دهد. عباراتی که ترجمه نشده‌اند، با زبان مرورگرتان نمایش داده خواهند شد؛ اگر ترجمه نکرده باشم، به انگلیسی نمایش خواهد شد."
+   },
+   "largest": {
+      "message": "بزرگترین"
+   },
+   "licenseOnlyValidFor": {
+      "message": "مجوز تنها برای کاربرانی معتبر خواهد بود که به حساب کاربری گوگل خود وارد شده باشند، با یک"
+   },
+   "loading": {
+      "message": "در حال بارگذاری..."
+   },
+   "logEventsAndSnoozes": {
+      "message": "سابقه رویدادها و تعویق‌ها را نگه دار"
+   },
+   "longerSnoozeTimes": {
+      "message": "تعویق‌های بلندتر و گزینه‌های بیشتر"
+   },
+   "m": {
+      "message": "دقیقه"
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "این را به یک اهدای ماهانه تبدیل کن."
+   },
+   "makeThisAMonthlyContributionTooltip": {
+      "message": "کمک کنید تا پشتیبانی از نرم‌افزار و به‌روزرسانی‌ها را انجام بدهم."
+   },
+   "map": {
+      "message": "نقشه"
+   },
+   "maxDaysAhead": {
+      "message": "تعداد روزی که پیش‌نگری می‌شود"
+   },
+   "maxDaysAheadTitle": {
+      "message": "حداکثر تعداد روز نمایش داده‌ شده برای شمارش معکوس بر روی آیکون "
+   },
+   "maybe": {
+      "message": "شاید"
+   },
+   "meetMe": {
+      "message": "با من ملاقات کنید"
+   },
+   "meetMeTitle": {
+      "message": "مرا در یک ویدیو ببینید!"
+   },
+   "min": {
+      "message": "دقیقه"
+   },
+   "minimumAmount": {
+      "message": "شما حداقل باید $1 اهدا دلار اهدا کنید"
+   },
+   "minutes": {
+      "message": "دقیقه"
+   },
+   "minutesAgo": {
+      "message": " $1 دقیقه قبل"
+   },
+   "minutesLeft": {
+      "message": "$1 دقیقه مانده"
+   },
+   "month": {
+      "message": "ماه"
+   },
+   "monthsArray": {
+      "message": "ژانویه,فوریه,مارس,آوریل,مه,ژوئن,ژوئیه,اوت,سپتامبر,اکتبر,نوامبر,دسامبر"
+   },
+   "monthsArrayShort": {
+      "message": "ژانویه,فوریه,مارس,آوریل,مه,ژوئن,ژوئیه,اوت,سپتامبر,اکتبر,نوامبر,دسامبر"
+   },
+   "more": {
+      "message": "بیشتر"
+   },
+   "moreInfo": {
+      "message": "اطلاعات بیشتر"
+   },
+   "moreSnoozeTimes": {
+      "message": "زمان‌های متفرقه برای تعویق..."
+   },
+   "morning": {
+      "message": "صبح"
+   },
+   "multipleUserLicense": {
+      "message": "یک مجوز چندکاربره برای سازمان خود بگیرید"
+   },
+   "multipleUserLicenseFor": {
+      "message": "مجوز چند کاربره برای $1"
+   },
+   "mustAddCalendar": {
+      "message": "با فعال‌سازی Google Apps باید تقویمی هم اضافه کنید!"
+   },
+   "mustSignInToPay": {
+      "message": "باید وارد حساب جی‌میل خود شوید و منتظر بار شدن این افزونه بمانید"
+   },
+   "native": {
+      "message": "بومی"
+   },
+   "needHelp": {
+      "message": "کمک نیاز دارید؟"
+   },
+   "never": {
+      "message": "هرگز"
+   },
+   "newLooks": {
+      "message": "ظاهر جدید"
+   },
+   "next": {
+      "message": "بعدی"
+   },
+   "night": {
+      "message": "شب"
+   },
+   "no": {
+      "message": "نه"
+   },
+   "noDetails": {
+      "message": "بدون جزئیات"
+   },
+   "noPermissionOnEvent": {
+      "message": "مشکل در انتقال این رویداد. ممکن است مجوز نداشته باشید!"
+   },
+   "noTitle": {
+      "message": "بدون عنوان"
+   },
+   "none": {
+      "message": "هیچ کدام"
+   },
+   "normal": {
+      "message": "عادی"
+   },
+   "notLoggedIn": {
+      "message": "هنوز وارد سایت نشده‌اید"
+   },
+   "notificationButton": {
+      "message": "دکمه اعلان"
+   },
+   "notificationFontSize": {
+      "message": "اندازه متن اعلان"
+   },
+   "notificationFontSizeTooltip": {
+      "message": "اندازه فونت عنوان رویداد را در پنجره اعلان تنظیم می‌کند. وقتی عنوان رویداد کوچک است، بزرگ‌ترین عنوان را تنظیم می‌کند و برعکس."
+   },
+   "notificationSound": {
+      "message": "اعلان صوتی"
+   },
+   "notificationSoundSelectionToolTip": {
+      "message": "صداهای مختلفی را برای اعلان صوتی  انتخاب کنید"
+   },
+   "notificationSoundTitle": {
+      "message": "با فعال کردن این گزینه، زمانی که وقت رویدادی فرا می‌رسد، یک اعلان صوتی به صدا در می‌آید"
+   },
+   "notificationTextToSpeech": {
+      "message": "اعلان با صدای انسانی "
+   },
+   "notificationTextToSpeechTitle": {
+      "message": "عنوان رویداد با صدای بلند خوانده می‌شود. برای زمانی مناسب است که کامپیوتر شما در اتاق دیگری باشد!"
+   },
+   "notificationZoom": {
+      "message": "بزرگ‌نمایی پنجره اعلان"
+   },
+   "notificationZoomTooltip": {
+      "message": "از این گزینه برای کوتاه کردن همه متن پنجره اعلان استفاده کنید."
+   },
+   "notifications": {
+      "message": "اعلان‌ها"
+   },
+   "notificationsGuideToolTip": {
+      "message": "صداها، اصوات و اعلان‌های دسکتاپ"
+   },
+   "notificationsSection": {
+      "message": "بخش اعلان‌ها"
+   },
+   "off": {
+      "message": "خاموش"
+   },
+   "offlineMode": {
+      "message": "حالت غیربرخط"
+   },
+   "offlineModeTitle": {
+      "message": "مطلع شدن از وقایع بدون اتصال به اینترنت! اخطار: رویدادها در این رایانه ذخیره خواهد شد!"
+   },
+   "ok": {
+      "message": "تایید"
+   },
+   "oldLooks": {
+      "message": "ظاهر قدیمی"
+   },
+   "omniboxDefault": {
+      "message": "۷ بعد از ظهر شام"
+   },
+   "omniboxDefaultTom": {
+      "message": "بیدارباش ۸ صبح"
+   },
+   "onlyNonPrimary": {
+      "message": "تنها تقویم‌های اصلی"
+   },
+   "onlyPopupsForOwner": {
+      "message": "فقط نمایش اعلان‌های مربوط به رویدادهای تقویم خود من"
+   },
+   "onlyPopupsForOwnerTooltip": {
+      "message": "تنها اعلان‌های مربوط به رویدادهایی نشان داده می‌شود که شما صاحب‌شان هستید (زیر 'My calendars'). در نتیجه، اعلان رویدادهای تقویم‌هایی که با شما به اشتراک گذاشته شده است، نمایش داده نمی‌شوند. "
+   },
+   "openCalendar": {
+      "message": "باز کردن تقویم"
+   },
+   "openSnoozedEvents": {
+      "message": "تغییر رویدادهای معوق"
+   },
+   "opensMoreSnoozeTimes": {
+      "message": "زمان‌های بیشتری برای تعویق را باز می‌کند."
+   },
+   "option": {
+      "message": "گزینه"
+   },
+   "optionToCustomizeWith": {
+      "message": "استفاده از"
+   },
+   "options": {
+      "message": "تنظیمات"
+   },
+   "or": {
+      "message": "یا"
+   },
+   "otherAmount": {
+      "message": "مقدار دیگر"
+   },
+   "password": {
+      "message": "رمز عبور:"
+   },
+   "pastDays": {
+      "message": "خاکستری کردن روزهای گذشته"
+   },
+   "pastDaysTitle": {
+      "message": "روزهای گذشته را خاکستری می‌کند؛ اما، تنها در نمای تقویم ماه «عادی»"
+   },
+   "pendingNotifications": {
+      "message": "اعلان‌های معوق"
+   },
+   "pendingNotificationsIntervalToolTip": {
+      "message": "اگر در مورد رویدادهای مشروط‌تان هنوز کاری نکرده‌اید، یک یادآور در نوار ابزار نشان داده خواهد شد. دقت کنید که تنها «اولین یادآور» با اعلانی صوتی همراه خواهد بود. (البته اگر فعال شده باشد.)"
+   },
+   "pitch": {
+      "message": "زیر و بمی صدا"
+   },
+   "pollingInterval": {
+      "message": "فاصله زمانی واکشی"
+   },
+   "pollingIntervalTooltip": {
+      "message": "فاصله زمانی تعیین‌شده واکشی ایمیل‌ها از گوگل"
+   },
+   "popout": {
+      "message": "جهنده"
+   },
+   "popup": {
+      "message": "جهنده"
+   },
+   "popupGoogleCalendarWebsite": {
+      "message": "دکمه باز کردن وب سایت تقویم گوگل به جای پنجره"
+   },
+   "popupGoogleCalendarWebsiteHelpTitle": {
+      "message": "هنگام کلیک کردن بر روی نماد دکمه، به جای پنجره جهنده، وب سایت تقویم گوگل باز شود."
+   },
+   "popupWindow": {
+      "message": "پنجره‌ی جهنده"
+   },
+   "popupWindowNotificationToolTip": {
+      "message": "مثل یادآوهای آوت‌لوک وسط نمایشگر ظاهر می‌شود و تا وقتی کاربر مرخصش نکند، باز می‌ماند."
+   },
+   "popupWindowZoom": {
+      "message": "بزرگ‌نمایی پنجره جهنده"
+   },
+   "popupWindowZoomToolTip": {
+      "message": "بزرگ‌نمایی کلی پنجره جهنده را تغییر می‌دهد، نه پیش‌نمایش ایمیل یا اطلاع رسانی را"
+   },
+   "previous": {
+      "message": "قبلی"
+   },
+   "processing": {
+      "message": "در حال پردازش"
+   },
+   "quickAdd": {
+      "message": "ایجاد سریع"
+   },
+   "quickAddDefaultText": {
+      "message": "مثال: ۷ بعد از ظهر شام در خانه آروین"
+   },
+   "quickAddDefaultTextMultipleDays": {
+      "message": "مثال: جلسه در نیویورک"
+   },
+   "quickAddDefaultTextMultipleHours": {
+      "message": "مثال: صبحانه در خانه امیر"
+   },
+   "quickAddTitle": {
+      "message": "مثال: فوتبال در ۲۰ دقیقه"
+   },
+   "rate": {
+      "message": "نرخ"
+   },
+   "rateTitle": {
+      "message": "سرعت گفتار: کلمات در دقیقه"
+   },
+   "recentlyAddedEvent": {
+      "message": "مشکلی پیش آمده است. اگر اخیرا این رویداد را در صفحه تقویم گوگل افزوده‌اید، دکمه نوسازی را بزنید یا از صفحه تقویم گوگل استفاده کنید."
+   },
+   "recommended": {
+      "message": "توصیه می‌شود"
+   },
+   "reducedDonationAd_notification": {
+      "message": "خبر خوب، برای کاربران قدیمی. قیمت امکانات اضافی تنها یک دلار است."
+   },
+   "reducedDonationAd_popup": {
+      "message": "خبر خوب، برای کاربران قدیمی. می‌تواند آخرین $1 را تنها با ۵۰ سنت بخرید."
+   },
+   "referToAlreadyDonated": {
+      "message": "اشاره به $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "قبلا اهدا کرده‌اید"
+   },
+   "refresh": {
+      "message": "نوسازی"
+   },
+   "remindersBeforeEvent": {
+      "message": "فقط نمایش اعلان‌ها برای رویدادهایی با"
+   },
+   "remindersBeforeEventHelpTitle": {
+      "message": "در تقویم گوگل خود صفحه در سمت چپ لیست تقویم است. با کلیک بر روی دکمه پیکان پایین در کنار تقویم خود و سپس «اعلان» را انتخاب کنید. سپس یادآور «پنجره بازشو» را اضافه و یادآوری زمان را تنظیم کنید. توجه داشته باشید که می‌توانید هنگام اضافه و ویرایش هر رویدادی، تنظیم یادآوری آن را تغییر دهید. "
+   },
+   "remindersBeforeEventPopupReminder": {
+      "message": "یادآوری با پنجره «جهنده»"
+   },
+   "removeQuickAdd": {
+      "message": "حذف «افزودن سریع»"
+   },
+   "removeQuickAddTitle": {
+      "message": "مخفی کردن ویژگی «اضافه کردن سریع»"
+   },
+   "removeShareLinks": {
+      "message": "حذف پیوند اشتراک‌گذاری"
+   },
+   "removeShareLinksTooltip": {
+      "message": "حذف پیوندهای فیس‌بوک، توییتر و غیره از زیر تقویم جهنده"
+   },
+   "repeatSound": {
+      "message": "اعلان را تکرار کن، هر"
+   },
+   "repeatSound2": {
+      "message": "و توقف اعلان پس از"
+   },
+   "repeatSound3": {
+      "message": "بار"
+   },
+   "repeatSoundTooltip": {
+      "message": "اگر پنجره اعلان ملغی نشده باشد، اعلان یا صدا را تکرار می‌کند"
+   },
+   "reschedule": {
+      "message": "برنامه‌ریزی مجدد"
+   },
+   "revokeAccess": {
+      "message": "لغو دسترسی"
+   },
+   "richNotification": {
+      "message": "اطلاع‌رسانی غنی"
+   },
+   "richNotificationToolTip": {
+      "message": "پنجره‌های بازشوی اقدام، اما از نوع غیرمزاحم. پس از چند ثانیه خودشان غیب می‌شوند. درست مثل اعلان‌های روی تلفن هوشمند. "
+   },
+   "runInBackground": {
+      "message": "ادامه اجرا در پس‌زمینه، بعد از بسته شدن گوگل کروم"
+   },
+   "runInBackgroundToolTip": {
+      "message": "ادامه دریافت اعلان‌های ایمیل جدید، حتی در حالی که مرورگر بسته باشد! من این کار را فقط برای کاربران پیشرفته توصیه می‌کنم!"
+   },
+   "runInBackgroundWarning1": {
+      "message": "لطفا با دقت مورد $1 را مطالعه کنید."
+   },
+   "runInBackgroundWarning1b": {
+      "message": "برنامه‌های پس‌زمینه"
+   },
+   "runInBackgroundWarning2": {
+      "message": "اگر برنامه‌های پس‌زمینه کروم را غیرفعال کرده‌اید، می‌توانید با خواندن $1 دوباره فعالش کنید"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "آخرین قسمت قابل کلیک"
+   },
+   "runInBackgroundWarning3": {
+      "message": "شما ممکن است مجبور به استفاده از $1 از صفحه ورود به سایت جی‌میل شوید"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "به خاطر بسپار"
+   },
+   "save": {
+      "message": "ذخیره"
+   },
+   "saving": {
+      "message": "در حال ذخیره ..."
+   },
+   "schedule": {
+      "message": "زمان‌بندی"
+   },
+   "seeUpdates": {
+      "message": "مشاهده نسخه‌های به‌روز"
+   },
+   "seeVideo": {
+      "message": "ویدیو را ببینید"
+   },
+   "selectACalendar": {
+      "message": "تقویمی را انتخاب کنید"
+   },
+   "selectCalendar": {
+      "message": "اول باید یک تقویم را انتخاب کنید!"
+   },
+   "setDateTime": {
+      "message": "تنظیم تاریخ/زمان"
+   },
+   "share": {
+      "message": "به اشتراک بگذارید"
+   },
+   "shareIntro": {
+      "message": "از این افزونه عالی گوگل کروم را استفاده کنید!"
+   },
+   "showButtonTooltip": {
+      "message": "وقتی ماوس روی نماد  دکمه نگه داشته می‌شود، تول‌تیپ نشان داده شود"
+   },
+   "showButtonTooltipTooltip": {
+      "message": "وقتی ماوس روی نماد دکمه معلق می‌ماند، رویدادهای بعدی را نمایش بده"
+   },
+   "showCalendar": {
+      "message": "نمایش تقویم"
+   },
+   "showCalendarNames": {
+      "message": "نمایش نام تقویم‌ها"
+   },
+   "showConsoleMessages": {
+      "message": "پیام‌ها را در کنسول جاوااسکریپت ثبت کن"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "تنها برای اشکال‌زدایی در نظر گرفته شده و ممکن است افزونه را کمی کند کند."
+   },
+   "showContextMenuItem": {
+      "message": "منوی مضمون نمایش آیتم در کلیک راست"
+   },
+   "showContextMenuItemTooltip": {
+      "message": "وقتی روی هر صفحه وبی کلیک راست کنید، یک منوی زمینه باز می‌کند تا به راحتی آن را به رویدادی در تقویم اضافه کنید."
+   },
+   "showDataFeeds": {
+      "message": "نمایش خوراک داده‌ای تقویم‌ها"
+   },
+   "showDayOnBadge": {
+      "message": "نمایش روز جاری هفته بر روی نماد دکمه"
+   },
+   "showDayOnBadgeExceptWhenDaysLeft": {
+      "message": "به جز زمانی که رویداد بعدی چند روز بعد باشد است"
+   },
+   "showDayOnBadgeExceptWhenHoursLeft": {
+      "message": "به جز زمانی که رویداد بعدی چند ساعت بعد باشد"
+   },
+   "showDayOnBadgeExceptWhenMinutesLeft": {
+      "message": "به جز زمانی که رویداد بعدی چند دقیقه بعد باشد"
+   },
+   "showDayOnBadgeTooltip": {
+      "message": "به جای شمارش معکوس تا رویداد بعدی، رویداد روز جاری هفته تا نشان بده. نکته: می‌توان استثنا هم قائل شد."
+   },
+   "showDesktopNotifications": {
+      "message": "نمایش اعلان روی دسکتاپ سیستم عامل"
+   },
+   "showDesktopNotificationsTitle": {
+      "message": "با فعال کردن این گزینه، زمانی که وقت رویدادی فرا می‌رسد، یک اعلان روی دسکتاپ سیستم‌ عامل نشان داده می‌شود."
+   },
+   "showEventTimeOnBadge": {
+      "message": "نمایش زمان رویداد بر روی نماد دکمه"
+   },
+   "showEventTimeOnBadgeTooltip": {
+      "message": "نمایش فاصله زمانی تا رویداد بعدی، بالای نماد "
+   },
+   "showLocationOrSource": {
+      "message": "مکان یا منبع را نشان می‌دهد یا ارتباط  تصویری برقرار می‌کند"
+   },
+   "showLogo": {
+      "message": "نمایش لوگو"
+   },
+   "showMinutesLeftInBadge": {
+      "message": "دقایق باقی مانده را به جای زمان رویداد نشان می‌دهد"
+   },
+   "showMinutesLeftInBadgeTitle": {
+      "message": "اگر رویداد خیلی نزدیک باشد، دقیقه‌های باقی مانده نشان داده می‌شود"
+   },
+   "showPendingNotificationsEvery": {
+      "message": "یادآوری اعلان‌های معوق پس از "
+   },
+   "showTime": {
+      "message": "نمایش زمان"
+   },
+   "showTimeSpecificEventsBeforeAllDay": {
+      "message": "نمایش رویدادهای خاص زمان قبل از رویدادهای تمام‌روز"
+   },
+   "showTimeSpecificEventsBeforeAllDayTooltip": {
+      "message": "اگر فردا یک رویداد تمام‌روز و یک رویداد ساعت 10 داشته باشید، مورد ساعت ۱۰ را اول نشان می‌دهد"
+   },
+   "showWeekNumbers": {
+      "message": "نشان دادن شماره‌های هفته"
+   },
+   "signIn": {
+      "message": "ورود به برنامه"
+   },
+   "signInAsUserOfOrg": {
+      "message": "شما باید با ایمیل سازمان خود $1 "
+   },
+   "signInAsUserOfOrg2": {
+      "message": "خارج شوید و به حساب کاربری جی‌میل خود وارد شوید"
+   },
+   "slotDuration": {
+      "message": "مدت زمان فاصله"
+   },
+   "slotDurationToolTip": {
+      "message": "افزایش زمان هنگام ایجاد یا تغییر رویدادها در نمای تقویم به کار می‌آید."
+   },
+   "small": {
+      "message": "کوچک"
+   },
+   "smallest": {
+      "message": "کوچکترین"
+   },
+   "snooze": {
+      "message": "تعویق"
+   },
+   "snoozeAll": {
+      "message": "همه رویدادها را معوق کن"
+   },
+   "snoozedEvents": {
+      "message": "رویدادها معوق شده"
+   },
+   "snoozedEventsToolTip": {
+      "message": "نمایش رویدادهای موقتا قطع شد در نمای تقویم"
+   },
+   "snoozes": {
+      "message": "نمایش یا برنامه‌ریزی دوباره رویدادهای معوق شده"
+   },
+   "somedayAt": {
+      "message": " $1 ساعت"
+   },
+   "sound": {
+      "message": "صدا"
+   },
+   "source": {
+      "message": "منبع"
+   },
+   "speechEngine": {
+      "message": "موتور گفتار"
+   },
+   "staySignedIn": {
+      "message": "به خاطر بسپار"
+   },
+   "stillHaveAccess": {
+      "message": "افزونه همچنان دسترسی خواهد داشت، مگر این که خود  دسترسی را لغو کنید."
+   },
+   "successful": {
+      "message": "موفق"
+   },
+   "syncDND": {
+      "message": "تنظیمات «همگام‌سازی و بکش و ول کن» برای همه افزونه‌های جیسون"
+   },
+   "testDescription": {
+      "message": "شرح آزمون"
+   },
+   "testEvent": {
+      "message": "رویداد آزمون"
+   },
+   "testIt": {
+      "message": "تست کنید"
+   },
+   "textNotification": {
+      "message": "اعلان متنی"
+   },
+   "textNotificationToolTip": {
+      "message": "هیچ دکمه اقدامی، مثل تعویق و ...، نشان داده نمی‌شود. با اواس‌ایکس هم سازگار است."
+   },
+   "thankYouForYourContribution": {
+      "message": "امکانات برای شما باز شد. ممنون از مبلغ اهدایی‌تان."
+   },
+   "thankYouForYourContribution2": {
+      "message": "این پنجره را ببندید و لذت ببرید!"
+   },
+   "timeout": {
+      "message": "تاخیر خاتمه مهلت زمانی"
+   },
+   "timeoutNote": {
+      "message": "فقط اگر تقویم‌های زیادی دارید، این مقدار را تغییر دهید"
+   },
+   "timeoutTooltip": {
+      "message": "ممکن است مشکل ورود به سیستم با از بین ببرد. تنها در صورتی افزایش دهید که تعداد تقویم‌هاتان بیش از ۱۰ یا تعداد رویدادهاتان زیاد باشد."
+   },
+   "toExcludeFromButton": {
+      "message": "برای مستثنی کردن تقویم‌ها از دکمه، مراجعه شود به"
+   },
+   "toExcludeFromNotifications": {
+      "message": "برای مستثنی کردن از اعلان‌ها مراجعه شود به"
+   },
+   "toNeverHide": {
+      "message": "برای این که اعلانی هرگز پنهان نشود، «اعلان متنی» بالا را انتخاب کنید."
+   },
+   "today": {
+      "message": "امروز"
+   },
+   "todayAt": {
+      "message": "امروز در"
+   },
+   "tom": {
+      "message": "فردا"
+   },
+   "tomorrow": {
+      "message": "فردا"
+   },
+   "tomorrowAt": {
+      "message": "فردا ساعت"
+   },
+   "turnOff": {
+      "message": "خاموش کن"
+   },
+   "undo": {
+      "message": "ابطال"
+   },
+   "unlockFeatures": {
+      "message": "تنها با یک بار اهدا، قفل این ویژگی‌ها و امکانات آتی را باز کنید!"
+   },
+   "unlockHeader": {
+      "message": "امکانات اضافی را دریافت و به برنامه‌نویس خود کمک کنید."
+   },
+   "useDetailsFromCurrentPage": {
+      "message": "برای جزییات، ازهمین صفحه استفاده کن."
+   },
+   "usingCalendarsFromMultipleAccounts": {
+      "message": "آیا از تقویم با چندین حساب کاربری استفاده می‌کنید؟"
+   },
+   "videoCall": {
+      "message": "تماس تصویری"
+   },
+   "view": {
+      "message": "مشاهده"
+   },
+   "visibleCalendars": {
+      "message": "تقویم‌های قابل مشاهده"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "تنها وقتی از کامپیوترتان دورید، آن هم برای "
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "از این گزینه تنها زمانی استفاده کنید که مقابل کامپیوتر نیستید یا کامپیوتر بیکار است، ولی می‌خواهید صدای اعلان را بشنوید. توصیه شخصی من :)"
+   },
+   "voiceTest": {
+      "message": "پیام آزمون"
+   },
+   "volume": {
+      "message": "حجم"
+   },
+   "wantToStaySignedIn": {
+      "message": "می‌خواهید شما را به یاد بسپارد؟"
+   },
+   "week": {
+      "message": "هفته"
+   },
+   "weeks": {
+      "message": "هفته"
+   },
+   "weeksInMonth": {
+      "message": "تعداد هفته در ماه"
+   },
+   "welcome": {
+      "message": "خوش آمدی"
+   },
+   "what": {
+      "message": "چه"
+   },
+   "when": {
+      "message": "کی"
+   },
+   "whenSignedOutOfGoogle": {
+      "message": "وقتی از جی‌میل خارج شدید، این افزونه:"
+   },
+   "where": {
+      "message": "که در آن"
+   },
+   "who": {
+      "message": "چه کسی"
+   },
+   "whyContribute": {
+      "message": "چرا باید به من کمک کنید؟"
+   },
+   "whyContributeReason1": {
+      "message": "من در پاسخ به پیشنهادهای شما، هر هفته چندین ساعت را وقف به‌روزرسانی و پشتیبانی $1 می‌کنم."
+   },
+   "whyContributeReason1_1": {
+      "message": "تمام افزونه‌های من"
+   },
+   "whyContributeReason2": {
+      "message": "من نظرات شما را به‌سرعت می‌خوانم و پاسخ می‌دهم."
+   },
+   "whyContributeReason2_1": {
+      "message": "پایش نقدهای شخصی"
+   },
+   "whyContributeReason3": {
+      "message": "می‌توانید هر مبلغی که خواستید کمکم کنید. خوشحالم می‌کنید. "
+   },
+   "whyContributeReason4": {
+      "message": "این افزونه، به لطف شما، $1 دایما بهتر می‌شود. "
+   },
+   "whyContributeReason4_1": {
+      "message": "نظرات"
+   },
+   "whyContributeReason5": {
+      "message": "در $1 بیشتر در مورد من بخوانید."
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "کاربر گوگل کارآمدتری برای خود و کسب‌وکارتان باشید."
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "بسیار ارزان تر از $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "مایکروسافت آوت‌لوک"
+   },
+   "wide": {
+      "message": "گسترده"
+   },
+   "widget": {
+      "message": "ابزارک"
+   },
+   "yes": {
+      "message": "بله"
+   },
+   "yesterday": {
+      "message": "دیروز"
+   }
+}

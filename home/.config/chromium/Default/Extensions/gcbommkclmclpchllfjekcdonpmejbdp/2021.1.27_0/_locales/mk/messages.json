@@ -1,0 +1,224 @@
+{
+   "about_add_new_rule": {
+      "message": "Додади ново правило"
+   },
+   "about_ext_description": {
+      "message": "Екриптирај го Веб-от! Автоматски користи HTTPS сигурност на многу страни."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Насекаде"
+   },
+   "about_rulesets_version": {
+      "message": "Верзија на сетови на правила за"
+   },
+   "about_title": {
+      "message": "За HTTPS Насекаде"
+   },
+   "about_version": {
+      "message": "Верзија"
+   },
+   "cancel_copied_url": {
+      "message": "Копирано во Таблата со исечоци"
+   },
+   "cancel_copy_url": {
+      "message": "Копирај URL адреса"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Насекаде забележа дека бевте испратени на не-HTTPS Насекаде страна, и се обиде наместо тоа да ве препрати на HTTPS верзијата. HTTPS верзијата е недостапна. Најверојатно оваа веб страна не поддржува HTTPS, но исто така е можно напаѓач ја блокира HTTPS верзијата. Ако сакате да ја видите неекриптираната верзија на оваа веб страна, тоа сеуште можете да го направите со оневозможување на 'Енкриптирај ги сите подобни веб страни' (ЕСПВС) опцијата во вашето HTTPS Насекаде проширување. Имајте во предвид дека со оневозможување на оваа опција можете да направите вашиот прелистувач ранлив на мрежно-базирани деградирачки напади на веб страните кои ги посетувате."
+   },
+   "cancel_he_blocking_network": {
+      "message": "мрежно-базирани деградирачки напади"
+   },
+   "cancel_http_once": {
+      "message": "Proceed anyway (unsafe)"
+   },
+   "cancel_open_page": {
+      "message": "Disable on this site"
+   },
+   "chrome_add_new_rule": {
+      "message": "Додади ново правило за оваа страна"
+   },
+   "chrome_add_rule": {
+      "message": "Додади правило за оваа страна"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Секогаш користи https за овој хост"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "Disable on this site"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "Enable on this site"
+   },
+   "chrome_experimental_rules": {
+      "message": "Експриментални правила"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Може да предизвика предупредувања или оштетувања. Стандардно исклучено."
+   },
+   "chrome_hide_advanced": {
+      "message": "Сокриј напредно"
+   },
+   "chrome_host": {
+      "message": "Хост:"
+   },
+   "chrome_redirect_to": {
+      "message": "Пренасочи кон"
+   },
+   "chrome_regex": {
+      "message": "Одговарачки збор"
+   },
+   "chrome_rule_name": {
+      "message": "Име на правилото"
+   },
+   "chrome_settings_for_this_site_explained": {
+      "message": "Додека прелистувате различни веб страни, можете да ги променувате параметрите за секоја веб страна посебно "
+   },
+   "chrome_settings_for_this_site_header": {
+      "message": "Поставки за оваа веб страна"
+   },
+   "chrome_settings_for_this_site_subheader": {
+      "message": "Промени ги твоите параметри за енeкриптирани поврзувања"
+   },
+   "chrome_show_advanced": {
+      "message": "Покажи напредно"
+   },
+   "chrome_stable_rules": {
+      "message": "Стабилни правила"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Присили енкриптирани поврзувања до овие веб страни:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Откажи"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Донирај на EFF"
+   },
+   "menu_encryptAllSitesEligibleOff": {
+      "message": "Енкриптирај ги сите подобни веб страни е ИСКЛУЧЕНО"
+   },
+   "menu_encryptAllSitesEligibleOn": {
+      "message": "Енeкриптирање на сите подобни веб страни е ВКЛУЧЕНО"
+   },
+   "menu_globalDisable": {
+      "message": "HTTPS насекаде е ИСКЛУЧЕН"
+   },
+   "menu_globalEnable": {
+      "message": "HTTPS насекаде е ВКЛУЧЕН"
+   },
+   "menu_httpNoWhereExplainedAllowed": {
+      "message": "Неенкриптираните барања моментално се дозволени"
+   },
+   "menu_httpNoWhereExplainedBlocked": {
+      "message": "Неeнкриптираните барања се моментално блокирани"
+   },
+   "menu_httpNoWhereMore": {
+      "message": "Овој мод ги блокира неeнкриптираната содржина и барања"
+   },
+   "menu_observatory": {
+      "message": "SLL Набљудувачки параметри"
+   },
+   "menu_seeLess": {
+      "message": "Покажи помалку"
+   },
+   "menu_seeMore": {
+      "message": "Види повеќе"
+   },
+   "menu_showCounter": {
+      "message": "Покажи бројач"
+   },
+   "menu_viewAllRules": {
+      "message": "Види ги сите правила"
+   },
+   "onboarding_footer": {
+      "message": "HTTPS Насекаде е EFF проект"
+   },
+   "onboarding_header": {
+      "message": "HTTPS Насекаде беше ажуриран!"
+   },
+   "onboarding_intro": {
+      "message": "Екриптирај го Веб-от! Автоматски користи HTTPS сигурност на многу страни."
+   },
+   "options_addDisabledSite": {
+      "message": "Додади оневозможена страна"
+   },
+   "options_addUpdateChannel": {
+      "message": "Додадете канал за ажурирање"
+   },
+   "options_advancedSettings": {
+      "message": "Напредни поставки"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Авто-ажурирање на сетови на правила"
+   },
+   "options_debuggingRulesets": {
+      "message": " Пакет правила за дебагирање (напредно)"
+   },
+   "options_delete": {
+      "message": "Избриши"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS Насекаде Оневозможени веб страни"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Овозможена мешана содржина на сетови на правила"
+   },
+   "options_enterDisabledSite": {
+      "message": "Внеси оневозможена страна"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Внесете назив за канал за ажурирање"
+   },
+   "options_generalSettings": {
+      "message": "Главни поставки"
+   },
+   "options_hostNotFormattedCorrectly": {
+      "message": "Овој хост не можеше да биде додаден бидејќи не беше правилно форматиран. Ве молиме проверете го и обидете се повторно."
+   },
+   "options_settings": {
+      "message": "Поставки"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Покажи го табот за Алатки за развивање"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Складирана верзија на сетови на правила:"
+   },
+   "options_update": {
+      "message": "Ажурирање"
+   },
+   "options_updateChannels": {
+      "message": "Ажурирање на канали"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Предупредување: Додавањето на ажурирањето за каналите може да предизвика напаѓачите да го преземат вашиот прелистувач. Уредувајте ја оваа секција само ако знаете што правите!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Последно проверување за ажурирања:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "никогаш"
+   },
+   "options_userRulesListed": {
+      "message": "HTTPS Насекаде кориснички правила"
+   },
+   "prefs_export_settings": {
+      "message": "Изнеси поставки"
+   },
+   "prefs_reset_defaults": {
+      "message": "Врати на почетни вредности / дифолт."
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Ова повторно ќе го стартува секој сет на правила на неговата почетна состојба. Продолжувате?"
+   },
+   "standalone_proxy_server_info_prefix": {
+      "message": "Прокси сервер работи на"
+   },
+   "standalone_transparent_false": {
+      "message": "Морате да ги конфигурирате вашите апликации да користат HTTP прокси на посочените хост и порта."
+   },
+   "standalone_transparent_true": {
+      "message": "Морате да поставите ваши правила на заштитниот ѕид за да испраќате пакети до посочениот хост и порта."
+   }
+}

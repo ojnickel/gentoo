@@ -1,0 +1,5 @@
+2021/04/04-18:38:37.644 76fb Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/04-18:41:43.502 76fb Level-0 table #5: started
+2021/04/04-18:41:43.506 76fb Level-0 table #5: 4151 bytes OK
+2021/04/04-18:41:43.512 76fb Delete type=0 #3
+2021/04/04-18:41:43.512 76fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

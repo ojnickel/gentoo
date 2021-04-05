@@ -1,0 +1,56 @@
+{
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsh+pmFszblkRMi+9o8+QAnYhCiKi3lyHdXYie7lZUOBzJqNTV04xjeKVrw75ESosBw56xu3qwLHhnRmvnp8gAXO+taZvC92D8Q0CFNMW2FNz6tiRsXri23V8pgOYjRK8DSJOjEOTIu57RGAZJ3Nh3P4QOKhk88/5dUkfc6UON2O/GU+B/8QnnQp8SM7Y4dDlKEbGBHutSwholOxP+k8k2d4Z2z4SZPehXbMNoPQVLoxrymgNGrtFMroUUa22Q/PdZJ6TlQ2JlSFCHIweQwS6IvH+RNX7R4cYpIchk82RF3NTippq4gMJoU87iWDM+1QgQ10abzj2V7zyCiCI21dhoQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "theme": {
+      "colors": {
+         "background_tab": [ 63, 72, 82 ],
+         "background_tab_inactive": [ 63, 72, 82 ],
+         "background_tab_incognito": [ 63, 72, 82 ],
+         "background_tab_incognito_inactive": [ 63, 72, 82 ],
+         "bookmark_text": [ 135, 199, 255 ],
+         "frame": [ 47, 54, 61 ],
+         "frame_inactive": [ 47, 54, 61 ],
+         "frame_incognito": [ 47, 54, 61 ],
+         "frame_incognito_inactive": [ 47, 54, 61 ],
+         "ntp_background": [ 47, 54, 61 ],
+         "ntp_link": [ 135, 199, 255 ],
+         "ntp_text": [ 135, 199, 255 ],
+         "omnibox_background": [ 35, 41, 46 ],
+         "omnibox_text": [ 135, 199, 255 ],
+         "tab_background_text": [ 108, 159, 204 ],
+         "tab_background_text_inactive": [ 95, 139, 179 ],
+         "tab_background_text_incognito": [ 101, 149, 191 ],
+         "tab_background_text_incognito_inactive": [ 88, 129, 166 ],
+         "tab_text": [ 135, 199, 255 ],
+         "toolbar": [ 47, 54, 61 ],
+         "toolbar_button_icon": [ 135, 199, 255 ]
+      },
+      "images": {
+         "theme_frame": "theme_frame.png",
+         "theme_frame_inactive": "theme_frame_inactive.png",
+         "theme_frame_incognito": "theme_frame_incognito.png",
+         "theme_frame_incognito_inactive": "theme_frame_incognito_inactive.png",
+         "theme_toolbar": "theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "background_tab": [ -1, -1, -1 ],
+         "buttons": [ -1, 0.5, 1 ],
+         "frame": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.0"
+}
