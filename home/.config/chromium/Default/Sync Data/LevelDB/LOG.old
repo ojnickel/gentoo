@@ -1,3 +1,45 @@
-2021/04/05-16:45:19.454 5b7f Reusing MANIFEST /home/ossi/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/04/05-16:45:19.454 5b7f Recovering log #64
-2021/04/05-16:45:19.455 5b7f Reusing old log /home/ossi/.config/chromium/Default/Sync Data/LevelDB/000064.log 
+2021/04/05-16:48:41.491 608f Reusing MANIFEST /home/ossi/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/04/05-16:48:41.492 608f Recovering log #64
+2021/04/05-16:48:41.492 608f Reusing old log /home/ossi/.config/chromium/Default/Sync Data/LevelDB/000064.log 
+2021/04/05-16:55:27.749 6315 Level-0 table #68: started
+2021/04/05-16:55:27.757 6315 Level-0 table #68: 96726 bytes OK
+2021/04/05-16:55:27.781 6315 Delete type=0 #64
+2021/04/05-17:32:10.220 6841 Level-0 table #70: started
+2021/04/05-17:32:10.233 6841 Level-0 table #70: 107800 bytes OK
+2021/04/05-17:32:10.244 6841 Delete type=0 #67
+2021/04/06-10:02:41.402 210e Level-0 table #72: started
+2021/04/06-10:02:41.409 210e Level-0 table #72: 123589 bytes OK
+2021/04/06-10:02:41.419 210e Delete type=0 #69
+2021/04/06-10:02:41.419 210e Compacting 4@0 + 1@1 files
+2021/04/06-10:02:41.428 210e Generated table #73@0: 241 keys, 30673 bytes
+2021/04/06-10:02:41.428 210e Compacted 4@0 + 1@1 files => 30673 bytes
+2021/04/06-10:02:41.433 210e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/06-10:02:41.434 210e Delete type=2 #63
+2021/04/06-10:02:41.434 210e Delete type=2 #65
+2021/04/06-10:02:41.434 210e Delete type=2 #68
+2021/04/06-10:02:41.434 210e Delete type=2 #70
+2021/04/06-10:02:41.434 210e Delete type=2 #72
+2021/04/07-18:02:46.972 5957 Level-0 table #75: started
+2021/04/07-18:02:46.976 5957 Level-0 table #75: 106263 bytes OK
+2021/04/07-18:02:46.985 5957 Delete type=0 #71
+2021/04/08-12:44:13.007 15b6 Level-0 table #77: started
+2021/04/08-12:44:13.019 15b6 Level-0 table #77: 116143 bytes OK
+2021/04/08-12:44:13.032 15b6 Delete type=0 #74
+2021/04/09-11:39:51.591 211c Level-0 table #79: started
+2021/04/09-11:39:51.596 211c Level-0 table #79: 115723 bytes OK
+2021/04/09-11:39:51.602 211c Delete type=0 #76
+2021/04/09-11:55:57.725 2839 Level-0 table #81: started
+2021/04/09-11:55:57.736 2839 Level-0 table #81: 107822 bytes OK
+2021/04/09-11:55:57.743 2839 Delete type=0 #78
+2021/04/09-11:55:57.743 2839 Compacting 4@0 + 1@1 files
+2021/04/09-11:55:57.753 2839 Generated table #82@0: 248 keys, 36398 bytes
+2021/04/09-11:55:57.753 2839 Compacted 4@0 + 1@1 files => 36398 bytes
+2021/04/09-11:55:57.757 2839 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/09-11:55:57.758 2839 Delete type=2 #73
+2021/04/09-11:55:57.758 2839 Delete type=2 #75
+2021/04/09-11:55:57.758 2839 Delete type=2 #77
+2021/04/09-11:55:57.758 2839 Delete type=2 #79
+2021/04/09-11:55:57.758 2839 Delete type=2 #81
+2021/04/09-15:04:23.140 4fc4 Level-0 table #84: started
+2021/04/09-15:04:23.148 4fc4 Level-0 table #84: 134123 bytes OK
+2021/04/09-15:04:23.154 4fc4 Delete type=0 #80

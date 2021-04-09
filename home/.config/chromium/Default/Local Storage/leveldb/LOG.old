@@ -1,3 +1,30 @@
-2021/04/05-16:45:19.472 3 Reusing MANIFEST /home/ossi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/04/05-16:45:19.472 3 Recovering log #64
-2021/04/05-16:45:19.473 3 Reusing old log /home/ossi/.config/chromium/Default/Local Storage/leveldb/000064.log 
+2021/04/05-16:48:41.510 3 Reusing MANIFEST /home/ossi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/04/05-16:48:41.510 3 Recovering log #64
+2021/04/05-16:48:41.510 3 Reusing old log /home/ossi/.config/chromium/Default/Local Storage/leveldb/000064.log 
+2021/04/05-17:01:12.073 8 Level-0 table #68: started
+2021/04/05-17:01:12.085 8 Level-0 table #68: 13161 bytes OK
+2021/04/05-17:01:12.093 8 Delete type=0 #64
+2021/04/05-17:32:58.986 8 Level-0 table #70: started
+2021/04/05-17:32:59.002 8 Level-0 table #70: 186434 bytes OK
+2021/04/05-17:32:59.009 8 Delete type=0 #67
+2021/04/07-18:00:22.183 b47 Level-0 table #72: started
+2021/04/07-18:00:22.190 b47 Level-0 table #72: 22362 bytes OK
+2021/04/07-18:00:22.198 b47 Delete type=0 #69
+2021/04/07-18:00:22.198 b47 Compacting 4@0 + 1@1 files
+2021/04/07-18:00:22.215 b47 Generated table #73@0: 736 keys, 713291 bytes
+2021/04/07-18:00:22.215 b47 Compacted 4@0 + 1@1 files => 713291 bytes
+2021/04/07-18:00:22.221 b47 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/07-18:00:22.222 b47 Delete type=2 #63
+2021/04/07-18:00:22.222 b47 Delete type=2 #65
+2021/04/07-18:00:22.222 b47 Delete type=2 #68
+2021/04/07-18:00:22.222 b47 Delete type=2 #70
+2021/04/07-18:00:22.222 b47 Delete type=2 #72
+2021/04/08-12:44:47.139 f96 Level-0 table #75: started
+2021/04/08-12:44:47.142 f96 Level-0 table #75: 37072 bytes OK
+2021/04/08-12:44:47.149 f96 Delete type=0 #71
+2021/04/08-17:34:17.667 109a Level-0 table #77: started
+2021/04/08-17:34:17.673 109a Level-0 table #77: 166851 bytes OK
+2021/04/08-17:34:17.679 109a Delete type=0 #74
+2021/04/08-17:34:35.580 10b9 Level-0 table #79: started
+2021/04/08-17:34:35.592 10b9 Level-0 table #79: 162068 bytes OK
+2021/04/08-17:34:35.600 10b9 Delete type=0 #76

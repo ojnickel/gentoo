@@ -1,21 +1,30 @@
-2021/04/05-16:48:41.967 609b Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/05-16:48:41.967 609b Recovering log #1238
-2021/04/05-16:48:41.976 609b Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/001238.log 
-2021/04/05-16:58:14.578 6392 Level-0 table #1243: started
-2021/04/05-16:58:14.592 6392 Level-0 table #1243: 4066253 bytes OK
-2021/04/05-16:58:14.598 6392 Delete type=0 #1238
-2021/04/05-17:01:14.538 6397 Compacting 1@1 + 1@2 files
-2021/04/05-17:01:14.544 6397 Generated table #1244@1: 77 keys, 60852 bytes
-2021/04/05-17:01:14.544 6397 Compacted 1@1 + 1@2 files => 60852 bytes
-2021/04/05-17:01:14.549 6397 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/04/05-17:01:14.550 6397 Delete type=2 #1240
-2021/04/05-17:01:14.550 6397 Delete type=2 #1243
-2021/04/05-17:34:14.570 6639 Level-0 table #1246: started
-2021/04/05-17:34:14.593 6639 Level-0 table #1246: 4111221 bytes OK
-2021/04/05-17:34:14.599 6639 Delete type=0 #1242
-2021/04/05-17:37:14.501 6b21 Compacting 1@1 + 1@2 files
-2021/04/05-17:37:14.511 6b21 Generated table #1247@1: 77 keys, 60854 bytes
-2021/04/05-17:37:14.511 6b21 Compacted 1@1 + 1@2 files => 60854 bytes
-2021/04/05-17:37:14.517 6b21 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/04/05-17:37:14.517 6b21 Delete type=2 #1244
-2021/04/05-17:37:14.517 6b21 Delete type=2 #1246
+2021/04/09-15:30:49.663 5f05 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/09-15:30:49.664 5f05 Recovering log #1719
+2021/04/09-15:30:49.674 5f05 Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/001719.log 
+2021/04/09-15:32:53.714 5eaf Level-0 table #1724: started
+2021/04/09-15:32:53.724 5eaf Level-0 table #1724: 4092583 bytes OK
+2021/04/09-15:32:53.732 5eaf Delete type=0 #1719
+2021/04/09-15:36:23.686 5eaf Compacting 1@1 + 1@2 files
+2021/04/09-15:36:23.692 5eaf Generated table #1725@1: 81 keys, 60441 bytes
+2021/04/09-15:36:23.692 5eaf Compacted 1@1 + 1@2 files => 60441 bytes
+2021/04/09-15:36:23.697 5eaf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/09-15:36:23.698 5eaf Delete type=2 #1721
+2021/04/09-15:36:23.698 5eaf Delete type=2 #1724
+2021/04/09-16:08:53.694 5e69 Level-0 table #1727: started
+2021/04/09-16:08:53.704 5e69 Level-0 table #1727: 4088879 bytes OK
+2021/04/09-16:08:53.712 5e69 Delete type=0 #1723
+2021/04/09-16:11:53.860 6da7 Compacting 1@1 + 1@2 files
+2021/04/09-16:11:53.891 6da7 Generated table #1728@1: 81 keys, 60290 bytes
+2021/04/09-16:11:53.891 6da7 Compacted 1@1 + 1@2 files => 60290 bytes
+2021/04/09-16:11:53.894 6da7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/09-16:11:53.894 6da7 Delete type=2 #1725
+2021/04/09-16:11:53.894 6da7 Delete type=2 #1727
+2021/04/09-16:45:23.715 7f51 Level-0 table #1730: started
+2021/04/09-16:45:23.727 7f51 Level-0 table #1730: 4126547 bytes OK
+2021/04/09-16:45:23.737 7f51 Delete type=0 #1726
+2021/04/09-16:49:23.670 7f51 Compacting 1@1 + 1@2 files
+2021/04/09-16:49:23.676 7f51 Generated table #1731@1: 81 keys, 60291 bytes
+2021/04/09-16:49:23.676 7f51 Compacted 1@1 + 1@2 files => 60291 bytes
+2021/04/09-16:49:23.682 7f51 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/09-16:49:23.682 7f51 Delete type=2 #1728
+2021/04/09-16:49:23.682 7f51 Delete type=2 #1730

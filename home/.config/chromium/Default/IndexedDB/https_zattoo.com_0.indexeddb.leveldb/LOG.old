@@ -1,0 +1,5 @@
+2021/04/08-17:37:29.088 55c3 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_zattoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/08-17:38:02.450 567f Level-0 table #5: started
+2021/04/08-17:38:02.454 567f Level-0 table #5: 3514 bytes OK
+2021/04/08-17:38:02.461 567f Delete type=0 #3
+2021/04/08-17:38:02.461 567f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

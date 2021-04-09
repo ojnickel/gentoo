@@ -1,3 +1,30 @@
-2021/04/05-16:45:20.102 5b26 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/05-16:45:20.102 5b26 Recovering log #35
-2021/04/05-16:45:20.104 5b26 Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/000035.log 
+2021/04/05-16:48:42.128 609a Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/05-16:48:42.128 609a Recovering log #35
+2021/04/05-16:48:42.130 609a Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/000035.log 
+2021/04/06-15:49:01.085 5a13 Level-0 table #40: started
+2021/04/06-15:49:01.109 5a13 Level-0 table #40: 1297289 bytes OK
+2021/04/06-15:49:01.115 5a13 Delete type=0 #35
+2021/04/06-20:19:01.382 c13 Compacting 1@1 + 1@2 files
+2021/04/06-20:19:01.403 c13 Generated table #41@1: 123 keys, 79870 bytes
+2021/04/06-20:19:01.403 c13 Compacted 1@1 + 1@2 files => 79870 bytes
+2021/04/06-20:19:01.412 c13 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/06-20:19:01.412 c13 Delete type=2 #37
+2021/04/06-20:19:01.412 c13 Delete type=2 #40
+2021/04/07-21:49:02.392 714b Level-0 table #43: started
+2021/04/07-21:49:02.412 714b Level-0 table #43: 1296089 bytes OK
+2021/04/07-21:49:02.419 714b Delete type=0 #39
+2021/04/08-02:19:02.663 216c Compacting 1@1 + 1@2 files
+2021/04/08-02:19:02.671 216c Generated table #44@1: 123 keys, 79876 bytes
+2021/04/08-02:19:02.671 216c Compacted 1@1 + 1@2 files => 79876 bytes
+2021/04/08-02:19:02.677 216c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/08-02:19:02.677 216c Delete type=2 #41
+2021/04/08-02:19:02.678 216c Delete type=2 #43
+2021/04/09-03:49:03.706 4374 Level-0 table #46: started
+2021/04/09-03:49:03.725 4374 Level-0 table #46: 1298849 bytes OK
+2021/04/09-03:49:03.732 4374 Delete type=0 #42
+2021/04/09-08:49:04.096 7b84 Compacting 1@1 + 1@2 files
+2021/04/09-08:49:04.113 7b84 Generated table #47@1: 124 keys, 80012 bytes
+2021/04/09-08:49:04.113 7b84 Compacted 1@1 + 1@2 files => 80012 bytes
+2021/04/09-08:49:04.119 7b84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/09-08:49:04.120 7b84 Delete type=2 #44
+2021/04/09-08:49:04.120 7b84 Delete type=2 #46

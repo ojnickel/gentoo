@@ -6,7 +6,7 @@ end
 function clilpass
     set i 0
     set listLog 
-    for li in (lpass ls | grep $argv[1] | cut -d " " -f 1)
+    for li in (lpass ls | grep -i $argv[1] | cut -d " " -f 1)
         # i++
         set i (math $i +1)
         echo  " $i $li"
@@ -15,6 +15,11 @@ function clilpass
     end
     set a 0
     set b ""
+    # check if anything is there
+    if test -z "$listLog"
+        echo "Nothing found"
+        return
+    end
     echo "Select login:"
     read a
     echo "Use Category? [y/n]"

@@ -1,10 +1,19 @@
+[bar/top]
+; Put the bar at the top of the screen
+bottom = false
+
+modules-left = pulseaudio
+modules-center = title 
+font-0 = RobotoMono Nerd Font:size=12;0
+font-1 = Noto Sans Mono:style=Regular
+
 [bar/mybar]
 
 ; Put the bar at the bottom of the screen
 bottom = true
 
 modules-left = i3
-modules-right = lan wlan filesystem cpu date
+modules-right = lan wlan memory filesystem cpu date
 tray-position = right
 font-0 = DejaVuSansMono Nerd Font:size=12;0
 font-1 = Noto Sans Mono:style=Regular
@@ -28,22 +37,67 @@ primary = #ffb52a
 secondary = #e60053
 alert = #bd2c40
 
+[module/memory]
+type = internal/memory
+interval = 2
+format-prefix = " "
+format-prefix-foreground = ${colors.foreground-alt}
+format-underline = #4bffdc
+label = " %percentage_used%% | "
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+format-volume = <label-volume> <bar-volume>
+label-volume = VOL %percentage%%
+label-volume-foreground = ${colors.foreground}
+
+label-muted = 🔇 muted
+label-muted-foreground = #666
+
+bar-volume-width = 10
+bar-volume-foreground-0 = #55aa55
+bar-volume-foreground-1 = #55aa55
+bar-volume-foreground-2 = #55aa55
+bar-volume-foreground-3 = #55aa55
+bar-volume-foreground-4 = #55aa55
+bar-volume-foreground-5 = #f5a70a
+bar-volume-foreground-6 = #ff5555
+bar-volume-gradient = false
+bar-volume-indicator = |
+bar-volume-indicator-font = 2
+bar-volume-fill = ─
+bar-volume-fill-font = 2
+bar-volume-empty = ─
+bar-volume-empty-font = 2
+bar-volume-empty-foreground = ${colors.foreground-alt}
+
+[module/title]
+type = internal/xwindow
+format-prefix = "  "
+format-prefix-foreground = ${colors.primary}
+label = %title:0:53:...%
+;label-background = ${colors.background}
+label-background = #111
+label-padding = 2
 
 [module/date]
 type = internal/date
 ;interval = 1
-date = " | %d | %H:%M:%
+date = " |  %d |  %H:%M %"
 
 [module/filesystem]
 type = internal/fs
 interval = 60
 mount-0 = /
 mount-1 = /mnt/arbeit
+format-mount-prefix = "  "
 label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
 
 [module/lan]
 type = internal/network
 interface = eno1
+format-connected-prefix = "  "
 label-connected = "%ifname%: %local_ip%  | "
 ;label-connected = "%ifname%: %local_ip% %local_ip6% | "
 ;label-disconnected = "%ifname%: not connected | "
