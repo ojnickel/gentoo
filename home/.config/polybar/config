@@ -13,19 +13,24 @@ font-1 = Noto Sans Mono:style=Regular
 bottom = true
 
 modules-left = i3
-modules-right = lan wlan memory filesystem cpu date
+modules-right = lan wlan memory hdd filesystem sep  cpu date
 tray-position = right
 font-0 = DejaVuSansMono Nerd Font:size=12;0
-font-1 = Noto Sans Mono:style=Regular
+font-1 = "UbuntuMono Nerd Font:size=14;3"
+font-2 = Noto Sans Mono:style=Regular
 
 
 [colors]
 black = #000
+lightblack=#111
 white = #fff
 grey = #aaa
 darkgrey = #555
 red = #f00
 green = #0f0
+darkgreen=#152
+darkblue=#125
+blue=#0a81f5
 ;gentoo
 ;background = ${xrdb:color0:#222}
 background = #222
@@ -40,17 +45,22 @@ alert = #bd2c40
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #4bffdc
-label = " %percentage_used%% | "
+format-prefix = "  "
+;format-prefix-foreground = ${colors.darkgrey}
+;format-prefix-background = #4bffdc
+format-prefix-background = ${colors.blue}
+label = " %percentage_used%% |"
 
 [module/pulseaudio]
 type = internal/pulseaudio
 
 format-volume = <label-volume> <bar-volume>
-label-volume = VOL %percentage%%
+format-volume-prefix = " 墳"
+format-volume-prefix-background = #111 
+label-volume =  %percentage%%
 label-volume-foreground = ${colors.foreground}
+label-volume-background = #111
+label-volume-padding = 1
 
 label-muted = 🔇 muted
 label-muted-foreground = #666
@@ -75,7 +85,8 @@ bar-volume-empty-foreground = ${colors.foreground-alt}
 [module/title]
 type = internal/xwindow
 format-prefix = "  "
-format-prefix-foreground = ${colors.primary}
+format-prefix-foreground = ${colors.darkgrey}
+format-prefix-background = ${colors.primary}
 label = %title:0:53:...%
 ;label-background = ${colors.background}
 label-background = #111
@@ -86,26 +97,44 @@ type = internal/date
 ;interval = 1
 date = " |  %d |  %H:%M %"
 
+[module/sep]
+type = custom/text
+content = "|"
+content-padding = 1
+
+[module/hdd]
+type = custom/text
+content = ""
+content-background = ${colors.darkblue}
+content-padding = 1
+
 [module/filesystem]
 type = internal/fs
-interval = 60
+interval = 46
 mount-0 = /
 mount-1 = /mnt/arbeit
-format-mount-prefix = "  "
 label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
+label-mounted-padding = 1
 
 [module/lan]
 type = internal/network
 interface = eno1
 format-connected-prefix = "  "
+format-connected-prefix-foreground = ${colors.grey}
+format-connected-prefix-background = ${colors.darkgreen}
 label-connected = "%ifname%: %local_ip%  | "
+label-connected-padding = 1
 ;label-connected = "%ifname%: %local_ip% %local_ip6% | "
 ;label-disconnected = "%ifname%: not connected | "
 
 [module/cpu]
 type = internal/cpu
+format-prefix = "  "
+format-prefix-foreground = ${colors.darkgrey}
+format-prefix-background = #7a4
+format-padding = 2
 format = <label> <ramp-coreload>
-label = " | CPU %percentage%%"
+label = " %percentage%%"
 ramp-coreload-spacing = 1
 ramp-coreload-0 = %{F#0a0}▁%{F-}
 ramp-coreload-1 = %{F#0a0}▂%{F-}
@@ -124,8 +153,9 @@ index-sort = true
 enable-click = true
 fuzzy-match = true
 f4rmat-padding = 1
+forat-font = 1
 
-ws-icon-0 = 1;
+ws-icon-0 = 1;
 ws-icon-1 = 2;
 ws-icon-2 = 3;
 ws-icon-3 = 4;
