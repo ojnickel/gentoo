@@ -1,0 +1,47 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "e614a2b8bf1f4502a58691e73680b75c",
+                "options": {},
+                "source": "onboarding",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "host": "192.168.178.34",
+                    "id": "0a21fe80-00aa-1000-82d5-5085698f20d9",
+                    "ip_address": "192.168.178.34",
+                    "manufacturer": "Samsung Electronics",
+                    "method": "legacy",
+                    "model": "UE40F6600",
+                    "name": "Samsung UE40F6600",
+                    "port": null
+                },
+                "domain": "samsungtv",
+                "entry_id": "9c810d294ea14ca4b2d9da54ae248142",
+                "options": {},
+                "source": "ssdp",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "UE40F6600",
+                "unique_id": "192.168.178.34",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

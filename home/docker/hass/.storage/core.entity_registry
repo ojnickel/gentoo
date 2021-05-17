@@ -1,0 +1,93 @@
+{
+    "data": {
+        "entities": [
+            {
+                "capabilities": {},
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Updater",
+                "platform": "updater",
+                "supported_features": 0,
+                "unique_id": "updater",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.oswaldo_nickel",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Oswaldo Nickel",
+                "platform": "person",
+                "supported_features": 0,
+                "unique_id": "oswaldo_nickel",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": "e614a2b8bf1f4502a58691e73680b75c",
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.home",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Home",
+                "platform": "met",
+                "supported_features": 0,
+                "unique_id": "home",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "source_list": [
+                        "TV",
+                        "HDMI"
+                    ]
+                },
+                "config_entry_id": "9c810d294ea14ca4b2d9da54ae248142",
+                "device_class": "tv",
+                "device_id": "98eed4b057a04faaa5f14211fcf9c056",
+                "disabled_by": null,
+                "entity_id": "media_player.samsung_ue40f6600",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Samsung UE40F6600",
+                "platform": "samsungtv",
+                "supported_features": 20281,
+                "unique_id": "0a21fe80-00aa-1000-82d5-5085698f20d9",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": "connectivity",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.remote_ui",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Remote UI",
+                "platform": "cloud",
+                "supported_features": 0,
+                "unique_id": "cloud-remote-ui-connectivity",
+                "unit_of_measurement": null
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

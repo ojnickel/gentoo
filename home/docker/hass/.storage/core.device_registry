@@ -1,0 +1,30 @@
+{
+    "data": {
+        "deleted_devices": [],
+        "devices": [
+            {
+                "area_id": "4f95ae05e8c6466fb42c43271012302a",
+                "config_entries": [
+                    "9c810d294ea14ca4b2d9da54ae248142"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "98eed4b057a04faaa5f14211fcf9c056",
+                "identifiers": [
+                    [
+                        "samsungtv",
+                        "0a21fe80-00aa-1000-82d5-5085698f20d9"
+                    ]
+                ],
+                "manufacturer": "Samsung Electronics",
+                "model": "UE40F6600",
+                "name": "Samsung UE40F6600",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

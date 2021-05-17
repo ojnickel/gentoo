@@ -1,0 +1,14 @@
+{
+    "data": {
+        "items": [
+            {
+                "device_trackers": [],
+                "id": "oswaldo_nickel",
+                "name": "Oswaldo Nickel",
+                "user_id": "b4b25765085149a48ace7327a27c695f"
+            }
+        ]
+    },
+    "key": "person",
+    "version": 2
+}

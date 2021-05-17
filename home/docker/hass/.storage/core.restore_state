@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2021-05-17T14:57:08.932929+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Oswaldo Nickel",
+                    "id": "oswaldo_nickel",
+                    "user_id": "b4b25765085149a48ace7327a27c695f"
+                },
+                "context": {
+                    "id": "f64ed396b71b11eb9f62a57ecbd8e705",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.oswaldo_nickel",
+                "last_changed": "2021-05-17T14:27:08.929336+00:00",
+                "last_updated": "2021-05-17T14:27:08.929336+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}
