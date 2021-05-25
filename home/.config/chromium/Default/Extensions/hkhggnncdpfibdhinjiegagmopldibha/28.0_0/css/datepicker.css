@@ -1,0 +1,43 @@
+.ui-datepicker {margin:0 auto !important}
+.ui-datepicker table {font-size:0.8em !important;line-height: 1.5em}
+.ui-datepicker th {font-weight:normal !important}
+.ui-datepicker td span,
+.ui-datepicker td a {padding:0.5em !important}
+.ui-widget {font-family:arial !important}
+.ui-widget-header {border:none !important;background:none !important;font-weight:normal !important;font-size: 0.9em;color: rgb(105, 105, 105) !important}
+.ui-state-default,
+.ui-widget-content .ui-state-default {border:none !important;background:none !important}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {color:black !important;border-radius:50%}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+.ui-state-default,
+.ui-widget-content .ui-state-default:hover {background-color:#e0e0e0 !important}
+
+.ui-datepicker td a {text-align:center !important}
+
+.ui-datepicker .ui-datepicker-prev {left: 1px !important}
+.ui-datepicker .ui-datepicker-next {right: 1px !important}
+.ui-datepicker-rtl .ui-datepicker-prev {right:1px !important;left:auto !important}
+.ui-datepicker-rtl .ui-datepicker-next {left:1px !important;right:auto !important}
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {top:1px !important;cursor:pointer}
+
+.ui-icon-circle-triangle-w {background-position: -96px 0 !important}
+.ui-icon-circle-triangle-e {background-position: -32px 0px !important}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+	border-radius:50%;
+    border:none !important;
+}
+
+#betaCalendar .fc-today .fc-day-number,
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-content .ui-state-highlight:hover,
+.ui-widget-header .ui-state-highlight,
+.ui-widget-header .ui-state-highlight:hover
+ {color: #fff !important;background-color: #1a73e8 !important;border-radius: 50% !important}

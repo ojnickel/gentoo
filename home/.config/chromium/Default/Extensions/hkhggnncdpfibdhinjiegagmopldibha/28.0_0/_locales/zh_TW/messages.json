@@ -1,0 +1,1082 @@
+{
+   "200": {
+      "message": "遭遇間歇性問題，請再試一次！"
+   },
+   "24hourMode": {
+      "message": "顯示 24 小時制"
+   },
+   "24hourModeTitle": {
+      "message": "時間將以 24 小時制顯示。如：18:00"
+   },
+   "401": {
+      "message": "未經授權！"
+   },
+   "403": {
+      "message": "您輸入的電郵地址或密碼不正確。"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "請勿移除"
+   },
+   "Xminute": {
+      "message": "$1 分鐘"
+   },
+   "Xminutes": {
+      "message": "$1 分鐘"
+   },
+   "Xseconds": {
+      "message": "$1秒"
+   },
+   "Xweeks": {
+      "message": "$1 週"
+   },
+   "aboutMe": {
+      "message": "關於我"
+   },
+   "account": {
+      "message": "帳戶"
+   },
+   "addCalendar": {
+      "message": "新增日曆"
+   },
+   "addCalendarTitle": {
+      "message": "以私人網址增加日曆"
+   },
+   "addSpeechEngines": {
+      "message": "新增語音引擎"
+   },
+   "addToGoogleCalendar": {
+      "message": "增加至 Google 日曆"
+   },
+   "addedForSomeday": {
+      "message": "$1已於 $2 新增"
+   },
+   "addedForSomedayAt": {
+      "message": "$1已於 $2 $3 新增"
+   },
+   "addedForToday": {
+      "message": "$1 已於今天新增"
+   },
+   "addedForTodayAt": {
+      "message": "$1已於 $2 新增"
+   },
+   "addedForTomorrow": {
+      "message": "$1已於明天新增"
+   },
+   "addedForTomorrowAt": {
+      "message": "$1已於明天 $2 新增"
+   },
+   "addedTimedEventInThePast": {
+      "message": "此事件的時間已經過去 ！你想我將其更改為明天同一時間嗎？"
+   },
+   "agenda": {
+      "message": "待辦事項"
+   },
+   "agendaOnly": {
+      "message": "僅待辦事項"
+   },
+   "alertMe": {
+      "message": "或提醒我..."
+   },
+   "all": {
+      "message": "所有"
+   },
+   "alreadyDonated": {
+      "message": "捐款過了？"
+   },
+   "amount": {
+      "message": "金額"
+   },
+   "andMyExtensions": {
+      "message": "和我的擴充功能作品"
+   },
+   "backgroundOfNotification": {
+      "message": "桌面通知背景顏色"
+   },
+   "backgroundOfNotificationTooltip": {
+      "message": "設定桌面通知的背景顏色"
+   },
+   "byEmailSubject": {
+      "message": "透過信箱的主旨？"
+   },
+   "calendar": {
+      "message": "日曆"
+   },
+   "calendarHelper": {
+      "message": "日曆小幫手"
+   },
+   "calendarViewAgenda": {
+      "message": "日曆檢視：待辦事項"
+   },
+   "calendarViewAgendaTitle": {
+      "message": "點選日曆圖示時，以待辦事項格式檢視活動清單"
+   },
+   "calendarViewRegular": {
+      "message": "日曆檢視：一般"
+   },
+   "calendarViewRegularTitle": {
+      "message": "點選日曆圖示時，以日曆格式檢視活動清單"
+   },
+   "calendarViewTitle": {
+      "message": "選擇預設日曆檢視模式"
+   },
+   "canceledInAppPurchase": {
+      "message": "試試 PayPal 來代替呢？或與我洽詢的問題"
+   },
+   "cannotUpdateEventsInThePast": {
+      "message": "出現問題 ！我目前不能更新發生在過去，我可以在今天或在不久的將來更新事件的事件。您可以使用 Google 日曆網頁為過去的事 ！"
+   },
+   "changeThisDomain": {
+      "message": "立即變更此信箱網域 $1"
+   },
+   "changeThisDomain2": {
+      "message": "離開並為不同的使用者註冊"
+   },
+   "changeView": {
+      "message": "更改檢視模式"
+   },
+   "changingIcon": {
+      "message": "更改圖示"
+   },
+   "choosePaymentMethod": {
+      "message": "選擇付款方式"
+   },
+   "clearCache": {
+      "message": "明確擴充快取"
+   },
+   "contact": {
+      "message": "聯絡作者"
+   },
+   "contactHelp": {
+      "message": "聯絡 - 幫助"
+   },
+   "continue": {
+      "message": "繼續"
+   },
+   "continueWithoutFeatures": {
+      "message": "繼續使用此擴充功能，但沒有以下額外選項"
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "繼續而不使用額外的功能"
+   },
+   "contributeToContinue": {
+      "message": "捐贈"
+   },
+   "copyPrivateAddress": {
+      "message": "將日曆的私人網址（XML）複製到剪貼簿。"
+   },
+   "copyPrivateAddressTitle": {
+      "message": "您可以從 Google 日曆左側的日曆清單中，點選您想要使用日曆右側的向下箭頭，然後選擇「日曆詳細資料」。選擇「私人網址」中的 XML，並將該網址複製到剪貼簿。注意：若您找不到「私人網址」，則您必須更改該日曆的共用設定"
+   },
+   "countryCode": {
+      "message": "TWN"
+   },
+   "createDeleteEvents": {
+      "message": "於月檢視模式中建立或刪除活動"
+   },
+   "createEvent": {
+      "message": "建立活動"
+   },
+   "creditCardOrPaypal": {
+      "message": "您可以使用信用卡或 PayPal 進行"
+   },
+   "currencyCode": {
+      "message": "TWD"
+   },
+   "currencySymbol": {
+      "message": "NT$"
+   },
+   "currentPage": {
+      "message": "目前頁"
+   },
+   "custom": {
+      "message": "自訂"
+   },
+   "customizeCalendar": {
+      "message": "改變高度、寬度、可視日曆、顏色等"
+   },
+   "customizeCalendarTitle": {
+      "message": "您必須在彈出視窗中改變檢視模式為「自訂」"
+   },
+   "customized": {
+      "message": "自訂"
+   },
+   "d": {
+      "message": "d"
+   },
+   "day": {
+      "message": "天"
+   },
+   "daysAgo": {
+      "message": "天前"
+   },
+   "daysArray": {
+      "message": "星期日,星期一,星期二,星期三,星期四,星期五,星期六"
+   },
+   "daysArrayShort": {
+      "message": "星期日,星期一,星期二,星期三,星期四,星期五,星期六"
+   },
+   "daysLeft": {
+      "message": "尚餘 $1 天"
+   },
+   "delete": {
+      "message": "刪除"
+   },
+   "description": {
+      "message": "從圖示上看到今天的日期與您之後的活動，以桌面通知提醒，不需開啟網站便可從彈出視窗新增活動，以月、週或待辦事項模式檢視日曆，將過去的日子以灰色顯示，和其他更多功能！"
+   },
+   "developingMore": {
+      "message": "我正在處理你們的建議..."
+   },
+   "ding": {
+      "message": "Ding"
+   },
+   "dismiss": {
+      "message": "關閉"
+   },
+   "dismissAll": {
+      "message": "取消所有"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "更新不要通知我"
+   },
+   "doNotShowNotificationsForAlldayEvents": {
+      "message": "不顯示全天活動的通知"
+   },
+   "doNotShowNotificationsForAlldayEventsTitle": {
+      "message": "不顯示全天活動的通知"
+   },
+   "doNotShowNotificationsWhenBrowserClosed": {
+      "message": "當瀏覽器視窗關閉時，不顯示通知"
+   },
+   "doNotShowNotificationsWhenBrowserClosedTooltip": {
+      "message": "您的 Chrome 瀏覽器將在背景運作，並於通知欄顯示圖示，但桌面通知將不會出現！"
+   },
+   "doNotShowPastNotifications": {
+      "message": "不顯示過去活動的通知"
+   },
+   "doNotShowPastNotificationsTitle": {
+      "message": "不顯示您開啟瀏覽器前發生的事件通知。適用於經常更換電腦者。"
+   },
+   "donateButton": {
+      "message": "https://www.paypal.com/zh_TW/i/btn/btn_donate_SM.gif"
+   },
+   "donationRequired": {
+      "message": "需要捐款"
+   },
+   "drawAttentionToBrowser": {
+      "message": "在 Windows 工作列中的視窗閃爍或 Mac （測試版） 上彈跳 Chrome 圖示"
+   },
+   "drawAttentionToBrowserTooltip": {
+      "message": "只有當焦點不在瀏覽器上才發生。如果使用多個工作區時有用，在 Windows 中： 在工作列中閃爍 Chrome。在 Mac 上： 跳動圖示"
+   },
+   "editEventDetails": {
+      "message": "編輯活動詳細資訊"
+   },
+   "email": {
+      "message": "電郵地址："
+   },
+   "enableLanguageDetection": {
+      "message": "偵測信箱中語系"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "在信箱中使用 detectlanguage.com 服務偵測說話的語系！"
+   },
+   "enablePrivateAddressTitle": {
+      "message": "前往日曆設定中的「共用此日曆」，並選擇「公開此日曆，且所有人能變更此日曆」選項"
+   },
+   "enterATitle": {
+      "message": "您必須輸入標題！"
+   },
+   "enterAnAmount": {
+      "message": "您必須輸入金額！"
+   },
+   "errorAddingEvent": {
+      "message": "建立活動時發生錯誤！可能未連上網際網路！"
+   },
+   "errorGettingCalendar": {
+      "message": "抓取日曆時發生問題，請檢查網址後再試一次！（錯誤：$1）"
+   },
+   "errorGettingCalendarUnauthorized": {
+      "message": "未經授權！您必須先開新分頁並登入您的 Google 應用服務日曆"
+   },
+   "eventAdded": {
+      "message": "活動已新增"
+   },
+   "eventCreated": {
+      "message": "建立活動"
+   },
+   "eventDeleted": {
+      "message": "活動已刪除"
+   },
+   "eventDescription": {
+      "message": "描述"
+   },
+   "eventUpdated": {
+      "message": "您的事件已更新"
+   },
+   "eventsAndSnoozes": {
+      "message": "活動和通知"
+   },
+   "ex": {
+      "message": "例如"
+   },
+   "example": {
+      "message": "範例"
+   },
+   "excludeCalendar": {
+      "message": "排除日曆"
+   },
+   "excludeCalendarFrom": {
+      "message": "選擇特定日曆以排除於"
+   },
+   "excludeCalendarFrom2": {
+      "message": "待辦事項和日曆檢視"
+   },
+   "excludeCalendarFrom3": {
+      "message": "按鈕圖示和通知"
+   },
+   "excludeCalendarFromTitle": {
+      "message": "點選「檢視」從日曆/待辦事項檢視中隱藏特定日曆，或點選「勾選」以從按鈕圖示和通知中隱藏特定日曆中的活動"
+   },
+   "excludeCalendarsCheckboxChecking": {
+      "message": "請點選此選項中右邊的連結"
+   },
+   "excludeRecurringEventsButtonIcon": {
+      "message": "從按鈕圖示中排除重複事件"
+   },
+   "excludeRecurringEventsButtonIconTooltip": {
+      "message": "任何事件設定為重複將不顯示在按鈕圖示，但您仍然會收到他們的通知"
+   },
+   "excluded": {
+      "message": "排除"
+   },
+   "extensionUpdated": {
+      "message": "擴展更新！"
+   },
+   "extraFeatures": {
+      "message": "額外功能"
+   },
+   "failureWithInAppPurchase": {
+      "message": "已取消或失敗的交易 ！試試 PayPal 來代替呢？"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "已取消或失敗的交易 ！試試 $1 來代替呢？"
+   },
+   "forProblemSolving": {
+      "message": "只有解決問題"
+   },
+   "forSuggestions": {
+      "message": "以提出建議或其他"
+   },
+   "forever": {
+      "message": "永遠"
+   },
+   "googleAppsCalendars": {
+      "message": "Google 應用服務日曆"
+   },
+   "googleAppsCalendarsForce": {
+      "message": "強迫使用 Google 多重登入，以預設使用您的 Google 應用服務日曆"
+   },
+   "googleAppsCalendarsTitle": {
+      "message": "若您要使用 Google 應用服務的企業或教育日曆，才需勾選此選項。注意：這將關閉一般 Google 日曆的檢查功能！"
+   },
+   "googleAppsNote": {
+      "message": "這將關閉一般 Google 日曆的檢查功能"
+   },
+   "h": {
+      "message": "h"
+   },
+   "helpMeTranslate": {
+      "message": "你能幫我翻譯嗎？$1 正確的 ！"
+   },
+   "helpMeTranslate2": {
+      "message": "信箱通知我"
+   },
+   "helpSupport": {
+      "message": "支持此擴充功能的作者！"
+   },
+   "highlightCurrentDay": {
+      "message": "標示當天日期"
+   },
+   "highlightCurrentDayTooltip": {
+      "message": "在月檢視模式中標示當天日期"
+   },
+   "highlightWeekends": {
+      "message": "標示週末"
+   },
+   "highlightWeekendsTitle": {
+      "message": "週末將以淡陰影標示，僅在一般月檢視模式有效"
+   },
+   "hours": {
+      "message": "小時"
+   },
+   "hoursAgo": {
+      "message": "$1 小時前"
+   },
+   "hoursLeft": {
+      "message": "尚餘 $1 小時"
+   },
+   "hoursRemaining": {
+      "message": "以剩餘小時數取代活動時間顯示"
+   },
+   "hoursRemainingTitle": {
+      "message": "若活動將於 24 小時之內開始，則顯示開始前剩餘的小時數，例如：4h"
+   },
+   "iconClassic": {
+      "message": "經典圖示"
+   },
+   "iconDefault": {
+      "message": "預設圖示"
+   },
+   "iconDefault2WithDate": {
+      "message": "預設圖示與當天日期"
+   },
+   "iconMonochrome": {
+      "message": "灰階图标"
+   },
+   "iconNew": {
+      "message": "新版圖示"
+   },
+   "iconNew2": {
+      "message": "黑色圖示"
+   },
+   "iconNew2WithDate": {
+      "message": "黑色圖示與當天日期"
+   },
+   "iconNewWithDate": {
+      "message": "新版圖示與當天日期"
+   },
+   "iconTooltip": {
+      "message": "顯示於按鈕上的圖示"
+   },
+   "inVARhour": {
+      "message": "在 $1 小時內"
+   },
+   "inVARhours": {
+      "message": "在 $1 小時內"
+   },
+   "inVARminutes": {
+      "message": "在 $1 分鐘內"
+   },
+   "keepHoveringOverTheBluePlusOne": {
+      "message": "持續暫留於藍色 +1 上直到顯示純文字，然後按一下它分享到 Google+ 上"
+   },
+   "language": {
+      "message": "語言"
+   },
+   "languageToolTip": {
+      "message": "變更的顯示和語音通知語系。註： 您可能因為這些規則而一次看到許多語言： 它所顯示你選取的語系檔是我已翻譯好的，如果有些單字我還沒有翻譯，它會在您的瀏覽器語系尋找它，如果我還沒有轉換那些語系檔案它會以英語顯示。"
+   },
+   "largest": {
+      "message": "最大的"
+   },
+   "licenseOnlyValidFor": {
+      "message": "授權只對使用者登入他們的 Google 帳戶有效"
+   },
+   "loading": {
+      "message": "載入中..."
+   },
+   "logEventsAndSnoozes": {
+      "message": "日誌事件和延期"
+   },
+   "longerSnoozeTimes": {
+      "message": "通知時間更長"
+   },
+   "m": {
+      "message": "m"
+   },
+   "maxDaysAhead": {
+      "message": "讀取天數"
+   },
+   "maxDaysAheadTitle": {
+      "message": "在圖示上顯示倒數計時的最大天數"
+   },
+   "meetMe": {
+      "message": "見我"
+   },
+   "meetMeTitle": {
+      "message": "在視頻中看到我 ！"
+   },
+   "min": {
+      "message": "分鐘"
+   },
+   "minimumAmount": {
+      "message": "你至少需捐 $1"
+   },
+   "minimumDonation": {
+      "message": "15"
+   },
+   "minimumDonationPaypalReduced": {
+      "message": "15"
+   },
+   "minutesAgo": {
+      "message": "$1 分鐘前"
+   },
+   "minutesLeft": {
+      "message": "尚餘 $1 分鐘"
+   },
+   "missingOptions": {
+      "message": "是否缺少您想要的選項？翻譯是否不完善？聯絡"
+   },
+   "missingOptions2": {
+      "message": "以提出建議！"
+   },
+   "month": {
+      "message": "月"
+   },
+   "monthly": {
+      "message": "每月"
+   },
+   "monthlySubtitle": {
+      "message": "最好的報價！ 隨時取消"
+   },
+   "monthsArray": {
+      "message": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月"
+   },
+   "monthsArrayShort": {
+      "message": "1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月"
+   },
+   "more": {
+      "message": "更多"
+   },
+   "moreInfo": {
+      "message": "更多訊息"
+   },
+   "multipleUserLicense": {
+      "message": "為您的組織取得多重使用者授權"
+   },
+   "mustAddCalendar": {
+      "message": "若您使用 Google 應用服務，您必須先增加一個日曆！"
+   },
+   "mustClickShareLinks": {
+      "message": "一次使用彈出式日曆下面的任何共享連結，然後您可以將它們刪除全部在這裡 ！"
+   },
+   "mustSignInToPay": {
+      "message": "你必須登入到你的 Gmail，等待載入此擴充功能！"
+   },
+   "myPreference": {
+      "message": "我的偏好"
+   },
+   "nameNoTM": {
+      "message": "Checker Plus for Google Calendar"
+   },
+   "needHelp": {
+      "message": "需要幫助？"
+   },
+   "noDetails": {
+      "message": "沒有詳細資訊"
+   },
+   "noPermissionOnEvent": {
+      "message": "問題移動此事件，您可能沒有許可權 ！"
+   },
+   "notLoggedIn": {
+      "message": "尚未登入"
+   },
+   "notTaxExempt": {
+      "message": "我不是免稅組織"
+   },
+   "notificationFontSize": {
+      "message": "桌面通知文字大小"
+   },
+   "notificationFontSizeTooltip": {
+      "message": "設定桌面通知的標題文字大小"
+   },
+   "notificationSound": {
+      "message": "通知音效"
+   },
+   "notificationSoundTitle": {
+      "message": "顯示桌面通知時播放音效"
+   },
+   "notificationTextToSpeech": {
+      "message": "通知語音"
+   },
+   "notificationTextToSpeechTitle": {
+      "message": "您的活動標題將轉為語音大聲播放，若您的電腦在隔壁房間的話十分有用！"
+   },
+   "notificationZoom": {
+      "message": "通知視窗縮放"
+   },
+   "notificationZoomTooltip": {
+      "message": "使用此縮小通知視窗中全部純文字 （對於那些高 DPI 縮放比例很有用）"
+   },
+   "offlineMode": {
+      "message": "離線模式"
+   },
+   "offlineModeTitle": {
+      "message": "未連上網際網路時仍可得到活動通知。警告：您的活動將儲存於這台電腦上！"
+   },
+   "omniboxDefault": {
+      "message": "：20 分鐘內去看足球賽"
+   },
+   "omniboxDefaultTom": {
+      "message": "8 上午醒來"
+   },
+   "onlyPopupsForOwner": {
+      "message": "只顯示我擁有日曆的通知"
+   },
+   "onlyPopupsForOwnerTooltip": {
+      "message": "僅顯示你是擁有者的日曆通知。這包括所有顯示在「我的日曆」清單中的日曆，而非分享或顯示在「其他日曆」清單中者"
+   },
+   "onlyRemoveAfterDonation": {
+      "message": "您只有在捐款後才能移除捐款連結！"
+   },
+   "openCalendar": {
+      "message": "開啟日曆"
+   },
+   "option": {
+      "message": "選項"
+   },
+   "optionToCustomizeWith": {
+      "message": "使用"
+   },
+   "options": {
+      "message": "選項"
+   },
+   "or": {
+      "message": "或"
+   },
+   "orPayUsing_": {
+      "message": "或者，你可以使用"
+   },
+   "password": {
+      "message": "密碼："
+   },
+   "pastDays": {
+      "message": "過去的日子以灰色表示"
+   },
+   "pastDaysTitle": {
+      "message": "將日曆中已過去的日子以灰色顯示，僅在一般月檢視模式有效"
+   },
+   "pasteHTML": {
+      "message": "並貼上以下的 HTML 原始碼"
+   },
+   "pastePrivateAddress": {
+      "message": "在此貼上日曆的私人網址（XML）"
+   },
+   "pitch": {
+      "message": "音調"
+   },
+   "pollingInterval": {
+      "message": "更新頻率"
+   },
+   "pollingIntervalTooltip": {
+      "message": "從 Google 日曆抓取活動與更新按鈕顯示的頻率"
+   },
+   "popupGoogleCalendarWebsite": {
+      "message": "按下圖示時直接開啟 Google 日曆網站"
+   },
+   "popupGoogleCalendarWebsiteHelpTitle": {
+      "message": "當點選按鈕圖示時開啟 Google 日曆網站，而非彈出視窗。（按著 Ctrl 並點選按鈕有相同功能）"
+   },
+   "poweredByGoogle": {
+      "message": "Powered by Google"
+   },
+   "problemCommunicatingTryAgain": {
+      "message": "錯誤：$1 與 $2 溝通時發生問題，請再試一次！"
+   },
+   "problemSigningIn": {
+      "message": "登入時發生錯誤！可能未連上網際網路！"
+   },
+   "processing": {
+      "message": "處理"
+   },
+   "quickAdd": {
+      "message": "快速加入："
+   },
+   "quickAddDefaultText": {
+      "message": "例如：晚上 7 點在晶華舉辦晚宴"
+   },
+   "quickAddTitle": {
+      "message": "例如：20 分鐘內去看足球賽"
+   },
+   "rate": {
+      "message": "頻率"
+   },
+   "rateTitle": {
+      "message": "講話速度： 每分鐘幾個字"
+   },
+   "recentlyAddedEvent": {
+      "message": "出現問題 ！如果您最近添加此事件通過網頁然後按一下刷新圖示否則請使用谷歌日曆網頁 ！"
+   },
+   "referToAlreadyDonated": {
+      "message": "請參閱 $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "已經捐款"
+   },
+   "refresh": {
+      "message": "更新"
+   },
+   "rememberQuickAdd": {
+      "message": "記住「快速新增」登入"
+   },
+   "rememberQuickAddTitle": {
+      "message": "注意：此僅會儲存 Google 金鑰，而非您的帳號密碼"
+   },
+   "remindersBeforeEvent": {
+      "message": "僅顯示有設定"
+   },
+   "remindersBeforeEventHelpTitle": {
+      "message": "您可以從 Google 日曆左側的日曆清單中，點選您想要使用日曆右側的向下箭頭，然後選擇「通知」。在「活動提醒」中選擇「彈出式視窗」，並設定提醒的時間。注意：您在新增或編輯個別活動的活動提醒時，其設定將優先於日曆設定。"
+   },
+   "remindersBeforeEventPopupReminder": {
+      "message": "「彈出式視窗」提醒的活動"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "removeDonationLink": {
+      "message": "移除捐款連結"
+   },
+   "removeDonationLinkTitle": {
+      "message": "此選項將移除日曆下方的捐款連結"
+   },
+   "removeQuickAdd": {
+      "message": "移除「快速新增」"
+   },
+   "removeQuickAddTitle": {
+      "message": "隱藏「快速新增」功能"
+   },
+   "removeShareLinks": {
+      "message": "刪除Facebook,Twitter分享連結"
+   },
+   "removeShareLinksTooltip": {
+      "message": "刪除 Facebook、 Twitter 等彈出式日曆下面的連結"
+   },
+   "removeTitle": {
+      "message": "移除日曆"
+   },
+   "repeatSound": {
+      "message": "重複通知音每"
+   },
+   "repeatSound2": {
+      "message": "停止後"
+   },
+   "repeatSound3": {
+      "message": "次"
+   },
+   "repeatSoundTooltip": {
+      "message": "重複通知或聲音，如果通知彈出窗口還沒有被駁回"
+   },
+   "reschedule": {
+      "message": "重新安排"
+   },
+   "runInBackground": {
+      "message": "Google 瀏覽器關閉時在背景執行"
+   },
+   "runInBackgroundToolTip": {
+      "message": "您的瀏覽器關閉時繼續接收新的信箱通知！我推薦進階使用者使用本功能。"
+   },
+   "runInBackgroundWarning1": {
+      "message": "請仔細閱讀 $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "背景程式"
+   },
+   "runInBackgroundWarning2": {
+      "message": "如果您停用 Chrome 背景程式你可以藉由讀取 $1 重新啟用他們"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "最後可點擊區段"
+   },
+   "runInBackgroundWarning3": {
+      "message": "您可能必須從 Gmail 的登入頁使用 $1 "
+   },
+   "runInBackgroundWarning3b": {
+      "message": "保持登入狀態"
+   },
+   "save": {
+      "message": "儲存"
+   },
+   "saveSettings": {
+      "message": "儲存設定"
+   },
+   "saved": {
+      "message": "已儲存！"
+   },
+   "saving": {
+      "message": "儲存中..."
+   },
+   "securely": {
+      "message": "較安全。"
+   },
+   "seeUpdates": {
+      "message": "查看更新"
+   },
+   "seeVideo": {
+      "message": "觀賞影片"
+   },
+   "selectACalendar": {
+      "message": "選擇日曆"
+   },
+   "selectCalendar": {
+      "message": "您必須先選擇一個日曆！"
+   },
+   "setDateTime": {
+      "message": "設定日期/時間"
+   },
+   "share": {
+      "message": "共用"
+   },
+   "showAgendaOptions": {
+      "message": "在待辦事項檢視模式中顯示選項連結"
+   },
+   "showAgendaOptionsTitle": {
+      "message": "在待辦事項檢視模式中顯示選項連結"
+   },
+   "showButtonTooltip": {
+      "message": "當暫留按鈕圖示時顯示工具提示"
+   },
+   "showButtonTooltipTooltip": {
+      "message": "當暫留按鈕圖示時顯示下一個事件"
+   },
+   "showConsoleMessages": {
+      "message": "於 Javascript 控制台記錄訊息（僅測試）"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "僅用於測試模式，可能稍微減緩此擴充功能的速度！"
+   },
+   "showContextMenuItem": {
+      "message": "右鍵按一下時顯示右鍵選單項目"
+   },
+   "showContextMenuItemTooltip": {
+      "message": "當您右鍵按一下任何網頁或信箱網頁快速將其新增到您的日曆中新增功能表專案"
+   },
+   "showDataFeeds": {
+      "message": "顯示日曆資料饋送"
+   },
+   "showDayOnBadge": {
+      "message": "按鈕圖示上顯示目前日期的一周"
+   },
+   "showDayOnBadgeExceptWhenDaysLeft": {
+      "message": "下一次的事件是天的距離時除外"
+   },
+   "showDayOnBadgeExceptWhenHoursLeft": {
+      "message": "下一個事件小時路程時除外"
+   },
+   "showDayOnBadgeExceptWhenMinutesLeft": {
+      "message": "下一個事件分鐘的路程時除外"
+   },
+   "showDayOnBadgeTooltip": {
+      "message": "而不是像 '星期二' 周當天下一事件顯示倒數計時等。註： 您也可以列出例外 ！"
+   },
+   "showDesktopNotifications": {
+      "message": "顯示桌面通知"
+   },
+   "showDesktopNotificationsTitle": {
+      "message": "在您日曆中有事件發生時顯示桌面通知"
+   },
+   "showEventTimeOnBadge": {
+      "message": "於按鈕上顯示活動時間"
+   },
+   "showEventTimeOnBadgeTooltip": {
+      "message": "在按鈕上顯示下個活動的開始時間"
+   },
+   "showHeader": {
+      "message": "於彈出視窗上方顯示選項"
+   },
+   "showHeaderTooltip": {
+      "message": "於彈出視窗上方顯示「快速新增」和其他選項"
+   },
+   "showMinutesLeftInBadge": {
+      "message": "以剩餘分鐘數取代活動時間顯示"
+   },
+   "showMinutesLeftInBadgeTitle": {
+      "message": "若活動即將開始，則顯示剩餘的分鐘數"
+   },
+   "showOpenCalendar": {
+      "message": "顯示開啟日曆圖示"
+   },
+   "showOpenCalendarTooltip": {
+      "message": "顯示開啟日曆圖示"
+   },
+   "showQuickAdd": {
+      "message": "顯示「快速新增」"
+   },
+   "showQuickAddTooltip": {
+      "message": "於彈出視窗左上角顯示快速新增輸入欄"
+   },
+   "showRefresh": {
+      "message": "顯示更新圖示"
+   },
+   "showRefreshTooltip": {
+      "message": "顯示更新圖示"
+   },
+   "showTimeSpecificEventsBeforeAllDay": {
+      "message": "前一天的全部事件的時間顯示特定事件"
+   },
+   "showTimeSpecificEventsBeforeAllDayTooltip": {
+      "message": "如果明天你有 10 上午事件和全天事件，它將顯示 10 上午 1 d 而不是"
+   },
+   "showViewDropDown": {
+      "message": "顯示檢視模式下拉選項"
+   },
+   "showViewDropDownTooltip": {
+      "message": "於彈出視窗右上角顯示檢視模式下拉選項（注意：您必須顯示此選項以變更檢視模式，之後可將它隱藏）"
+   },
+   "signIn": {
+      "message": "登入"
+   },
+   "signInAsUserOfOrg": {
+      "message": "你必須 $1 您組織的信箱"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "登出和登入到你的 Gmail"
+   },
+   "smallest": {
+      "message": "最小的"
+   },
+   "snooze": {
+      "message": "通知"
+   },
+   "snoozeAll": {
+      "message": "通知所有"
+   },
+   "somedayAt": {
+      "message": "$1 於"
+   },
+   "sound": {
+      "message": "音效"
+   },
+   "speechEngine": {
+      "message": "語音引擎"
+   },
+   "ssl": {
+      "message": "總是使用 SSL"
+   },
+   "sslTitle": {
+      "message": "總是使用 SSL 加密來連結 Google 日曆"
+   },
+   "staySignedIn": {
+      "message": "維持登入狀態"
+   },
+   "successful": {
+      "message": "成功"
+   },
+   "supportAndRequestsPrioritized": {
+      "message": "支持我並優先處理您的要求！"
+   },
+   "testDescription": {
+      "message": "測試說明"
+   },
+   "testEvent": {
+      "message": "測試事件"
+   },
+   "testIt": {
+      "message": "測試一下 ！"
+   },
+   "thankYouForYourContribution": {
+      "message": "功能現在已解鎖。謝謝你的捐款！"
+   },
+   "thankYouForYourContribution2": {
+      "message": "關閉此視窗並開始使用！"
+   },
+   "timeout": {
+      "message": "時間限制"
+   },
+   "timeoutNote": {
+      "message": "只是如果你有很多的日曆或事件變更它"
+   },
+   "timeoutTooltip": {
+      "message": "可解決登入問題，若您擁有 10 個以上的日曆或非常多的活動時，才需調高此選項"
+   },
+   "timeoutTryAgain": {
+      "message": "與 $1 溝通超時，請再試一次！"
+   },
+   "toSeeCalendar": {
+      "message": "看您的日曆！"
+   },
+   "today": {
+      "message": "今天"
+   },
+   "todayAt": {
+      "message": "於今天"
+   },
+   "tom": {
+      "message": "湯姆"
+   },
+   "tomorrow": {
+      "message": "明天"
+   },
+   "tomorrowAt": {
+      "message": "於明天"
+   },
+   "undo": {
+      "message": "復原"
+   },
+   "unlockFeatures": {
+      "message": "只要捐一次任何金額的款項，便能使用目前與未來將新增的額外功能。這將立即生效！"
+   },
+   "unlockHeader": {
+      "message": "取得額外的功能並支持開發成員"
+   },
+   "view": {
+      "message": "檢視"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "只有當你遠離電腦時"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "當你想聽到音效而你卻沒有使用你的電腦或不在電腦前或是電腦正在處理中，我建議你使用此選項! :)"
+   },
+   "volume": {
+      "message": "卷"
+   },
+   "wantToStaySignedIn": {
+      "message": "想要保持登入狀態嗎？"
+   },
+   "week": {
+      "message": "週"
+   },
+   "what": {
+      "message": "什麼"
+   },
+   "when": {
+      "message": "當"
+   },
+   "whyContribute": {
+      "message": "我為什麼應該捐款？"
+   },
+   "whyContributeReason1": {
+      "message": "我會經常更新和支援 $1 每週回應您的建議"
+   },
+   "whyContributeReason1_1": {
+      "message": "我全部的擴充功能"
+   },
+   "whyContributeReason2": {
+      "message": "我會讀取您的意見和評論並提供快速反饋:）"
+   },
+   "whyContributeReason3": {
+      "message": "您所捐的任何款額，我都很開心！"
+   },
+   "whyContributeReason4": {
+      "message": "此擴充越來越茁壯 $1，多虧了你 ！"
+   },
+   "whyContributeReason4_1": {
+      "message": "評論"
+   },
+   "whyContributeReason5": {
+      "message": "瞭解更多有關我在 $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "為您自己或您的企業成為更有效率 Google 的使用者"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "比 $1 還要實惠"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "writeAboutMe": {
+      "message": "試試我其他的擴充功能"
+   },
+   "writeSomethingNice": {
+      "message": "以你為何或如何使用此程式的評論取代此純文字"
+   },
+   "yesterday": {
+      "message": "昨天"
+   }
+}

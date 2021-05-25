@@ -1,3 +1,8 @@
-2021/04/09-15:30:49.144 3 Reusing MANIFEST /home/ossi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/04/09-15:30:49.146 3 Recovering log #78
-2021/04/09-15:30:49.147 3 Reusing old log /home/ossi/.config/chromium/Default/Local Storage/leveldb/000078.log 
+2021/05/24-14:27:44.527 3 Reusing MANIFEST /home/ossi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/24-14:27:44.528 3 Recovering log #288
+2021/05/24-14:27:44.530 3 Level-0 table #291: started
+2021/05/24-14:27:44.552 3 Level-0 table #291: 187442 bytes OK
+2021/05/24-14:27:44.560 3 Delete type=0 #288
+2021/05/24-15:01:22.900 5 Level-0 table #294: started
+2021/05/24-15:01:22.912 5 Level-0 table #294: 183450 bytes OK
+2021/05/24-15:01:22.920 5 Delete type=0 #292

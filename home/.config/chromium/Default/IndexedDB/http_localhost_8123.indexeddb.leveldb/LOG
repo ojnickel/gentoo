@@ -1,5 +1,15 @@
-2021/03/25-16:20:24.752 23e5 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/http_localhost_8123.indexeddb.leveldb/MANIFEST-000001
-2021/03/25-16:45:42.619 2637 Level-0 table #5: started
-2021/03/25-16:45:42.624 2637 Level-0 table #5: 48500 bytes OK
-2021/03/25-16:45:42.630 2637 Delete type=0 #3
-2021/03/25-16:45:42.630 2637 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/17-17:12:54.122 1135 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/http_localhost_8123.indexeddb.leveldb/MANIFEST-000001
+2021/05/17-17:12:54.122 1135 Recovering log #7
+2021/05/17-17:12:54.155 1135 Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/http_localhost_8123.indexeddb.leveldb/000007.log 
+2021/05/18-10:25:35.209 6d98 Level-0 table #12: started
+2021/05/18-10:25:35.222 6d98 Level-0 table #12: 857762 bytes OK
+2021/05/18-10:25:35.228 6d98 Delete type=0 #7
+2021/05/18-10:25:35.229 6d98 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/18-10:25:35.229 6d98 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00w\x00i\x00n\x00d\x00o\x00w\x00-\x00c\x00l\x00o\x00s\x00e\x00d\x00-\x00v\x00a\x00r\x00i\x00a\x00n\x00t' @ 12345 : 1
+2021/05/18-10:25:35.229 6d98 Compacting 1@1 + 1@2 files
+2021/05/18-10:25:35.253 6d98 Generated table #13@1: 5406 keys, 661287 bytes
+2021/05/18-10:25:35.253 6d98 Compacted 1@1 + 1@2 files => 661287 bytes
+2021/05/18-10:25:35.258 6d98 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/18-10:25:35.258 6d98 Delete type=2 #9
+2021/05/18-10:25:35.258 6d98 Delete type=2 #12
+2021/05/18-10:25:35.259 6d98 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00w\x00i\x00n\x00d\x00o\x00w\x00-\x00c\x00l\x00o\x00s\x00e\x00d\x00-\x00v\x00a\x00r\x00i\x00a\x00n\x00t' @ 12345 : 1 .. (end); will stop at (end)

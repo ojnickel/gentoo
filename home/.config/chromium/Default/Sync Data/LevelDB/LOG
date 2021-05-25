@@ -1,3 +1,6 @@
-2021/04/09-15:30:49.132 5e69 Reusing MANIFEST /home/ossi/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/04/09-15:30:49.132 5e69 Recovering log #83
-2021/04/09-15:30:49.132 5e69 Reusing old log /home/ossi/.config/chromium/Default/Sync Data/LevelDB/000083.log 
+2021/05/24-14:27:44.515 e88 Reusing MANIFEST /home/ossi/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/05/24-14:27:44.519 e88 Recovering log #212
+2021/05/24-14:27:44.520 e88 Reusing old log /home/ossi/.config/chromium/Default/Sync Data/LevelDB/000212.log 
+2021/05/25-00:50:30.167 56ab Level-0 table #217: started
+2021/05/25-00:50:30.175 56ab Level-0 table #217: 153152 bytes OK
+2021/05/25-00:50:30.188 56ab Delete type=0 #212

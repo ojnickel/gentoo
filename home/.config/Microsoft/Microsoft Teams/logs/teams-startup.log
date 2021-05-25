@@ -1,45 +1,23 @@
 Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/ossi/.config/Microsoft/Microsoft Teams/hooks.json'"
 (electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
-(node:31832) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:31832) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
-
-[32381:32381:0100/000000.732962:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
-[32381:32381:0100/000000.733156:ERROR:broker_posix.cc(43)] Invalid node channel message
-[32384:32384:0405/180012.759605:ERROR:broker_posix.cc(43)] Invalid node channel message
-
-[32534:32534:0100/000000.389084:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
-[32534:32534:0100/000000.389372:ERROR:broker_posix.cc(43)] Invalid node channel message
-[32537:32537:0405/180020.414878:ERROR:broker_posix.cc(43)] Invalid node channel message
-
-[872:872:0100/000000.592784:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
-[872:872:0100/000000.593060:ERROR:broker_posix.cc(43)] Invalid node channel message
-[875:875:0405/180700.617792:ERROR:broker_posix.cc(43)] Invalid node channel message
-
-[2786:2786:0100/000000.208992:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
-[2786:2786:0100/000000.209200:ERROR:broker_posix.cc(43)] Invalid node channel message
-[2794:2794:0405/184056.239701:ERROR:broker_posix.cc(43)] Invalid node channel message
-(node:32048) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 remote-videos-count-changed listeners added to [CallHandler]. Use emitter.setMaxListeners() to increase limit
-(node:32048) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 remote-videos-count-changed listeners added to [CallHandler]. Use emitter.setMaxListeners() to increase limit
-(node:31832) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 will-download listeners added to [Session]. Use emitter.setMaxListeners() to increase limit
-
-[20023:20023:0100/000000.452560:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
-[20023:20023:0100/000000.452766:ERROR:broker_posix.cc(43)] Invalid node channel message
-[20029:20029:0406/142342.486501:ERROR:broker_posix.cc(43)] Invalid node channel message
-[31832:0409/153018.225297:FATAL:bus.cc(1220)] D-Bus connection was disconnected. Aborting.
+(node:5030) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
+(node:5030) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+[5030:0519/105107.748000:FATAL:bus.cc(1220)] D-Bus connection was disconnected. Aborting.
+Server response: 

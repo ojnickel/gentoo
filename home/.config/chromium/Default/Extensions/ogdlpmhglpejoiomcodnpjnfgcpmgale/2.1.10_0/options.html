@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Upload - Custom Cursor for Chrome™</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Blife">
+    <link href="assets/styles/vendor.css" rel="stylesheet" type="text/css">
+    <link href="assets/styles/main.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="assets/favicon.ico">
+
+</head>
+<body>
+<header class="header-page">
+    <div class="header-row">
+        <div class="burger"><span></span></div>
+        <a href="https://custom-cursor.com?utm_source=ext&utm_medium=links" class="header-logo"><img src="assets/logo.png" alt=""></a>
+        <ul class="header-menu">
+            <li class="active"><a href="javascript:void(0)" data-i18n="nav_upload_cursor"></a></li>
+            <li><a href="manage.html" data-i18n="nav_manage"></a></li>
+            <li><a href="https://custom-cursor.com/?utm_source=ext&utm_medium=links&utm_campaign=upload_more_cursors" target="_blank" data-i18n="nav_more_cursors"></a></li>
+            <li><a href="https://custom-cursor.com/how-to-use?utm_source=ext&utm_medium=links&utm_campaign=upload_how_to_use#question3"  target="_blank" data-i18n="nav_how_to_use">How to use</a></li>
+        </ul>
+    </div>
+</header>
+<section class="block-upload">
+    <div class="container">
+        <h1 class="block-title block-title__line mb20" data-i18n="options_upload_your_own_cursors"><span>upload</span> your own cursors</h1>
+
+        <div class="upload-text" data-i18n="options_upload_recommendations">
+            <h2>recommendations:</h2>
+            <ul>
+                <li>Do not use images larger than 128x128 pixels;</li>
+                <li>Use images with a transparent background, such as .png, or .cur cursors;</li>
+                <li>Smile often ;)</li>
+            </ul>
+        </div>
+
+
+        <input type="file" id="upload" style="opacity: 0.0" accept="image/*"/>
+
+        <div class="box-upload">
+            <div class="row">
+                <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 box-preview-cur mb20 pack" id="template">
+                    <div class="preview-cur before-n" data-type="cursor">
+                        <img src="assets/images/icons/cursor-icon.png" alt="">
+                        <a class="button action button__upload" data-type="cursor" data-i18n-title="hint_upload_cursor" href="javascript:void(0)"><i class="fas fa-plus"></i></a>
+                    </div>
+                    <div class="preview-cur before-n" data-type="pointer">
+                        <img src="assets/images/icons/pointer-icon.png" alt="">
+                        <a class="button action button__upload" data-i18n-title="hint_upload_pointer"  data-type="pointer" href="javascript:void(0)"><i class="fas fa-plus"></i></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<footer>
+    <div class="container">
+        <div class="footer-row">
+            <div class="footer-l">
+                <a class="footer-logo" target="_blank" href="https://custom-cursor.com?utm_source=ext&utm_medium=links">
+                    <img src="assets/logo.png" alt="Custom Cursor Logo">
+                </a>
+                <div class="footer-soc">
+                    <a href="https://twitter.com/customcursor" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.pinterest.com/custom_cursor/" target="_blank"><i
+                            class="fab fa-pinterest-p"></i></a>
+                    <a href="https://www.youtube.com/channel/UCzIeCDmL_C-94TSNrie5lnQ" target="_blank"><i
+                            class="fab fa-youtube"></i></a>
+                </div>
+                <div class="footer-b">
+                    <p><i class="far fa-copyright"></i>Copyright - Blife 2020</p>
+                </div>
+            </div>
+            <ul class="footer-menu" style="column-count: 1">
+                <li><a href="https://community.custom-cursor.com" target="_blank" title="Community">Community</a></li>
+                <li><a href="https://custom-cursor.com/en/editors_picks" target="_blank" title="Editors picks">Editors picks</a></li>
+                <li><a href="https://custom-cursor.com/en/tops" target="_blank" title="Top Packs">Top Packs</a></li>
+                <li><a href="https://custom-cursor.com/en/packs" target="_blank" title="New Packs">New Packs</a></li>
+            </ul>
+            <ul class="footer-menu" style="column-count: 1">
+                <li><a href="https://custom-cursor.com/en/how-to-use" target="_blank" title="How to Use">How to Use</a></li>
+                <li><a href="https://custom-cursor.com/en/support" target="_blank" title="Support">Support</a></li>
+                <li><a target="_blank"
+                       href="https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale/reviews?utm_source=site&amp;utm_medium=links&amp;utm_campaign=rate_us"
+                       title="Rate us">Rate us</a></li>
+            </ul>
+            <ul class="footer-menu" style="column-count: 1">
+                <li><a href="https://custom-cursor.com/en/terms" target="_blank" rel="nofollow" title="Terms of Use">Terms of Use</a></li>
+                <li><a href="https://custom-cursor.com/en/privacy" target="_blank" rel="nofollow" title="Privacy policy">Privacy policy</a></li>
+                <li><a href="https://custom-cursor.com/en/cookie-policy" target="_blank" rel="nofollow" title="Cookie policy">Cookie policy</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+<script src="libs/Localize.js"></script>
+<script src="libs/jquery.js"></script>
+<script src="libs/cursor.js"></script>
+<script src="upload.js"></script>
+</body>
+</html>

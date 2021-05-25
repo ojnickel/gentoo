@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome™的自定义光标。 使用大量免费游标或上传自己的游标。"
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - 自定义光标"
+   },
+   "close": {
+      "message": "关"
+   },
+   "cursor_size_extra_large": {
+      "message": "特大号"
+   },
+   "cursor_size_extra_small": {
+      "message": "超小"
+   },
+   "cursor_size_large": {
+      "message": "大"
+   },
+   "cursor_size_medium": {
+      "message": "介质"
+   },
+   "cursor_size_small": {
+      "message": "小"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "delete_all": {
+      "message": "删除所有"
+   },
+   "enter_your_search_text": {
+      "message": "输入您的搜索文字"
+   },
+   "favorite_by_time": {
+      "message": "按时间"
+   },
+   "favorite_by_visited_pages": {
+      "message": "按访问页面"
+   },
+   "favorite_manage_button": {
+      "message": "管理收藏夹"
+   },
+   "favorite_rotate_favorites": {
+      "message": "旋转收藏夹"
+   },
+   "favorite_sec_page": {
+      "message": "秒/页"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "管理收藏夹"
+   },
+   "hint_defaultTo": {
+      "message": "默认光标"
+   },
+   "hint_remove_cursor": {
+      "message": "点击删除光标"
+   },
+   "hint_remove_pointer": {
+      "message": "点击删除指针"
+   },
+   "hint_settings": {
+      "message": "设定"
+   },
+   "hint_size": {
+      "message": "游标大小"
+   },
+   "hint_upload_cursor": {
+      "message": "点击上传光标"
+   },
+   "hint_upload_pointer": {
+      "message": "点击上传指针"
+   },
+   "item_cursor": {
+      "message": "光标"
+   },
+   "item_pointer": {
+      "message": "指针"
+   },
+   "manage_cursor_size_settings": {
+      "message": "光标大小设置"
+   },
+   "manage_manage_collection": {
+      "message": "管理集合"
+   },
+   "nav_how_to_use": {
+      "message": "如何使用"
+   },
+   "nav_manage": {
+      "message": "管理"
+   },
+   "nav_more_cursors": {
+      "message": "更多游标"
+   },
+   "nav_upload_cursor": {
+      "message": "上传光标"
+   },
+   "options_add_new": {
+      "message": "添新"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>建议：\u003C/h2>\u003Cul>\u003Cli>不要使用超过128x128像素的图片;\u003C/li>\u003Cli>使用透明背景的图片，例如.png;\u003C/li>\u003Cli>微笑更频繁;）\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "上传自己的游标"
+   },
+   "popup_default_cursor": {
+      "message": "默认光标"
+   },
+   "popup_manage": {
+      "message": "管理"
+   },
+   "popup_more_cursor": {
+      "message": "更多游标"
+   },
+   "popup_upload_cursor": {
+      "message": "上传光标"
+   },
+   "rate_us_5_stars": {
+      "message": "请给我们5颗星"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

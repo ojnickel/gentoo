@@ -1,0 +1,1211 @@
+{
+   "24hourMode": {
+      "message": "Tryb 24 godzinny"
+   },
+   "24hourModeTitle": {
+      "message": "Wyświetlaj czas w trybie 24 godzinnym, np. 18:00"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NIE USUWAĆ"
+   },
+   "Xday": {
+      "message": "dzień"
+   },
+   "Xdays": {
+      "message": "$1 dni"
+   },
+   "Xhour": {
+      "message": "$1 godzinę"
+   },
+   "Xhours": {
+      "message": "$1 godzin"
+   },
+   "Xminute": {
+      "message": "$1 minuta"
+   },
+   "Xminutes": {
+      "message": "$1 minut"
+   },
+   "Xseconds": {
+      "message": "$1 sekund"
+   },
+   "aboutMe": {
+      "message": "o mnie"
+   },
+   "account": {
+      "message": "Konto"
+   },
+   "accounts": {
+      "message": "Konta"
+   },
+   "actionPopupsAfterAWhile": {
+      "message": "powiadomienia automatycznie po"
+   },
+   "actionPopupsAfterAWhileToolTip": {
+      "message": "Okienko popup z powiadomieniami zostanie zamknięte automatycznie po X czasie"
+   },
+   "addSpeechEngines": {
+      "message": "Dodaj inne moduły"
+   },
+   "addToGoogleCalendar": {
+      "message": "Dodaj do Kalendarza Google"
+   },
+   "addedForSomeday": {
+      "message": "Dodano $1 na $2"
+   },
+   "addedForSomedayAt": {
+      "message": "Dodano $1 na $2 o $3"
+   },
+   "addedForToday": {
+      "message": "Dodano $1 na dzisiaj"
+   },
+   "addedForTodayAt": {
+      "message": "Dodano $1 dla $2"
+   },
+   "addedForTomorrow": {
+      "message": "Dodano $1 na jutro"
+   },
+   "addedForTomorrowAt": {
+      "message": "Dodano $1 na jutro o $2"
+   },
+   "addedTimedEventInThePast": {
+      "message": "Czas tego wydarzenia już minął! Czy chcesz, żebym zmienił na taki sam w dniu jutrzejszym?"
+   },
+   "admin": {
+      "message": "Admin"
+   },
+   "agenda": {
+      "message": "terminarz"
+   },
+   "agendaOnly": {
+      "message": "tylko terminarz"
+   },
+   "all": {
+      "message": "Wszystko"
+   },
+   "allDayText": {
+      "message": "przez cały dzień"
+   },
+   "allowThisExtensionToReadYourFacebookEvent": {
+      "message": "Pozwolić temu rozszerzeniu na czytanie Twoich wydarzeń z Facebooka?"
+   },
+   "alreadyDonated": {
+      "message": "Przekazałeś wsparcie?"
+   },
+   "alsoExtraFeaturesForGmail": {
+      "message": "Jednorazowe wsparcie i otrzymujesz dodatkowe funkcjonalności w moim $1"
+   },
+   "alsoExtraFeaturesForGmail2": {
+      "message": "Checker Plus dla Gmaila"
+   },
+   "always": {
+      "message": "Zawsze"
+   },
+   "amount": {
+      "message": "Kwota"
+   },
+   "andNightTimesAfter": {
+      "message": "i nocne po"
+   },
+   "appearSignedOut": {
+      "message": "Pojawi się wylogowany"
+   },
+   "backgroundColor": {
+      "message": "Kolor tła"
+   },
+   "backgroundOfNotification": {
+      "message": "Kolor tła powiadomienia w formie wyskakującego okna"
+   },
+   "backgroundOfNotificationTooltip": {
+      "message": "Ustawia kolor tła w formie wyskakującego okna"
+   },
+   "button": {
+      "message": "Przycisk"
+   },
+   "byEmailSubject": {
+      "message": "według tematu wiadomości?"
+   },
+   "calendar": {
+      "message": "Kalendarz"
+   },
+   "calendarHelper": {
+      "message": "pomocy kalendarza"
+   },
+   "canceledInAppPurchase": {
+      "message": "Może jednak użyć PayPal? Ewentualnie skontaktuj się ze mną na "
+   },
+   "cannotUpdateEventsInThePast": {
+      "message": "Problem! Nie mogę w tej chwili uaktualnić wydarzeń, które odbyły się w przeszłości. Mogę zaktualizować wydarzenia dzisiejsze lub te w najbliższej przyszłości. Dla przeszłych wydarzeń musisz użyć strony Kalendarza Google!"
+   },
+   "changeThisDomain": {
+      "message": "By zmienić teraz domenę email $1"
+   },
+   "changeThisDomain2": {
+      "message": "wyloguj się i zaloguj się jako inny użytkownik"
+   },
+   "changelog": {
+      "message": "Lista zmian"
+   },
+   "changingIcon": {
+      "message": "Zmiana ikony"
+   },
+   "choosePaymentMethod": {
+      "message": "Wybierz płatność kartą kredytową"
+   },
+   "clearCache": {
+      "message": "Czyści pamięć podręczną rozszerzenia"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "Kliknięcie w dowolnym miejscu powiadomienia"
+   },
+   "clickingXOnNotification": {
+      "message": "Klikając przycisk X na powiadomieniu"
+   },
+   "closeEsc": {
+      "message": "Zamknij (ESC)"
+   },
+   "contactHelp": {
+      "message": "Kontakt - Pomoc"
+   },
+   "continue": {
+      "message": "Kontynuuj"
+   },
+   "continueWithoutFeatures": {
+      "message": "Korzystaj nadal z rozszerzenia z wieloma opcjami, ale bez dodatkowych funkcji."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "Kontynuuj bez dodatkowych funkcji"
+   },
+   "contributeToContinue": {
+      "message": "Przekaż datek"
+   },
+   "createDeleteEvents": {
+      "message": "Tworzenie lub usuwanie w ramach widoku miesiąca"
+   },
+   "createEvent": {
+      "message": "Utwórz wydarzenie"
+   },
+   "createdBy": {
+      "message": "Created by"
+   },
+   "custom": {
+      "message": "Niestandardowe"
+   },
+   "customizeCalendar": {
+      "message": "Zmień wysokość, szerokość, widoczne kalendarze, itd."
+   },
+   "customizeCalendarTitle": {
+      "message": "W kalendarzu pop-up musisz ustawić 'Widok' na 'Dostosuj'"
+   },
+   "customized": {
+      "message": "Dostosuj"
+   },
+   "d": {
+      "message": "d"
+   },
+   "day": {
+      "message": "Dzień"
+   },
+   "daysAgo": {
+      "message": "dni temu"
+   },
+   "daysArray": {
+      "message": "niedziela,poniedziałek,wtorek,środa,czwartek,piątek,sobota"
+   },
+   "daysArrayShort": {
+      "message": "niedz.,pon.,wt.,śr.,czw.,pt.,sob."
+   },
+   "daysLeft": {
+      "message": "pozostało $1 dni"
+   },
+   "daysRemaining": {
+      "message": "Pokaż pozostały czas, a nie czas wydarzenia"
+   },
+   "daysRemainingToolTip": {
+      "message": "Jeśli zdarzenie jest za kilka dni, pokaż 'pozostało dni...'"
+   },
+   "debug": {
+      "message": "Debugowanie"
+   },
+   "delete": {
+      "message": "Usuń"
+   },
+   "description": {
+      "message": "Zobacz nadchodzące terminy, otrzymuj przypomnienia na pulpicie, dodawaj wydarzenia bezpośrednio w oknie pop-up!"
+   },
+   "developingMore": {
+      "message": "i pracuję nad kolejnymi Waszymi sugestiami..."
+   },
+   "ding": {
+      "message": "Ding"
+   },
+   "discoverMyApps": {
+      "message": "Odkryj moje aplikacje"
+   },
+   "dismiss": {
+      "message": "Porzuć"
+   },
+   "dismissAll": {
+      "message": "Porzuć wszystko"
+   },
+   "dismissAllInNotificationWindow": {
+      "message": "Odrzucić wszystkie zdarzenia w oknie powiadomienia"
+   },
+   "dismissesEvents": {
+      "message": "Odrzuca zdarzenia"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "Nie informuj mnie o aktualizacjach"
+   },
+   "doNotShowNotificationsForAlldayEvents": {
+      "message": "Nie pokazuj powiadomień dla wydarzeń całodniowych"
+   },
+   "doNotShowNotificationsForAlldayEventsTitle": {
+      "message": "Nie pokazuj powiadomień dla wydarzeń całodniowych"
+   },
+   "doNotShowNotificationsForRepeatingEvents": {
+      "message": "Nie pokazuj powiadomień dla wydarzeń cyklicznych"
+   },
+   "doNotShowNotificationsWhenBrowserClosed": {
+      "message": "Nie pokazuj powiadomień przy zamkniętym oknie przeglądarki"
+   },
+   "doNotShowNotificationsWhenBrowserClosedTooltip": {
+      "message": "Google Chrome będzie działał w tle z ikoną w obszerze powiadomień, ale powiadomienia NIE będą pokazywane!"
+   },
+   "doNotShowPastNotifications": {
+      "message": "Nie pokazuj powiadomień dla przeszłych wydarzeń"
+   },
+   "doNotShowPastNotificationsTitle": {
+      "message": "Nie pokazuj żadnych powiadomień dla wydarzeń, które miały miejsce przed uruchomieniem przeglądarki. Przydatna funkcja, jeśli często używasz różnych komputerów"
+   },
+   "donate": {
+      "message": "Wspomóż mnie"
+   },
+   "donationRequired": {
+      "message": "Wsparcie jest wymagane"
+   },
+   "drawAttentionToBrowser": {
+      "message": "Niech miga ikona Chrome w pasku zadań w Windows lub niech podskakuje ikona Chrome na Macu (Beta)"
+   },
+   "drawAttentionToBrowserTooltip": {
+      "message": "Włączy się wyłącznie wtedy, gdy na ekranie nie widać przeglądarki. Użyteczne, jeśli korzysta się z wielu przestrzeni roboczych. W Windows: miga ikona Chrome w pasku zadań. Na Macu: ikona Chrome podskakuje"
+   },
+   "editEventDetails": {
+      "message": "Edytuj wydarzenie"
+   },
+   "email": {
+      "message": "Email:"
+   },
+   "enableLanguageDetection": {
+      "message": "Włącz funkcję rozpoznawania języka"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "Możesz mówić w języku swojego przypominacza dzięki użyciu tej funkcji rozpoznawania języka!"
+   },
+   "enterATitle": {
+      "message": "Musisz wprowadzić tytuł!"
+   },
+   "enterAnAmount": {
+      "message": "Muisz wpisać kwotę!"
+   },
+   "event": {
+      "message": "Zdarzenie"
+   },
+   "eventAdded": {
+      "message": "Dodano wydarzenie"
+   },
+   "eventColors": {
+      "message": "Użyj kolorów zdarzeń \u003Cspan class='newLookOnly'> (tylko nowy wygląd)\u003C/span>"
+   },
+   "eventColorsToolTip": {
+      "message": "Gdy zmieniasz kolory zdarzeń w Kalendarzu Google, zmienią się również w tym rozszerzeniu"
+   },
+   "eventDeleted": {
+      "message": "Wydarzenie usunięte"
+   },
+   "eventDescription": {
+      "message": "Opis"
+   },
+   "eventUpdated": {
+      "message": "Wydarzenie zostało zaktualizowane"
+   },
+   "eventsAndSnoozes": {
+      "message": "Wydarzenia i drzemki"
+   },
+   "ex": {
+      "message": "np."
+   },
+   "example": {
+      "message": "przykład"
+   },
+   "excludeCalendar": {
+      "message": "Wyklucz kalendarz"
+   },
+   "excludeCalendarFrom": {
+      "message": "Pomiń kalendarz w"
+   },
+   "excludeCalendarFrom2": {
+      "message": "widoku terminarza i w widoku normalnym"
+   },
+   "excludeCalendarFrom3": {
+      "message": "z przycisku i wyłącz powiadomienia"
+   },
+   "excludeCalendarFromTitle": {
+      "message": "Kliknij 'widok', by ukryć określone kalendarze z widoku kalendarza/terminarza lub kliknij 'zaznaczenie', by wykluczyć z przycisku wydarzenia z określonych kalendarzy i wyłączyć powiadomienia"
+   },
+   "excludeCalendarsFromNotificationsNote": {
+      "message": "(W tym ikonę przycisku)"
+   },
+   "excludeCalendarsNote": {
+      "message": "Dotyczy tylko poprzedniej wersji widoku! Nowy wygląd używa wybranych kalendarzy ze strony internetowej)"
+   },
+   "excludeHiddenCalendarsFromButton": {
+      "message": "Wykluczać ukryte kalendarze z ikony powiadomienia"
+   },
+   "excludeHiddenCalendarsFromButtonToolTip": {
+      "message": "NIE pokazuj wydarzeń z kalendarzy, które nie są zaznaczone/wyświetlane na stronie Kalendarza Google. Synchronizacja będzie odbywała się tylko dla kalendarzy/zdarzeń widocznych na stronie Kalendarza Google."
+   },
+   "excludeRecurringEventsButtonIcon": {
+      "message": "Nie uwzględniaj na przycisku powtarzających się wydarzeń"
+   },
+   "excludeRecurringEventsButtonIconTooltip": {
+      "message": "Powtarzające się wydarzenia nie będą wyświetlane na przycisku, ale będą wyświetlane powiadomienia o nich"
+   },
+   "excluded": {
+      "message": "Wykluczony"
+   },
+   "extensionUpdated": {
+      "message": "Rozszerzenie zaktualizowane!"
+   },
+   "extraFeatures": {
+      "message": "Dodatkowe funckje"
+   },
+   "extraFeaturesClicked": {
+      "message": "Próbujesz użyć jedną z dodatkowych funkcji..."
+   },
+   "failureWithInAppPurchase": {
+      "message": "Transakcja anulowana lub wystąpił błąd! Użyć PayPal?"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Transakcja anulowana lub wystąpił błąd! Użyć $1?"
+   },
+   "feedback": {
+      "message": "Odzew"
+   },
+   "followMe": {
+      "message": "Śledź mnie"
+   },
+   "forProblemSolving": {
+      "message": "Tylko przy rozwiązywaniu problemów"
+   },
+   "forever": {
+      "message": "Na zawsze"
+   },
+   "general": {
+      "message": "Ogólne"
+   },
+   "googleAccount": {
+      "message": "Konto Google"
+   },
+   "grantAccessAgain": {
+      "message": "Udziel dostęp ponownie"
+   },
+   "grantedTo": {
+      "message": "Przyznane"
+   },
+   "groupNotifications": {
+      "message": "Zgrupuj wszystkie zdarzenia do jednego powiadomienia"
+   },
+   "h": {
+      "message": "g"
+   },
+   "help": {
+      "message": "Pomoc"
+   },
+   "helpMeTranslate": {
+      "message": "Możesz pomóc mi w tłumaczeniach? $1 poprawne!"
+   },
+   "helpMeTranslate2": {
+      "message": "Napisz do mnie maila"
+   },
+   "hideAfter": {
+      "message": "Ukryj po"
+   },
+   "hideButton": {
+      "message": "Ukryj przycisk"
+   },
+   "hideByJason": {
+      "message": "Ukryj 'Autor: Jason Savard.com'"
+   },
+   "hideHoursToolTip": {
+      "message": "Dotyczy \u003Cb>tylko\u003C/b> 'nowego wyglądu' !"
+   },
+   "hideMorningHoursBefore": {
+      "message": "Ukryj godziny poranne przed"
+   },
+   "hideMyName": {
+      "message": "Ukryj moje imię 'Autor: Jason Savard'"
+   },
+   "highlightCurrentDay": {
+      "message": "Podświetl dzień dzisiejszy"
+   },
+   "highlightCurrentDayTooltip": {
+      "message": "Kiedy włączasz kalendarz w widoku miesiąca, obecny dzień będzie krótko pulsować"
+   },
+   "highlightWeekends": {
+      "message": "Podświetlaj weekendy"
+   },
+   "highlightWeekendsTitle": {
+      "message": "Delikatnie cieniuje weekendy, ale tylko w miesięcznym widoku normalnym"
+   },
+   "hours": {
+      "message": "godziny"
+   },
+   "hoursAgo": {
+      "message": "$1 godziny temu"
+   },
+   "hoursLeft": {
+      "message": "pozostało $1 godzin"
+   },
+   "hoursRemaining": {
+      "message": "Pokaż, ile godzin pozostało do wydarzenia zamiast jego dokładnego czasu"
+   },
+   "hoursRemainingTitle": {
+      "message": "Jeśli wydarzenie odbędzie się w przeciągu 24 godzin, zostanie pokazana liczba godzin do wydarzenia, np. 4 godz."
+   },
+   "iconClassic": {
+      "message": "Ikona klasyczna"
+   },
+   "iconDefault": {
+      "message": "Domyślna ikona"
+   },
+   "iconDefault2WithDate": {
+      "message": "Domyślna ikona z dzisiejszą datą"
+   },
+   "iconDefault2WithDateInverted": {
+      "message": "Negatyw domyślnej ikony z bieżącą datą"
+   },
+   "iconMonochrome": {
+      "message": "Ikona monochromatyczna"
+   },
+   "iconMonochrome2": {
+      "message": "Ikony monochromatyczne"
+   },
+   "iconMonochrome2WithDate": {
+      "message": "Ikony monochromatyczne z bieżącą datą"
+   },
+   "iconNew": {
+      "message": "Nowa ikona"
+   },
+   "iconNew2": {
+      "message": "Ciemna ikona"
+   },
+   "iconNew2WithDate": {
+      "message": "Ciemna ikona z dzisiejszą datą"
+   },
+   "iconNewWithDate": {
+      "message": "Nowa ikona z dzisiejszą datą"
+   },
+   "iconTooltip": {
+      "message": "Ikona do użycia z przyciskiem popup"
+   },
+   "inVARhour": {
+      "message": "w przeciągu $1 godziny"
+   },
+   "inVARhours": {
+      "message": "w przeciągu $1 godziny"
+   },
+   "inVARminutes": {
+      "message": "w przeciągu $1 minuty"
+   },
+   "individualNotifications": {
+      "message": "Pokaż każde zdarzenie z indywidualnym powiadomieniem"
+   },
+   "joinVideoCall": {
+      "message": "Dołącz do rozmowy wideo"
+   },
+   "language": {
+      "message": "Język"
+   },
+   "languageToolTip": {
+      "message": "Zmienia język wyświetlania oraz powiadomień głosowych. Uwaga: możesz zobaczyć naraz wiele języków, bo takie są zasady. Wyświetli się to, co przetłumaczyłem na wybrany tu język. Jeśli nie przetłumaczyłem jakichś słów, rozszerzenie spróbuje odszukać je w języku Twojej przeglądarki. Jeśli nie znajdzie, pokaże angielskie odpowiedniki. Uwaga: aby zmienić język w wyskakującym okienku, użyj ustawień z Kalendarza Google."
+   },
+   "largest": {
+      "message": "największy"
+   },
+   "licenseOnlyValidFor": {
+      "message": "Licencja będzie ważna wyłącznie dla użytkowników, którzy zalogują sie do swoich Kalendarzy Google przy pomocy"
+   },
+   "loading": {
+      "message": "Wczytywanie..."
+   },
+   "logEventsAndSnoozes": {
+      "message": "Tworzy log wydarzeń i drzemek"
+   },
+   "longerSnoozeTimes": {
+      "message": "Dłuższy czas drzemki"
+   },
+   "m": {
+      "message": "m"
+   },
+   "map": {
+      "message": "Mapa"
+   },
+   "maxDaysAhead": {
+      "message": "Liczba dni pokazywanych do przodu"
+   },
+   "maxDaysAheadTitle": {
+      "message": "Maksymalna liczba dni odliczana w ikonie"
+   },
+   "meetMe": {
+      "message": "Spotkaj się ze mną"
+   },
+   "meetMeTitle": {
+      "message": "Zobacz mnie na wideo!"
+   },
+   "min": {
+      "message": "min."
+   },
+   "minimumAmount": {
+      "message": "Muisz przekazać minimum $1"
+   },
+   "minutesAgo": {
+      "message": "$1 minuty temu"
+   },
+   "minutesLeft": {
+      "message": "pozostało $1 minut"
+   },
+   "month": {
+      "message": "Miesiąc"
+   },
+   "monthsArray": {
+      "message": "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+   },
+   "monthsArrayShort": {
+      "message": "Sty,Lut,Mar,Kwi,Maj,Cze,Lip,Sie,Wrz,Paź,Lis,Gru"
+   },
+   "more": {
+      "message": "więcej"
+   },
+   "moreInfo": {
+      "message": "Więcej informacji"
+   },
+   "moreSnoozeTimes": {
+      "message": "Więcej uśpionych powiadomień..."
+   },
+   "morning": {
+      "message": "rano"
+   },
+   "multipleUserLicense": {
+      "message": "Zdobądż licencję dla wielu użytkowników w Twojej firmie"
+   },
+   "mustAddCalendar": {
+      "message": "Jeśli włączysz Google Apps, musisz dodać kalendarz!"
+   },
+   "mustSignInToPay": {
+      "message": "Musisz zalogować sie do swojego Kalendarza Google i poczekać na załadowanie się tego rozszerzenia!"
+   },
+   "native": {
+      "message": "macierzysty"
+   },
+   "needHelp": {
+      "message": "Potrzebujesz pomocy?"
+   },
+   "never": {
+      "message": "Nigdy"
+   },
+   "newLooks": {
+      "message": "Nowy wygląd"
+   },
+   "night": {
+      "message": "noc"
+   },
+   "noDetails": {
+      "message": "bez szczegółów"
+   },
+   "noPermissionOnEvent": {
+      "message": "Kłopot z przeniesieniem wydarzenia. Być może nie masz uprawnień!"
+   },
+   "noTitle": {
+      "message": "Bez tytułu"
+   },
+   "normal": {
+      "message": "Normalne"
+   },
+   "notLoggedIn": {
+      "message": "Niezalogowany"
+   },
+   "notificationButton": {
+      "message": "Przycisk powiadomienia"
+   },
+   "notificationDateFormat": {
+      "message": "ddd, mmm d"
+   },
+   "notificationFontSize": {
+      "message": "Wielkość tekstu powiadomienia"
+   },
+   "notificationFontSizeTooltip": {
+      "message": "Ustawia wielkość czcionki tytułu wydarzenia w powiadomieniu w formie wyskakującego okna. Ustaw najmniejszy rozmiar, jeśli tytuł jest długi i największy rozmiar, jeśli tytuł jest krótki"
+   },
+   "notificationSound": {
+      "message": "Dźwięk powiadomienia"
+   },
+   "notificationSoundSelectionToolTip": {
+      "message": "Wybierz różne dźwięki powiadomienia"
+   },
+   "notificationSoundTitle": {
+      "message": "Odtwarza dźwięk przy zaznaczonej opcji włączającej powiadomienia"
+   },
+   "notificationTextToSpeech": {
+      "message": "Powiadomienie mową"
+   },
+   "notificationTextToSpeechTitle": {
+      "message": "Nazwa wydarzenia zostanie wypowiedziana: znakomita funkcja, jeśli Twój komputer jest w drugim pokoju!"
+   },
+   "notificationZoom": {
+      "message": "Powiększenie okna powiadomień"
+   },
+   "notificationZoomTooltip": {
+      "message": "Użyj tego, by zmniejszyć tekst w okienku powiadomień (przydatne dla tych, którzy używają dużego rozmiaru DPI)"
+   },
+   "notifications": {
+      "message": "Powiadomienia"
+   },
+   "notificationsSection": {
+      "message": "Sekcja powiadomień"
+   },
+   "offlineMode": {
+      "message": "Tryb offline"
+   },
+   "offlineModeTitle": {
+      "message": "Otrzymuj powiadomienia o zdarzeniach bez połączenia z internetem! Uwaga: wydarzenia zostaną zapisane na tym komputerze!"
+   },
+   "oldLooks": {
+      "message": "Poprzedni wygląd"
+   },
+   "omniboxDefault": {
+      "message": "19:00 kolacja"
+   },
+   "omniboxDefaultTom": {
+      "message": "8:00 pobudka"
+   },
+   "onlyNonPrimary": {
+      "message": "Bez kalendarza głównego"
+   },
+   "onlyPopupsForOwner": {
+      "message": "Pokazuj powiadomienia wyłącznie dla wydarzeń z moich kalendarzy"
+   },
+   "onlyPopupsForOwnerTooltip": {
+      "message": "Powiadomienia będą dotyczyć wyłącznie wydarzeń z Twoich kalendarzy. To oznacza kalendarze z 'Moje kalendarze', a nie kalendarze współdzielone lub te z 'Inne kalendarze'"
+   },
+   "openCalendar": {
+      "message": "Otwórz kalendarz"
+   },
+   "openSnoozedEvents": {
+      "message": "Modyfikacja zdarzeń uśpionych"
+   },
+   "opensMoreSnoozeTimes": {
+      "message": "Otwiera więcej uśpionych zdarzeń"
+   },
+   "option": {
+      "message": "Opcje"
+   },
+   "optionToCustomizeWith": {
+      "message": "Użyj"
+   },
+   "options": {
+      "message": "Opcje"
+   },
+   "or": {
+      "message": "lub"
+   },
+   "password": {
+      "message": "Hasło:"
+   },
+   "pastDays": {
+      "message": "Zaznaczaj przeszłe dni na szaro"
+   },
+   "pastDaysTitle": {
+      "message": "Zaznacza przeszłe dni na szaro, ale tylko w miesięcznym widoku normalnym"
+   },
+   "pasteHTML": {
+      "message": "i wklej poniżej kod HTML"
+   },
+   "paypalSecurityKeyToolTip": {
+      "message": "Jeśli używasz PayPal'owego dwuetapowego sprawdzania poprawności, zaznacz \u003Cb>tak\u003C/b> \u003Cbr>, jeśli nie jesteś pewien, pozostaw \u003Cb>nie\u003C/b>"
+   },
+   "pendingNotificationsIntervalToolTip": {
+      "message": "Jeśli nie podejmiesz żadnych działań na pasku, ikona z przypomnieniem będzie animowała się przez ten czas. Uwaga: tylko \u003Cb>pierwsze upomnienie\u003C/b> będzie odtwarzało powiadomienia dźwiękowe (jeśli włączone powyżej)\u003C/b>"
+   },
+   "pitch": {
+      "message": "tonacja"
+   },
+   "pollingInterval": {
+      "message": "Częstotliwość odświeżania"
+   },
+   "pollingIntervalTooltip": {
+      "message": "Częstotliwość pobierania wydarzeń z Twojego kalendarza Google i odświeżania przycisku"
+   },
+   "popupGoogleCalendarWebsite": {
+      "message": "Niech przycisk otwiera Kalendarz Google, a nie wyskakujące okienko"
+   },
+   "popupGoogleCalendarWebsiteHelpTitle": {
+      "message": "Po kliknięciu otworzy stronę Kalendarza Google, zamiast małego wyskakującego okna. Przytrzymanie przy kliknięciu klawisza CTRL daje ten sam efekt!"
+   },
+   "popupWindowZoom": {
+      "message": "Powiększenie okienka popup."
+   },
+   "popupWindowZoomToolTip": {
+      "message": "Zmienia powiększenie okienka popup. Nie zmienia właściwości podglądu wiadomości lub powiadomień."
+   },
+   "processing": {
+      "message": "Przetwarzanie"
+   },
+   "quickAdd": {
+      "message": "Dodaj szybko"
+   },
+   "quickAddDefaultText": {
+      "message": "np. kolacja u Marka o 19:00"
+   },
+   "quickAddDefaultTextMultipleDays": {
+      "message": "np. wizyta w Nowym Jorku"
+   },
+   "quickAddDefaultTextMultipleHours": {
+      "message": "np. śniadanie u Tiffany'ego"
+   },
+   "quickAddTitle": {
+      "message": "e.g. Mecz za 20 minut"
+   },
+   "rate": {
+      "message": "tempo"
+   },
+   "rateTitle": {
+      "message": "Szybkość mowy: wyrazy na minutę"
+   },
+   "recentlyAddedEvent": {
+      "message": "Problem! Jeśli to wydarzenie zostało niedawno dodane przez stronę internetową, kliknij ikonę odświeżenia lub użyj strony Kalendarza Google!"
+   },
+   "recommended": {
+      "message": "Zalecane"
+   },
+   "reducedDonationAd_notification": {
+      "message": "Drogi użytkowniku! Dodatki są tylko $1 kliknij by pokazać/ukryć"
+   },
+   "reducedDonationAd_popup": {
+      "message": "Drogi użytkowniku! Możesz uzyskać najnowsze $1 za tylko 50&cent;"
+   },
+   "referToAlreadyDonated": {
+      "message": "Odnoszą się do $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "już wsparłeś"
+   },
+   "refresh": {
+      "message": "Odśwież"
+   },
+   "remindersBeforeEvent": {
+      "message": "Pokazuj powiadomienia wyłącznie dla wydarzeń z"
+   },
+   "remindersBeforeEventHelpTitle": {
+      "message": "Na stronie Kalendarza Google po lewej stronie jest lista Twoich kalendarzy. Kliknij na strzałkę skierowaną w dół obok wybranego kalendarza i wybierz 'powiadomienia'. Dodaj powiadomienie w postaci wyskakującego okienka i ustaw czas. Uwaga: możesz pominąć to ustawienie dla każdego wydarzenia, które tworzysz lub zmieniasz"
+   },
+   "remindersBeforeEventPopupReminder": {
+      "message": "przypomnieniem w postaci wyskakującego okienka"
+   },
+   "removeQuickAdd": {
+      "message": "Usuń 'Dodaj szybko'"
+   },
+   "removeQuickAddTitle": {
+      "message": "Ukryj funkcję 'Dodaj szybko'"
+   },
+   "removeShareLinks": {
+      "message": "Usuń linki 'dzielenia się z innymi'"
+   },
+   "removeShareLinksTooltip": {
+      "message": "Usuwa linki do Facebooka, Twittera, itd. poniżej okienka kalendarza"
+   },
+   "repeatSound": {
+      "message": "Powtórz dźwięk powiadomień co"
+   },
+   "repeatSound2": {
+      "message": "i wyłącz po"
+   },
+   "repeatSound3": {
+      "message": "razy"
+   },
+   "repeatSoundTooltip": {
+      "message": "Powtarza powiadomienie lub dźwięk o ile nie zostało odrzucone okienko powiadomień"
+   },
+   "reschedule": {
+      "message": "Zmień czas"
+   },
+   "revokeAccess": {
+      "message": "Odwołaj dostęp"
+   },
+   "richNotification": {
+      "message": "Rozbudowane powiadomienia"
+   },
+   "richNotificationToolTip": {
+      "message": "Rozbudowane powiadomienia, ale nie natrętne - znikają same z siebie, gdy nie podejmiesz żadnej akcji. Jak powiadomienia na smartfonie -  przekazują informację w czasie rzeczywistym, ale możesz je zignorować podejmując określone działanie później."
+   },
+   "runInBackground": {
+      "message": "Działanie w tle przy zamkniętej przeglądarce Google Chrome"
+   },
+   "runInBackgroundToolTip": {
+      "message": "Otrzymuj powiadomienia nawet przy zamkniętej przeglądarce! Opcja wyłącznie dla doświadczonych użytkowników."
+   },
+   "runInBackgroundWarning1": {
+      "message": "Przeczytaj uważnie o $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "aplikacje działające w tle"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Jeśli wyłączysz aplikacje działające w tle w Google Chrome, możesz je włączyć ponowni czytając $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "ostatnia pozycja umożliwiająca wybranie opcji"
+   },
+   "runInBackgroundWarning3": {
+      "message": "Być może będzie potrzebne użycie $1 ze strony logowania Gmail"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "nie wylogowuj"
+   },
+   "save": {
+      "message": "Zapisz"
+   },
+   "saving": {
+      "message": "Zapisywanie..."
+   },
+   "seeUpdates": {
+      "message": "Aktualizacje"
+   },
+   "seeVideo": {
+      "message": "Zobacz wideo"
+   },
+   "selectACalendar": {
+      "message": "Wybierz kalendarz"
+   },
+   "selectCalendar": {
+      "message": "Najpierw wybierz kalendarz!"
+   },
+   "setDateTime": {
+      "message": "Ustaw datę/czas"
+   },
+   "share": {
+      "message": "Podziel się"
+   },
+   "shareIntro": {
+      "message": "Wypróbuj to świetne rozszerzenie dla Chrome"
+   },
+   "showButtonTooltip": {
+      "message": "Pokaż podpowiedź, kiedy najeżdzam na ikonę"
+   },
+   "showButtonTooltipTooltip": {
+      "message": "Pokazuje następne wydarzenie, kiedy najeżdzasz na ikonę"
+   },
+   "showCalendar": {
+      "message": "Pokaż kalendarz"
+   },
+   "showCalendarNames": {
+      "message": "Pokaż nazwy kalendarzy"
+   },
+   "showConsoleMessages": {
+      "message": "Zapisuj wiadomości w konsoli Java"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "Opcja do usuwania błędów - może nieznacznie zwolnić pracę rozszerzenia!"
+   },
+   "showContextMenuItem": {
+      "message": "Pokaż element menu kontekstowego przy prawym kliknięciu myszą"
+   },
+   "showContextMenuItemTooltip": {
+      "message": "Dodaje element w menu kontekstowym po kliknięciu prawym klawiszem myszy na dowolnej stronie, co pozwala szybko dodać wpis do kalendarza"
+   },
+   "showDataFeeds": {
+      "message": "Pokaż źródła danych kalendarzy"
+   },
+   "showDayOnBadge": {
+      "message": "Pokazuj dzień tygodnia na przycisku"
+   },
+   "showDayOnBadgeExceptWhenDaysLeft": {
+      "message": "Za wyjątkiem sytuacji, kiedy do następnego wydarzenia pozostały dni"
+   },
+   "showDayOnBadgeExceptWhenHoursLeft": {
+      "message": "Za wyjątkiem sytuacji, kiedy do następnego wydarzenia pozostały godziny"
+   },
+   "showDayOnBadgeExceptWhenMinutesLeft": {
+      "message": "Za wyjątkiem sytuacji, kiedy do następnego wydarzenia pozostały minuty "
+   },
+   "showDayOnBadgeTooltip": {
+      "message": "Zamiast wyświetlania czasu do następnego wydarzenia, wyświetlaj obecny dzień tygodnia, np. wtorek, itd. Uwaga: można ustawić wyjątki!"
+   },
+   "showDesktopNotifications": {
+      "message": "Pokazuj powiadomienia na pulpicie"
+   },
+   "showDesktopNotificationsTitle": {
+      "message": "Włącz, aby otrzymywać powiadomienia o wydarzeniach z kalendarza"
+   },
+   "showEventTimeOnBadge": {
+      "message": "Pokaż czas wydarzenia na przycisku"
+   },
+   "showEventTimeOnBadgeTooltip": {
+      "message": "Wyświetlaj czas do następnego wydarzenia u góry ikony"
+   },
+   "showHeader": {
+      "message": "Pokaż nagłówek w wyskakującym okienku"
+   },
+   "showHeaderTooltip": {
+      "message": "Wyświetla 'Dodaj szybko' i inne polecenia u góry wyskakującego okienka"
+   },
+   "showLocationOrSource": {
+      "message": "Pokaż lokalizację lub źródła lub Dołącz do rozmowy wideo"
+   },
+   "showLogo": {
+      "message": "Pokaż logo"
+   },
+   "showMinutesLeftInBadge": {
+      "message": "Pokaż, ile minut pozostało do wydarzenia zamiast jego dokładnego czasu"
+   },
+   "showMinutesLeftInBadgeTitle": {
+      "message": "Jeśli wydarzenie odbędzie się niedługo, pokaż pozostałe minuty"
+   },
+   "showOpenCalendar": {
+      "message": "Pokaż ikonę otwierania kalendarza"
+   },
+   "showOpenCalendarTooltip": {
+      "message": "Pokazuje ikonę otwierania kalendarza"
+   },
+   "showPendingNotificationsEvery": {
+      "message": "Pokaż powiadomienie o nadchodzących wydarzeniach co "
+   },
+   "showQuickAdd": {
+      "message": "Pokaż 'Dodaj szybko'"
+   },
+   "showQuickAddTooltip": {
+      "message": "Wyświetla pole tekstowe dla funkcji 'Dodaj szybko' u góry po lewej stronie"
+   },
+   "showRefresh": {
+      "message": "Pokaż ikonę odświeżenia"
+   },
+   "showRefreshTooltip": {
+      "message": "Pokazuje ikonę odświeżenia "
+   },
+   "showTime": {
+      "message": "Pokaż czas"
+   },
+   "showTimeSpecificEventsBeforeAllDay": {
+      "message": "Pokazuj wydarzenia o określonym czasie przed wydarzeniami całodniowymi"
+   },
+   "showTimeSpecificEventsBeforeAllDayTooltip": {
+      "message": "Jeśli jutro masz wydarzenie całodzienne i inne wydarzenie o 10:00, zostanie pokazana 10, a nie 1 d."
+   },
+   "showWeekNumbers": {
+      "message": "Pokaż numer tygodnia"
+   },
+   "signIn": {
+      "message": "Zaloguj się"
+   },
+   "signInAsUserOfOrg": {
+      "message": "Musisz $1 przy pomocy konta email Twojej firmy"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "wylogować się i zalogować sie do swojego kalendarza"
+   },
+   "small": {
+      "message": "Małe"
+   },
+   "smallest": {
+      "message": "najmniejszy"
+   },
+   "snooze": {
+      "message": "Drzemka"
+   },
+   "snoozeAll": {
+      "message": "Drzemka dla wszystkich"
+   },
+   "snoozedEvents": {
+      "message": "Wydarzenia uśpione"
+   },
+   "snoozes": {
+      "message": "Pokaż/termin uśpionych wydarzeń"
+   },
+   "somedayAt": {
+      "message": "$1 o"
+   },
+   "sound": {
+      "message": "Dźwięk"
+   },
+   "source": {
+      "message": "Źródło"
+   },
+   "speechEngine": {
+      "message": "Moduł rozpoznawania mowy"
+   },
+   "staySignedIn": {
+      "message": "Nie wylogowuj"
+   },
+   "stillHaveAccess": {
+      "message": "Rozszerzenie będzie nadal mieć dostęp, chyba że odwołasz powyżej dostęp"
+   },
+   "successful": {
+      "message": "OK!"
+   },
+   "testDescription": {
+      "message": "Opis testu"
+   },
+   "testEvent": {
+      "message": "Wydarzenie testowe"
+   },
+   "testIt": {
+      "message": "Wypróbuj!"
+   },
+   "textNotification": {
+      "message": "Tekst powiadomienia"
+   },
+   "textNotificationToolTip": {
+      "message": "Powiadamia o ostatnich nieprzeczytanych wiadomościach e-mail. Kompatybilny z Centrum Powiadomiania OS X  i Growl"
+   },
+   "thankYouForYourContribution": {
+      "message": "Funkcje są teraz odblokowane. Dziękuję za wsparcie!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Zamknij okno i ciesz się pełną funkcjonalnością rozszerzenia!"
+   },
+   "timeout": {
+      "message": "Opóźnienie czasu oczekiwania"
+   },
+   "timeoutNote": {
+      "message": "Zmień wyłącznie, jeśli masz dużo kalendarzy lub wydarzeń"
+   },
+   "timeoutTooltip": {
+      "message": "Może usunąć problemy z logowaniem. Zwiększ, jeśli masz 10 lub więcej kalendarzy lub bardzo dużo wydarzeń)"
+   },
+   "toExcludeFromButton": {
+      "message": "Aby wykluczyć kalendarze z przycisku dotyczące"
+   },
+   "toExcludeFromNotifications": {
+      "message": "Aby wykluczyć powiadomienia dotyczące"
+   },
+   "toNeverHide": {
+      "message": "Nigdy nie ukrywaj: zaznacz powyżej 'Tekst powiadomień'"
+   },
+   "today": {
+      "message": "dzisiaj"
+   },
+   "todayAt": {
+      "message": "dzisiaj o"
+   },
+   "tom": {
+      "message": "jutro"
+   },
+   "tomorrow": {
+      "message": "jutro"
+   },
+   "tomorrowAt": {
+      "message": "jutro o"
+   },
+   "undo": {
+      "message": "Cofnij"
+   },
+   "unlockFeatures": {
+      "message": "Odblokuj te funkcje i przyszłe dzięki jednorazowemu wsparciu. Będą dostępne natychmiast!"
+   },
+   "unlockHeader": {
+      "message": "Odblokuj dodatkowe funkcje"
+   },
+   "usingCalendarsFromMultipleAccounts": {
+      "message": "Używać kalendarzy z wielu kont?"
+   },
+   "videoCall": {
+      "message": "Rozmowa wideo"
+   },
+   "view": {
+      "message": "Widok"
+   },
+   "visibleCalendars": {
+      "message": "Widoczne kalendarze"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Wyłącznie, jeśli nie siedzisz przed komputerem przynajmniej"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "Użyj tej opcji, jeśli chcesz usłyszć głos WYŁĄCZNIE, jeśli nie używasz komputera lub jest on w stanie spoczynku"
+   },
+   "voiceTest": {
+      "message": "Wiadomość testowa"
+   },
+   "volume": {
+      "message": "głośność"
+   },
+   "wantToStaySignedIn": {
+      "message": "Nie wylogowywać?"
+   },
+   "week": {
+      "message": "Tydzień"
+   },
+   "what": {
+      "message": "Co"
+   },
+   "when": {
+      "message": "Kiedy"
+   },
+   "whenSignedOutOfGoogle": {
+      "message": "Po wylogowaniu się z kalendarza Google, rozszerzenie będzie..."
+   },
+   "where": {
+      "message": "Gdzie"
+   },
+   "who": {
+      "message": "Kto"
+   },
+   "whyContribute": {
+      "message": "Dlaczego mam pomóc?"
+   },
+   "whyContributeReason1": {
+      "message": "Poświęcam wiele godzin na aktualizacje i wsparcie $1 tygodniowo w odpowiedzi na Wasze sugestie"
+   },
+   "whyContributeReason1_1": {
+      "message": "wszystkie moje rozszerzenia"
+   },
+   "whyContributeReason2": {
+      "message": "Czytam i szybko odpowiadam na Wasze komentarze i recenzje przez mój $1 :)"
+   },
+   "whyContributeReason2_1": {
+      "message": "monitor recenzji"
+   },
+   "whyContributeReason3": {
+      "message": "Możesz przekazać ile chcesz i będę szczęśliwy!"
+   },
+   "whyContributeReason4": {
+      "message": "To rozszerzenie otrzymuje świetne $1, dzięki Tobie!"
+   },
+   "whyContributeReason4_1": {
+      "message": "recezje"
+   },
+   "whyContributeReason5": {
+      "message": "Dowiedz się więcej o mnie $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Bądź bardziej efektywnym użytkowniekiem Kalendarza Google dla samego siebie i swojej firmy"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Znacznie tańsze niż $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "wide": {
+      "message": "Szeroki"
+   },
+   "widget": {
+      "message": "Widżet"
+   },
+   "yesterday": {
+      "message": "wczoraj"
+   }
+}

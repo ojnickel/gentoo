@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "مکان نما جالب برای کروم ™. از یک مجموعه بزرگ از مکان نما رایگان استفاده کنید یا خودتان آپلود کنید."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - تغییر مکان نما"
+   },
+   "close": {
+      "message": "نزدیک"
+   },
+   "cursor_size_extra_large": {
+      "message": "فوق العاده بزرگ"
+   },
+   "cursor_size_extra_small": {
+      "message": "بسیار کوچک"
+   },
+   "cursor_size_large": {
+      "message": "بزرگ"
+   },
+   "cursor_size_medium": {
+      "message": "متوسط"
+   },
+   "cursor_size_small": {
+      "message": "کوچک"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "delete_all": {
+      "message": "حذف همه"
+   },
+   "enter_your_search_text": {
+      "message": "متن جستجوی خود را وارد کنید"
+   },
+   "favorite_by_time": {
+      "message": "توسط زمان"
+   },
+   "favorite_by_visited_pages": {
+      "message": "توسط صفحات"
+   },
+   "favorite_manage_button": {
+      "message": "مدیریت موارد دلخواه"
+   },
+   "favorite_rotate_favorites": {
+      "message": "چرخش موارد دلخواه"
+   },
+   "favorite_sec_page": {
+      "message": "ثانیه/صفحه"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "مدیریت موارد دلخواه"
+   },
+   "hint_defaultTo": {
+      "message": "مکان نما پیش فرض"
+   },
+   "hint_remove_cursor": {
+      "message": "برای حذف مکان نما کلیک کنید"
+   },
+   "hint_remove_pointer": {
+      "message": "به حذف اشاره گر دست را کلیک کنید"
+   },
+   "hint_settings": {
+      "message": "تنظیمات"
+   },
+   "hint_size": {
+      "message": "اندازه مکان نما"
+   },
+   "hint_upload_cursor": {
+      "message": "برای بارگذاری مکان نما کلیک کنید"
+   },
+   "hint_upload_pointer": {
+      "message": "برای آپلود اشاره گر دست را کلیک کنید"
+   },
+   "item_cursor": {
+      "message": "مکان نما"
+   },
+   "item_pointer": {
+      "message": "اشاره گر"
+   },
+   "manage_cursor_size_settings": {
+      "message": "تنظیمات اندازه مکان نما"
+   },
+   "manage_manage_collection": {
+      "message": "مدیریت مجموعه"
+   },
+   "nav_how_to_use": {
+      "message": "نحوه استفاده"
+   },
+   "nav_manage": {
+      "message": "مدیریت کردن"
+   },
+   "nav_more_cursors": {
+      "message": "نشانگرهای بیشتر"
+   },
+   "nav_upload_cursor": {
+      "message": "بارگذاری مکان نما"
+   },
+   "options_add_new": {
+      "message": "جدید اضافه کن"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>توصیه ها:\u003C/h2>\u003Cul>\u003Cli>از تصاویر بیش از 128x128 پیکسل استفاده نکنید؛\u003C/li>\u003Cli>از تصاویر با پس زمینه شفاف مانند .png؛\u003C/li>\u003Cli>بیشتر لبخند بزنید؛)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "نشانگرهای خود را بارگذاری کنید"
+   },
+   "popup_default_cursor": {
+      "message": "مکان نما پیش فرض"
+   },
+   "popup_manage": {
+      "message": "مدیریت کردن"
+   },
+   "popup_more_cursor": {
+      "message": "نشانگرهای بیشتر"
+   },
+   "popup_upload_cursor": {
+      "message": "بارگذاری مکان نما"
+   },
+   "rate_us_5_stars": {
+      "message": "لطفا به ما 5 ستاره بدهید، لطفا"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

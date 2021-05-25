@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Manage - Custom Cursor for Chrome™</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Blife">
+    <link href="assets/styles/vendor.css" rel="stylesheet" type="text/css">
+    <link href="assets/styles/main.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="assets/favicon.ico">
+</head>
+<body>
+<header class="header-page">
+    <div class="header-row">
+        <div class="burger"><span></span></div>
+        <a href="https://custom-cursor.com?utm_source=ext&utm_medium=links" class="header-logo"><img
+                src="assets/logo.png" alt=""></a>
+        <ul class="header-menu">
+            <li>
+                <a href="options.html" data-i18n="nav_upload_cursor"></a></li>
+            <li class="active">
+                <a href="javascript:void(0)" data-i18n="nav_manage"></a>
+            </li>
+            <li>
+                <a href="https://custom-cursor.com/?utm_source=ext&utm_medium=links&utm_campaign=upload_more_cursors"
+                   target="_blank" data-i18n="nav_more_cursors"></a></li>
+            <li>
+                <a href="https://custom-cursor.com/how-to-use?utm_source=ext&utm_medium=links&utm_campaign=upload_how_to_use#question4"
+                   target="_blank" data-i18n="nav_how_to_use">How to use</a></li>
+        </ul>
+    </div>
+</header>
+
+
+<section class="block-favorites">
+    <div class="container">
+        <h2 class="block-title block-title__line" data-i18n="favorite_title_manage_favorites"></h2>
+        <div class="favorites-row">
+            <label class="favorites-switch favorites-switch__change">
+                <input type="checkbox" id="rotator_status">
+                <span class="favorites-switch-name" data-i18n="favorite_rotate_favorites">Rotate Favorites</span>
+                <span class="favorites-switch-btn"><span class="favorites-circle"></span></span>
+            </label>
+            <label class="favorites-switch favorites-switch__no-change">
+                <input type="checkbox" id="rotator_type">
+                <span class="favorites-switch-name" data-i18n="favorite_by_time">by Time</span>
+                <span class="favorites-switch-btn"><span class="favorites-circle"></span></span>
+                <span class="favorites-switch-name" data-i18n="favorite_by_visited_pages">by visited pages</span>
+            </label>
+            <label class="favorites-num">
+                <input type="text" value="14" id="rotator_type_count">
+                <span>sec/page</span>
+            </label>
+        </div>
+        <div class="favorites-btn"></div>
+    </div>
+</section>
+
+<section class="block-items block-items__pb100 block-items__page">
+    <div class="container">
+        <h2 class="block-title block-title__line" data-i18n="manage_manage_collection"></h2>
+        <div class="row" id="collection"></div>
+    </div>
+</section>
+
+
+<footer>
+    <div class="container">
+        <div class="footer-row">
+            <div class="footer-l">
+                <a class="footer-logo" href="https://custom-cursor.com?utm_source=ext&utm_medium=links" target="_blank">
+                    <img src="assets/logo.png" alt="Custom Cursor Logo"/>
+                </a>
+                <div class="footer-soc">
+                    <a href="https://twitter.com/customcursor" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.pinterest.com/custom_cursor/" target="_blank"><i
+                            class="fab fa-pinterest-p"></i></a>
+                    <a href="https://www.youtube.com/channel/UCzIeCDmL_C-94TSNrie5lnQ" target="_blank"><i
+                            class="fab fa-youtube"></i></a>
+                </div>
+                <div class="footer-b">
+                    <p><i class="far fa-copyright"></i>Copyright - Blife 2020</p>
+                </div>
+            </div>
+            <ul class="footer-menu" style="column-count: 1">
+                <li><a href="https://community.custom-cursor.com" title="Community" target="_blank">Community</a></li>
+                <li><a href="https://custom-cursor.com/en/editors_picks" title="Editors picks" target="_blank">Editors
+                    picks</a></li>
+                <li><a href="https://custom-cursor.com/en/tops" title="Top Packs" target="_blank">Top Packs</a></li>
+                <li><a href="https://custom-cursor.com/en/packs" title="New Packs" target="_blank">New Packs</a></li>
+            </ul>
+            <ul class="footer-menu" style="column-count: 1">
+                <li><a href="https://custom-cursor.com/en/how-to-use" title="How to Use" target="_blank">How to Use</a>
+                </li>
+                <li><a href="https://custom-cursor.com/en/support" title="Support" target="_blank">Support</a></li>
+                <li><a target="_blank"
+                       href="https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale/reviews?utm_source=site&amp;utm_medium=links&amp;utm_campaign=rate_us"
+                       title="Rate us">Rate us</a></li>
+            </ul>
+            <ul class="footer-menu" style="column-count: 1">
+                <li><a href="https://custom-cursor.com/en/terms" target="_blank" rel="nofollow" title="Terms of Use">Terms
+                    of Use</a></li>
+                <li><a href="https://custom-cursor.com/en/privacy" target="_blank" rel="nofollow"
+                       title="Privacy policy">Privacy policy</a></li>
+                <li><a href="https://custom-cursor.com/en/cookie-policy" target="_blank" rel="nofollow"
+                       title="Cookie policy">Cookie policy</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+<div id="dialogs">
+
+</div>
+
+
+<script id="template_col" type="text/html">
+    <div class="col-lg-4 col-md-6 mb20" data-id="${collname}">
+        <div class="c-item">
+            <h3 class="item-title"><a data-id="${collname}" href="javascript:void(0)"
+                                      class="fixture">${collection.name}</a></h3>
+            <a href="javascript:void(0)" data-id="${collname}" class="item-img fixture">
+                <picture>
+                    <source type="image/png" srcset=${collection.image}/>
+                    <img src="${collection.image}">
+                </picture>
+            </a>
+            <div class="c-btn">
+                <a href="javascript:void(0)" class="btn btn__white delete-coll" data-collection="${collection.slug}">${browser.i18n.getMessage("delete")}</a>
+                <a href="javascript:void(0)" data-id="${collname}" class="btn btn__blue fixture">${browser.i18n.getMessage('nav_manage')}</a>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="table-media-row" type="text/html">
+    <div class="table-media-row" data-packid="${pack.id}" data-collection="${collname}">
+        <img src="${pack.image}"/>
+        <h3>${pack.name}</h3>
+        <a href="javascript:void(0)" data-collection="${collname}" class="btn-media delete-pack"
+           data-packid="${pack.id}">
+            ${browser.i18n.getMessage("delete")} <i class="fas fa-times"></i>
+        </a>
+    </div>
+</script>
+
+<script id="list-pack" type="text/html">
+    <div style="display: none;" id="${collname}" class="popup-view">
+        <div class="popup-view-content">
+            <h2 class="block-title">${collection.name}</h2>
+            <div class="box-view-search">
+                <div class="popup-view-search">
+                    <form action="">
+                        <input type="text" placeholder="${browser.i18n.getMessage('enter_your_search_text')}" name="search"
+                               id="search-${collname}">
+                    </form>
+                    <a class="view-search-close" title="${browser.i18n.getMessage('close')}" href="javascript:void(0)" for="search-${collname}"><i
+                            class="fas fa-times"></i></a>
+                </div>
+                <div class="view-search-btn" title="${browser.i18n.getMessage('search')}"><img src="/assets/images/icons/search-blue-icon.png" alt=""></div>
+            </div>
+            <div class="table-media">
+                {{each collection.items}}
+                <div class="table-media-row" data-packid="${id}" data-collection="${collname}">
+                    <img src="${image}"/>
+                    <h3>${name}</h3>
+                    <a href="javascript:void(0)" data-collection="${collname}" class="btn-media delete-pack" data-packid="${id}">${browser.i18n.getMessage("delete")} <i class="fas fa-times"></i></a>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+        <div class="popup-view-bot" style="display: inline-flex">
+            <button href="javascript:void(0)" class="btn btn__white delete-coll" data-collection="${collection.slug}"
+                    style="margin: 0 auto;width: auto;">${browser.i18n.getMessage("delete_all")}
+            </button>
+            <button class="btn btn__blue popup-view-btn">${browser.i18n.getMessage("close")}</button>
+        </div>
+    </div>
+</script>
+
+<script id="fav-view" type="text/html">
+    <div style="display: none;" id="fav_list" class="popup-view">
+        <div class="popup-view-content">
+            <h2 class="block-title">Favorites</h2>
+            <div class="box-view-search">
+                <div class="popup-view-search">
+                    <form>
+                        <input class="search" type="text" placeholder="${browser.i18n.getMessage('enter_your_search_text')}" name="search">
+                    </form>
+                    <div class="view-search-close" title="${browser.i18n.getMessage('close')}"><i class="fas fa-times"></i></div>
+                </div>
+                <div class="view-search-btn" title="${browser.i18n.getMessage('search')}"><img src="/assets/images/icons/search-blue-icon.png" alt=""></div>
+            </div>
+            <div class="table-media" id="">
+                {{each packs}}
+                <div class="table-media-row" data-packid="${id}" data-collection="${collname}">
+                    <img src="${image}"/>
+                    <h3>${name}</h3>
+                    <a href="javascript:void(0)" data-collection="${collname}" class="btn-media delete-pack-favorites"
+                       data-packid="${id}">
+                        ${browser.i18n.getMessage("delete")} <i class="fas fa-times"></i>
+                    </a>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+        <div class="popup-view-bot" style="display: inline-flex; width: 100%">
+            <button class="btn btn__purple delete-all-favorites" style="margin: 0 auto;width: auto;">
+                ${browser.i18n.getMessage("delete_all")}
+            </button>
+            <button class="btn btn__blue popup-view-btn" data-id="fav_list">${browser.i18n.getMessage("close")}</button>
+        </div>
+    </div>
+</script>
+<script src="libs/vendor.js"></script>
+<script src="libs/Localize.js"></script>
+<script src="libs/cursor.js"></script>
+<script src="libs/info.js"></script>
+<script src="libs/jquery.tmpl.js"></script>
+<script src="manage.js"></script>
+
+</body>
+
+</html>

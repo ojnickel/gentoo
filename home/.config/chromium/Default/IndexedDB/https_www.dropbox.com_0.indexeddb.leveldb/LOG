@@ -1,0 +1,23 @@
+2021/05/01-11:59:54.301 2ec7 Creating DB /home/ossi/.config/chromium/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb since it was missing.
+2021/05/01-11:59:54.315 2ec7 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/02-20:41:13.345 1766 Level-0 table #5: started
+2021/05/02-20:41:13.359 1766 Level-0 table #5: 890682 bytes OK
+2021/05/02-20:41:13.372 1766 Delete type=0 #3
+2021/05/06-08:50:52.354 354 Level-0 table #7: started
+2021/05/06-08:50:52.372 354 Level-0 table #7: 721896 bytes OK
+2021/05/06-08:50:52.381 354 Delete type=0 #4
+2021/05/06-09:30:41.366 804 Compacting 1@1 + 1@2 files
+2021/05/06-09:30:41.391 804 Generated table #8@1: 36 keys, 912 bytes
+2021/05/06-09:30:41.391 804 Compacted 1@1 + 1@2 files => 912 bytes
+2021/05/06-09:30:41.397 804 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/06-09:30:41.397 804 Delete type=2 #5
+2021/05/06-09:30:41.397 804 Delete type=2 #7
+2021/05/09-21:02:23.347 1c6a Level-0 table #10: started
+2021/05/09-21:02:23.365 1c6a Level-0 table #10: 716946 bytes OK
+2021/05/09-21:02:23.372 1c6a Delete type=0 #6
+2021/05/09-22:41:03.358 2f56 Compacting 1@1 + 1@2 files
+2021/05/09-22:41:03.371 2f56 Generated table #11@1: 35 keys, 931 bytes
+2021/05/09-22:41:03.371 2f56 Compacted 1@1 + 1@2 files => 931 bytes
+2021/05/09-22:41:03.377 2f56 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/09-22:41:03.377 2f56 Delete type=2 #8
+2021/05/09-22:41:03.377 2f56 Delete type=2 #10

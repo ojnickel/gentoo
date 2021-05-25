@@ -1,0 +1,46 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/common.js", "js/checkerPlusForCalendar.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icons/icon-19_default.png",
+      "default_popup": "popup.html?source=toolbar",
+      "default_title": "Checker Plus for Google Calendar™"
+   },
+   "commands": {
+      "dismissEvent": {
+         "description": "__MSG_dismissAllInNotificationWindow__"
+      },
+      "quickAddSelection": {
+         "description": "__MSG_quickAdd__"
+      }
+   },
+   "content_security_policy": "script-src 'self' https://maps.googleapis.com https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.4cade6d623f2d8bef4126c0d4cc9067690f4f4f15a9d5ce8b2d7e1e5b415ce24",
+   "homepage_url": "https://jasonsavard.com?ref=homepage_url&ext=calendar",
+   "icons": {
+      "128": "images/icons/icon-128.png",
+      "16": "images/icons/icon-16.png",
+      "32": "images/icons/icon-32_default.png",
+      "48": "images/icons/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2G3FhLiIdfGJnNdt4KLc53t7R8rMAe5Fl4ffg2lebQVBbz1i561A/LtARLMTSB8FYKTDUS5D+iXB8XEhy8qOE+PCqe6YuuyYrarMZZg2c/F7hdYnw9vpVbdSkOqkinfRg2uf+gRKuY5Vj26E/d6rS+b/uION6DytChgRpHHQkJQIDAQAB",
+   "manifest_version": 2,
+   "name": "Checker Plus for Google Calendar™",
+   "oauth2": {
+      "client_id": "74919836968-ube40emj4vdiujk6q2h12l0n5sgblkvu.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/calendar", "https://www.googleapis.com/auth/calendar.readonly", "https://www.googleapis.com/auth/calendar.events", "https://www.googleapis.com/auth/tasks" ]
+   },
+   "omnibox": {
+      "keyword": "cal"
+   },
+   "optional_permissions": [ "background", "https://calendar.google.com/" ],
+   "options_page": "options.html",
+   "permissions": [ "alarms", "storage", "tts", "idle", "contextMenus", "notifications", "activeTab", "gcm", "identity", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "28.0",
+   "web_accessible_resources": [ "options.html", "contribute.html", "oauth2callback.html", "images/bell-48.png", "images/icons/icon-48.png", "images/icons/icon-128.png" ]
+}

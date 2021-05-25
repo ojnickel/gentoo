@@ -1,3 +1,12 @@
-2021/04/09-15:30:49.829 5e5c Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/09-15:30:49.829 5e5c Recovering log #45
-2021/04/09-15:30:49.833 5e5c Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/000045.log 
+2021/05/24-14:27:45.052 e9b Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/24-14:27:45.052 e9b Recovering log #168
+2021/05/24-14:27:45.054 e9b Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/chrome-extension_bkdgflcldnnnapblkhphbgpggdiikppg_0.indexeddb.leveldb/000168.log 
+2021/05/25-05:28:00.710 780e Level-0 table #173: started
+2021/05/25-05:28:00.728 780e Level-0 table #173: 1411673 bytes OK
+2021/05/25-05:28:00.735 780e Delete type=0 #168
+2021/05/25-09:58:01.048 1442 Compacting 1@1 + 1@2 files
+2021/05/25-09:58:01.060 1442 Generated table #174@1: 137 keys, 106357 bytes
+2021/05/25-09:58:01.060 1442 Compacted 1@1 + 1@2 files => 106357 bytes
+2021/05/25-09:58:01.066 1442 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-09:58:01.066 1442 Delete type=2 #170
+2021/05/25-09:58:01.066 1442 Delete type=2 #173

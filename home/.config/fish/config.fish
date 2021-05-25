@@ -25,7 +25,7 @@ function clilpass
     echo "Use Category? [y/n]"
     read b
     if test $b = "n"
-        #without category name. Couldn't fig ure out, how to escape ()
+        #without category name. Couldn']t fig ure out, how to escape ()
         set listLog[$a] (echo $listLog[$a] | cut -d "/" -f 2)
     end
     echo $listLog[$a]
@@ -38,10 +38,13 @@ function clilpass
         switch $b
             case "p"
                 lpass show $listLog[$a] --password -c
+                echo "copied password of $listLog[$a]"
             case "u"
                 lpass show $listLog[$a] --username -c
+                echo "copied username of $listLog[$a]"
             case "w"
                 lpass show $listLog[$a] --url -c
+                echo "copied url of $listLog[$a] "
             case "x"
                 set loop 0
         end
@@ -52,4 +55,18 @@ function clilpass
 #    lpass show  $argv[$a]
 end
 
+
+fish_ssh_agent
+ssh-add ~/.ssh/arbeit
+ssh-add ~/.ssh/id_rsa
+
+function rma -d "rm all"
+    set dir (echo $PWD)
+    echo "rm in $dir? [yes]"
+    read a
+    if test $a = "yes"
+        rm .* -vf
+        rm * -rvf
+    end
+end
 

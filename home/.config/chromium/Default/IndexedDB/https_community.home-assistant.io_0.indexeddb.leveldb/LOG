@@ -1,0 +1,15 @@
+2021/04/12-15:15:08.887 7441 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_community.home-assistant.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/12-15:15:08.887 7441 Recovering log #7
+2021/04/12-15:15:08.887 7441 Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/https_community.home-assistant.io_0.indexeddb.leveldb/000007.log 
+2021/04/12-15:15:41.831 769d Level-0 table #12: started
+2021/04/12-15:15:41.835 769d Level-0 table #12: 68976 bytes OK
+2021/04/12-15:15:41.841 769d Delete type=0 #7
+2021/04/12-15:15:41.841 769d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/12-15:15:41.842 769d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00 \xa4\x8bc\x8cwB\x00\x01n\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00m\x00m\x00u\x00n\x00i\x00t\x00y\x00.\x00h\x00o\x00m\x00e\x00-\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00.\x00i\x00o\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00t\x00h\x00e\x00o\x00n\x00e\x00/\x002\x005\x00/\x005\x00_\x000\x006\x00b\x00d\x00c\x007\x000\x009\x007\x00f\x00c\x00e\x001\x006\x004\x00f\x001\x002\x00e\x006\x00b\x001\x006\x008\x00d\x00c\x009\x005\x008\x00b\x001\x007\x00.\x00p\x00n\x00g' @ 5289 : 1
+2021/04/12-15:15:41.842 769d Compacting 1@1 + 1@2 files
+2021/04/12-15:15:41.850 769d Generated table #13@1: 850 keys, 94104 bytes
+2021/04/12-15:15:41.850 769d Compacted 1@1 + 1@2 files => 94104 bytes
+2021/04/12-15:15:41.856 769d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/12-15:15:41.856 769d Delete type=2 #9
+2021/04/12-15:15:41.857 769d Delete type=2 #12
+2021/04/12-15:15:41.857 769d Manual compaction at level-1 from '\x00\x01\x01 \x03\x00 \xa4\x8bc\x8cwB\x00\x01n\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00m\x00m\x00u\x00n\x00i\x00t\x00y\x00.\x00h\x00o\x00m\x00e\x00-\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00.\x00i\x00o\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00t\x00h\x00e\x00o\x00n\x00e\x00/\x002\x005\x00/\x005\x00_\x000\x006\x00b\x00d\x00c\x007\x000\x009\x007\x00f\x00c\x00e\x001\x006\x004\x00f\x001\x002\x00e\x006\x00b\x001\x006\x008\x00d\x00c\x009\x005\x008\x00b\x001\x007\x00.\x00p\x00n\x00g' @ 5289 : 1 .. (end); will stop at (end)

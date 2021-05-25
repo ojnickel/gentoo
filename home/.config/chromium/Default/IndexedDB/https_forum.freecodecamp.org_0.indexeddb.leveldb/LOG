@@ -1,0 +1,6 @@
+2021/05/18-12:12:12.278 71d Creating DB /home/ossi/.config/chromium/Default/IndexedDB/https_forum.freecodecamp.org_0.indexeddb.leveldb since it was missing.
+2021/05/18-12:12:12.294 71d Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_forum.freecodecamp.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/18-12:13:45.719 682 Level-0 table #5: started
+2021/05/18-12:13:45.722 682 Level-0 table #5: 5669 bytes OK
+2021/05/18-12:13:45.728 682 Delete type=0 #3
+2021/05/18-12:13:45.728 682 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

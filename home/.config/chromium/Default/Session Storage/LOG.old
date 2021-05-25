@@ -1,54 +1,18 @@
-2021/04/05-16:48:41.539 3 Reusing MANIFEST /home/ossi/.config/chromium/Default/Session Storage/MANIFEST-000001
-2021/04/05-16:48:41.540 3 Recovering log #16
-2021/04/05-16:48:41.540 3 Reusing old log /home/ossi/.config/chromium/Default/Session Storage/000016.log 
-2021/04/05-16:52:52.130 3 Level-0 table #21: started
-2021/04/05-16:52:52.138 3 Level-0 table #21: 18187 bytes OK
-2021/04/05-16:52:52.145 3 Delete type=0 #16
-2021/04/08-12:44:40.848 f9d Level-0 table #23: started
-2021/04/08-12:44:40.856 f9d Level-0 table #23: 16648 bytes OK
-2021/04/08-12:44:40.863 f9d Delete type=0 #20
-2021/04/09-11:57:19.190 14f0 Level-0 table #25: started
-2021/04/09-11:57:19.203 14f0 Level-0 table #25: 32558 bytes OK
-2021/04/09-11:57:19.209 14f0 Delete type=0 #22
-2021/04/09-12:15:19.203 14f7 Level-0 table #27: started
-2021/04/09-12:15:19.211 14f7 Level-0 table #27: 30997 bytes OK
-2021/04/09-12:15:19.218 14f7 Delete type=0 #24
-2021/04/09-12:15:19.219 14f7 Compacting 4@0 + 1@1 files
-2021/04/09-12:15:19.226 14f7 Generated table #28@0: 943 keys, 29216 bytes
-2021/04/09-12:15:19.226 14f7 Compacted 4@0 + 1@1 files => 29216 bytes
-2021/04/09-12:15:19.232 14f7 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/04/09-12:15:19.234 14f7 Delete type=2 #18
-2021/04/09-12:15:19.234 14f7 Delete type=2 #21
-2021/04/09-12:15:19.234 14f7 Delete type=2 #23
-2021/04/09-12:15:19.234 14f7 Delete type=2 #25
-2021/04/09-12:15:19.234 14f7 Delete type=2 #27
-2021/04/09-12:32:19.212 14fd Level-0 table #30: started
-2021/04/09-12:32:19.224 14fd Level-0 table #30: 30942 bytes OK
-2021/04/09-12:32:19.232 14fd Delete type=0 #26
-2021/04/09-12:49:02.739 14fd Level-0 table #32: started
-2021/04/09-12:49:02.751 14fd Level-0 table #32: 30900 bytes OK
-2021/04/09-12:49:02.759 14fd Delete type=0 #29
-2021/04/09-13:06:19.234 14fd Level-0 table #34: started
-2021/04/09-13:06:19.247 14fd Level-0 table #34: 30955 bytes OK
-2021/04/09-13:06:19.254 14fd Delete type=0 #31
-2021/04/09-13:23:19.246 1511 Level-0 table #36: started
-2021/04/09-13:23:19.258 1511 Level-0 table #36: 31022 bytes OK
-2021/04/09-13:23:19.265 1511 Delete type=0 #33
-2021/04/09-13:23:19.265 1511 Compacting 4@0 + 1@1 files
-2021/04/09-13:23:19.270 1511 Generated table #37@0: 943 keys, 29247 bytes
-2021/04/09-13:23:19.270 1511 Compacted 4@0 + 1@1 files => 29247 bytes
-2021/04/09-13:23:19.276 1511 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/04/09-13:23:19.278 1511 Delete type=2 #28
-2021/04/09-13:23:19.278 1511 Delete type=2 #30
-2021/04/09-13:23:19.278 1511 Delete type=2 #32
-2021/04/09-13:23:19.278 1511 Delete type=2 #34
-2021/04/09-13:23:19.278 1511 Delete type=2 #36
-2021/04/09-13:40:19.260 1511 Level-0 table #39: started
-2021/04/09-13:40:19.272 1511 Level-0 table #39: 31011 bytes OK
-2021/04/09-13:40:19.280 1511 Delete type=0 #35
-2021/04/09-13:57:19.301 1511 Level-0 table #41: started
-2021/04/09-13:57:19.313 1511 Level-0 table #41: 31107 bytes OK
-2021/04/09-13:57:19.321 1511 Delete type=0 #38
-2021/04/09-15:02:19.347 1554 Level-0 table #43: started
-2021/04/09-15:02:19.360 1554 Level-0 table #43: 28356 bytes OK
-2021/04/09-15:02:19.368 1554 Delete type=0 #40
+2021/05/19-12:13:10.529 5 Reusing MANIFEST /home/ossi/.config/chromium/Default/Session Storage/MANIFEST-000001
+2021/05/19-12:13:10.530 5 Recovering log #1168
+2021/05/19-12:13:10.531 5 Reusing old log /home/ossi/.config/chromium/Default/Session Storage/001168.log 
+2021/05/20-11:49:59.604 55d Level-0 table #1172: started
+2021/05/20-11:49:59.616 55d Level-0 table #1172: 17276 bytes OK
+2021/05/20-11:49:59.627 55d Delete type=0 #1168
+2021/05/21-16:47:17.768 c06 Level-0 table #1174: started
+2021/05/21-16:47:17.780 c06 Level-0 table #1174: 14834 bytes OK
+2021/05/21-16:47:17.788 c06 Delete type=0 #1171
+2021/05/21-16:47:17.789 c06 Compacting 4@0 + 1@1 files
+2021/05/21-16:47:17.798 c06 Generated table #1175@0: 2302 keys, 47207 bytes
+2021/05/21-16:47:17.798 c06 Compacted 4@0 + 1@1 files => 47207 bytes
+2021/05/21-16:47:17.805 c06 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/21-16:47:17.806 c06 Delete type=2 #1165
+2021/05/21-16:47:17.807 c06 Delete type=2 #1167
+2021/05/21-16:47:17.807 c06 Delete type=2 #1169
+2021/05/21-16:47:17.807 c06 Delete type=2 #1172
+2021/05/21-16:47:17.807 c06 Delete type=2 #1174

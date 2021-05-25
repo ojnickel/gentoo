@@ -1,0 +1,15 @@
+2021/04/11-18:21:05.861 566f Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_community.home-assistant.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/11-18:21:05.861 566f Recovering log #4
+2021/04/11-18:21:05.861 566f Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/https_community.home-assistant.io_0.indexeddb.leveldb/000004.log 
+2021/04/11-18:44:03.213 5734 Level-0 table #8: started
+2021/04/11-18:44:03.227 5734 Level-0 table #8: 125312 bytes OK
+2021/04/11-18:44:03.234 5734 Delete type=0 #4
+2021/04/11-18:44:03.234 5734 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/11-18:44:03.234 5734 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xa0\xcd\xef\x1b\x8cwB\x00\x01W\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00m\x00m\x00u\x00n\x00i\x00t\x00y\x00.\x00h\x00o\x00m\x00e\x00-\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00.\x00i\x00o\x00/\x00t\x00o\x00o\x00l\x00t\x00i\x00p\x00-\x00p\x00r\x00e\x00v\x00i\x00e\x00w\x00s\x00?\x00t\x00o\x00p\x00i\x00c\x00_\x00i\x00d\x00s\x00%\x005\x00B\x00%\x005\x00D\x00=\x001\x001\x004\x003\x007\x001' @ 3453 : 1
+2021/04/11-18:44:03.234 5734 Compacting 1@1 + 1@2 files
+2021/04/11-18:44:03.243 5734 Generated table #9@1: 441 keys, 58381 bytes
+2021/04/11-18:44:03.243 5734 Compacted 1@1 + 1@2 files => 58381 bytes
+2021/04/11-18:44:03.248 5734 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-18:44:03.248 5734 Delete type=2 #5
+2021/04/11-18:44:03.248 5734 Delete type=2 #8
+2021/04/11-18:44:03.249 5734 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xa0\xcd\xef\x1b\x8cwB\x00\x01W\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00m\x00m\x00u\x00n\x00i\x00t\x00y\x00.\x00h\x00o\x00m\x00e\x00-\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00.\x00i\x00o\x00/\x00t\x00o\x00o\x00l\x00t\x00i\x00p\x00-\x00p\x00r\x00e\x00v\x00i\x00e\x00w\x00s\x00?\x00t\x00o\x00p\x00i\x00c\x00_\x00i\x00d\x00s\x00%\x005\x00B\x00%\x005\x00D\x00=\x001\x001\x004\x003\x007\x001' @ 3453 : 1 .. (end); will stop at (end)

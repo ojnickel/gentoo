@@ -1,0 +1,5 @@
+2021/04/12-17:22:22.177 1a0b Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/12-17:22:56.959 1a0b Level-0 table #5: started
+2021/04/12-17:22:56.965 1a0b Level-0 table #5: 76050 bytes OK
+2021/04/12-17:22:56.971 1a0b Delete type=0 #3
+2021/04/12-17:22:56.972 1a0b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

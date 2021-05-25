@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="assets/styles/vendor.css"/>
+    <link rel="stylesheet" href="assets/styles/main.css"/>
+    <title id="page_title"></title>
+</head>
+<body>
+
+<div id="setting" class="popup-setting" style="background: white">
+    <div class="setting-header">
+        <a href="https://custom-cursor.com/?utm_source=ext&utm_medium=links&utm_campaign=main_more_cursors" target="_blank" class="setting-logo"><img src="/assets/images/logo.png" alt=""></a>
+        <div class="setting-btn">
+            <span class="btn-size" data-i18n-title="hint_size" ><img src="/assets/images/icons/size-icon.png" alt=""></span>
+            <a href="manage.html" data-i18n-title="hint_settings" target="_blank"><img src="/assets/images/icons/cog-icon.png" alt=""></a>
+            <span class="popup-settings-close" data-i18n-title="hint_defaultTo" id="clear"><img src="/assets/images/icons/switch-icon.png" alt=""></span>
+        </div>
+        <div class="setting-size">
+            <div id="popup-size"></div>
+            <a class="close-setting-size" href="javascript:void(0)"><i class="fas fa-times"></i></a>
+        </div>
+    </div>
+
+    <div class="setting-content">
+        <div class="setting-content-t noactive">
+            <div class="setting-search active">
+                <form action="">
+                    <input type="text" data-i18n-placeholder="enter_your_search_text" class="search">
+                </form>
+                <div class="close-setting-search search-button" data-i18n-title="search">
+                    <i class="fas fa-search"></i>
+                </div>
+            </div>
+        </div>
+        <div class="setting-collections" style="margin-top: 15px "></div>
+    </div>
+    <div class="setting-footer">
+        <a href="https://custom-cursor.com/?utm_source=ext&utm_medium=links&utm_campaign=main_more_cursors"
+           target="_blank" class="btn btn__blue" data-i18n="popup_more_cursor"></a>
+        <a href="options.html" target="_blank" class="btn btn__purple" data-i18n="popup_upload_cursor"></a>
+    </div>
+</div>
+
+<script src="libs/jquery.js"></script>
+<script src="libs/nouislider.js"></script>
+<script src="libs/lazyload.js"></script>
+<script src="libs/Localize.js"></script>
+<script src="libs/info.js"></script>
+<script src="libs/cursor.js"></script>
+<script src="popup/popup.js"></script>
+
+
+</body>
+</html>

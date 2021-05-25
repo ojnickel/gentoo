@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Забавни персонализирани курсори за Chrome ™. Използвайте голяма колекция от свободни курсори или качете свои собствени."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Курсор"
+   },
+   "close": {
+      "message": "Затвори"
+   },
+   "cursor_size_extra_large": {
+      "message": "Много голям"
+   },
+   "cursor_size_extra_small": {
+      "message": "Много малко"
+   },
+   "cursor_size_large": {
+      "message": "Голям"
+   },
+   "cursor_size_medium": {
+      "message": "Среда"
+   },
+   "cursor_size_small": {
+      "message": "Малък"
+   },
+   "delete": {
+      "message": "Изтрий"
+   },
+   "delete_all": {
+      "message": "Изтриване на всички"
+   },
+   "enter_your_search_text": {
+      "message": "Въведете текста за търсене"
+   },
+   "favorite_by_time": {
+      "message": "от Времето"
+   },
+   "favorite_by_visited_pages": {
+      "message": "от посетени страници"
+   },
+   "favorite_manage_button": {
+      "message": "Управление на любими"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Редувайте любими"
+   },
+   "favorite_sec_page": {
+      "message": "сек/страниц"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Управление на любими"
+   },
+   "hint_defaultTo": {
+      "message": "Курсор по подразбиране"
+   },
+   "hint_remove_cursor": {
+      "message": "Кликнете, за да премахнете курсора"
+   },
+   "hint_remove_pointer": {
+      "message": "Кликнете, за да премахнете показалеца"
+   },
+   "hint_settings": {
+      "message": "Настройки"
+   },
+   "hint_size": {
+      "message": "Размер на курсора"
+   },
+   "hint_upload_cursor": {
+      "message": "Кликнете, за да качите курсор"
+   },
+   "hint_upload_pointer": {
+      "message": "Кликнете, за да качите показалец"
+   },
+   "item_cursor": {
+      "message": "курсор"
+   },
+   "item_pointer": {
+      "message": "показалка"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Настройки за размер на курсора"
+   },
+   "manage_manage_collection": {
+      "message": "Управление на колекцията"
+   },
+   "nav_how_to_use": {
+      "message": "Как да използвам"
+   },
+   "nav_manage": {
+      "message": "Управлявам"
+   },
+   "nav_more_cursors": {
+      "message": "Още курсори"
+   },
+   "nav_upload_cursor": {
+      "message": "Качване на курсора"
+   },
+   "options_add_new": {
+      "message": "Добави нов"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Препоръки:\u003C/h2>\u003Cul>\u003Cli>Не използвайте картини с размери над 128х128 пиксела;\u003C/li>\u003Cli>Използвайте изображения с прозрачен фон, като например .png;\u003C/li>\u003Cli>Усмивка по-често;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Качете свои курсори"
+   },
+   "popup_default_cursor": {
+      "message": "Курсор по подразбиране"
+   },
+   "popup_manage": {
+      "message": "Управлявам"
+   },
+   "popup_more_cursor": {
+      "message": "Още курсори"
+   },
+   "popup_upload_cursor": {
+      "message": "Качване на курсора"
+   },
+   "rate_us_5_stars": {
+      "message": "Оцени ни 5 звезди, моля"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

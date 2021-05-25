@@ -1,0 +1,7 @@
+2021/04/29-13:39:18.414 4c17 Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_smallstep.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-13:39:18.414 4c17 Recovering log #3
+2021/04/29-13:39:18.415 4c17 Reusing old log /home/ossi/.config/chromium/Default/IndexedDB/https_smallstep.com_0.indexeddb.leveldb/000003.log 
+2021/04/29-13:39:22.597 5300 Level-0 table #5: started
+2021/04/29-13:39:22.601 5300 Level-0 table #5: 5059 bytes OK
+2021/04/29-13:39:22.695 5300 Delete type=0 #3
+2021/04/29-13:39:22.695 5300 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

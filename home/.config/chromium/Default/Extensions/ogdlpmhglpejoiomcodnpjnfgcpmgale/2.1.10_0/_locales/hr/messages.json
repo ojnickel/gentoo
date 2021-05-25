@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Zabavni prilagođeni pokazivači za Chrome ™. Koristite veliku zbirku besplatnih pokazivača ili prenesite svoje."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - izmjenjivač pokazivača"
+   },
+   "close": {
+      "message": "zatvoriti"
+   },
+   "cursor_size_extra_large": {
+      "message": "Jako veliko"
+   },
+   "cursor_size_extra_small": {
+      "message": "Ekstra malo"
+   },
+   "cursor_size_large": {
+      "message": "Veliki"
+   },
+   "cursor_size_medium": {
+      "message": "Srednji"
+   },
+   "cursor_size_small": {
+      "message": "Mali"
+   },
+   "delete": {
+      "message": "Izbrisati"
+   },
+   "delete_all": {
+      "message": "izbrisati sve"
+   },
+   "enter_your_search_text": {
+      "message": "Unesite tekst pretraživanja"
+   },
+   "favorite_by_time": {
+      "message": "s vremenom"
+   },
+   "favorite_by_visited_pages": {
+      "message": "po posjećenim stranicama"
+   },
+   "favorite_manage_button": {
+      "message": "Upravljanje favoritima"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Zakretanje favorita"
+   },
+   "favorite_sec_page": {
+      "message": "sek/stranica"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Upravljanje favoritima"
+   },
+   "hint_defaultTo": {
+      "message": "Zadani kursor"
+   },
+   "hint_remove_cursor": {
+      "message": "Kliknite za uklanjanje pokazivača"
+   },
+   "hint_remove_pointer": {
+      "message": "Kliknite za uklanjanje pokazivač veze"
+   },
+   "hint_settings": {
+      "message": "postavke"
+   },
+   "hint_size": {
+      "message": "Veličina kursora"
+   },
+   "hint_upload_cursor": {
+      "message": "Kliknite za prijenos pokazivača"
+   },
+   "hint_upload_pointer": {
+      "message": "Kliknite za prijenos pokazivač veze"
+   },
+   "item_cursor": {
+      "message": "pokazivač"
+   },
+   "item_pointer": {
+      "message": "pokazivač"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Postavke veličine pokazivača"
+   },
+   "manage_manage_collection": {
+      "message": "Upravljanje zbirkom"
+   },
+   "nav_how_to_use": {
+      "message": "Kako koristiti"
+   },
+   "nav_manage": {
+      "message": "Upravljati"
+   },
+   "nav_more_cursors": {
+      "message": "Više pokazivača"
+   },
+   "nav_upload_cursor": {
+      "message": "Učitaj pokazivač"
+   },
+   "options_add_new": {
+      "message": "Dodaj novi"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Preporuke:\u003C/h2>\u003Cul>\u003Cli>Nemojte koristiti slike više od 128x128 piksela;\u003C/li>\u003Cli>češće koristite slike s transparentnom pozadinom, kao što je .png;\u003C/li>\u003Cli>Osmijeh ;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Prenesite vlastite pokazivače"
+   },
+   "popup_default_cursor": {
+      "message": "Zadani pokazivač"
+   },
+   "popup_manage": {
+      "message": "Upravljati"
+   },
+   "popup_more_cursor": {
+      "message": "Više pokazivača"
+   },
+   "popup_upload_cursor": {
+      "message": "Učitaj pokazivač"
+   },
+   "rate_us_5_stars": {
+      "message": "Ocijenite nas 5 zvjezdica, molim"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

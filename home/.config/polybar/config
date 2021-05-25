@@ -13,7 +13,7 @@ font-1 = Noto Sans Mono:style=Regular
 bottom = true
 
 modules-left = i3
-modules-right = lan wlan memory hdd filesystem sep  cpu date
+modules-right = lan  memory sep hdd filesystem sep cpu sep date sep clock
 tray-position = right
 font-0 = DejaVuSansMono Nerd Font:size=12;0
 font-1 = "UbuntuMono Nerd Font:size=14;3"
@@ -31,6 +31,8 @@ green = #0f0
 darkgreen=#152
 darkblue=#125
 blue=#0a81f5
+brown=#7d7858
+darkmagenta=#332425
 ;gentoo
 ;background = ${xrdb:color0:#222}
 background = #222
@@ -49,7 +51,7 @@ format-prefix = "  "
 ;format-prefix-foreground = ${colors.darkgrey}
 ;format-prefix-background = #4bffdc
 format-prefix-background = ${colors.blue}
-label = " %percentage_used%% |"
+label = " %percentage_used%% "
 
 [module/pulseaudio]
 type = internal/pulseaudio
@@ -92,10 +94,23 @@ label = %title:0:53:...%
 label-background = #111
 label-padding = 2
 
+[module/clock]
+type = internal/date
+interval = 1
+format-prefix = "  "
+format-prefix-foreground = ${colors.darkgrey}
+format-prefix-background = ${colors.brown} 
+time = "  %H:%M %"
+label = %time%
+
 [module/date]
 type = internal/date
 ;interval = 1
-date = " |  %d |  %H:%M %"
+format-prefix = "  "
+format-prefix-foreground = ${colors.white}
+format-prefix-background = ${colors.darkmagenta} 
+date = " %d %"
+label = %date%
 
 [module/sep]
 type = custom/text
@@ -113,7 +128,7 @@ type = internal/fs
 interval = 46
 mount-0 = /
 mount-1 = /mnt/arbeit
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
+label-mounted = %{F#0a81f5} %mountpoint%%{F-}: %percentage_used%%
 label-mounted-padding = 1
 
 [module/lan]

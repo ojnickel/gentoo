@@ -1,0 +1,1211 @@
+{
+   "24hourMode": {
+      "message": "عرض الوقت بصيغة 24 ساعة"
+   },
+   "24hourModeTitle": {
+      "message": "إظهار الوقت بصيغة 24 ساعة 18:00"
+   },
+   "DND": {
+      "message": "DND"
+   },
+   "DNDisEnabled": {
+      "message": "تم تفعيل خاصية \"عدم الازعاج\" "
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "LAST_ITEM_DO_NOT_REMOVE"
+   },
+   "Xday": {
+      "message": "$1 يوم"
+   },
+   "Xdays": {
+      "message": "$1 أيام"
+   },
+   "Xhour": {
+      "message": "$1 ساعة"
+   },
+   "Xhours": {
+      "message": "$1 ساعات"
+   },
+   "Xminute": {
+      "message": "$1 دقيقة"
+   },
+   "Xminutes": {
+      "message": "$1 دقيقة"
+   },
+   "Xseconds": {
+      "message": "1$ ثواني"
+   },
+   "Xuser": {
+      "message": "$1 المستخدم"
+   },
+   "Xusers": {
+      "message": "$1 المستخدمين"
+   },
+   "Xweeks": {
+      "message": "اسابيع $1"
+   },
+   "aboutMe": {
+      "message": "معلومات عني"
+   },
+   "accessGranted": {
+      "message": "تم منح اذن الوصول"
+   },
+   "accessNotGrantedSeeAccountOptions": {
+      "message": "إبطال الوصول"
+   },
+   "accessNotGrantedSeeAccountOptions_accounts": {
+      "message": "الحسابات"
+   },
+   "account": {
+      "message": "الحساب"
+   },
+   "accounts": {
+      "message": "الحسابات"
+   },
+   "addNotification": {
+      "message": "إضافة تنبيه"
+   },
+   "addSkinsOrThemes": {
+      "message": "الاشكال والثيمات"
+   },
+   "addSpeechEngines": {
+      "message": "إضافة صوت"
+   },
+   "addToGoogleCalendar": {
+      "message": "إضافة إلى تقويم قوقل"
+   },
+   "added": {
+      "message": "أضافة"
+   },
+   "addedForSomeday": {
+      "message": "أظافة 1$ على 2$"
+   },
+   "addedForSomedayAt": {
+      "message": "اظافة 1$ على 2$ و 3$"
+   },
+   "addedForToday": {
+      "message": "أظافة $1 لهذا اليوم"
+   },
+   "addedForTodayAt": {
+      "message": "أظافة $1  2$ لهذا اليوم"
+   },
+   "addedForTomorrow": {
+      "message": "وأظافة $1 للغد"
+   },
+   "addedForTomorrowAt": {
+      "message": "أظافة 1$ الى الغد , 2$"
+   },
+   "addedTimedEventInThePast": {
+      "message": "لقد فات وقت الحدث الذي تريد وضعه هل تريد تغيير وقت الحدث في نفس الوقت غدا"
+   },
+   "admin": {
+      "message": "المشرف"
+   },
+   "agenda": {
+      "message": "جدول الأعمال"
+   },
+   "all": {
+      "message": "جميع"
+   },
+   "allDayText": {
+      "message": "كل يوم"
+   },
+   "allEvents": {
+      "message": "كل الأحداث"
+   },
+   "allowThisExtensionToReadYourFacebookEvent": {
+      "message": "السماح لهذه الاظافة بقرائة احداثك على الفيس بوك"
+   },
+   "alreadyDonated": {
+      "message": "ساهمت بالفعل"
+   },
+   "always": {
+      "message": "دائماً"
+   },
+   "alwaysSpeak": {
+      "message": "التكلم دائما"
+   },
+   "amount": {
+      "message": "القيمة"
+   },
+   "andNightTimesAfter": {
+      "message": "بعد اوقات الليل"
+   },
+   "anyAmount": {
+      "message": "أي مبلغ"
+   },
+   "auto": {
+      "message": "تلقائي"
+   },
+   "autoSizePopupWindow": {
+      "message": "تغيير تلقائي لحجم النافذه التي تظهر"
+   },
+   "available": {
+      "message": "المتوفرة"
+   },
+   "beforeEachEvent": {
+      "message": "قبل كل حدث"
+   },
+   "beforeStart": {
+      "message": "قبل البدء"
+   },
+   "bitcoin": {
+      "message": "بت كوين (النقود الرقميه)"
+   },
+   "busy": {
+      "message": "مشغول"
+   },
+   "button": {
+      "message": "زر"
+   },
+   "buttonClickAction": {
+      "message": "انقر فوق زر إجراء"
+   },
+   "by": {
+      "message": "من قبل"
+   },
+   "calendar": {
+      "message": "التقويم"
+   },
+   "cancel": {
+      "message": "إلغاء الأمر"
+   },
+   "card": {
+      "message": "بطاقه"
+   },
+   "changeThisDomain": {
+      "message": "لتغيير هذا البريد الإلكتروني الآن $1"
+   },
+   "changeThisDomain2": {
+      "message": "قم بتسجيل الخروج وتسجيل الدخول كمستخدم مختلف"
+   },
+   "changelog": {
+      "message": "سجل التغيير"
+   },
+   "changesOnlyReflectedOnCalendarX": {
+      "message": "أنت على وشك إجراء التغييرات التي سوف تنعكس فقط في التقويم $1."
+   },
+   "changingIcon": {
+      "message": "تغيير زر الايقونة  أو عرض تاريخ اليوم"
+   },
+   "clearCache": {
+      "message": "تفريخ ذاكرة التخزين المؤقته "
+   },
+   "clickToolbarIconToContinue": {
+      "message": "انقر فوق رمز شريط الأدوات للاستمرار"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "الضغط فوق أي مكان على الإخطار"
+   },
+   "clickingXOnNotification": {
+      "message": "النقر فوق X في الإشعار"
+   },
+   "close": {
+      "message": "قم بإغلاق"
+   },
+   "closeEsc": {
+      "message": "إغلاق (Esc)"
+   },
+   "continue": {
+      "message": "مواصلة"
+   },
+   "contribute": {
+      "message": "المساهمه بمساعدتي"
+   },
+   "copyToMyCalendar": {
+      "message": "نسخ إلى التقويم الخاص بي"
+   },
+   "createDeleteEvents": {
+      "message": "إنشاء او مسح حدث بواسطة الضغط فوق التقويم"
+   },
+   "createEvent": {
+      "message": "إنشاء حدث جديد"
+   },
+   "createdBy": {
+      "message": "انشئ بواسطة"
+   },
+   "currentDefaultHasNotBeenGrantedAccess": {
+      "message": "الحالي الخاص بك $1 $2لم يتم منح الوصول!"
+   },
+   "currentDefaultHasNotBeenGrantedAccess_DefaultAccount": {
+      "message": "الحساب الافتراضي"
+   },
+   "currentDefaultHasNotBeenGrantedAccess_EMAIL_HERE": {
+      "message": "[EMAIL_HERE]"
+   },
+   "custom": {
+      "message": "شكل خاص"
+   },
+   "customView": {
+      "message": "تخصيص طريقة العرض"
+   },
+   "customizeNotifications": {
+      "message": "تخصيص التنبيهات"
+   },
+   "d": {
+      "message": "يوم"
+   },
+   "date": {
+      "message": "التاريخ"
+   },
+   "day": {
+      "message": "يوم"
+   },
+   "dayOfYear": {
+      "message": "يوم في السنه"
+   },
+   "days": {
+      "message": "أيام"
+   },
+   "daysAgo": {
+      "message": "$1 قبل ايام"
+   },
+   "daysArray": {
+      "message": "الأحد,الاثنين,الثلاثاء,الأربعاء,الخميس,الجمعة,السبت"
+   },
+   "daysArrayShort": {
+      "message": "الأحد,الاثنين,الثلاثاء,الأربعاء,الخميس,الجمعة,السبت"
+   },
+   "daysLeft": {
+      "message": "باقي $1 دقائق"
+   },
+   "daysRemaining": {
+      "message": "إظهار الأيام المتبقية بدلاً من وقت الحدث"
+   },
+   "daysRemainingToolTip": {
+      "message": "إذا كان الحدث بعد  أيام ، تظهر عدد الأيام المتبقية 2d"
+   },
+   "debug": {
+      "message": "التصحيح"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "deleteAll": {
+      "message": "قم بحذف الكل"
+   },
+   "deleteRemindersFromPopup": {
+      "message": "حذف الأحداث من نافذة التذكير"
+   },
+   "developingMore": {
+      "message": "وأنا أعمل على الكثير من اقتراحاتكم..."
+   },
+   "developingMoreSuggestions": {
+      "message": "وانا اعمل على اكثر من $1 جهاز"
+   },
+   "developingMoreSuggestions_suggestions": {
+      "message": "اقتراحات"
+   },
+   "ding": {
+      "message": "دينق"
+   },
+   "dir": {
+      "message": "rtl"
+   },
+   "disableAll": {
+      "message": "تعطيل الكل"
+   },
+   "disableInterruptiveAlerts": {
+      "message": "تعطيل تنبيهات انقطاع تقويم قوقل"
+   },
+   "disableInterruptiveAlertsMoreInfo": {
+      "message": "هل يمكنك أيضا تعطيل تنبيهات تقويم قوقل ؟"
+   },
+   "discoverMyApps": {
+      "message": "تطبيقاتي الاخرى"
+   },
+   "dismiss": {
+      "message": "صرف التنبيه"
+   },
+   "dismissAll": {
+      "message": "استبعاد الكل"
+   },
+   "dismissAllInNotificationWindow": {
+      "message": "استبعات كافة الاحداث في اطار التنبيهات"
+   },
+   "dismissesEvents": {
+      "message": "انتهاء من الحدث"
+   },
+   "doNotDisturb": {
+      "message": "عدم الإزعاج"
+   },
+   "doNotDisturbForTodayToolTip": {
+      "message": "'عدم الإزعاج' حتى الغد 07:00 ص"
+   },
+   "doNotDisturbIndefinitelyToolTip": {
+      "message": "تفعيل 'عدم الإزعاج' حتى يمكنك إيقاف تشغيله"
+   },
+   "doNotDisturbToolTip": {
+      "message": "إيقاف تشغيل التنبيهات الصوتيه وسطح المكتب من هذا الاداة"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "عدم إعلامي بالتحديثات"
+   },
+   "doNotShowNotificationsForAlldayEvents": {
+      "message": "لا تظهر التنبيهات لكافة أحداث اليوم"
+   },
+   "doNotShowNotificationsForRepeatingEvents": {
+      "message": " لا تظهر الإعلامات الأحداث المتكرره"
+   },
+   "doNotShowPastNotifications": {
+      "message": "لا تظهر الإعلامات للأحداث السابقه"
+   },
+   "doNotShowPastNotificationsTitle": {
+      "message": "استخدم هذا فقط إذا كنت مفعل التنبيهات على جهاز اخر حيث أنه عند فتح المتصفح الخاص بك أو استئناف من وضع الاستعداد لن تتلقى الإخطارات في السابقة . تاكد من اختيار الخيار المناسب لعدم فقدان التنبيهات"
+   },
+   "donationRequired": {
+      "message": "المساهمة المطلوبة"
+   },
+   "done": {
+      "message": "تم"
+   },
+   "dontSend": {
+      "message": "لا تقم بإرسال"
+   },
+   "edit": {
+      "message": "تعديل"
+   },
+   "editEventDetails": {
+      "message": "التعديل على الحدث"
+   },
+   "email": {
+      "message": "البريد الإلكتروني"
+   },
+   "enable": {
+      "message": "تفعيل"
+   },
+   "enterAnAmount": {
+      "message": "يجب عليك إدخال مبلغ!"
+   },
+   "event": {
+      "message": "$1 حدث"
+   },
+   "eventAdded": {
+      "message": "أضاف الحدث"
+   },
+   "eventColor": {
+      "message": "لون الحدث"
+   },
+   "eventDeleted": {
+      "message": "حذف الأحداث"
+   },
+   "eventDescription": {
+      "message": "وصف الحدث"
+   },
+   "eventUpdated": {
+      "message": "تحديث الحدث"
+   },
+   "ex": {
+      "message": ":مثلا"
+   },
+   "example": {
+      "message": "مثال"
+   },
+   "excludeFromNotificationsUse": {
+      "message": "لاستبعادها من الاخطارات استخدم الزر التاب الخاص بالتنبيهات "
+   },
+   "excludeHiddenCalendarsFromButton": {
+      "message": "استبعاد التقويمات المخفية من ايقونة الزر"
+   },
+   "excludeHiddenCalendarsFromButtonToolTip": {
+      "message": "لا تظهر الأحداث من التقويمات التي لا يتم تحديدها /عرض في صفحة الويب الخاصة بك على تقويم Google، وبعبارة أخرى مزامنة التقويمات/وألاحداث المرئية مع ما تراه في صفحة جوجل التقويم الخاص بك"
+   },
+   "excludeRecurringEventsButtonIcon": {
+      "message": "استبعاد تكرار الأحداث من ايقونة زر"
+   },
+   "excludeRecurringEventsButtonIconTooltip": {
+      "message": "اي حدث تم وضعه للتكرار لن يظهر على زر الايقونه"
+   },
+   "excluded": {
+      "message": "الغاء"
+   },
+   "extensionUpdated": {
+      "message": " الاكستنشن تحديث!"
+   },
+   "extraFeatures": {
+      "message": "مميزات إضافية"
+   },
+   "extraFeaturesPopup1": {
+      "message": "هذه المميزات والخيارات اخذت الكثير من الوقت في العمل عليها وتطويرها"
+   },
+   "extraFeaturesPopup2": {
+      "message": "للمساهمه بأي مبلغ لدعم اعمالي هنا"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "تم إلغاء أو فشل الدفع ! حاول $1 بدلاً من ذلك؟"
+   },
+   "feedback": {
+      "message": "اخبرني عن افكارك!"
+   },
+   "forever": {
+      "message": "إلى الأبد"
+   },
+   "general": {
+      "message": "العام"
+   },
+   "goToToday": {
+      "message": "اذهب إلى اليوم"
+   },
+   "going": {
+      "message": "الذهاب"
+   },
+   "googleAccount": {
+      "message": "حساب قوقل"
+   },
+   "grantAccess": {
+      "message": "منح اذن الوصول"
+   },
+   "grantAccessAgain": {
+      "message": "منح حق الوصول مرة أخرى"
+   },
+   "grantedTo": {
+      "message": "منحت إلى"
+   },
+   "groupNotifications": {
+      "message": "تجميع كافة الأحداث في إخطار واحد"
+   },
+   "h": {
+      "message": "ساعه"
+   },
+   "help": {
+      "message": "تعليمات"
+   },
+   "hideAfter": {
+      "message": "الاخفاء بعدها"
+   },
+   "hideButton": {
+      "message": "إخفاء زر"
+   },
+   "hideColonInTime": {
+      "message": "إخفاء الرف في صيغة 24 ساعة"
+   },
+   "hideColonInTimeToolTip": {
+      "message": "بما ان لدي مساحة محدده لعرض الوقت 10:00  هذا الخيار سيقوم باظهارها بهذا الشكل 1000"
+   },
+   "hideDelete": {
+      "message": "إخفاء المحذوفات"
+   },
+   "hideMorningAndNightHours": {
+      "message": "إخفاء ساعات الصباح والليل في طريقة عرض الاسابيع والايام"
+   },
+   "hideMorningHoursBefore": {
+      "message": "اخفاء ساعات الصباح قبل"
+   },
+   "highlightWeekends": {
+      "message": "تسليط الضوء على عطلة نهاية الأسبوع"
+   },
+   "hours": {
+      "message": "ساعات"
+   },
+   "hoursAgo": {
+      "message": "$1 قبل ساعه"
+   },
+   "hoursLeft": {
+      "message": "باقي $1 ساعه"
+   },
+   "hoursRemaining": {
+      "message": "إظهار عدد الساعات المتبقه بدلاً من وقت الحدث"
+   },
+   "hoursRemainingTitle": {
+      "message": "إذا كان الحدث في يوم او اقل من 24 ساعة ،اذن سيظهر الساعات المتبقية مثلا الخروج قبل4 ساعات "
+   },
+   "iconClassic": {
+      "message": "الايقونه الافتراضي مع التاريخ الحالي معكوس"
+   },
+   "iconDefault": {
+      "message": "الايقونة الافتراضية"
+   },
+   "iconDefault2WithDate": {
+      "message": "الايقونة الافتراضية مع التاريخ الحالي"
+   },
+   "iconDefault2WithDateInverted": {
+      "message": "الايقونه الافتراضي مع التاريخ الحالي معكوس"
+   },
+   "iconMonochrome": {
+      "message": "أحادية اللون الكلاسيكي"
+   },
+   "iconMonochrome2": {
+      "message": "ايقونه أحادية اللون"
+   },
+   "iconMonochrome2WithDate": {
+      "message": "ايقونه أحادية اللون مع التاريخ الحالي"
+   },
+   "iconNew": {
+      "message": "ايقونه جديدة"
+   },
+   "iconNew2": {
+      "message": "ايقونه مظلمه"
+   },
+   "iconNew2WithDate": {
+      "message": "ايقونه مظلمه مع التاريخ الحالي"
+   },
+   "iconNewWithDate": {
+      "message": "ايقونه جديد مع التاريخ الحالي"
+   },
+   "iconTooltip": {
+      "message": "ايقونة ﻻستخدام زر المنبثقة"
+   },
+   "includesExtraFeaturesForX": {
+      "message": "اضف الميزة الاضافية  فقط ب $1"
+   },
+   "indefinitely": {
+      "message": "الى وقت لاحق غير محدد"
+   },
+   "individualNotifications": {
+      "message": "إظهار كل حدث في بشكل فردي"
+   },
+   "joinVideoCall": {
+      "message": "الانضمام إلى مكالمة فيديو"
+   },
+   "justStartTyping": {
+      "message": "نصيحة سريعة: ابدأ الكتابة بدلاً من ذلك!"
+   },
+   "language": {
+      "message": "اللغة"
+   },
+   "languageToolTip": {
+      "message": "تغير لغة العرض والتنبيهات  وصوت التنبيه ملاحظه : قد ترى الكثير من الغات الموجود جميعها لانها هذه هيا القواعد  سوف تظهر ما قمت بترجمته  بعض الكلمات سوف تقوم بالبحث  عن بعض الكلمات بالمتصفح  اذا لم اقم بترجمة تلك الكلمات سوف تظهر لك باللغه الانجليزية  لتغير اللغه الرجاء الضغط على الاعدادات  للاصدار القيم او من خلال النافذه المنبثقه "
+   },
+   "licenseOnlyValidFor": {
+      "message": "الترخيص سيكون صالحا فقط للمستخدمين الذين يسجلون الدخول ب"
+   },
+   "list": {
+      "message": "القائمة"
+   },
+   "loadOptions": {
+      "message": "تحميل الخيارات"
+   },
+   "loading": {
+      "message": "...تحميل"
+   },
+   "local": {
+      "message": "المحليه"
+   },
+   "longerSnoozeTimes": {
+      "message": "تمديد لوقت انتظار أطول"
+   },
+   "m": {
+      "message": "شهر"
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "عمل هذه المساهمه بشكل شهري"
+   },
+   "makeThisAMonthlyContributionTooltip": {
+      "message": "ساعدني في المحافظة على الدعم وتطوير الاداوات"
+   },
+   "map": {
+      "message": "خريطة"
+   },
+   "maxDaysAhead": {
+      "message": "عدد الأيام المتبقية امامك"
+   },
+   "maxDaysAheadTitle": {
+      "message": "الحد الأقصى لعدد الأيام لعرض العد تنازلي على أيقونة"
+   },
+   "maybe": {
+      "message": "ممكن"
+   },
+   "min": {
+      "message": "دقيقة"
+   },
+   "minimumAmount": {
+      "message": "يجب أن تساهم على الأقل $1"
+   },
+   "minutes": {
+      "message": "دقائق"
+   },
+   "minutesAgo": {
+      "message": "$1 قبل دقيقه"
+   },
+   "minutesLeft": {
+      "message": "باقي $1 دقائق"
+   },
+   "month": {
+      "message": "شهر"
+   },
+   "monthly": {
+      "message": "الشهري"
+   },
+   "monthlyPaymentBonus": {
+      "message": "علاو على حساب الدفع الشهري"
+   },
+   "monthsArray": {
+      "message": "يناير,فبراير,مارس,أبريل,مايو,يونيو,يوليو,أغسطس,سبتمبر,أكتوبر,نوفمبر,ديسمبر"
+   },
+   "monthsArrayShort": {
+      "message": "يناير,فبراير,مارس,أبريل,مايو,يونيو,يوليو,أغسطس,سبتمبر,أكتوبر,نوفمبر,ديسمبر"
+   },
+   "more": {
+      "message": "المزيد من"
+   },
+   "moreInfo": {
+      "message": "المزيد من المعلومات"
+   },
+   "moreSnoozeTimes": {
+      "message": "انتظار أكثر من مرة..."
+   },
+   "morning": {
+      "message": "صباح"
+   },
+   "multipleUserLicense": {
+      "message": "تراخيص متعدد للمستخدمين"
+   },
+   "multipleUserLicenseFor": {
+      "message": "تراخيص متعددة للمستخدمين ب $1"
+   },
+   "native": {
+      "message": "أصلي"
+   },
+   "never": {
+      "message": "ابدأ"
+   },
+   "next": {
+      "message": "التالي"
+   },
+   "night": {
+      "message": "ليلة"
+   },
+   "no": {
+      "message": "لا"
+   },
+   "noTitle": {
+      "message": "لا يوجد عنوان"
+   },
+   "none": {
+      "message": "لا شيء"
+   },
+   "normal": {
+      "message": "عادي"
+   },
+   "notLoggedIn": {
+      "message": "لم تقم بتسجيل الدخول"
+   },
+   "nothingPlanned": {
+      "message": "لا شئ التخطيط له"
+   },
+   "notification": {
+      "message": "التنبيهات"
+   },
+   "notificationButton": {
+      "message": "زر الإشعار"
+   },
+   "notificationButton1": {
+      "message": "زر التنبيه #1"
+   },
+   "notificationButton2": {
+      "message": "زر التنبيه #2"
+   },
+   "notificationSound": {
+      "message": "تنبيه صوتي"
+   },
+   "notificationSoundSelectionToolTip": {
+      "message": "اختر نوع اخر من صوت التنبيهات"
+   },
+   "notificationTextToSpeech": {
+      "message": "تنبيه صوتي "
+   },
+   "notificationTextToSpeechTitle": {
+      "message": "عنوان الحدث الخاص بك سوف يكون بصوت عال باستخدام تحويل النص إلى كلام، مفيد عندما يكون الكمبيوتر في الغرفة المجاورة!"
+   },
+   "notifications": {
+      "message": "التنبيهات"
+   },
+   "notificationsForCalendars": {
+      "message": "الإخطارات بالنسبة للتقويمات"
+   },
+   "notificationsGuideToolTip": {
+      "message": "نوع الصوت، والأصوات، وتنبيهات سطح المكتب"
+   },
+   "off": {
+      "message": "إيقاف تشغيل"
+   },
+   "ok": {
+      "message": "موافق"
+   },
+   "omniboxDefault": {
+      "message": "07:00  العشاء في"
+   },
+   "omniboxDefaultTom": {
+      "message": "08:00 القهوا مع نانسي في تمام"
+   },
+   "onetime": {
+      "message": "مرة واحدة"
+   },
+   "onlyNonPrimary": {
+      "message": "التقويمات غير الأساسية فقط"
+   },
+   "onlyThisEvent": {
+      "message": "فقط هذا الحدث"
+   },
+   "open": {
+      "message": "افتح"
+   },
+   "openCalendar": {
+      "message": "افتح التقويم"
+   },
+   "openCheckerPlusDetached": {
+      "message": " المميز بشكل منفصل  Checkerقم بفتح  "
+   },
+   "openCheckerPlusTab": {
+      "message": " في نافذة جديدة Checker فتح"
+   },
+   "openExistingCalendarTab": {
+      "message": "فتح التقويم الموجود حاليا"
+   },
+   "openGoogleCalendar": {
+      "message": "فتح تقويم قوقل"
+   },
+   "openPopupPreview": {
+      "message": "المميز Checkerقم بفتح "
+   },
+   "openPopupPreviewToolTip": {
+      "message": "تعديل شكل العرض باشكال مختلفه"
+   },
+   "opensMoreSnoozeTimes": {
+      "message": "النقر فوق أي مكان على الخطارات"
+   },
+   "option": {
+      "message": "الخيار"
+   },
+   "options": {
+      "message": "الخيارات"
+   },
+   "or": {
+      "message": "او"
+   },
+   "otherAmount": {
+      "message": "مبلغ آخر"
+   },
+   "otherPlans": {
+      "message": "خطط أخرى"
+   },
+   "otherPlansDescription": {
+      "message": "اسعار التعليم بشكل سنوي "
+   },
+   "pastDays": {
+      "message": "تنبيهات خلال الأيام الماضية"
+   },
+   "pastDaysTitle": {
+      "message": "تنبيهات من الأيام الماضية للتقويم"
+   },
+   "pendingNotifications": {
+      "message": "التنبيهات المعلقة"
+   },
+   "pendingNotificationsIntervalToolTip": {
+      "message": "إذا  لم تتخذ أي إجراء في التذكيرات المعلقه , سيتم تحريك تذكرة في هذه الفترة الزمنية في شريط الأدوات. ملاحظة: سوف تلعب فقط \u003Cb>تذكير أول\u003C/b> إعلام صوت (إذا تم تمكين أعلاه)\u003C/b>"
+   },
+   "permissionIsRequired": {
+      "message": "الاذن مطلوب للدخول"
+   },
+   "pitch": {
+      "message": "الرتم"
+   },
+   "popout": {
+      "message": "العرض بصفحة كامله"
+   },
+   "popup": {
+      "message": "اطار يظهر فوق"
+   },
+   "popupWindow": {
+      "message": "نافذة تظهر فوق"
+   },
+   "popupWindowNotificationToolTip": {
+      "message": "نافذة تظهر فوق"
+   },
+   "previous": {
+      "message": "السابقة"
+   },
+   "processing": {
+      "message": "يقوم بالتجهيز الأن الرجاء الانتظار"
+   },
+   "quickAdd": {
+      "message": "إضافة سريعة"
+   },
+   "quickAddDefaultText": {
+      "message": "07:00 مثلا العشاء في مطعم بوب"
+   },
+   "quickAddDefaultTextMultipleDays": {
+      "message": "مثلا موعد زيارة في نيويورك"
+   },
+   "quickAddDefaultTextMultipleHours": {
+      "message": "مثلا موعد الافطار في مطعم تيفاني"
+   },
+   "quickAddTitle": {
+      "message": "مثلا لعب  كرة القدم بعد 20 دقيقة"
+   },
+   "quotaDetails": {
+      "message": "تفاصيل الحصة النسبية"
+   },
+   "quotaExtraFeature": {
+      "message": "هذه ميزة إضافية بسبب نظام الحصص المفروضة على لي بتقويم Google."
+   },
+   "rate": {
+      "message": "التقييم"
+   },
+   "rateTitle": {
+      "message": "سرعة الكلام: كلمة في الدقيقة"
+   },
+   "recommended": {
+      "message": "انصح بها"
+   },
+   "recurringEvent": {
+      "message": "تكرار الحدث"
+   },
+   "recurringEventPrompt": {
+      "message": "هل ترغب في تغيير هذا الحدث فقط أو كافة الأحداث في السلسلة؟"
+   },
+   "reducedDonationAd_notification": {
+      "message": "أخبار جيدة المستخدم وقتاً طويلاً! إضافات فقط $1 انقر لإخفاء/انظر هذا."
+   },
+   "reducedDonationAd_popup": {
+      "message": "اخبار ممتازة للمستخدمين منذ فترة ! \u003Cbr> احصل على $1 بدفع 50 سنت فقط"
+   },
+   "refresh": {
+      "message": "تحديث"
+   },
+   "removeShareLinks": {
+      "message": "إخفاء الروابط التي تم المشاركه بها"
+   },
+   "removeShareLinksTooltip": {
+      "message": "إزالة روابط فيسبوك، وتويتر إلخ."
+   },
+   "reschedule": {
+      "message": "إعادة جدولة"
+   },
+   "revokeAccess": {
+      "message": "تم رفص الوصول"
+   },
+   "richNotification": {
+      "message": "اعلامات كثيره"
+   },
+   "richNotificationToolTip": {
+      "message": "تنبيهات النوافذ تظهر : لاكن سوف تختفي في بضع ثواني اذا لم يتم اتخاذ اي اجراء فيها . مثل طريقة التنبيهات في الهاتف الخاص بك توفر لك المعلومات ذات الصله في الوقت نفسه , في نفس الوقت يمكنك تجاهلها للقيام باي اجراء اخر في وقت لاحق ."
+   },
+   "rightClickDateFormat": {
+      "message": "اضغط بالماوس الزر الايمن لتغير شكل عرض الايام والشهور والسنين"
+   },
+   "runInBackground": {
+      "message": "البرنامج يشتغل حتى لو تم اغلاق المتصفح"
+   },
+   "runInBackgroundToolTip": {
+      "message": "الاستمرار في تلقي التنبيهات حتى أثناء إغلاق المستعرض الخاص بك! وأوصى بهذا للمستخدمين المحترفين فقط."
+   },
+   "runInBackgroundWarning1": {
+      "message": "الرجاء قراءة بعناية $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "تطبيقات التي تعمل في الخلفية"
+   },
+   "runInBackgroundWarning2": {
+      "message": "إذا قمت بتعطيل تطبيقات الخلفية في كروم يمكنك إعادة تمكينها عن طريق قراءة $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "اخر مقطع تم الضغط عليه"
+   },
+   "runInBackgroundWarning3": {
+      "message": "قد تحتاج إلى استخدام $1 من صفحة تسجيل الدخول قوقل"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "الاحتفاظ بتسجيل الدخول"
+   },
+   "save": {
+      "message": "حفظ"
+   },
+   "saveOptions": {
+      "message": "حفظ الخيارات"
+   },
+   "saving": {
+      "message": "... حفظ"
+   },
+   "schedule": {
+      "message": "الجدولة"
+   },
+   "search": {
+      "message": "البحث عن"
+   },
+   "seeUpdates": {
+      "message": "عرض التحديثات"
+   },
+   "sendUpdateAboutCancelingEvent": {
+      "message": "هل تريد تحديث الحدث الخاص بك الى الضيوف انه تم الغاء هذا الحدث؟"
+   },
+   "sendUpdateToExistingGuests": {
+      "message": "؟هل تريد ارسال تحديثاتك للضيوف الموجودين"
+   },
+   "sendUpdates": {
+      "message": "إرسال التحديثات"
+   },
+   "setDateTime": {
+      "message": "ضبط التاريخ/الوقت"
+   },
+   "share": {
+      "message": "قيمة الحصه ف"
+   },
+   "shareIntro": {
+      "message": "جرب هذا الاظافة على متصفح  كروم ممتازة جدا "
+   },
+   "showButtonTooltip": {
+      "message": "إظهار تلميح الأدوات عندما تحوم فوق ايقونات الازرار"
+   },
+   "showButtonTooltipTooltip": {
+      "message": "قم بإظهار الأحداث التالية عندما تحوم فوق ايقونة الزر"
+   },
+   "showCalendarNames": {
+      "message": "إظهار أسماء التقويم"
+   },
+   "showConsoleMessages": {
+      "message": "سجل الرسائل في وحدة تحكم الجافا سكريبت"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "المعنى منها للتصحيح فقط وقد تبطئ الاكستنشن  بعض الشيء!"
+   },
+   "showContextMenuItem": {
+      "message": "اظهر قائمة المهام عند الضغط على الزر الايمن للماوس"
+   },
+   "showContextMenuItemTooltip": {
+      "message": "إضافة عنصر قائمة عند النقر الحق في أي صفحة ويب أو صفحة ويب البريد الإلكتروني إضافة إلى التقويم الخاص بك بسرعة"
+   },
+   "showDayOnBadge": {
+      "message": "إظهار ايام الأسبوع الحالي على ايقونة الزر"
+   },
+   "showDayOnBadgeExceptWhenDaysLeft": {
+      "message": "اقبل اذا كان الحدث القادم بعد ايام"
+   },
+   "showDayOnBadgeExceptWhenHoursLeft": {
+      "message": "اقبل اذا كان الحدث القادم بعد ساعات"
+   },
+   "showDayOnBadgeExceptWhenMinutesLeft": {
+      "message": "اقبل اذا كان الحدث القام بعد دقائق"
+   },
+   "showDayOnBadgeTooltip": {
+      "message": "بدلاً من العد التنازلي لعرض الحدث المقبل اليوم الحالي من الأسبوع مثل 'الثلاثاء' وما إلى ذلك. ملاحظة: يمكنك أيضا قائمة الاستثناءات!"
+   },
+   "showDesktopNotifications": {
+      "message": "تنبيهات سطح المكتب"
+   },
+   "showEventTimeOnBadge": {
+      "message": "إظهار وقت الحدث على ايقونة الزر"
+   },
+   "showEventTimeOnBadgeTooltip": {
+      "message": "عرض الوقت قبل الحدث القادم فوق الايقونه"
+   },
+   "showLocationOrSource": {
+      "message": "إظهار موقع أو مصدر أو الانضمام إلى مكالمة فيديو"
+   },
+   "showMinutesLeftInBadge": {
+      "message": "إظهار الدقائق المتبقية بدلاً من وقت الحدث"
+   },
+   "showMinutesLeftInBadgeTitle": {
+      "message": "إذا كان الحدث  قريبا قم بعرض الدقائق المتبقية"
+   },
+   "showPendingNotificationsEvery": {
+      "message": "إظهار ريثما يتم تذكير إعلامات كل"
+   },
+   "showTimeSpecificEventsBeforeAllDay": {
+      "message": "إظهار الوقت حدث معين قبل أحداث اليوم بالكامل"
+   },
+   "showTimeSpecificEventsBeforeAllDayTooltip": {
+      "message": "إذا كان غدا لديك حدث ليوم كله، وهو حدث 10:00 ص وسوف تظهر 10:00 ص بدلاً من د 1"
+   },
+   "showWeekNumbers": {
+      "message": "إظهار أرقام الأسابيع"
+   },
+   "signIn": {
+      "message": "تسجيل الدخول"
+   },
+   "signInAsUserOfOrg": {
+      "message": "يجب عليك $1 مع البريد الإلكتروني المؤسسة الخاصة بك"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "قم بتسجيل الخروج وتسجيل الدخول إلى التقويم الخاص بك"
+   },
+   "skin": {
+      "message": "القوالب"
+   },
+   "skins": {
+      "message": "الاشكال والقوالب"
+   },
+   "slotDuration": {
+      "message": "مدة بقائه مفتوحا"
+   },
+   "slotDurationToolTip": {
+      "message": "زيادة وقت استخدامه عند إنشاء أو تغيير الأحداث في طريقة عرض التقويم"
+   },
+   "small": {
+      "message": "صغير"
+   },
+   "snooze": {
+      "message": "قيلولة بعد الظهر"
+   },
+   "snoozeAll": {
+      "message": "قيلولة بعد الظهر كل"
+   },
+   "snoozedEvents": {
+      "message": "الغاء التنبيهات"
+   },
+   "snoozedEventsToolTip": {
+      "message": "اظهار الاحداث المستبعدة في شكل التقويم"
+   },
+   "somedayAt": {
+      "message": "$1 يوما ما في"
+   },
+   "sound": {
+      "message": "الصوت"
+   },
+   "source": {
+      "message": "المصدر"
+   },
+   "speechEngine": {
+      "message": "مشغل الكلام"
+   },
+   "startWeekViewToday": {
+      "message": "بدء تشغيل عرض الأسبوع باليوم الحالي"
+   },
+   "successful": {
+      "message": "تم بنجاح"
+   },
+   "syncDND": {
+      "message": "قم بمزامنية العدادات الى كل Checker الموجوده عبر DND"
+   },
+   "testDescription": {
+      "message": "اختبر الوصف"
+   },
+   "testEvent": {
+      "message": "اختبار الحدث"
+   },
+   "testIt": {
+      "message": "قم بتجربتها !"
+   },
+   "textNotification": {
+      "message": "تنبيهات كتابية"
+   },
+   "textNotificationToolTip": {
+      "message": "لا توجد اجرائات خاصه مثل اخذ غفوه بعد الظهيرة متوافقه مع نظام تنبيهات الماك او الكرول"
+   },
+   "thankYouForYourContribution": {
+      "message": "تم إلغاء أو فشل مع الدفع! حاول $1 بدلاً من ذلك؟"
+   },
+   "theresAProblem": {
+      "message": "هناك مشكلة"
+   },
+   "time": {
+      "message": "الوقت"
+   },
+   "to": {
+      "message": "إلى"
+   },
+   "today": {
+      "message": "اليوم"
+   },
+   "todayAt": {
+      "message": " اليوم في"
+   },
+   "tom": {
+      "message": "غدا"
+   },
+   "tomorrow": {
+      "message": "غدا"
+   },
+   "tomorrowAt": {
+      "message": "غدا في"
+   },
+   "transparent": {
+      "message": "مستوى الشفافية"
+   },
+   "tryAgain": {
+      "message": "الرجاء المحاولة مرة أخرى"
+   },
+   "tryAgainLater": {
+      "message": "الرجاء المحاولة مرة أخرى لاحقاً"
+   },
+   "turnOff": {
+      "message": "إيقاف تشغيل"
+   },
+   "undo": {
+      "message": "تراجع"
+   },
+   "unlimited": {
+      "message": "غير محدود"
+   },
+   "unlockOtherExtensions": {
+      "message": "فتح الملحقات الأخرى عن طريق فتح صفحة المساهمة الخاصة بهم واستخدام الوصلة أعلاه 'أسهمت بالفعل'."
+   },
+   "update": {
+      "message": "التحديث"
+   },
+   "useDetailsFromCurrentPage": {
+      "message": "استخدام التفاصيل من الصفحة الحالية"
+   },
+   "useTheXToChangeViews": {
+      "message": "استخدام $1 رمز القائمة لتبديل بين طرق العرض التقويم"
+   },
+   "useTheXToCloseForAFewMinutes": {
+      "message": "استخدم $1 تجاهل النافذة لمدة 5 دقائق"
+   },
+   "useTheXorXToDismissEvents": {
+      "message": "استخدم $1  $2   في فصل الأحداث"
+   },
+   "usingCalendarsFromMultipleAccounts": {
+      "message": "استخدام تقويمات من حسابات متعددة"
+   },
+   "videoCall": {
+      "message": "إجراء مكالمة فيديو"
+   },
+   "view": {
+      "message": "طريقة العرض"
+   },
+   "visibleCalendars": {
+      "message": "تقويمات مرئية"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "التنبيهات الصوتيه فقط اذا كنت بعيدا عن الكمببيوتر"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "استخدم هذا الخيار عندما تريد سماع التنبيهات وانت لست تعمل على الجهاز او في وضع الخمول"
+   },
+   "voiceTest": {
+      "message": "مرحبا"
+   },
+   "volume": {
+      "message": "الصوت"
+   },
+   "week": {
+      "message": "اسبوع"
+   },
+   "weekNumberCalculation": {
+      "message": "حساب عدد الاسابيع"
+   },
+   "weeks": {
+      "message": "أسابيع"
+   },
+   "weeksInMonth": {
+      "message": "أسابيع في الشهر"
+   },
+   "welcome": {
+      "message": "اهلا وسهلا"
+   },
+   "what": {
+      "message": "ماذا"
+   },
+   "when": {
+      "message": "متى"
+   },
+   "where": {
+      "message": "اين"
+   },
+   "who": {
+      "message": "من"
+   },
+   "wide": {
+      "message": "على نطاق واسع"
+   },
+   "widget": {
+      "message": "القائمة"
+   },
+   "yes": {
+      "message": "نعم"
+   },
+   "yesterday": {
+      "message": "أمس"
+   }
+}

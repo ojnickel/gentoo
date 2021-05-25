@@ -1,0 +1,5 @@
+2021/04/20-14:22:49.037 307e Reusing MANIFEST /home/ossi/.config/chromium/Default/IndexedDB/https_euc-word-view.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/20-14:32:30.766 2fbd Level-0 table #5: started
+2021/04/20-14:32:30.769 2fbd Level-0 table #5: 860 bytes OK
+2021/04/20-14:32:30.775 2fbd Delete type=0 #3
+2021/04/20-14:32:30.775 2fbd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

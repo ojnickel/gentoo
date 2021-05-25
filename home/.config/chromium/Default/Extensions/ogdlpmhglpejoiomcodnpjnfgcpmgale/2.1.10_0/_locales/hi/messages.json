@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "क्रोम ™ के लिए मजेदार कस्टम कर्सर। मुफ्त कर्सर का एक बड़ा संग्रह का उपयोग करें या अपना खुद का अपलोड करें।"
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - कर्सर परिवर्तक"
+   },
+   "close": {
+      "message": "ऐप बंद करें"
+   },
+   "cursor_size_extra_large": {
+      "message": "ज्यादा बड़ा"
+   },
+   "cursor_size_extra_small": {
+      "message": "अतिरिक्त छोटे"
+   },
+   "cursor_size_large": {
+      "message": "विशाल"
+   },
+   "cursor_size_medium": {
+      "message": "मध्यम"
+   },
+   "cursor_size_small": {
+      "message": "छोटा"
+   },
+   "delete": {
+      "message": "हटाना"
+   },
+   "delete_all": {
+      "message": "सभी हटा दो"
+   },
+   "enter_your_search_text": {
+      "message": "अपना खोज पाठ दर्ज करें"
+   },
+   "favorite_by_time": {
+      "message": "समय से"
+   },
+   "favorite_by_visited_pages": {
+      "message": "देखे गए पृष्ठों द्वारा"
+   },
+   "favorite_manage_button": {
+      "message": "पसंदीदा प्रबंधित करें"
+   },
+   "favorite_rotate_favorites": {
+      "message": "पसंदीदा घुमाएँ"
+   },
+   "favorite_sec_page": {
+      "message": "सेकंड/पृष्ठ"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "पसंदीदा प्रबंधित करें"
+   },
+   "hint_defaultTo": {
+      "message": "डिफ़ॉल्ट कर्सर"
+   },
+   "hint_remove_cursor": {
+      "message": "कर्सर हटाने के लिए क्लिक करें"
+   },
+   "hint_remove_pointer": {
+      "message": "लिंक सूचक हटाने के लिए क्लिक करें"
+   },
+   "hint_settings": {
+      "message": "समायोजन"
+   },
+   "hint_size": {
+      "message": "कर्सर का आकार"
+   },
+   "hint_upload_cursor": {
+      "message": "कर्सर अपलोड करने के लिए क्लिक करें"
+   },
+   "hint_upload_pointer": {
+      "message": "लिंक सूचक अपलोड करने के लिए क्लिक करें"
+   },
+   "item_cursor": {
+      "message": "कर्सर"
+   },
+   "item_pointer": {
+      "message": "सूचक"
+   },
+   "manage_cursor_size_settings": {
+      "message": "कर्सर आकार सेटिंग्स"
+   },
+   "manage_manage_collection": {
+      "message": "संग्रह प्रबंधित करें"
+   },
+   "nav_how_to_use": {
+      "message": "कैसे इस्तेमाल करे"
+   },
+   "nav_manage": {
+      "message": "प्रबंधित"
+   },
+   "nav_more_cursors": {
+      "message": "अधिक शाप देने वाले"
+   },
+   "nav_upload_cursor": {
+      "message": "कर्सर अपलोड करें"
+   },
+   "options_add_new": {
+      "message": "नया जोड़ें"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>अनुशंसाएँ:\u003C/h2>\u003Cul>\u003Cli>128x128 पिक्सेल से अधिक चित्रों का उपयोग न करें;\u003C/li>\u003Cli>एक पारदर्शी पृष्ठभूमि के साथ छवियों का उपयोग करें, जैसे .Png;\u003C/li>\u003Cli>ज़्यादा मुस्कुराएं ;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "अपने खुद के कर्सर अपलोड करें"
+   },
+   "popup_default_cursor": {
+      "message": "डिफ़ॉल्ट कर्सर"
+   },
+   "popup_manage": {
+      "message": "प्रबंधित"
+   },
+   "popup_more_cursor": {
+      "message": "अधिक शाप देने वाले"
+   },
+   "popup_upload_cursor": {
+      "message": "कर्सर अपलोड करें"
+   },
+   "rate_us_5_stars": {
+      "message": "कृपया हमें 5 स्टार दें"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}
