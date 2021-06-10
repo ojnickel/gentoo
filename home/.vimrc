@@ -1,3 +1,8 @@
+"set mouse with Nerdtree
+set mouse=a
+let g:NERDTreeMouseMode=3
+set pastetoggle=<F3>
+
 set noshowmode
 set ts=4
 set cursorline
@@ -15,48 +20,46 @@ set softtabstop=4   " in insert mode, tabs are 4 spaces
 
 set nocompatible
 filetype off
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-
-" This is the Vundle package, which can be found on GitHub.
-" do: # git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-" For GitHub repos, you specify plugins using the
-" 'user/repository' format
-Plugin 'gmarik/vundle'
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
-Plugin 'flazz/vim-colorschemes'
-Plugin 'tpope/vim-fugitive'
-Plugin 'scrooloose/syntastic'
-Plugin 'tpope/vim-surround'
-Plugin 'yggdroot/indentline'
-Plugin 'ryanoasis/vim-devicons'
+call plug#begin()
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'rafi/awesome-vim-colorschemes'
+Plug 'tpope/vim-fugitive'
+Plug 'scrooloose/syntastic'
+Plug 'tpope/vim-surround'
+Plug 'yggdroot/indentline'
+Plug 'ryanoasis/vim-devicons'
 " -- Web Development
-" Plugin 'valloric/youcompleteme'
-Plugin 'Shutnik/jshint2.vim'
-Plugin 'mattn/emmet-vim'
-Plugin 'kchmck/vim-coffee-script'
-Plugin 'groenewege/vim-less'
-Plugin 'ap/vim-css-color'
-Plugin 'hail2u/vim-css3-syntax'
-Plugin 'digitaltoad/vim-jade'
-Plugin 'tpope/vim-haml'
+"Plug 'valloric/youcompleteme'
+" Use release branch (recommend)
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'Shutnik/jshint2.vim'
+Plug 'mattn/emmet-vim'
+Plug 'kchmck/vim-coffee-script'
+Plug 'groenewege/vim-less'
+Plug 'ap/vim-css-color'
+Plug 'hail2u/vim-css3-syntax'
+Plug 'digitaltoad/vim-jade'
+Plug 'tpope/vim-haml'
+Plug 'cakebaker/scss-syntax.vim'
+Plug 'jiangmiao/auto-pairs'
+Plug 'prettier/vim-prettier', {
+  \ 'do': 'npm install',
+  \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue', 'php', 'html'] }
+Plug 'scrooloose/nerdtree'
+Plug 'Xuyuanp/nerdtree-git-plugin'
 
 
-" We could also add repositories with a ".git" extension
-Plugin 'scrooloose/nerdtree.git'
-Plugin 'Xuyuanp/nerdtree-git-plugin'
-
-" To get plugins from Vim Scripts, you can reference the plugin
-" by name as it appears on the site
-Plugin 'Buffergator'
-
+call plug#end()
 " Now we can turn our filetype functionality back on
 filetype plugin indent on
 
 " colors and theme
 syntax enable
-colorscheme molokai
+"colorscheme molokai
+"colorscheme afterglow
+set background=dark    " Setting dark mode
+colorscheme gruvbox
 
 " Give a shortcut key to NERD Tree
 map <F2> :NERDTreeToggle<CR>
@@ -158,3 +161,26 @@ let g:user_emmet_settings = {
   \  },
   \}
 
+" coc.nvim setup ============================================================{{{
+
+" color for cursor holding highlight
+hi default CocHighlightText guibg=#8a8a8a guifg=#211F1C
+hi default CocHighlightText ctermbg=#8a8a8a ctermfg=#211F1C
+
+" fugitive git bindings
+nnoremap <leader>ga :Git add %:p<CR><CR>
+nnoremap <leader>gs :Gstatus<CR>
+nnoremap <leader>gc :Gcommit -v -q<CR>
+nnoremap <leader>gt :Gcommit -v -q %:p<CR>
+nnoremap <leader>gd :Gdiff<CR>
+nnoremap <leader>ge :Gedit<CR>
+nnoremap <leader>gr :Gread<CR>
+nnoremap <leader>gw :Gwrite<CR><CR>
+nnoremap <leader>gl :silent! Glog<CR>:bot copen<CR>
+nnoremap <leader>gpr :Ggrep<Space>
+nnoremap <leader>gm :Gmove<Space>
+nnoremap <leader>gb :Git branch<Space>
+nnoremap <leader>go :Git checkout<Space>
+nnoremap <leader>gps :Dispatch! git push<CR>
+nnoremap <leader>gpl :Dispatch! git pull<CR>
+nnoremap <leader>gp :Gpush<CR>

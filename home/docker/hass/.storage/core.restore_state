@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "last_seen": "2021-05-17T14:57:08.932929+00:00",
+            "last_seen": "2021-06-04T15:48:03.936209+00:00",
             "state": {
                 "attributes": {
                     "editable": true,
@@ -10,14 +10,33 @@
                     "user_id": "b4b25765085149a48ace7327a27c695f"
                 },
                 "context": {
-                    "id": "f64ed396b71b11eb9f62a57ecbd8e705",
+                    "id": "1602c2bcbc8a11eb8f1503e8568d4437",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "person.oswaldo_nickel",
-                "last_changed": "2021-05-17T14:27:08.929336+00:00",
-                "last_updated": "2021-05-17T14:27:08.929336+00:00",
+                "last_changed": "2021-05-24T12:17:56.259694+00:00",
+                "last_updated": "2021-05-24T12:18:02.572068+00:00",
                 "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2021-06-04T15:48:03.936209+00:00",
+            "state": {
+                "attributes": {
+                    "assumed_state": true,
+                    "friendly_name": "klingen",
+                    "last_run_success": true
+                },
+                "context": {
+                    "id": "2a0216e0bc8f11eb95a5bdd0acf628b4",
+                    "parent_id": null,
+                    "user_id": "b975ad8dbd174b5e8c9c2a0e9652d6f6"
+                },
+                "entity_id": "switch.klingen",
+                "last_changed": "2021-05-24T12:18:02.472054+00:00",
+                "last_updated": "2021-05-24T12:54:29.101146+00:00",
+                "state": "on"
             }
         }
     ],

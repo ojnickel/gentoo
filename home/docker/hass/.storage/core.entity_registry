@@ -18,7 +18,7 @@
                 "unit_of_measurement": null
             },
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": null,
                 "device_class": null,
                 "device_id": null,
@@ -34,7 +34,7 @@
                 "unit_of_measurement": null
             },
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": "e614a2b8bf1f4502a58691e73680b75c",
                 "device_class": null,
                 "device_id": null,
@@ -71,7 +71,7 @@
                 "unit_of_measurement": null
             },
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": null,
                 "device_class": "connectivity",
                 "device_id": null,
@@ -84,6 +84,22 @@
                 "platform": "cloud",
                 "supported_features": 0,
                 "unique_id": "cloud-remote-ui-connectivity",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.klingen",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "klingen",
+                "platform": "switchbot",
+                "supported_features": 0,
+                "unique_id": "DAD91BB4E3EB",
                 "unit_of_measurement": null
             }
         ]

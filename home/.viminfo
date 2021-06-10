@@ -1,0 +1,1303 @@
+# Diese viminfo-Datei wurde von Vim 8.2 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Viminfo version
+|1,4
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~Msle0~/\<nm\>
+
+# Letztes ErsetzeSuchmuster:
+~MSle0&$\{plugins\[@\]\}
+
+# Letzte ersetzte Zeichenkette:
+$"$\{plugins\[@\]\}"
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:e wpupdate.sh
+|2,0,1622635385,,"e wpupdate.sh"
+:q
+|2,0,1622624442,,"q"
+:e wprestore.sh
+|2,0,1622112427,,"e wprestore.sh"
+:e wplocalinstall.sh
+|2,0,1622112349,,"e wplocalinstall.sh"
+:$s/$\{plugins\[@\]\}/"$\{plugins\[@\]\}"/g
+|2,0,1621605800,,"$s/$\\{plugins\\[@\\]\\}/\"$\\{plugins\\[@\\]\\}\"/g"
+:$s/$\{plugins\[@\]\}/"$\plugins\[@\]\}"/g
+|2,0,1621605733,,"$s/$\\{plugins\\[@\\]\\}/\"$\\plugins\\[@\\]\\}\"/g"
+:$s/${plugins[@]}/"${plugins[@]}"/g
+|2,0,1621605512,,"$s/${plugins[@]}/\"${plugins[@]}\"/g"
+:%s/<space>/<leader>/g
+|2,0,1621599023,,"%s/<space>/<leader>/g"
+:w wpsearchandreplace.sh
+|2,0,1621426257,,"w wpsearchandreplace.sh"
+:e ../emw/t.sh 
+|2,0,1621425223,,"e ../emw/t.sh "
+:t
+|2,0,1621425168,,"t"
+:%s/https:\/\/www.elternmitwirkung.bayern/http:\/\/localhost\/arbeit\/updates\/emw/g
+|2,0,1620831300,,"%s/https:\\/\\/www.elternmitwirkung.bayern/http:\\/\\/localhost\\/arbeit\\/updates\\/emw/g"
+:%s/h
+|2,0,1620830653,,"%s/h"
+:set ft=dosini
+|2,0,1618763472,,"set ft=dosini"
+:s/label
+|2,0,1617975455,,"s/label"
+::
+|2,0,1617897928,,":"
+:CocInstall coc-sql
+|2,0,1617120523,,"CocInstall coc-sql"
+:CocInstall coc-rome
+|2,0,1617120450,,"CocInstall coc-rome"
+:CocInstall coc-sh
+|2,0,1617114087,,"CocInstall coc-sh"
+:CocInstall coc-fish
+|2,0,1617114060,,"CocInstall coc-fish"
+:CocInstall coc-bash
+|2,0,1617114028,,"CocInstall coc-bash"
+:CocInstall coc-html
+|2,0,1617113994,,"CocInstall coc-html"
+:CocInstall coc-css
+|2,0,1617113913,,"CocInstall coc-css"
+:CocInstall coc-json
+|2,0,1617113872,,"CocInstall coc-json"
+:CocInstall coc-phpls
+|2,0,1617113751,,"CocInstall coc-phpls"
+:CocInstall coc-pyright
+|2,0,1617113687,,"CocInstall coc-pyright"
+:PlugInstall
+|2,0,1617113573,,"PlugInstall"
+:source %
+|2,0,1617113546,,"source %"
+:PlugClean
+|2,0,1617112922,,"PlugClean"
+:s/"
+|2,0,1616950386,,"s/\""
+:s/index/icon/g
+|2,0,1616592260,,"s/index/icon/g"
+:set fs=ini
+|2,0,1616580805,,"set fs=ini"
+:set ft=ini
+|2,0,1616519057,,"set ft=ini"
+:%s/Plugin/Plug/g
+|2,0,1616509633,,"%s/Plugin/Plug/g"
+:x
+|2,0,1616493751,,"x"
+
+# Suchausdruck Geschichte (neueste bis älteste):
+? \<nm\>
+|2,1,1621862537,,"\\<nm\\>"
+? $\{plugins\[@\]\}
+|2,1,1621605800,,"$\\{plugins\\[@\\]\\}"
+? ${plugins[@]}
+|2,1,1621605512,,"${plugins[@]}"
+? <space>
+|2,1,1621599023,,"<space>"
+? \$\(cursor\|select\)\$
+|2,1,1621503485,,"\\$\\(cursor\\|select\\)\\$"
+? https:\/\/www.elternmitwirkung.bayern
+|2,1,1620831300,,"https:\\/\\/www.elternmitwirkung.bayern"
+?/https:\/\/www.e
+|2,1,1620830801,47,"https:\\/\\/www.e"
+? h
+|2,1,1620830653,,"h"
+?/https://www.e
+|2,1,1620830383,47,"https://www.e"
+?/https
+|2,1,1620830280,47,"https"
+?/qasxcf
+|2,1,1620653343,47,"qasxcf"
+? "#########################"
+|2,1,1620653314,,"\"#########################\""
+? \<echo\>
+|2,1,1620649323,,"\\<echo\\>"
+?/-q
+|2,1,1617973741,47,"-q"
+? \<\>
+|2,1,1617620849,,"\\<\\>"
+? "
+|2,1,1616950486,,"\""
+? index
+|2,1,1616592260,,"index"
+?/i3
+|2,1,1616591621,47,"i3"
+? Plugin
+|2,1,1616509633,,"Plugin"
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+@y
+|2,3,1617112936,,"y"
+
+# Debug-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+"0	LINE	0
+	        echo "------------------------------"
+|3,0,0,1,1,0,1622995676,"        echo \"------------------------------\""
+"1	LINE	0
+	        git add -A plugins/$plugin 1>/dev/null 
+|3,0,1,1,1,0,1622911450,"        git add -A plugins/$plugin 1>/dev/null "
+"2	LINE	0
+	    cd -  &>/dev/null
+|3,0,2,1,1,0,1622637248,"    cd -  &>/dev/null"
+"3	LINE	0
+	        echo "Push to Github? [y]"
+	        read a
+	        if [ "$a" = "y" ]; then
+	            git push
+	        else
+	            "Not pushing"
+	        fi
+|3,0,3,1,7,0,1622636184,"        echo \"Push to Github? [y]\"","        read a","        if [ \"$a\" = \"y\" ]; then","            git push","        else","            \"Not pushing\"","        fi"
+"4	LINE	0
+	        plugins[$i]="$plugin:$old_v --> $new_v"
+|3,0,4,1,1,0,1622113098,"        plugins[$i]=\"$plugin:$old_v --> $new_v\""
+"5	LINE	0
+	    j=0
+	    x=0
+	    declare -A plugins
+|3,0,5,1,3,0,1622112609,"    j=0","    x=0","    declare -A plugins"
+"6	LINE	0
+	        plugins[$i,$j,$x]=$plugin
+|3,0,6,1,1,0,1622105930,"        plugins[$i,$j,$x]=$plugin"
+"7	LINE	0
+	        echo "plugins: ${#plugins[@]}"
+|3,0,7,1,1,0,1622105069,"        echo \"plugins: ${#plugins[@]}\""
+"8	LINE	0
+	    plugins=$(wp plugin list --update=available --field=name)
+|3,0,8,1,1,0,1622105064,"    plugins=$(wp plugin list --update=available --field=name)"
+"9	LINE	0
+	    oldversions=$(wp plugin list --update=available --field=veion)
+|3,0,9,1,1,0,1622102921,"    oldversions=$(wp plugin list --update=available --field=veion)"
+"q	CHAR	0
+	$�klvbbbd
+|3,0,26,0,1,0,1616950684,"$�klvbbbd"
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1622995988," "
+
+# Datei-Markierungen:
+'0  92  4  /mnt/arbeit/updates/ho-updates/wpupdate.sh
+|4,48,92,4,1622996136,"/mnt/arbeit/updates/ho-updates/wpupdate.sh"
+'1  69  12  ~/.config/fish/config.fish
+|4,49,69,12,1622633020,"~/.config/fish/config.fish"
+'2  19  8  ~/.config/fish/functions/arbeit.fish
+|4,50,19,8,1622632888,"~/.config/fish/functions/arbeit.fish"
+'3  34  92  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,51,34,92,1622626214,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+'4  34  92  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,52,34,92,1622626214,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+'5  72  0  ~/.config/fish/config.fish
+|4,53,72,0,1622624442,"~/.config/fish/config.fish"
+'6  72  0  ~/.config/fish/config.fish
+|4,54,72,0,1622624442,"~/.config/fish/config.fish"
+'7  72  0  ~/.config/fish/config.fish
+|4,55,72,0,1622624442,"~/.config/fish/config.fish"
+'8  23  0  ~/.config/fish/abbreviations.fish
+|4,56,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+'9  23  0  ~/.config/fish/abbreviations.fish
+|4,57,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+
+# Jumplist (neueste zuerst):
+-'  92  4  /mnt/arbeit/updates/ho-updates/wpupdate.sh
+|4,39,92,4,1622996136,"/mnt/arbeit/updates/ho-updates/wpupdate.sh"
+-'  70  9  /mnt/arbeit/updates/ho-updates/wpupdate.sh
+|4,39,70,9,1622900499,"/mnt/arbeit/updates/ho-updates/wpupdate.sh"
+-'  144  0  /mnt/arbeit/updates/ho-updates/wpupdate.sh
+|4,39,144,0,1622635972,"/mnt/arbeit/updates/ho-updates/wpupdate.sh"
+-'  85  8  /mnt/arbeit/updates/ho-updates/wpupdate.sh
+|4,39,85,8,1622635964,"/mnt/arbeit/updates/ho-updates/wpupdate.sh"
+-'  34  4  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,34,4,1622635385,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  69  12  ~/.config/fish/config.fish
+|4,39,69,12,1622633020,"~/.config/fish/config.fish"
+-'  72  0  ~/.config/fish/config.fish
+|4,39,72,0,1622632900,"~/.config/fish/config.fish"
+-'  19  8  ~/.config/fish/functions/arbeit.fish
+|4,39,19,8,1622632888,"~/.config/fish/functions/arbeit.fish"
+-'  19  8  ~/.config/fish/functions/arbeit.fish
+|4,39,19,8,1622632888,"~/.config/fish/functions/arbeit.fish"
+-'  128  4  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,128,4,1622626827,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  34  92  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,34,92,1622626214,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  34  92  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,34,92,1622626214,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  34  92  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,34,92,1622626214,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  34  92  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,34,92,1622626214,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  1  0  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,1,0,1622625685,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  1  0  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,1,0,1622625685,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  1  0  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,1,0,1622625685,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  1  0  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,1,0,1622625685,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  1  0  /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+|4,39,1,0,1622625685,"/mnt/arbeit/updates/ho-updates/wplocalinstall.sh"
+-'  72  0  ~/.config/fish/config.fish
+|4,39,72,0,1622624442,"~/.config/fish/config.fish"
+-'  72  0  ~/.config/fish/config.fish
+|4,39,72,0,1622624442,"~/.config/fish/config.fish"
+-'  72  0  ~/.config/fish/config.fish
+|4,39,72,0,1622624442,"~/.config/fish/config.fish"
+-'  72  0  ~/.config/fish/config.fish
+|4,39,72,0,1622624442,"~/.config/fish/config.fish"
+-'  72  0  ~/.config/fish/config.fish
+|4,39,72,0,1622624442,"~/.config/fish/config.fish"
+-'  65  4  ~/.config/fish/config.fish
+|4,39,65,4,1622624377,"~/.config/fish/config.fish"
+-'  65  4  ~/.config/fish/config.fish
+|4,39,65,4,1622624377,"~/.config/fish/config.fish"
+-'  65  4  ~/.config/fish/config.fish
+|4,39,65,4,1622624377,"~/.config/fish/config.fish"
+-'  65  4  ~/.config/fish/config.fish
+|4,39,65,4,1622624377,"~/.config/fish/config.fish"
+-'  65  4  ~/.config/fish/config.fish
+|4,39,65,4,1622624377,"~/.config/fish/config.fish"
+-'  65  4  ~/.config/fish/config.fish
+|4,39,65,4,1622624377,"~/.config/fish/config.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  23  0  ~/.config/fish/abbreviations.fish
+|4,39,23,0,1622624357,"~/.config/fish/abbreviations.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  19  14  ~/.config/fish/functions/arbeit.fish
+|4,39,19,14,1622541345,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  12  ~/.config/fish/functions/arbeit.fish
+|4,39,20,12,1622541262,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  20  51  ~/.config/fish/functions/arbeit.fish
+|4,39,20,51,1622541208,"~/.config/fish/functions/arbeit.fish"
+-'  34  8  ~/.config/fish/functions/arbeit.fish
+|4,39,34,8,1622540855,"~/.config/fish/functions/arbeit.fish"
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> /mnt/arbeit/updates/ho-updates/wpupdate.sh
+	*	1622996134	0
+	"	92	4
+	^	90	28
+	.	91	4
+	+	95	4
+	+	92	15
+	+	92	0
+	+	92	56
+	+	92	9
+	+	93	35
+	+	87	0
+	+	89	0
+	+	87	4
+	+	89	4
+	+	92	0
+	+	88	0
+	+	57	6
+	+	64	4
+	+	64	0
+	+	64	6
+	+	71	109
+	+	71	69
+	+	64	21
+	+	84	70
+	+	84	74
+	+	84	84
+	+	85	33
+	+	71	69
+	+	93	37
+	+	103	10
+	+	81	30
+	+	82	13
+	+	83	0
+	+	135	0
+	+	58	4
+	+	87	0
+	+	70	0
+	+	69	8
+	+	68	14
+	+	64	0
+	+	64	69
+	+	71	8
+	+	72	54
+	+	73	28
+	+	64	0
+	+	65	49
+	+	82	59
+	+	82	0
+	+	84	67
+	+	64	71
+	+	65	25
+	+	58	21
+	+	65	0
+	+	85	11
+	+	58	0
+	+	85	34
+	+	85	45
+	+	85	0
+	+	84	54
+	+	82	45
+	+	85	0
+	+	75	0
+	+	82	48
+	+	84	46
+	+	93	28
+	+	84	19
+	+	85	34
+	+	85	25
+	+	85	0
+	+	85	30
+	+	85	25
+	+	85	9
+	+	45	47
+	+	32	40
+	+	69	8
+	+	65	16
+	+	64	20
+	+	85	0
+	+	96	0
+	+	99	0
+	+	101	16
+	+	87	0
+	+	104	0
+	+	75	29
+	+	69	13
+	+	60	72
+	+	63	23
+	+	60	4
+	+	60	41
+	+	61	33
+	+	63	0
+	+	62	8
+	+	69	33
+	+	84	34
+	+	84	59
+	+	99	20
+	+	80	0
+	+	77	31
+	+	84	0
+	+	79	0
+	+	78	0
+	+	94	0
+	+	90	27
+	+	91	4
+
+> /mnt/arbeit/updates/ho-updates/NERD_tree_1
+	*	1622995642	0
+	"	3	4
+	.	1	0
+	+	1	0
+
+> /mnt/arbeit/updates/ho-updates/wplocalinstall.sh
+	*	1622635359	0
+	"	34	4
+	^	33	69
+	.	33	68
+	+	84	35
+	+	108	14
+	+	111	0
+	+	99	7
+	+	98	71
+	+	104	117
+	+	81	0
+	+	82	31
+	+	83	0
+	+	87	0
+	+	100	0
+	+	109	0
+	+	88	30
+	+	101	30
+	+	110	32
+	+	100	10
+	+	109	10
+	+	110	30
+	+	112	4
+	+	146	0
+	+	112	125
+	+	112	25
+	+	96	64
+	+	147	0
+	+	146	51
+	+	145	0
+	+	147	8
+	+	29	0
+	+	149	0
+	+	208	9
+	+	199	13
+	+	114	10
+	+	124	24
+	+	125	4
+	+	200	4
+	+	147	4
+	+	146	4
+	+	125	18
+	+	115	0
+	+	125	34
+	+	129	0
+	+	125	20
+	+	115	27
+	+	116	38
+	+	117	31
+	+	120	0
+	+	210	5
+	+	112	121
+	+	112	27
+	+	96	70
+	+	104	0
+	+	104	92
+	+	103	22
+	+	104	75
+	+	104	163
+	+	104	130
+	+	107	0
+	+	103	48
+	+	104	75
+	+	112	62
+	+	104	99
+	+	106	0
+	+	104	115
+	+	16	0
+	+	2	0
+	+	3	0
+	+	104	107
+	+	112	138
+	+	112	72
+	+	104	75
+	+	104	0
+	+	131	12
+	+	132	0
+	+	133	0
+	+	209	8
+	+	89	23
+	+	90	24
+	+	92	12
+	+	90	12
+	+	94	5
+	+	89	21
+	+	91	27
+	+	92	7
+	+	126	29
+	+	127	29
+	+	128	18
+	+	125	22
+	+	124	11
+	+	21	9
+	+	49	7
+	+	33	76
+	+	34	0
+	+	34	93
+	+	121	0
+	+	122	26
+	+	47	52
+	+	33	70
+	+	33	144
+	+	33	70
+	+	33	68
+	m	61	8
+	y	74	0
+
+> ~/.config/fish/config.fish
+	*	1622633013	0
+	"	69	12
+	^	69	13
+	.	69	12
+	+	16	10
+	+	16	11
+	+	58	0
+	+	17	11
+	+	53	15
+	+	55	25
+	+	57	0
+	+	57	35
+	+	1	0
+	+	56	42
+	+	56	2
+	+	1	14
+	+	56	0
+	+	23	22
+	+	53	0
+	+	54	0
+	+	32	0
+	+	53	0
+	+	32	35
+	+	11	20
+	+	53	0
+	+	32	19
+	+	8	53
+	+	31	14
+	+	8	36
+	+	9	39
+	+	8	14
+	+	10	31
+	+	10	59
+	+	31	16
+	+	32	0
+	+	33	38
+	+	36	29
+	+	38	14
+	+	35	17
+	+	38	16
+	+	37	13
+	+	39	20
+	+	40	44
+	+	42	20
+	+	43	44
+	+	45	20
+	+	46	39
+	+	48	20
+	+	52	4
+	+	51	36
+	+	51	6
+	+	37	13
+	+	38	16
+	+	36	27
+	+	33	0
+	+	51	4
+	+	40	16
+	+	43	16
+	+	46	48
+	+	43	53
+	+	40	53
+	+	51	0
+	+	35	0
+	+	10	35
+	+	10	44
+	+	10	14
+	+	10	42
+	+	9	0
+	+	10	13
+	+	10	0
+	+	13	69
+	+	13	0
+	+	25	30
+	+	27	20
+	+	30	0
+	+	13	0
+	+	28	0
+	+	29	23
+	+	30	0
+	+	29	23
+	+	27	18
+	+	9	32
+	+	19	25
+	+	20	28
+	+	22	6
+	+	28	39
+	+	41	46
+	+	42	0
+	+	41	52
+	+	44	0
+	+	47	31
+	+	44	22
+	+	41	53
+	+	60	21
+	+	61	21
+	+	63	24
+	+	64	22
+	+	72	0
+	+	65	26
+	+	67	22
+	+	71	2
+	+	65	25
+	+	68	12
+	+	69	12
+
+> ~/.config/fish/functions/arbeit.fish
+	*	1622632876	0
+	"	19	8
+	^	20	52
+	.	19	14
+	+	2	54
+	+	28	0
+	+	3	19
+	+	4	21
+	+	5	86
+	+	6	18
+	+	7	80
+	+	8	17
+	+	9	21
+	+	9	136
+	+	28	0
+	+	9	61
+	+	25	48
+	+	27	6
+	+	9	58
+	+	9	37
+	+	9	35
+	+	9	14
+	+	9	73
+	+	10	18
+	+	11	82
+	+	12	19
+	+	13	23
+	+	13	20
+	+	13	72
+	+	22	48
+	+	23	17
+	+	14	18
+	+	15	74
+	+	18	14
+	+	15	11
+	+	22	51
+	+	13	12
+	+	15	20
+	+	16	18
+	+	18	14
+	+	18	12
+	+	21	8
+	+	18	45
+	+	22	68
+	+	18	23
+	+	17	19
+	+	18	25
+	+	29	54
+	+	30	4
+	+	30	64
+	+	33	21
+	+	36	17
+	+	38	34
+	+	39	30
+	+	40	2
+	+	29	55
+	+	29	0
+	+	35	6
+	+	34	25
+	+	19	20
+	+	20	16
+	+	20	51
+	+	19	14
+
+> ~/.config/fish/abbreviations.fish
+	*	1622624329	0
+	"	23	0
+	^	23	37
+	.	24	0
+	+	1	20
+	+	2	22
+	+	4	61
+	+	5	24
+	+	7	0
+	+	7	25
+	+	8	23
+	+	9	0
+	+	10	0
+	+	11	16
+	+	12	18
+	+	13	0
+	+	14	0
+	+	13	17
+	+	14	9
+	+	11	8
+	+	12	6
+	+	11	6
+	+	15	15
+	+	16	16
+	+	15	12
+	+	17	0
+	+	18	0
+	+	17	0
+	+	15	9
+	+	16	9
+	+	17	8
+	+	18	17
+	+	19	29
+	+	20	28
+	+	21	31
+	+	21	38
+	+	22	30
+	+	23	37
+	+	24	0
+
+> ~/.i3/config
+	*	1622282652	0
+	"	268	11
+	^	278	0
+	.	268	0
+	+	202	0
+	+	203	0
+	+	224	52
+	+	224	54
+	+	231	0
+	+	230	0
+	+	231	43
+	+	235	46
+	+	47	49
+	+	54	0
+	+	55	0
+	+	151	28
+	+	237	5
+	+	165	0
+	+	164	0
+	+	167	0
+	+	166	0
+	+	231	0
+	+	232	13
+	+	231	56
+	+	154	0
+	+	155	0
+	+	121	0
+	+	122	0
+	+	119	17
+	+	122	17
+	+	121	20
+	+	122	17
+	+	121	0
+	+	122	0
+	+	246	84
+	+	241	13
+	+	242	0
+	+	248	0
+	+	243	0
+	+	244	0
+	+	243	0
+	+	249	13
+	+	250	13
+	+	251	13
+	+	259	0
+	+	249	0
+	+	250	0
+	+	246	0
+	+	245	0
+	+	244	0
+	+	270	12
+	+	265	0
+	+	260	0
+	+	267	38
+	+	284	31
+	+	271	70
+	+	276	0
+	+	270	0
+	+	405	1
+	+	267	0
+	+	268	0
+	i	241	13
+	m	241	13
+
+> /mnt/arbeit/updates/ho-updates/server.md
+	*	1622226436	0
+	"	46	4
+	^	49	7
+	.	28	13
+	+	27	11
+	+	28	13
+
+> /mnt/arbeit/updates/ho-updates/s
+	*	1622119322	0
+	"	1	0
+
+> /mnt/arbeit/updates/ho-updates/wprestore.sh
+	*	1622112432	0
+	"	53	8
+
+> ~/.config/gtk-3.0/settings.ini
+	*	1621929884	0
+	"	5	25
+	^	1	15
+	.	5	0
+	+	5	25
+	+	1	1
+	+	5	0
+
+> /mnt/arbeit/updates/bbsb/wp-content/plugins/the-events-calendar/the-events-calendar.php
+	*	1621611102	0
+	"	1	0
+
+> ~/.vimrc
+	*	1621599027	0
+	"	186	0
+	^	180	19
+	.	171	0
+	+	4	0
+	+	24	20
+	+	24	0
+	+	4	0
+	+	24	0
+	+	23	16
+	+	53	13
+	+	24	0
+	+	49	25
+	+	52	0
+	+	49	0
+	+	1	0
+	+	44	4
+	+	45	4
+	+	60	0
+	+	59	0
+	+	46	0
+	+	49	0
+	+	33	16
+	+	36	0
+	+	33	14
+	+	36	0
+	+	33	13
+	+	37	0
+	+	60	0
+	+	61	18
+	+	61	41
+	+	63	0
+	+	62	0
+	+	63	14
+	+	26	10
+	+	26	42
+	+	27	0
+	+	25	36
+	+	27	0
+	+	26	35
+	+	63	0
+	+	62	19
+	+	63	0
+	+	36	0
+	+	33	0
+	+	20	0
+	+	33	30
+	+	36	0
+	+	168	59
+	+	186	25
+	+	180	18
+	+	171	0
+
+> /mnt/arbeit/updates/emw/.htaccess
+	*	1621425535	0
+	"	1	0
+
+> /mnt/arbeit/updates/emw/t.sh
+	*	1621425371	0
+	"	1	0
+	^	3	8
+	.	3	7
+	+	12	3
+	+	3	7
+
+> ~/.xinitrc
+	*	1621414211	0
+	"	20	67
+	^	20	68
+	.	20	67
+	+	7	0
+	+	23	0
+	+	8	0
+	+	17	1
+	+	18	0
+	+	20	67
+
+> ~/.Xresources
+	*	1621413998	0
+	"	1	22
+	^	1	23
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/docker/hass/configuration.yaml
+	*	1621263863	0
+	"	9	0
+	^	9	0
+	.	9	0
+	+	2	0
+	+	6	18
+	+	5	6
+	+	6	23
+	+	7	28
+	+	9	0
+
+> /etc/homeassistant.start
+	*	1621259738	0
+	"	3	0
+
+> ~/Downloads/wp294_webpack_hosteurope_de.sql
+	*	1621245021	0
+	"	1	0
+	^	25	8
+	.	24	0
+	+	1	0
+	+	106785	0
+	+	24	8
+	+	24	33
+	+	25	7
+	+	24	0
+
+> /mnt/arbeit/updates/emw/wp-config.php
+	*	1621181659	0
+	"	118	27
+	^	118	28
+	.	44	27
+	+	33	22
+	+	39	23
+	+	44	27
+
+> ~/.ssh/arbeit.pub
+	*	1620820057	0
+	"	1	0
+
+> ~/.ssh/config
+	*	1620749857	0
+	"	12	1
+	^	8	17
+	.	12	0
+	+	12	26
+	+	8	17
+	+	6	0
+	+	12	0
+
+> ~/git/cygwin/.bashrc
+	*	1620737002	0
+	"	204	0
+
+> ~/git/gentoo/home/.zshrc
+	*	1620736614	0
+	"	111	0
+
+> ~/.i3/exit.sh
+	*	1620382126	0
+	"	3	4
+	^	3	76
+	.	3	75
+	+	7	10
+	+	3	75
+
+> ~/.xprofile
+	*	1620045605	0
+	"	3	0
+	^	3	1
+	.	3	0
+	+	10	0
+	+	5	0
+	+	3	0
+
+> /mnt/arbeit/updates/ho-updates/wpsearchreplace.sql
+	*	1619688501	0
+	"	1	0
+
+> /usr/share/doc/polybar-3.4.3/config
+	*	1618836669	0
+	"	302	1
+	.	155	0
+	+	155	0
+
+> ~/.config/polybar/config
+	*	1618763754	0
+	"	109	18
+	^	109	19
+	.	109	18
+	+	131	12
+	+	137	16
+	+	94	0
+	+	93	0
+	+	95	16
+	+	131	13
+	+	60	25
+	+	62	15
+	+	65	23
+	+	61	38
+	+	152	15
+	+	131	5
+	+	126	0
+	+	122	12
+	+	124	19
+	+	131	10
+	+	122	11
+	+	131	0
+	+	16	35
+	+	54	30
+	+	124	0
+	+	128	0
+	+	173	14
+	+	20	0
+	+	19	37
+	+	172	0
+	+	25	14
+	+	52	23
+	+	51	40
+	+	91	23
+	+	139	50
+	+	147	18
+	+	150	17
+	+	152	9
+	+	147	17
+	+	51	43
+	+	138	0
+	+	148	0
+	+	149	0
+	+	91	0
+	+	90	0
+	+	91	0
+	+	150	0
+	+	147	17
+	+	139	0
+	+	138	16
+	+	115	10
+	+	117	13
+	+	118	18
+	+	16	50
+	+	31	11
+	+	117	13
+	+	33	5
+	+	53	0
+	+	52	0
+	+	53	39
+	+	123	37
+	+	124	18
+	+	50	17
+	+	138	27
+	+	138	46
+	+	139	46
+	+	117	12
+	+	124	0
+	+	123	7
+	+	138	0
+	+	141	7
+	+	124	0
+	+	132	24
+	+	51	0
+	+	54	30
+	+	16	34
+	+	129	10
+	+	131	27
+	+	54	28
+	+	34	13
+	+	35	18
+	+	97	12
+	+	99	0
+	+	103	9
+	+	100	15
+	+	101	0
+	+	102	40
+	+	101	32
+	+	104	12
+	+	109	16
+	+	112	8
+	+	109	16
+	+	109	39
+	+	111	46
+	+	104	14
+	+	101	23
+	+	16	20
+	+	35	18
+	+	104	9
+	+	113	13
+	+	100	18
+	+	109	16
+	+	111	0
+	+	109	18
+
+> ~/git/gentoo/home/.config/polybar/config
+	*	1618070619	0
+	"	1	0
+
+> ~/.config/polybar/grayblocks/modules.ini
+	*	1617978535	0
+	"	611	0
+
+> ~/git/polybar-themes/setup.sh
+	*	1617977969	0
+	"	1	0
+
+> ~/.config/polybar.old/con
+	*	1617977385	0
+	"	1	0
+
+> ß.i3/config
+	*	1617973741	0
+	"	1	0
+
+> ~/.config/polybar/launch.sh
+	*	1617971570	0
+	"	11	12
+	^	11	13
+	.	11	12
+	+	15	27
+	+	1	10
+	+	7	0
+	+	8	7
+	+	11	12
+
+> ~/.lpass
+	*	1617461247	0
+	"	3	0
+	^	3	21
+	.	3	20
+	+	1	0
+	+	3	20
+
+> ~/.kp
+	*	1617025400	0
+	"	1	9
+	^	1	10
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/git/cygwin/.vimrc
+	*	1616948421	0
+	"	74	0
+
+> ~/.vim/.xinitrc
+	*	1616858573	0
+	"	1	0
+
+> ~/git/gentoo/home/rpi/home/.vimrc
+	*	1616770461	0
+	"	62	0
+
+> ~/Dokumente/fara.txt
+	*	1616762201	0
+	"	60	0
+	^	60	0
+	.	59	0
+	+	59	0
+
+> /mnt/arbeit/updates/ho-updates/wpbackup.sh
+	*	1616673573	0
+	"	1	0
+
+> /var/www/localhost/htdocs/arbeit/updates/ho-updates/wpbackup.sh
+	*	1616670696	0
+	"	1	0
+
+> ~/NERD_tree_1
+	*	1616516989	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.lp
+	*	1616430705	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17

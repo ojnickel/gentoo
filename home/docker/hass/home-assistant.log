@@ -1,0 +1,419 @@
+2021-05-24 14:54:25 WARNING (SyncWorker_4) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-24 14:54:25 WARNING (SyncWorker_4) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-24 14:54:26 WARNING (SyncWorker_4) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-24 14:54:26 WARNING (SyncWorker_4) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 2)...
+2021-05-24 14:54:27 WARNING (SyncWorker_4) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-24 14:54:27 WARNING (SyncWorker_4) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 1)...
+2021-05-24 19:40:45 WARNING (MainThread) [hass_nabucasa.iot] Connection closed: Received non-Text message: 8
+2021-05-24 19:40:47 WARNING (SyncWorker_6) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-24 19:40:47 WARNING (SyncWorker_6) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-24 20:24:08 WARNING (SyncWorker_7) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-24 20:24:08 WARNING (SyncWorker_7) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-25 15:21:12 WARNING (SyncWorker_5) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-25 15:21:12 WARNING (SyncWorker_5) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-25 19:34:30 WARNING (SyncWorker_1) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-25 19:34:30 WARNING (SyncWorker_1) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-25 19:34:31 WARNING (SyncWorker_1) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-25 19:34:31 WARNING (SyncWorker_1) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 2)...
+2021-05-26 09:51:23 WARNING (SyncWorker_6) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-26 09:51:23 WARNING (SyncWorker_6) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-26 11:21:55 WARNING (SyncWorker_6) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-26 11:21:55 WARNING (SyncWorker_6) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-26 13:49:19 WARNING (SyncWorker_7) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-26 13:49:19 WARNING (SyncWorker_7) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-27 07:53:33 WARNING (SyncWorker_2) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-27 07:53:33 WARNING (SyncWorker_2) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-27 08:34:45 WARNING (SyncWorker_6) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-27 08:34:45 WARNING (SyncWorker_6) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-28 02:45:28 WARNING (MainThread) [hass_nabucasa.iot] Unable to connect: Cannot connect to host cloud.nabucasa.com:443 ssl:default [Try again]
+2021-05-28 02:45:43 WARNING (MainThread) [hass_nabucasa.iot] Unable to connect: Cannot connect to host cloud.nabucasa.com:443 ssl:default [Try again]
+2021-05-28 02:46:05 WARNING (MainThread) [hass_nabucasa.iot] Unable to connect: Cannot connect to host cloud.nabucasa.com:443 ssl:default [Try again]
+2021-05-28 08:54:12 WARNING (SyncWorker_0) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-28 08:54:12 WARNING (SyncWorker_0) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-28 19:39:44 WARNING (SyncWorker_5) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-28 19:39:44 WARNING (SyncWorker_5) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-28 19:39:46 WARNING (SyncWorker_5) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-28 19:39:46 WARNING (SyncWorker_5) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 2)...
+2021-05-28 20:30:29 WARNING (MainThread) [hass_nabucasa.iot] Unable to connect: Cannot connect to host cloud.nabucasa.com:443 ssl:default [Try again]
+2021-05-28 20:30:40 WARNING (MainThread) [hass_nabucasa.iot] Unable to connect: Cannot connect to host cloud.nabucasa.com:443 ssl:default [Try again]
+2021-05-28 20:30:56 WARNING (MainThread) [hass_nabucasa.iot] Unable to connect: Cannot connect to host cloud.nabucasa.com:443 ssl:default [Try again]
+2021-05-28 20:31:20 WARNING (MainThread) [hass_nabucasa.iot] Unable to connect: Cannot connect to host cloud.nabucasa.com:443 ssl:default [Try again]
+2021-05-29 17:09:39 WARNING (SyncWorker_4) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-29 17:09:39 WARNING (SyncWorker_4) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-29 19:42:52 WARNING (SyncWorker_4) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-29 19:42:52 WARNING (SyncWorker_4) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-30 12:34:45 WARNING (SyncWorker_2) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-30 12:34:45 WARNING (SyncWorker_2) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-30 22:05:24 WARNING (SyncWorker_4) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-30 22:05:24 WARNING (SyncWorker_4) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-31 09:22:25 WARNING (SyncWorker_3) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-31 09:22:25 WARNING (SyncWorker_3) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-05-31 09:53:10 WARNING (SyncWorker_7) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-05-31 09:53:10 WARNING (SyncWorker_7) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-01 08:08:25 WARNING (SyncWorker_3) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-01 08:08:25 WARNING (SyncWorker_3) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-01 08:41:06 WARNING (SyncWorker_3) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-01 08:41:06 WARNING (SyncWorker_3) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-01 08:41:35 WARNING (SyncWorker_4) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-01 08:41:35 WARNING (SyncWorker_4) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-01 15:42:49 WARNING (SyncWorker_3) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-01 15:42:49 WARNING (SyncWorker_3) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-01 21:16:27 WARNING (SyncWorker_1) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-01 21:16:27 WARNING (SyncWorker_1) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-02 12:47:58 WARNING (SyncWorker_2) [root] Waiting for authorization...
+2021-06-02 13:45:25 WARNING (SyncWorker_6) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-02 13:45:25 WARNING (SyncWorker_6) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-03 10:37:10 WARNING (SyncWorker_0) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-03 10:37:10 WARNING (SyncWorker_0) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-03 10:37:11 WARNING (SyncWorker_0) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-03 10:37:11 WARNING (SyncWorker_0) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 2)...
+2021-06-03 12:37:51 WARNING (SyncWorker_3) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-03 12:37:51 WARNING (SyncWorker_3) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-03 19:50:40 WARNING (SyncWorker_5) [root] Waiting for authorization...
+2021-06-03 20:20:15 WARNING (SyncWorker_5) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-03 20:20:15 WARNING (SyncWorker_5) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
+2021-06-03 20:20:17 WARNING (SyncWorker_5) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-03 20:20:17 WARNING (SyncWorker_5) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 2)...
+2021-06-03 20:36:01 WARNING (SyncWorker_4) [root] Waiting for authorization...
+2021-06-04 16:02:47 WARNING (SyncWorker_5) [switchbot] Error talking to Switchbot.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 92, in _sendcommand
+    self._connect()
+  File "/usr/local/lib/python3.8/site-packages/switchbot/__init__.py", line 45, in _connect
+    self._device = bluepy.btle.Peripheral(self._mac,
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 391, in __init__
+    self._connect(deviceAddr, addrType, iface)
+  File "/usr/local/lib/python3.8/site-packages/bluepy/btle.py", line 439, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s" % (addr, addrType), rsp)
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral DA:D9:1B:B4:E3:EB, addr type: random
+2021-06-04 16:02:47 WARNING (SyncWorker_5) [switchbot] Cannot connect to Switchbot. Retrying (remaining: 3)...
