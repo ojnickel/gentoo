@@ -16,11 +16,27 @@ function arbeit -d "ssh/sftp quickly in known servers"
         case 'sbz'
             set pw "vVm8OTxDmC)"
             sshpass -p $pw  $argv[2] seh_0@sbz.de    
+        case  'bbsb'
+            sshpass -p unPH_he!2007 $argv[2] wp1065095@wp1065095.server-he.de
+        case 'talt'
+            $argv[2] teealternative.de@ssh.strato.de
         case '-s'
-            echo -e "1u1\npp\npgw\nnetcup\nssnh\nrwl\nsbz\t(sftp only)"
+            echo -e "bbsb\n1u1\npp\npgw\nnetcup\nssnh\nrwl\nsbz\t(sftp only)"
             return
         case ''
             echo "Usage: arbeit SERVER PROTOCOL"
             return
     end
+end
+function wplistpl -d "list plugins and copy selection"
+    set plugins (wp plugin list --update=available --field=name)
+    set i 1
+    for p in $plugins
+        echo "$i. $p"
+        set i (math $i + 1)
+    end
+    echo "Select"
+    read i
+    echo "$plugins[$i]" | xsel -ib
+    echo "$plugins[$i] copied"
 end
