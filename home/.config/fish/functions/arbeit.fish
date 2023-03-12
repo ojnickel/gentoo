@@ -6,18 +6,18 @@ function arbeit -d "ssh/sftp quickly in known servers"
         case '1u1'
             $argv[2] -i ~/.ssh/arbeit p7822590@home29658965.1and1-data.host     
         case 'pp'
-            /usr/bin/sshpass -p 7fwg78wC $argv[2] ww4281@pfennigparade.de
+            /usr/bin/sshpass -p $argv[2] ww4281@pfennigparade.de
         case 'pgw'
-            sshpass -p K-H6clmaAK $argv[2] u89936386@home690690802.1and1-data.host
+            sshpass -p  $argv[2] u89936386@home690690802.1and1-data.host
         case 'ssnh'
             $argv[2]  -i ~/.ssh/arbeit seniorenstiftneuhausen.de@ssh.strato.de
         case 'rwl'
             $argv[2] info@rollwagerl.homepage.t-online.de@hosting.telekom.de -i .ssh/arbeit            
         case 'sbz'
-            set pw "vVm8OTxDmC)"
+            set pw 
             sshpass -p $pw  $argv[2] seh_0@sbz.de    
         case  'bbsb'
-            sshpass -p unPH_he!2007 $argv[2] wp1065095@wp1065095.server-he.de
+            sshpass -p  $argv[2] wp1065095@wp1065095.server-he.de
         case 'talt'
             $argv[2] teealternative.de@ssh.strato.de
         case '-s'
