@@ -1,0 +1,36 @@
+# These settings were set by the catalyst build script that automatically
+# built this stage.
+# Please consult /usr/share/portage/config/make.conf.example for a more
+# detailed example.
+COMMON_FLAGS="-march=corei7-avx -mcx16 -msahf -O2 -pipe"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+FCFLAGS="${COMMON_FLAGS}"
+FFLAGS="${COMMON_FLAGS}"
+
+CHOST="x86_64-pc-linux-gnu"
+MAKEOPTS="-j9"
+
+CPU_FLAGS_X86="aes avx mmx mmxext pclmul popcnt sse sse2 sse3 sse4_1 sse4_2 ssse3"
+# This sets the language of build output to English.
+# Please keep this setting intact when reporting bugs.
+LC_MESSAGES=C
+
+FEATURES="buildpkg"
+PKGDIR="/usr/portage/binpkgs"
+
+USE="elogind networkmanager i3wm doc -kde -gnome docker npm pulseaudio btrfs X \
+a52 aac acl acpi alsa amd64 bluetooth bzip2 cairo cli crypt cups dbus dts encode \
+ffmpeg exif flac fortran gdbm gif gpm gtk iconv icu ipv6 jpeg mp4 mpeg ncuses \
+nls nptl ogg opengl openmp pam pango pcre pdf png -libav  qt5 readline sdl \
+seccomp sound spell split-usr ssl startup-notification svg test-rust tiff \
+truetype udev udisks unicode upower usb vorbis wxwidgets x264 xattr xcb xft xml xv xvid zlib" 
+ABI_X86="64"
+VIDEOCARDS="intel"
+INPUT_DEVICES="evdev libinput"
+DISTDIR="/usr/portage/distfiles"
+LINGUAS="de en es"
+L10N="de"
+PORTAGE_ELOG_CLASSES="warn error log"
+PORTAGE_ELOG_SYSTEM="save"
+EMERGE_DEFAULT_OPTS="--with-bdeps=y"
