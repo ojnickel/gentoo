@@ -37,6 +37,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'rafi/awesome-vim-colorschemes'
 Plug 'tpope/vim-fugitive'
+Plug 'frazrepo/vim-rainbow'
 Plug 'scrooloose/syntastic'
 Plug 'tpope/vim-surround'
 Plug 'yggdroot/indentline'
@@ -44,7 +45,22 @@ Plug 'ryanoasis/vim-devicons'
 " -- Web Development
 "Plug 'valloric/youcompleteme'
 " Use release branch (recommend)
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+Plug 'neoclide/coc.nvim', {'do': { -> coc#util#install()}}
+Plug 'neoclide/coc-snippets', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-tsserver', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-prettier', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-eslint', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-tslint', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-css', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-yaml', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-json', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-lists', {'do': 'yarn install --frozen-lockfile'} " mru and stuff
+Plug 'neoclide/coc-highlight', {'do': 'yarn install --frozen-lockfile'} " color highlighting
+Plug 'josa42/coc-sh'
+
+
+Plug 'ekalinin/Dockerfile.vim'
 Plug 'Shutnik/jshint2.vim'
 Plug 'mattn/emmet-vim'
 Plug 'kchmck/vim-coffee-script'
