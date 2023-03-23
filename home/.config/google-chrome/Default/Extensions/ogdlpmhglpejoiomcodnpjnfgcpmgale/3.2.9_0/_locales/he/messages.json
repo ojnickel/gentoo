@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "סמנים מותאמים אישית מהנים עבור Chrome ™. השתמש אוסף גדול של הסמנים חינם או להעלות משלך."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - מחלף הסמן"
+   },
+   "close": {
+      "message": "יישום סגור"
+   },
+   "cursor_size_extra_large": {
+      "message": "גדול מאוד"
+   },
+   "cursor_size_extra_small": {
+      "message": "קטן במיוחד"
+   },
+   "cursor_size_large": {
+      "message": "גדול"
+   },
+   "cursor_size_medium": {
+      "message": "בינוני"
+   },
+   "cursor_size_small": {
+      "message": "קטן"
+   },
+   "delete": {
+      "message": "מחק"
+   },
+   "delete_all": {
+      "message": "מחק הכל"
+   },
+   "enter_your_search_text": {
+      "message": "הזן את טקסט החיפוש שלך"
+   },
+   "favorite_by_time": {
+      "message": "בזמן"
+   },
+   "favorite_by_visited_pages": {
+      "message": "מאת דפים ביקורים"
+   },
+   "favorite_manage_button": {
+      "message": "נהל מועדפים"
+   },
+   "favorite_rotate_favorites": {
+      "message": "סובב מועדפים"
+   },
+   "favorite_sec_page": {
+      "message": "שניות/עמוד"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "נהל מועדפים"
+   },
+   "hint_defaultTo": {
+      "message": "סמן ברירת מחדל"
+   },
+   "hint_remove_cursor": {
+      "message": "לחץ כדי להסיר את הסמן"
+   },
+   "hint_remove_pointer": {
+      "message": "לחץ כדי להסיר את המצביע"
+   },
+   "hint_settings": {
+      "message": "הגדרות"
+   },
+   "hint_size": {
+      "message": "גודל הסמן"
+   },
+   "hint_upload_cursor": {
+      "message": "לחץ כדי להעלות סמן"
+   },
+   "hint_upload_pointer": {
+      "message": "לחץ כדי להעלות את המצביע"
+   },
+   "item_cursor": {
+      "message": "הסמן"
+   },
+   "item_pointer": {
+      "message": "מצביע"
+   },
+   "manage_cursor_size_settings": {
+      "message": "הגדרות גודל הסמן"
+   },
+   "manage_manage_collection": {
+      "message": "ניהול אוסף"
+   },
+   "nav_how_to_use": {
+      "message": "איך להישתמש"
+   },
+   "nav_manage": {
+      "message": "לנהל"
+   },
+   "nav_more_cursors": {
+      "message": "יותר סמנים"
+   },
+   "nav_upload_cursor": {
+      "message": "טען סמן"
+   },
+   "options_add_new": {
+      "message": "הוסף חדש"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>המלצות:\u003C/h2>\u003Cul>\u003Cli>אל תשתמש בתמונות יותר מ 128x128 פיקסלים;\u003C/li>\u003Cli> השתמש בתמונות עם רקע שקוף, כגון .png;\u003C/li>\u003Cli> חיוך לעתים קרובות יותר;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "העלה את הסמנים שלך"
+   },
+   "popup_default_cursor": {
+      "message": "סמן ברירת מחדל"
+   },
+   "popup_manage": {
+      "message": "לנהל"
+   },
+   "popup_more_cursor": {
+      "message": "יותר סמנים"
+   },
+   "popup_upload_cursor": {
+      "message": "טען סמן"
+   },
+   "rate_us_5_stars": {
+      "message": "דרג לנו 5 כוכבים, בבקשה"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

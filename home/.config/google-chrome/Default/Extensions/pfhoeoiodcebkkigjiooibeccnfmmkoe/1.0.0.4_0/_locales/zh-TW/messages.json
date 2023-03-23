@@ -1,0 +1,8 @@
+﻿{
+   "ext_name": {
+      "message": "我的IP地址"
+   },
+   "ext_description": {
+      "message": "顯示你的IP。您還可以查看IP物理圖譜。"
+   }
+}

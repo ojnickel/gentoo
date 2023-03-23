@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome- ന്റെ ഇഷ്ടാനുസൃത കർസർമാർ സൗജന്യ കഴ്സറുകളുടെ വലിയ ശേഖരം ഉപയോഗിക്കുക അല്ലെങ്കിൽ നിങ്ങളുടേത് അപ്ലോഡുചെയ്യുക."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - കഴ്സർ ചെനർ"
+   },
+   "close": {
+      "message": "അടയ്‌ക്കുക"
+   },
+   "cursor_size_extra_large": {
+      "message": "അധിക വലുത്"
+   },
+   "cursor_size_extra_small": {
+      "message": "എക്സ്ട്രാ ചെറുത്"
+   },
+   "cursor_size_large": {
+      "message": "വലിയ"
+   },
+   "cursor_size_medium": {
+      "message": "ഇടത്തരം"
+   },
+   "cursor_size_small": {
+      "message": "ചെറുത്"
+   },
+   "delete": {
+      "message": "ഇല്ലാതാക്കുക"
+   },
+   "delete_all": {
+      "message": "എല്ലാം കളയുക"
+   },
+   "enter_your_search_text": {
+      "message": "നിങ്ങളുടെ തിരയൽ വാചകം നൽകുക"
+   },
+   "favorite_by_time": {
+      "message": "സമയം പ്രകാരം"
+   },
+   "favorite_by_visited_pages": {
+      "message": "സന്ദർശിച്ച പേജുകൾ വഴി"
+   },
+   "favorite_manage_button": {
+      "message": "പ്രിയങ്കരങ്ങൾ നിയന്ത്രിക്കുക"
+   },
+   "favorite_rotate_favorites": {
+      "message": "പ്രിയങ്കരങ്ങൾ തിരിക്കുക"
+   },
+   "favorite_sec_page": {
+      "message": "രണ്ടാമത്തേത്/പേജ്"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "പ്രിയങ്കരങ്ങൾ നിയന്ത്രിക്കുക"
+   },
+   "hint_defaultTo": {
+      "message": "സ്ഥിരസ്ഥിതി കഴ്‌സർ"
+   },
+   "hint_remove_cursor": {
+      "message": "കഴ്‌സർ നീക്കംചെയ്യാൻ ക്ലിക്കുചെയ്യുക"
+   },
+   "hint_remove_pointer": {
+      "message": "പോയിന്റർ നീക്കംചെയ്യാൻ ക്ലിക്കുചെയ്യുക"
+   },
+   "hint_settings": {
+      "message": "ക്രമീകരണങ്ങൾ"
+   },
+   "hint_size": {
+      "message": "കഴ്‌സർ വലുപ്പം"
+   },
+   "hint_upload_cursor": {
+      "message": "കഴ്‌സർ അപ്‌ലോഡുചെയ്യാൻ ക്ലിക്കുചെയ്യുക"
+   },
+   "hint_upload_pointer": {
+      "message": "പോയിന്റർ അപ്‌ലോഡുചെയ്യാൻ ക്ലിക്കുചെയ്യുക"
+   },
+   "item_cursor": {
+      "message": "കഴ്സർ"
+   },
+   "item_pointer": {
+      "message": "പോയിന്റർ"
+   },
+   "manage_cursor_size_settings": {
+      "message": "കഴ്സറിന്റെ സൈസ് ക്രമീകരണം"
+   },
+   "manage_manage_collection": {
+      "message": "ശേഖരം നിയന്ത്രിക്കുക"
+   },
+   "nav_how_to_use": {
+      "message": "എങ്ങനെ ഉപയോഗിക്കാം"
+   },
+   "nav_manage": {
+      "message": "നിയന്ത്രിക്കുക"
+   },
+   "nav_more_cursors": {
+      "message": "കൂടുതൽ കർസറുകൾ"
+   },
+   "nav_upload_cursor": {
+      "message": "കഴ്സർ അപ്ലോഡുചെയ്യുക"
+   },
+   "options_add_new": {
+      "message": "പുതിയത് ചേർക്കുക"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>ശുപാർശകൾ:\u003C/h2>\u003Cul>\u003Cli>128x128 പിക്സലുകളിൽ കൂടുതൽ ചിത്രങ്ങൾ ഉപയോഗിക്കരുത്;\u003C/li>\u003Cli>സുതാര്യ പശ്ചാത്തലമുള്ള ഇമേജുകൾ ഉപയോഗിക്കുക .png;\u003C/li>\u003Cli>കൂടുതൽ പലപ്പോഴും പുഞ്ചിരി ചെയ്യുക;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "നിങ്ങളുടെ സ്വന്തം കർസർസ് അപ്ലോഡ് ചെയ്യുക"
+   },
+   "popup_default_cursor": {
+      "message": "സ്ഥിരസ്ഥിതി കഴ്സർ"
+   },
+   "popup_manage": {
+      "message": "നിയന്ത്രിക്കുക"
+   },
+   "popup_more_cursor": {
+      "message": "കൂടുതൽ കർസറുകൾ"
+   },
+   "popup_upload_cursor": {
+      "message": "കഴ്സർ അപ്ലോഡുചെയ്യുക"
+   },
+   "rate_us_5_stars": {
+      "message": "ഞങ്ങൾക്ക് 5 നക്ഷത്രങ്ങൾ റേറ്റുചെയ്യുക"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

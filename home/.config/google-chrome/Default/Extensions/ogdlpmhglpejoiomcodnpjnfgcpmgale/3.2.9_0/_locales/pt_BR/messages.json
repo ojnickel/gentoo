@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Cursores personalizados divertidos para o Chrome ™. Use uma grande coleção de cursores gratuitos ou faça o upload do seu próprio."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Trocador de Cursor"
+   },
+   "close": {
+      "message": "fechar"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra grande"
+   },
+   "cursor_size_extra_small": {
+      "message": "Muito pequeno"
+   },
+   "cursor_size_large": {
+      "message": "Aampla"
+   },
+   "cursor_size_medium": {
+      "message": "Médio"
+   },
+   "cursor_size_small": {
+      "message": "Pequeno"
+   },
+   "delete": {
+      "message": "Excluir"
+   },
+   "delete_all": {
+      "message": "excluir tudo"
+   },
+   "enter_your_search_text": {
+      "message": "Digite o texto da sua pesquisa"
+   },
+   "favorite_by_time": {
+      "message": "por tempo"
+   },
+   "favorite_by_visited_pages": {
+      "message": "por páginas visitadas"
+   },
+   "favorite_manage_button": {
+      "message": "Gerenciar Favoritos"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Girar favoritos"
+   },
+   "favorite_sec_page": {
+      "message": "seg/página(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Gerenciar Favoritos"
+   },
+   "hint_defaultTo": {
+      "message": "Cursor padrão"
+   },
+   "hint_remove_cursor": {
+      "message": "Clique para remover o cursor"
+   },
+   "hint_remove_pointer": {
+      "message": "Clique para remover o ponteiro"
+   },
+   "hint_settings": {
+      "message": "Configurações"
+   },
+   "hint_size": {
+      "message": "Tamanho do cursor"
+   },
+   "hint_upload_cursor": {
+      "message": "Clique para fazer o upload do cursor"
+   },
+   "hint_upload_pointer": {
+      "message": "Clique para fazer o upload do ponteiro"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "ponteiro"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Configurações de tamanho do cursor"
+   },
+   "manage_manage_collection": {
+      "message": "Gerenciar coleção"
+   },
+   "nav_how_to_use": {
+      "message": "Como usar"
+   },
+   "nav_manage": {
+      "message": "Gerir"
+   },
+   "nav_more_cursors": {
+      "message": "Mais cursores"
+   },
+   "nav_upload_cursor": {
+      "message": "Cursor de upload"
+   },
+   "options_add_new": {
+      "message": "Adicionar novo"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Recomendações:\u003C/h2>\u003Cul>\u003Cli>Não use imagens com mais de 128x128 pixels;\u003C/li>\u003Cli>Use imagens com fundo transparente, como .png;\u003C/li>\u003Cli>Sorria com mais frequência;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Envie seus próprios cursores"
+   },
+   "popup_default_cursor": {
+      "message": "Cursor Padrão"
+   },
+   "popup_manage": {
+      "message": "Gerir"
+   },
+   "popup_more_cursor": {
+      "message": "Mais cursores"
+   },
+   "popup_upload_cursor": {
+      "message": "Cursor de upload"
+   },
+   "rate_us_5_stars": {
+      "message": "Avalie-nos 5 estrelas, por favor"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

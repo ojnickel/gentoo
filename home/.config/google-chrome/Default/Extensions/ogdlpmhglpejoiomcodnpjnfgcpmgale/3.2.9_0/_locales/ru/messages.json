@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Забавные пользовательские курсоры для Chrome ™. Используйте большую коллекцию бесплатных курсоров или загрузите свои собственные."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Изменить курсор"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "cursor_size_extra_large": {
+      "message": "Очень большой"
+   },
+   "cursor_size_extra_small": {
+      "message": "Очень маленький"
+   },
+   "cursor_size_large": {
+      "message": "Большой"
+   },
+   "cursor_size_medium": {
+      "message": "Средний"
+   },
+   "cursor_size_small": {
+      "message": "Небольшой"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "delete_all": {
+      "message": "Удалить все"
+   },
+   "enter_your_search_text": {
+      "message": "Введите текст для поиска"
+   },
+   "favorite_by_time": {
+      "message": "по Времени"
+   },
+   "favorite_by_visited_pages": {
+      "message": "по посещенным страницам"
+   },
+   "favorite_manage_button": {
+      "message": "Управление избранным"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Ротировать избранное"
+   },
+   "favorite_sec_page": {
+      "message": "сек/стр"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Управление избранным"
+   },
+   "hint_defaultTo": {
+      "message": "Курсор по умолчанию"
+   },
+   "hint_remove_cursor": {
+      "message": "Нажмите, чтобы удалить курсор"
+   },
+   "hint_remove_pointer": {
+      "message": "Нажмите, чтобы удалить указатель"
+   },
+   "hint_settings": {
+      "message": "настройки"
+   },
+   "hint_size": {
+      "message": "Размер курсора"
+   },
+   "hint_upload_cursor": {
+      "message": "Нажмите, чтобы загрузить курсор"
+   },
+   "hint_upload_pointer": {
+      "message": "Нажмите, чтобы загрузить указатель"
+   },
+   "item_cursor": {
+      "message": "Курсор"
+   },
+   "item_pointer": {
+      "message": "Указатель"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Настройки размера курсора"
+   },
+   "manage_manage_collection": {
+      "message": "Управление коллекциями"
+   },
+   "nav_how_to_use": {
+      "message": "Как использовать"
+   },
+   "nav_manage": {
+      "message": "Настройки"
+   },
+   "nav_more_cursors": {
+      "message": "Еще курсоры"
+   },
+   "nav_upload_cursor": {
+      "message": "Загрузить курсор"
+   },
+   "options_add_new": {
+      "message": "Добавить"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Рекомендации:\u003C/h2>\u003Cul>\u003Cli>Не используйте картинки более 128х128 пикселей;\u003C/li>\u003Cli>Используйте изображения с прозрачным фоном, например .png, или курсоры .cur;\u003C/li>\u003Cli>Улыбайся чаще ;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "\u003Cspan>Загрузите\u003C/span> свои собственные курсоры"
+   },
+   "popup_default_cursor": {
+      "message": "Сбросить"
+   },
+   "popup_manage": {
+      "message": "Настройки"
+   },
+   "popup_more_cursor": {
+      "message": "Еще курсоры"
+   },
+   "popup_upload_cursor": {
+      "message": "Свой курсор"
+   },
+   "rate_us_5_stars": {
+      "message": "Поставьте нам 5 звезд, пожалуйста"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

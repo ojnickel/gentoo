@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "Näyttää IP. Voit myös katsella fyysistä Kartta IP."
+   },
+   "ext_name": {
+      "message": "Oma IP-osoite"
+   }
+}

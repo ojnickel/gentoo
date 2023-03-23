@@ -1,0 +1,42 @@
+2023/03/20-16:32:12.382 4644 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/20-16:32:12.382 4644 Recovering log #3
+2023/03/20-16:32:12.383 4644 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/000003.log 
+2023/03/21-00:41:12.472 4645 Level-0 table #5: started
+2023/03/21-00:41:12.533 4645 Level-0 table #5: 748564 bytes OK
+2023/03/21-00:41:12.538 4645 Delete type=0 #3
+2023/03/21-08:52:42.472 4645 Level-0 table #7: started
+2023/03/21-08:52:42.511 4645 Level-0 table #7: 739086 bytes OK
+2023/03/21-08:52:42.515 4645 Delete type=0 #4
+2023/03/21-08:54:12.472 4645 Compacting 1@1 + 1@2 files
+2023/03/21-08:54:12.538 4645 Generated table #8@1: 38 keys, 1256 bytes
+2023/03/21-08:54:12.538 4645 Compacted 1@1 + 1@2 files => 1256 bytes
+2023/03/21-08:54:12.541 4645 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/21-08:54:12.541 4645 Delete type=2 #5
+2023/03/21-08:54:12.541 4645 Delete type=2 #7
+2023/03/21-17:04:21.085 464f Level-0 table #10: started
+2023/03/21-17:04:21.146 464f Level-0 table #10: 740022 bytes OK
+2023/03/21-17:04:21.150 464f Delete type=0 #6
+2023/03/21-17:06:12.473 4645 Compacting 1@1 + 1@2 files
+2023/03/21-17:06:12.528 4645 Generated table #11@1: 35 keys, 1162 bytes
+2023/03/21-17:06:12.528 4645 Compacted 1@1 + 1@2 files => 1162 bytes
+2023/03/21-17:06:12.531 4645 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/21-17:06:12.531 4645 Delete type=2 #8
+2023/03/21-17:06:12.531 4645 Delete type=2 #10
+2023/03/22-01:16:12.471 4645 Level-0 table #13: started
+2023/03/22-01:16:12.545 4645 Level-0 table #13: 748432 bytes OK
+2023/03/22-01:16:12.550 4645 Delete type=0 #9
+2023/03/22-01:17:23.861 4643 Compacting 1@1 + 1@2 files
+2023/03/22-01:17:23.923 4643 Generated table #14@1: 35 keys, 1168 bytes
+2023/03/22-01:17:23.923 4643 Compacted 1@1 + 1@2 files => 1168 bytes
+2023/03/22-01:17:23.926 4643 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/22-01:17:23.926 4643 Delete type=2 #11
+2023/03/22-01:17:23.927 4643 Delete type=2 #13
+2023/03/22-09:27:42.472 4645 Level-0 table #16: started
+2023/03/22-09:27:42.520 4645 Level-0 table #16: 741812 bytes OK
+2023/03/22-09:27:42.527 4645 Delete type=0 #12
+2023/03/22-09:29:12.494 4643 Compacting 1@1 + 1@2 files
+2023/03/22-09:29:12.528 4643 Generated table #17@1: 38 keys, 1252 bytes
+2023/03/22-09:29:12.528 4643 Compacted 1@1 + 1@2 files => 1252 bytes
+2023/03/22-09:29:12.531 4643 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/22-09:29:12.531 4643 Delete type=2 #14
+2023/03/22-09:29:12.531 4643 Delete type=2 #16

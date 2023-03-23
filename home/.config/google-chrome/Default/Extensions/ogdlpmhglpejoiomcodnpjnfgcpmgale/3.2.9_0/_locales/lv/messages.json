@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Izklaidējoši pārlūkprogrammas Chrome ™ pielāgotie kursori. Izmantojiet lielu bezmaksas rādītāju kolekciju vai augšupielādējiet savu."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - kursora maiņa"
+   },
+   "close": {
+      "message": "aizvērt"
+   },
+   "cursor_size_extra_large": {
+      "message": "Īpaši liels"
+   },
+   "cursor_size_extra_small": {
+      "message": "Īpaši mazs"
+   },
+   "cursor_size_large": {
+      "message": "Liels"
+   },
+   "cursor_size_medium": {
+      "message": "Vidējs"
+   },
+   "cursor_size_small": {
+      "message": "Mazs"
+   },
+   "delete": {
+      "message": "Dzēst"
+   },
+   "delete_all": {
+      "message": "dzēst visus"
+   },
+   "enter_your_search_text": {
+      "message": "Ievadiet meklēšanas tekstu"
+   },
+   "favorite_by_time": {
+      "message": "pēc laika"
+   },
+   "favorite_by_visited_pages": {
+      "message": "pa lapām"
+   },
+   "favorite_manage_button": {
+      "message": "Pārvaldīt izlasi"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Pagriezt izlasi"
+   },
+   "favorite_sec_page": {
+      "message": "sek/lappuse"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Pārvaldīt izlasi"
+   },
+   "hint_defaultTo": {
+      "message": "Noklusējuma kursors"
+   },
+   "hint_remove_cursor": {
+      "message": "Noklikšķiniet, lai noņemtu kursoru"
+   },
+   "hint_remove_pointer": {
+      "message": "Noklikšķiniet, lai noņemtu rādītāju"
+   },
+   "hint_settings": {
+      "message": "Iestatījumi"
+   },
+   "hint_size": {
+      "message": "Kursora lielums"
+   },
+   "hint_upload_cursor": {
+      "message": "Noklikšķiniet, lai augšupielādētu kursoru"
+   },
+   "hint_upload_pointer": {
+      "message": "Noklikšķiniet, lai augšupielādētu rādītāju"
+   },
+   "item_cursor": {
+      "message": "kursors"
+   },
+   "item_pointer": {
+      "message": "rādītājs"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Kursora lieluma iestatījumi"
+   },
+   "manage_manage_collection": {
+      "message": "Pārvaldīt kolekciju"
+   },
+   "nav_how_to_use": {
+      "message": "Kā izmantot"
+   },
+   "nav_manage": {
+      "message": "Pārvaldīt"
+   },
+   "nav_more_cursors": {
+      "message": "Vairāk kursoru"
+   },
+   "nav_upload_cursor": {
+      "message": "Augšupielādēt kursoru"
+   },
+   "options_add_new": {
+      "message": "Pievieno jaunu"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Ieteikumi:\u003C/h2>\u003Cul>\u003Cli>Nelietojiet attēlus, kas pārsniedz 128x128 pikseļus;\u003C/li>\u003Cli>Izmantojiet attēlus ar caurspīdīgu fonu, piemēram, .png;\u003C/li>\u003Cli>Smaidiet biežāk;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Augšupielādējiet savus kursorus"
+   },
+   "popup_default_cursor": {
+      "message": "Noklusētais kursors"
+   },
+   "popup_manage": {
+      "message": "Pārvaldīt"
+   },
+   "popup_more_cursor": {
+      "message": "Vairāk kursoru"
+   },
+   "popup_upload_cursor": {
+      "message": "Augšupielādēt kursoru"
+   },
+   "rate_us_5_stars": {
+      "message": "Novērtējiet mums 5 zvaigznes, lūdzu"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

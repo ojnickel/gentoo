@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "あなたのIPが表示されます。また、IPの物理的地図を表示することができます。"
+   },
+   "ext_name": {
+      "message": "私のIPアドレス"
+   }
+}

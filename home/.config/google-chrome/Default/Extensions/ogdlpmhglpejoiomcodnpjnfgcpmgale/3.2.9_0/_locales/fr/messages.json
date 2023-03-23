@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Des curseurs personnalisés amusants pour Chrome ™. Utilisez une grande collection de curseurs gratuits ou téléchargez vos propres curseurs."
+   },
+   "app_name": {
+      "message": "Curseur personnalisé - Changeur de curseur"
+   },
+   "close": {
+      "message": "fermer"
+   },
+   "cursor_size_extra_large": {
+      "message": "Très grande"
+   },
+   "cursor_size_extra_small": {
+      "message": "Super petit"
+   },
+   "cursor_size_large": {
+      "message": "Grand"
+   },
+   "cursor_size_medium": {
+      "message": "Moyen"
+   },
+   "cursor_size_small": {
+      "message": "Petit"
+   },
+   "delete": {
+      "message": "Effacer"
+   },
+   "delete_all": {
+      "message": "supprimer tout"
+   },
+   "enter_your_search_text": {
+      "message": "Entrez votre texte de recherche"
+   },
+   "favorite_by_time": {
+      "message": "par heure"
+   },
+   "favorite_by_visited_pages": {
+      "message": "par Pages visitées"
+   },
+   "favorite_manage_button": {
+      "message": "Gérer les favoris"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Faire pivoter les favoris"
+   },
+   "favorite_sec_page": {
+      "message": "sec/page(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Gérer les favoris"
+   },
+   "hint_defaultTo": {
+      "message": "Curseur par défaut"
+   },
+   "hint_remove_cursor": {
+      "message": "Cliquez pour supprimer le curseur"
+   },
+   "hint_remove_pointer": {
+      "message": "Cliquez pour supprimer le pointeur"
+   },
+   "hint_settings": {
+      "message": "Réglages"
+   },
+   "hint_size": {
+      "message": "Taille du curseur"
+   },
+   "hint_upload_cursor": {
+      "message": "Cliquez pour télécharger le curseur"
+   },
+   "hint_upload_pointer": {
+      "message": "Cliquez pour télécharger le pointeur"
+   },
+   "item_cursor": {
+      "message": "le curseur"
+   },
+   "item_pointer": {
+      "message": "aiguille"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Paramètres de taille de curseur"
+   },
+   "manage_manage_collection": {
+      "message": "Gérer la collection"
+   },
+   "nav_how_to_use": {
+      "message": "Comment utiliser"
+   },
+   "nav_manage": {
+      "message": "Gérer"
+   },
+   "nav_more_cursors": {
+      "message": "Plus de curseurs"
+   },
+   "nav_upload_cursor": {
+      "message": "Curseur de téléchargement"
+   },
+   "options_add_new": {
+      "message": "Ajouter nouveau"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Recommandations:\u003C/h2>\u003Cul>\u003Cli>N'utilisez pas d'images de plus de 128x128 pixels;\u003C/li>\u003Cli>Utilisez des images à fond transparent, telles que .png;\u003C/li>\u003Cli>Souriez plus souvent;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Téléchargez vos propres curseurs"
+   },
+   "popup_default_cursor": {
+      "message": "Curseur par défaut"
+   },
+   "popup_manage": {
+      "message": "Gérer"
+   },
+   "popup_more_cursor": {
+      "message": "Plus de curseurs"
+   },
+   "popup_upload_cursor": {
+      "message": "Curseur de téléchargement"
+   },
+   "rate_us_5_stars": {
+      "message": "Évaluez-nous 5 étoiles, s'il vous plaît"
+   },
+   "short_name": {
+      "message": "Curseur personnalisé"
+   }
+}

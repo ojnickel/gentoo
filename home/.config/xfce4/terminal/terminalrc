@@ -1,4 +1,5 @@
 [Configuration]
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
@@ -25,16 +26,12 @@ MiscUseShiftArrowsToScroll=FALSE
 MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
-MiscShowUnsafePasteDialog=FALSE
-TitleInitial=
-TitleMode=TERMINAL_TITLE_PREPEND
-FontName=RobotoMono Nerd Font Mono Medium 12
-ColorCursorUseDefault=FALSE
-ColorSelectionUseDefault=FALSE
-ColorBackground=#000000000000
-BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-BackgroundDarkness=0,040000
-ScrollingUnlimited=TRUE
+MiscShowUnsafePasteDialog=TRUE
+MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
+BackgroundDarkness=0,670000
+TextBlinkMode=TERMINAL_TEXT_BLINK_MODE_UNFOCUSED
+FontAllowBold=FALSE
+TitleMode=TERMINAL_TITLE_HIDE
 ScrollingOnOutput=FALSE
+ScrollingOnKeystroke=FALSE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-

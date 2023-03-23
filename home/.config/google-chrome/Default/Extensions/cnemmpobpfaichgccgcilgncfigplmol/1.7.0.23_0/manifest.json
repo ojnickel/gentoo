@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://lesen.amazon.de/?ref_=kcr_app_chrome_link"
+      },
+      "urls": [ "https://lesen.amazon.de/" ]
+   },
+   "description": "Kindle Cloud Reader – Lesen Sie Kindle-Bücher in Ihrem Browser und kaufen Sie bei Amazon.de ein.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhZxWSVKKk0N0huFIPChyBEfg0v5d0ZecVEKIbaOJ+sco2Rq/otbEd9pKvtqCSiPRWraMzM06jm+DgXlz+5ss3SDFr6MCNhSSpVmH4R04imUd1g/bUHINivUiT5CeBQqv3B5sQizSMfHIFch7+m6Xf7TZMbppl47OCtwBso/fulJsA1l0p5ZqQpmHg8OXonSd1+Bmq/CWlD0CrmyqgjyseUorQlpYTRGFsx6/UezQfwjseTQAfoifWqGbbTd/2i0ykqby63sTlhIX6P1HG4U0p+/16xjVlFZx2JHbCvypziOZIG6NNO+ikDJ0WlxB/rNfNx9dnsBGWcviIajMUfRyYQIDAQAB",
+   "manifest_version": 2,
+   "name": "Kindle Cloud Reader",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.0.23"
+}

@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome ™ కోసం అనుకూల కర్సర్ లు. ఉచిత కర్సర్ల సేకరణను ఉపయోగించండి లేదా మీ స్వంతంగా అప్లోడ్ చేయండి."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - కస్టమ్ కర్సర్"
+   },
+   "close": {
+      "message": "దగ్గరగా"
+   },
+   "cursor_size_extra_large": {
+      "message": "చాలా పెద్దది"
+   },
+   "cursor_size_extra_small": {
+      "message": "చాలా చిన్న"
+   },
+   "cursor_size_large": {
+      "message": "పెద్ద"
+   },
+   "cursor_size_medium": {
+      "message": "మీడియం"
+   },
+   "cursor_size_small": {
+      "message": "చిన్న"
+   },
+   "delete": {
+      "message": "తొలగించు"
+   },
+   "delete_all": {
+      "message": "అన్నిటిని తొలిగించు"
+   },
+   "enter_your_search_text": {
+      "message": "మీ శోధన వచనాన్ని నమోదు చేయండి"
+   },
+   "favorite_by_time": {
+      "message": "సమయానికి"
+   },
+   "favorite_by_visited_pages": {
+      "message": "పేజీల ద్వారా"
+   },
+   "favorite_manage_button": {
+      "message": "ఇష్టమైనవి నిర్వహించండి"
+   },
+   "favorite_rotate_favorites": {
+      "message": "ఇష్టమైనవి తిప్పండి"
+   },
+   "favorite_sec_page": {
+      "message": "క్షణ/పేజీ"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "ఇష్టమైనవి నిర్వహించండి"
+   },
+   "hint_defaultTo": {
+      "message": "డిఫాల్ట్ కర్సర్"
+   },
+   "hint_remove_cursor": {
+      "message": "కర్సర్ తొలగించడానికి క్లిక్ చేయండి"
+   },
+   "hint_remove_pointer": {
+      "message": "పాయింటర్ తొలగించడానికి క్లిక్ చేయండి"
+   },
+   "hint_settings": {
+      "message": "సెట్టింగులు"
+   },
+   "hint_size": {
+      "message": "కర్సర్ పరిమాణం"
+   },
+   "hint_upload_cursor": {
+      "message": "కర్సర్‌ను అప్‌లోడ్ చేయడానికి క్లిక్ చేయండి"
+   },
+   "hint_upload_pointer": {
+      "message": "పాయింటర్‌ను అప్‌లోడ్ చేయడానికి క్లిక్ చేయండి"
+   },
+   "item_cursor": {
+      "message": "కర్సర్"
+   },
+   "item_pointer": {
+      "message": "పాయింటర్"
+   },
+   "manage_cursor_size_settings": {
+      "message": "కర్సర్ పరిమాణం సెట్టింగులు"
+   },
+   "manage_manage_collection": {
+      "message": "సేకరణను నిర్వహించండి"
+   },
+   "nav_how_to_use": {
+      "message": "ఎలా ఉపయోగించాలి"
+   },
+   "nav_manage": {
+      "message": "నిర్వహించడానికి"
+   },
+   "nav_more_cursors": {
+      "message": "మరింత కర్సర్"
+   },
+   "nav_upload_cursor": {
+      "message": "కర్సర్ను అప్లోడ్ చేయండి"
+   },
+   "options_add_new": {
+      "message": "కొత్తది జత పరచండి"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>సిఫార్సులు:\u003C/h2>\u003Cul>\u003Cli>128x128 పిక్సల్స్ కంటే ఎక్కువ చిత్రాలను ఉపయోగించవద్దు;\u003C/li>\u003Cli>పారదర్శక నేపథ్యంతో ఉన్న చిత్రాలను ఉపయోగించండి .png;\u003C/li>\u003Cli>మరింత తరచుగా చిరునవ్వు;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "మీ సొంత కర్సర్లను అప్లోడ్ చేయండి"
+   },
+   "popup_default_cursor": {
+      "message": "డిఫాల్ట్ కర్సర్"
+   },
+   "popup_manage": {
+      "message": "నిర్వహించడానికి"
+   },
+   "popup_more_cursor": {
+      "message": "మరింత కర్సర్"
+   },
+   "popup_upload_cursor": {
+      "message": "కర్సర్ను అప్లోడ్ చేయండి"
+   },
+   "rate_us_5_stars": {
+      "message": "మాకు 5 నక్షత్రాలను రేట్ చేయండి"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

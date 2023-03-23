@@ -1,0 +1,32 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "IP Address & Geolocation"
+   },
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "Shows your IPv4 & IPv6 address and also geolocational informations about your IP addresses.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAil4GUybyhh3/YctZhrMsMPvEgHPz5ux8tLUk03f8ADD1OJNdw9D169TkEKdokPP9Zwyw13UG7AC6cwaD0zdMH9UnjtA6YKA6SV66k6H7xCULJj2uD3V3p50RwR2RXqoRsPV4K75FbsSA4CvLT6tx79jgCGmAwTXVLilpmuDFwfto/VS3YOnNqkZe3HwJkDsaCq5WRYuGWOcDQtWHpr1wU54bcoW2WSiV6ULRKlMlYujW8/Xs/t/LMWQAo8ZyclJ3X0PpejiToKI4k0yXoozoKPSnGoAR7P6Hs/uSiCGZDIgbpIBQlwXdgWEC/NfubdPUxgFVkhOpqt2Ve4fbqxIlYwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "25",
+   "name": "IP Address & Geolocation",
+   "offline_enabled": false,
+   "options_page": "options.html",
+   "options_ui": {
+      "browser_style": false,
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.0"
+}

@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Vlastné kurzory pre Chrome ™. Použite veľkú zbierku voľných kurzorov alebo nahrajte svoje vlastné."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Vlastný kurzor"
+   },
+   "close": {
+      "message": "Zavrieť"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra veľké"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra malý"
+   },
+   "cursor_size_large": {
+      "message": "Veľký"
+   },
+   "cursor_size_medium": {
+      "message": "Stredná"
+   },
+   "cursor_size_small": {
+      "message": "Malý"
+   },
+   "delete": {
+      "message": "Vymazať"
+   },
+   "delete_all": {
+      "message": "vymazať všetko"
+   },
+   "enter_your_search_text": {
+      "message": "Zadajte hľadaný text"
+   },
+   "favorite_by_time": {
+      "message": "časom"
+   },
+   "favorite_by_visited_pages": {
+      "message": "podľa stránok"
+   },
+   "favorite_manage_button": {
+      "message": "Spravujte obľúbené položky"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Otočiť obľúbené položky"
+   },
+   "favorite_sec_page": {
+      "message": "sek/strana"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Spravujte obľúbené položky"
+   },
+   "hint_defaultTo": {
+      "message": "Predvolený kurzor"
+   },
+   "hint_remove_cursor": {
+      "message": "Kliknutím odstránite kurzor"
+   },
+   "hint_remove_pointer": {
+      "message": "Kliknutím odstránite ukazovateľ"
+   },
+   "hint_settings": {
+      "message": "nastavenie"
+   },
+   "hint_size": {
+      "message": "Veľkosť kurzora"
+   },
+   "hint_upload_cursor": {
+      "message": "Kliknutím nahráte kurzor"
+   },
+   "hint_upload_pointer": {
+      "message": "Kliknutím nahráte ukazovateľ"
+   },
+   "item_cursor": {
+      "message": "kurzor"
+   },
+   "item_pointer": {
+      "message": "ukazovateľ"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Nastavenia veľkosti kurzora"
+   },
+   "manage_manage_collection": {
+      "message": "Správa kolekcie"
+   },
+   "nav_how_to_use": {
+      "message": "Ako použiť"
+   },
+   "nav_manage": {
+      "message": "Spravovať"
+   },
+   "nav_more_cursors": {
+      "message": "Viac kurzorov"
+   },
+   "nav_upload_cursor": {
+      "message": "Nahrajte kurzor"
+   },
+   "options_add_new": {
+      "message": "Pridať nové"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Odporúčania:\u003C/h2>\u003Cul>\u003Cli>Nepoužívajte obrázky s rozlíšením viac ako 128x128 pixlov,\u003C/li>\u003Cli>Používajte obrázky s priehľadným pozadím, ako napríklad .png,\u003C/li>\u003Cli>Usmievajte sa častejšie;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Nahrajte svoje kurzy"
+   },
+   "popup_default_cursor": {
+      "message": "Predvolený kurzor"
+   },
+   "popup_manage": {
+      "message": "Spravovať"
+   },
+   "popup_more_cursor": {
+      "message": "Viac kurzorov"
+   },
+   "popup_upload_cursor": {
+      "message": "Nahrajte kurzor"
+   },
+   "rate_us_5_stars": {
+      "message": "Ohodnoťte nás 5 hviezdičiek, prosím"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

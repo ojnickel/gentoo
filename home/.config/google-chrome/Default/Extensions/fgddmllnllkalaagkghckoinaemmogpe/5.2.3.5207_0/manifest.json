@@ -1,0 +1,42 @@
+{
+   "author": "ExpressVPN",
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "html/popup.html",
+      "default_title": "ExpressVPN"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Shift+Ctrl+X",
+            "mac": "Shift+Command+O"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "scripts/content/gps.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_app_description_text__",
+   "icons": {
+      "128": "images/toolbar-icon-128.png",
+      "16": "images/toolbar-icon-16.png",
+      "32": "images/toolbar-icon-32.png",
+      "48": "images/toolbar-icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs24qmLQZjYn5vnBdvJ77lURW/Ig8V4PPR+RWzenikcFUnvU3CaI92jlb7PBM1YtR4q4DyhNlGMiSccYxcwH5Z2wogWW/BUxV0idK8e24Xtl3HQvDvEHl684x2QJWbebXdV3d1XPu4FfwBJBEbVDwxqItSojdc+eam1GZtXfiibz4hgum2uNhnydIG/vxTJ/nWAJ8uBWOgHaiU47t49ma4ptvNQZ3QTaDsFbKtl+kfV9jNRChVW7skadvixTOIVZBLcnnNxVhgefsERz97IN6ngTQN0W2x2q3cKfl6EU0K7HStw1zet3/lorsqyoZbpHE3HWWsj+/RBCrAFjxqPO7hwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55",
+   "name": "__MSG_app_name_title__",
+   "permissions": [ "cookies", "nativeMessaging", "privacy", "storage", "webRequest", "webRequestBlocking", "tabs", "unlimitedStorage", "notifications", "\u003Call_urls>" ],
+   "short_name": "__MSG_app_short_name_title__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.2.3.5207",
+   "web_accessible_resources": [ "images/*", "html/networkLock.html", "html/keysAdoption.html" ]
+}

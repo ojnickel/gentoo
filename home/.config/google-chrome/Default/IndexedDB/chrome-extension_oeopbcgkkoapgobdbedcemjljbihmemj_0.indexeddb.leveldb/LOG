@@ -1,0 +1,30 @@
+2023/03/22-17:09:26.838 947 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/22-17:09:26.838 947 Recovering log #15
+2023/03/22-17:09:26.938 947 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/000015.log 
+2023/03/22-17:40:27.143 949 Level-0 table #20: started
+2023/03/22-17:40:27.189 949 Level-0 table #20: 748452 bytes OK
+2023/03/22-17:40:27.197 949 Delete type=0 #15
+2023/03/22-17:42:26.817 946 Compacting 1@1 + 1@2 files
+2023/03/22-17:42:26.838 946 Generated table #21@1: 38 keys, 1264 bytes
+2023/03/22-17:42:26.838 946 Compacted 1@1 + 1@2 files => 1264 bytes
+2023/03/22-17:42:26.844 946 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/22-17:42:26.844 946 Delete type=2 #17
+2023/03/22-17:42:26.844 946 Delete type=2 #20
+2023/03/23-01:53:29.954 946 Level-0 table #23: started
+2023/03/23-01:53:30.000 946 Level-0 table #23: 747213 bytes OK
+2023/03/23-01:53:30.007 946 Delete type=0 #19
+2023/03/23-01:54:56.819 946 Compacting 1@1 + 1@2 files
+2023/03/23-01:54:56.838 946 Generated table #24@1: 35 keys, 1167 bytes
+2023/03/23-01:54:56.838 946 Compacted 1@1 + 1@2 files => 1167 bytes
+2023/03/23-01:54:56.844 946 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/23-01:54:56.844 946 Delete type=2 #21
+2023/03/23-01:54:56.844 946 Delete type=2 #23
+2023/03/23-10:04:56.821 947 Level-0 table #26: started
+2023/03/23-10:04:56.847 947 Level-0 table #26: 740759 bytes OK
+2023/03/23-10:04:56.859 947 Delete type=0 #22
+2023/03/23-10:06:26.818 949 Compacting 1@1 + 1@2 files
+2023/03/23-10:06:26.836 949 Generated table #27@1: 39 keys, 1241 bytes
+2023/03/23-10:06:26.836 949 Compacted 1@1 + 1@2 files => 1241 bytes
+2023/03/23-10:06:26.842 949 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/23-10:06:26.842 949 Delete type=2 #24
+2023/03/23-10:06:26.842 949 Delete type=2 #26

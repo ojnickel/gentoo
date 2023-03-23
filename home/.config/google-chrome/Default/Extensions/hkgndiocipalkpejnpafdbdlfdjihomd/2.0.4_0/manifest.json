@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://web.airdroid.com/?source=chrome_app"
+      },
+      "urls": [ "http://web.airdroid.com/" ]
+   },
+   "description": "AirDroid is a free and fast app that helps you manage your Android devices from a web browser, all over the air.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCb38HavBpVijZFDaF6LkDpABIO0l1r+myiJKYP/doaymlc3EquGHcxrWqaabMRI1fvZrGE7RsqzlNjwzD1EHUJh8IkbBJa42EOIYdVH3980DHoBx/Yk+xBLrbNVdGSgPNifwWFtLWPvIlPBeUBf1+spBVQwDMY9Eo7J4vJi9aDiwIDAQAB",
+   "manifest_version": 2,
+   "name": "AirDroid",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.4"
+}

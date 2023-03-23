@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="theme-color" content="#000000"/>
+  <meta name="description" content="Custom Cursor. Fun custom cursors for browser. Use a large collection of free cursors or upload your own."/>
+  <title>Custom Cursor</title>
+  <script defer="defer" src="/popup.min.js"></script>
+  <link href="css/style.min.css" rel="stylesheet" />
+  <style>
+    label{
+      width: 40px;
+      height: 40px;
+      background: white;
+      border-Radius: 40px;
+      display: flex;
+      flex-Wrap: nowrap;
+      justify-content: center;
+      align-Content: center;
+      align-Items: center;
+
+      box-shadow: 0 0 0 0 #1586e6;
+      color: #1586e6;
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      border: 1px solid #1586e6;
+      cursor: pointer;
+    }
+    label:hover{
+      letter-spacing: 1px;
+      color:  #e1306c;
+      box-shadow: 0 0 0 0 #e1306c;
+      border: 1px solid #e1306c;
+      animation: pulse 2s infinite;
+
+
+    }
+    label::before{
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      background: #fff;
+      border-radius: 35px;
+      opacity: 0;
+    }
+    #check{
+      display: none;
+    }
+    #check:checked ~ label::before{
+      opacity: 1;
+    }
+    .media-icons a:hover{
+      color: orangered;
+    }
+    .media-icons{
+      position: absolute;
+      left: 278px;
+      transform: translateX(-50%);
+      background: #fff;
+      /*width: 200px;*/
+      padding: 4px;
+      padding-left: 10px;
+      padding-right: 10px;
+      height: 54px;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      border-radius: 35px;
+      z-index: 1;
+      opacity: 0;
+      pointer-events: none;
+      box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+      transition: all 0.3s ease;
+
+      bottom: 78px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .setting-footer {
+      gap: 10px
+    }
+    #check:checked ~ .media-icons{
+      opacity: 1;
+      pointer-events: auto;
+      bottom: 66px;
+    }
+    .media-icons::before{
+      content: '';
+      width: 18px;
+      height: 18px;
+      position: absolute;
+      background: #fff;
+      bottom: -9px;
+      transform: translateX(-50%) rotate(45deg);
+      z-index: -1;
+    }
+    .media-icons a{
+      font-size: 22px;
+      color: #0984e3;
+      transition: all 0.3s ease;
+    }
+    .media-icons a:hover{
+      transform: translateY(-2px);      color:  #e1306c;
+
+    }
+    .media-icons a:nth-child(1):hover{
+      color:  #e1306c;
+    }
+    .media-icons a:nth-child(2):hover{
+      color: #e1306c;
+    }
+    .media-icons a:nth-child(3):hover{
+      color: #e1306c;
+    }
+    .media-icons a:nth-child(4):hover{
+      color: #e1306c;
+    }
+    .mainbox{
+      width: 40px !important;
+      height: 40px !important;
+    }
+    .setting-footer .btn{
+      margin-bottom: 0;
+    }
+
+  </style>
+</head>
+<body></body>
+</html>

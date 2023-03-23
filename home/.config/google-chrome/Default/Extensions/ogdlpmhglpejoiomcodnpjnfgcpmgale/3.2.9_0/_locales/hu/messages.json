@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Fun egyéni kurzorok a Chrome ™ -hoz. Használjon nagyméretű ingyenes kurzorokat vagy töltse fel a sajátját."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Egyéni kurzor"
+   },
+   "close": {
+      "message": "bezár"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra nagy"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra kicsi"
+   },
+   "cursor_size_large": {
+      "message": "Nagy"
+   },
+   "cursor_size_medium": {
+      "message": "Közepes"
+   },
+   "cursor_size_small": {
+      "message": "Kicsi"
+   },
+   "delete": {
+      "message": "Töröl"
+   },
+   "delete_all": {
+      "message": "mindet törölni"
+   },
+   "enter_your_search_text": {
+      "message": "Írja be a keresési szöveget"
+   },
+   "favorite_by_time": {
+      "message": "idő szerint"
+   },
+   "favorite_by_visited_pages": {
+      "message": "a Látogatott oldalak által"
+   },
+   "favorite_manage_button": {
+      "message": "Kedvencek kezelése"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Forgassa el a kedvenceket"
+   },
+   "favorite_sec_page": {
+      "message": "második/oldal(ak)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Kedvencek kezelése"
+   },
+   "hint_defaultTo": {
+      "message": "Alapértelmezett kurzor"
+   },
+   "hint_remove_cursor": {
+      "message": "Kattintson a kurzor eltávolításához"
+   },
+   "hint_remove_pointer": {
+      "message": "Kattintson a mutató eltávolításához"
+   },
+   "hint_settings": {
+      "message": "Beállítások"
+   },
+   "hint_size": {
+      "message": "Kurzor mérete"
+   },
+   "hint_upload_cursor": {
+      "message": "Kattintson a kurzor feltöltésére"
+   },
+   "hint_upload_pointer": {
+      "message": "Kattintson a mutató feltöltésére"
+   },
+   "item_cursor": {
+      "message": "kurzor"
+   },
+   "item_pointer": {
+      "message": "mutató"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Kurzorméret beállításai"
+   },
+   "manage_manage_collection": {
+      "message": "Gyűjtemény kezelése"
+   },
+   "nav_how_to_use": {
+      "message": "Hogyan kell használni"
+   },
+   "nav_manage": {
+      "message": "Kezel"
+   },
+   "nav_more_cursors": {
+      "message": "További kurzorok"
+   },
+   "nav_upload_cursor": {
+      "message": "A kurzor feltöltése"
+   },
+   "options_add_new": {
+      "message": "Új hozzáadása"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Ajánlások:\u003C/h2>\u003Cul>\u003Cli>Ne használjon 128x128 pixelnél nagyobb képeket\u003C/li>\u003Cli>Átlátszó háttérrel rendelkező képek, például .png;\u003C/li>\u003Cli>Mosolyogjon gyakrabban;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Töltsd fel saját kurzoraidat"
+   },
+   "popup_default_cursor": {
+      "message": "Alapértelmezett kurzor"
+   },
+   "popup_manage": {
+      "message": "Kezel"
+   },
+   "popup_more_cursor": {
+      "message": "További kurzorok"
+   },
+   "popup_upload_cursor": {
+      "message": "A kurzor feltöltése"
+   },
+   "rate_us_5_stars": {
+      "message": "Ocijenite nas 5 zvjezdica, molim"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://internet-tv.appspot.com/"
+      },
+      "urls": [ "http://internet-tv.appspot.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_tv_description__",
+   "icons": {
+      "128": "logo.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3fW+Yg76J/oRLsoWJKESumyh1zbuYRjHKQqYP3G40Vypq9FCY2Zi6p+meElD+EV2nORNZmESQ2LXFKSVX5j6cyKGklIOpB6wgQ3/Rb2hKPydlf+znENCdFpwxQ4JotT35il6CRfmzWRSEKUZnpZv4B2fU2bJGHrx2983zf9scuwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_tv_name__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.12"
+}

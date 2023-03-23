@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Con trỏ tùy chỉnh cho Chrome ™. Sử dụng một bộ sưu tập lớn các con trỏ miễn phí hoặc tải lên của riêng bạn."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Con trỏ tùy chỉnh"
+   },
+   "close": {
+      "message": "đóng"
+   },
+   "cursor_size_extra_large": {
+      "message": "Thêm lớn"
+   },
+   "cursor_size_extra_small": {
+      "message": "Rất nhỏ"
+   },
+   "cursor_size_large": {
+      "message": "Lớn"
+   },
+   "cursor_size_medium": {
+      "message": "Trung bình"
+   },
+   "cursor_size_small": {
+      "message": "Nhỏ bé"
+   },
+   "delete": {
+      "message": "Xóa bỏ"
+   },
+   "delete_all": {
+      "message": "xóa hết"
+   },
+   "enter_your_search_text": {
+      "message": "Nhập văn bản tìm kiếm của bạn"
+   },
+   "favorite_by_time": {
+      "message": "theo thời gian"
+   },
+   "favorite_by_visited_pages": {
+      "message": "theo trang"
+   },
+   "favorite_manage_button": {
+      "message": "Quản lý yêu thích"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Xoay yêu thích"
+   },
+   "favorite_sec_page": {
+      "message": "giây/trang"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Quản lý yêu thích"
+   },
+   "hint_defaultTo": {
+      "message": "Con trỏ mặc định"
+   },
+   "hint_remove_cursor": {
+      "message": "Nhấn vào đây để loại bỏ con trỏ"
+   },
+   "hint_remove_pointer": {
+      "message": "Nhấn vào đây để loại bỏ cây kim đồng hồ"
+   },
+   "hint_settings": {
+      "message": "Cài đặt"
+   },
+   "hint_size": {
+      "message": "kích thước con trỏ"
+   },
+   "hint_upload_cursor": {
+      "message": "Nhấn vào đây để tải lên con trỏ"
+   },
+   "hint_upload_pointer": {
+      "message": "Nhấn vào đây để tải lên cây kim đồng hồ"
+   },
+   "item_cursor": {
+      "message": "con trỏ"
+   },
+   "item_pointer": {
+      "message": "cây kim đồng hồ"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Cài đặt kích thước con trỏ"
+   },
+   "manage_manage_collection": {
+      "message": "Quản lý bộ sưu tập"
+   },
+   "nav_how_to_use": {
+      "message": "Cách sử dụng"
+   },
+   "nav_manage": {
+      "message": "Quản lý"
+   },
+   "nav_more_cursors": {
+      "message": "Thêm con trỏ"
+   },
+   "nav_upload_cursor": {
+      "message": "Tải lên con trỏ"
+   },
+   "options_add_new": {
+      "message": "Thêm mới"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Khuyến nghị:\u003C/h2>\u003Cul>\u003Cli>Không sử dụng hình ảnh nhiều hơn 128x128 pixel;\u003C/li>\u003Cli>Sử dụng hình ảnh có nền trong suốt, chẳng hạn như .png;\u003C/li>\u003Cli>Cười thường xuyên hơn;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Tải lên con trỏ của riêng bạn"
+   },
+   "popup_default_cursor": {
+      "message": "Con trỏ mặc định"
+   },
+   "popup_manage": {
+      "message": "Quản lý"
+   },
+   "popup_more_cursor": {
+      "message": "Thêm con trỏ"
+   },
+   "popup_upload_cursor": {
+      "message": "Tải lên con trỏ"
+   },
+   "rate_us_5_stars": {
+      "message": "Đánh giá chúng tôi 5 sao"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

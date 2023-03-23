@@ -1,0 +1,39 @@
+source: Error encountered while sourcing file '/home/ossi/.local/share/omf/init.fish':
+source: Datei oder Verzeichnis nicht gefunden
+Fehler bei der Verbindung zur Sitzungsverwaltung: Verbindung zur Sitzungsverwaltung fehlgeschlagen: SESSION_MANAGER environment variable not defined
+/home/ossi/.config/polybar/launch.sh: Zeile 15: Replacing: Kommando nicht gefunden.
+polybar|notice:  Parsing config file: /home/ossi/.config/polybar/config.ini
+polybar|notice:  Parsing config file: /home/ossi/.config/polybar/config.ini
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'hdd' of type 'custom/text'
+polybar|notice:  Loading module 'filesystem' of type 'internal/fs'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'clock' of type 'internal/date'
+polybar|notice:  Loaded 11 modules
+polybar|notice:  Loaded font "DejaVuSansMono Nerd Font:size=12" (name=DejaVuSansMono Nerd Font, offset=0, file=/home/ossi/.local/share/fonts/NerdFonts/DejaVu Sans Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "UbuntuMono Nerd Font:size=14" (name=UbuntuMono Nerd Font, offset=3, file=/home/ossi/.local/share/fonts/NerdFonts/Ubuntu Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Noto Sans Mono:style=Regular" (name=Noto Sans Mono, offset=0, file=/usr/share/fonts/noto/NotoSansMono-Regular.ttf)
+polybar|error: tray: Failed to put tray above 0x2800001 in the stack (XCB_MATCH (8))
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1f.3.hdmi-stereo
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'lan' of type 'custom/script'
+polybar|notice:  Loaded 3 modules
+polybar|notice:  Loaded font "RobotoMono Nerd Font:size=12" (name=RobotoMono Nerd Font, offset=0, file=/home/ossi/.local/share/fonts/NerdFonts/Roboto Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Noto Sans Mono:style=Regular" (name=Noto Sans Mono, offset=0, file=/usr/share/fonts/noto/NotoSansMono-Regular.ttf)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+[2317:2379:0322/190147.065196:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+[2317:2379:0323/112338.573858:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+[2317:2379:0323/113832.220520:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+[2317:2379:0323/121253.413710:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
