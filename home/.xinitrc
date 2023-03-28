@@ -1,11 +1,10 @@
 #! /bin/sh
 # .using xrandr set HDMI properly -> under/overscan
-#sh ~/initxrandr.sh
+sh ~/initxrandr.sh
 #  turn laptop monitor off
-#xrandr --output LVDS --off --output HDMI-0 --auto
+xrandr --output LVDS --off --output HDMI-0 --auto
 #set keyboard slow
-xset r rate 1000 5
-setxkbmap -option caps:none
+xset r rate 1100 1
     
 if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  for f in /etc/X11/xinit/xinitrc.d/?* ; do
@@ -13,8 +12,6 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  done
  unset f
 fi
-
-
 
 xrdb -merge ~/.Xresources
 eval $(dbus-launch --sh-syntax --exit-with-session <window_manager>)
