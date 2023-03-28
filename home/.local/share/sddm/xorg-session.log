@@ -6,6 +6,8 @@ polybar|notice:  Parsing config file: /home/ossi/.config/polybar/config.ini
 polybar|notice:  Parsing config file: /home/ossi/.config/polybar/config.ini
 polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
 polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'cpu-temp' of type 'custom/script'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
 polybar|notice:  Loading module 'memory' of type 'internal/memory'
 polybar|notice:  Loading module 'sep' of type 'custom/text'
 polybar|notice:  Loading module 'hdd' of type 'custom/text'
@@ -16,7 +18,7 @@ polybar|notice:  Loading module 'sep' of type 'custom/text'
 polybar|notice:  Loading module 'date' of type 'internal/date'
 polybar|notice:  Loading module 'sep' of type 'custom/text'
 polybar|notice:  Loading module 'clock' of type 'internal/date'
-polybar|notice:  Loaded 11 modules
+polybar|notice:  Loaded 13 modules
 polybar|notice:  Loaded font "DejaVuSansMono Nerd Font:size=12" (name=DejaVuSansMono Nerd Font, offset=0, file=/home/ossi/.local/share/fonts/NerdFonts/DejaVu Sans Mono Nerd Font Complete.ttf)
 polybar|notice:  Loaded font "UbuntuMono Nerd Font:size=14" (name=UbuntuMono Nerd Font, offset=3, file=/home/ossi/.local/share/fonts/NerdFonts/Ubuntu Mono Nerd Font Complete.ttf)
 polybar|notice:  Loaded font "Noto Sans Mono:style=Regular" (name=Noto Sans Mono, offset=0, file=/usr/share/fonts/noto/NotoSansMono-Regular.ttf)
@@ -28,12 +30,228 @@ polybar|notice:  Loaded 3 modules
 polybar|notice:  Loaded font "RobotoMono Nerd Font:size=12" (name=RobotoMono Nerd Font, offset=0, file=/home/ossi/.local/share/fonts/NerdFonts/Roboto Mono Nerd Font Complete.ttf)
 polybar|notice:  Loaded font "Noto Sans Mono:style=Regular" (name=Noto Sans Mono, offset=0, file=/usr/share/fonts/noto/NotoSansMono-Regular.ttf)
 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
-polybar|notice:  Received signal(15): Terminated
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:19:48.718: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:17.886: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:21.301: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:21.302: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:23.005: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:23.006: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:23.008: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:24.612: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:24.614: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:24.615: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:24.616: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:25.868: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:25.870: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:25.871: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:25.872: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+
+(blueman-manager:12779): Gtk-CRITICAL **: 16:21:25.873: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 141, in search_func
+    row = self.get(tree_iter, "caption")
+  File "/usr/lib/python3.10/site-packages/blueman/gui/GenericList.py", line 145, in get
+    ret[items[i]] = self.liststore.get(tree_iter, self.ids[items[i]])[0]
+  File "/usr/lib/python3.10/site-packages/gi/overrides/Gtk.py", line 934, in get
+    values.append(self.get_value(treeiter, col))
+TypeError: unknown type (null)
+blueman-manager 16.50.00 WARNING  ManagerDeviceList:396 _monitor_power_levels: Failed to get power levels, probably a LE device.
+[3547:3547:0324/165346.827992:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
 polybar|notice:  Received signal(15): Terminated
 polybar|notice:  Termination signal received, shutting down...
+polybar|notice:  Received signal(15): Terminated
 polybar|notice:  Termination signal received, shutting down...
 polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
-[2317:2379:0322/190147.065196:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
-[2317:2379:0323/112338.573858:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
-[2317:2379:0323/113832.220520:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
-[2317:2379:0323/121253.413710:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+[3547:3636:0325/021833.033153:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+blueman-manager 15.43.05 WARNING  ManagerDeviceList:396 _monitor_power_levels: Failed to get power levels, probably a LE device.
+blueman-manager 15.46.23 ERROR    Manager:223 error_handler:  In Progress
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/bluez/Base.py", line 78, in callback
+    value = proxy.call_finish(result).unpack()
+gi.repository.GLib.GError: g-io-error-quark: GDBus.Error:org.bluez.Error.InProgress: In Progress (36)
+blueman-manager 15.47.26 WARNING  ManagerDeviceList:407 _check_power_levels: stopping monitor (row does not exist)
+blueman-manager 15.47.28 WARNING  ManagerDeviceList:396 _monitor_power_levels: Failed to get power levels, probably a LE device.
+blueman-manager 15.48.16 ERROR    Manager:223 error_handler:  Authentication Timeout
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/blueman/bluez/Base.py", line 78, in callback
+    value = proxy.call_finish(result).unpack()
+gi.repository.GLib.GError: g-io-error-quark: GDBus.Error:org.bluez.Error.AuthenticationTimeout: Authentication Timeout (36)
+blueman-manager 15.53.27 WARNING  ManagerDeviceList:396 _monitor_power_levels: Failed to get power levels, probably a LE device.
+blueman-manager 15.55.30 WARNING  ManagerDeviceList:396 _monitor_power_levels: Failed to get power levels, probably a LE device.
+blueman-manager 15.56.04 WARNING  ManagerDeviceList:396 _monitor_power_levels: Failed to get power levels, probably a LE device.
+[3547:3636:0325/193718.805344:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+[3547:3636:0326/030601.281200:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+blueman-manager 14.03.57 WARNING  ManagerDeviceList:396 _monitor_power_levels: Failed to get power levels, probably a LE device.
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Fontconfig error: Cannot load default config file: No such file: (null)
+Another composite manager is already running
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/home/ossi/.config/polybar/launch.sh: Zeile 15: Replacing: Kommando nicht gefunden.
+polybar|notice:  Parsing config file: /home/ossi/.config/polybar/config.ini
+polybar|notice:  Parsing config file: /home/ossi/.config/polybar/config.ini
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_00_1f.3.hdmi-stereo
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'lan' of type 'custom/script'
+polybar|notice:  Loaded 3 modules
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'hdd' of type 'custom/text'
+polybar|notice:  Loading module 'filesystem' of type 'internal/fs'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loaded font "RobotoMono Nerd Font:size=12" (name=RobotoMono Nerd Font, offset=0, file=/home/ossi/.local/share/fonts/NerdFonts/Roboto Mono Nerd Font Complete.ttf)
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'temperature' of type 'internal/temperature'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'clock' of type 'internal/date'
+polybar|notice:  Loaded 13 modules
+polybar|notice:  Loaded font "Noto Sans Mono:style=Regular" (name=Noto Sans Mono, offset=0, file=/usr/share/fonts/noto/NotoSansMono-Regular.ttf)
+polybar|notice:  Loaded font "DejaVuSansMono Nerd Font:size=12" (name=DejaVuSansMono Nerd Font, offset=0, file=/home/ossi/.local/share/fonts/NerdFonts/DejaVu Sans Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "UbuntuMono Nerd Font:size=14" (name=UbuntuMono Nerd Font, offset=3, file=/home/ossi/.local/share/fonts/NerdFonts/Ubuntu Mono Nerd Font Complete.ttf)
+polybar|notice:  Loaded font "Noto Sans Mono:style=Regular" (name=Noto Sans Mono, offset=0, file=/usr/share/fonts/noto/NotoSansMono-Regular.ttf)
+polybar|error: tray: Failed to put tray above 0x2a00001 in the stack (XCB_MATCH (8))

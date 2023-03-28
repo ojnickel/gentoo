@@ -1,0 +1,6 @@
+2023/03/28-18:05:32.637 7f27 Creating DB /home/ossi/.config/google-chrome/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/03/28-18:05:32.646 7f27 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-18:05:36.681 7f28 Level-0 table #5: started
+2023/03/28-18:05:36.685 7f28 Level-0 table #5: 4695 bytes OK
+2023/03/28-18:05:36.692 7f28 Delete type=0 #3
+2023/03/28-18:05:36.692 7f28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

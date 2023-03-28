@@ -1,6 +1,9 @@
-2023/03/20-16:32:12.120 3 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2023/03/20-16:32:12.122 3 Recovering log #3
-2023/03/20-16:32:12.123 3 Reusing old log /home/ossi/.config/google-chrome/Default/Session Storage/000003.log 
-2023/03/20-19:01:03.730 6 Level-0 table #5: started
-2023/03/20-19:01:03.735 6 Level-0 table #5: 15387 bytes OK
-2023/03/20-19:01:03.747 6 Delete type=0 #3
+2023/03/23-18:14:56.011 3 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/03/23-18:14:56.011 3 Recovering log #4
+2023/03/23-18:14:56.012 3 Reusing old log /home/ossi/.config/google-chrome/Default/Session Storage/000004.log 
+2023/03/24-17:01:39.154 3 Level-0 table #8: started
+2023/03/24-17:01:39.159 3 Level-0 table #8: 15556 bytes OK
+2023/03/24-17:01:39.167 3 Delete type=0 #4
+2023/03/27-17:59:01.956 5 Level-0 table #10: started
+2023/03/27-17:59:01.971 5 Level-0 table #10: 14990 bytes OK
+2023/03/27-17:59:01.981 5 Delete type=0 #7

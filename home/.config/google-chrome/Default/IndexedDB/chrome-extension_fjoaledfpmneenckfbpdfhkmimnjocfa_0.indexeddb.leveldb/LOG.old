@@ -1,24 +1,47 @@
-2023/03/20-16:32:12.512 4643 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/20-16:32:12.512 4643 Recovering log #6
-2023/03/20-16:32:12.513 4643 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/000006.log 
-2023/03/20-16:32:12.546 464f Level-0 table #10: started
-2023/03/20-16:32:12.552 464f Level-0 table #10: 9038 bytes OK
-2023/03/20-16:32:12.557 464f Delete type=0 #6
-2023/03/20-16:32:12.557 464f Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 405 : 1
-2023/03/20-16:32:12.557 464f Compacting 1@0 + 1@1 files
-2023/03/20-16:32:12.575 464f Generated table #11@0: 180 keys, 4257 bytes
-2023/03/20-16:32:12.575 464f Compacted 1@0 + 1@1 files => 4257 bytes
-2023/03/20-16:32:12.585 464f compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/20-16:32:12.585 464f Delete type=2 #10
-2023/03/20-16:32:12.586 4645 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 405 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/03/20-16:32:12.586 464f Level-0 table #13: started
-2023/03/20-16:32:12.588 464f Level-0 table #13: 1780 bytes OK
-2023/03/20-16:32:12.594 464f Delete type=2 #7
-2023/03/20-16:32:12.594 464f Delete type=0 #9
-2023/03/20-16:32:12.594 4643 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 422 : 1
-2023/03/20-16:32:12.594 4643 Compacting 1@0 + 1@1 files
-2023/03/20-16:32:12.597 4643 Generated table #14@0: 184 keys, 4917 bytes
-2023/03/20-16:32:12.597 4643 Compacted 1@0 + 1@1 files => 4917 bytes
-2023/03/20-16:32:12.603 4643 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/20-16:32:12.603 4643 Delete type=2 #13
-2023/03/20-16:32:12.603 4643 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 422 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/23-18:14:56.232 e30 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/23-18:14:56.232 e30 Recovering log #25
+2023/03/23-18:14:56.232 e30 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/000025.log 
+2023/03/23-18:14:56.233 e30 Delete type=2 #24
+2023/03/23-18:14:56.287 e8f Level-0 table #30: started
+2023/03/23-18:14:56.296 e8f Level-0 table #30: 747 bytes OK
+2023/03/23-18:14:56.308 e8f Delete type=0 #25
+2023/03/23-18:14:56.308 e31 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 867 : 1
+2023/03/23-18:14:56.308 e31 Compacting 1@0 + 1@1 files
+2023/03/23-18:14:56.314 e31 Generated table #31@0: 236 keys, 4894 bytes
+2023/03/23-18:14:56.314 e31 Compacted 1@0 + 1@1 files => 4894 bytes
+2023/03/23-18:14:56.322 e31 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/23-18:14:56.322 e31 Delete type=2 #30
+2023/03/23-18:14:56.322 e31 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 867 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/23-18:14:56.325 e8f Level-0 table #33: started
+2023/03/23-18:14:56.328 e8f Level-0 table #33: 1859 bytes OK
+2023/03/23-18:14:56.333 e8f Delete type=2 #27
+2023/03/23-18:14:56.333 e8f Delete type=0 #29
+2023/03/23-18:14:56.334 e31 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 884 : 1
+2023/03/23-18:14:56.334 e31 Compacting 1@0 + 1@1 files
+2023/03/23-18:14:56.338 e31 Generated table #34@0: 236 keys, 5544 bytes
+2023/03/23-18:14:56.338 e31 Compacted 1@0 + 1@1 files => 5544 bytes
+2023/03/23-18:14:56.343 e31 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/23-18:14:56.344 e31 Delete type=2 #33
+2023/03/23-18:14:56.344 e31 Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 884 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/24-18:48:52.124 e35 Level-0 table #36: started
+2023/03/24-18:48:52.130 e35 Level-0 table #36: 4529 bytes OK
+2023/03/24-18:48:52.144 e35 Delete type=2 #31
+2023/03/24-18:48:52.144 e35 Delete type=0 #32
+2023/03/24-18:48:52.144 e35 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 1013 : 1
+2023/03/24-18:48:52.144 e35 Compacting 1@0 + 1@1 files
+2023/03/24-18:48:52.150 e35 Generated table #37@0: 237 keys, 4918 bytes
+2023/03/24-18:48:52.150 e35 Compacted 1@0 + 1@1 files => 4918 bytes
+2023/03/24-18:48:52.161 e35 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/24-18:48:52.162 e35 Delete type=2 #36
+2023/03/24-18:48:52.162 e30 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 1013 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/24-18:48:52.162 e30 Level-0 table #39: started
+2023/03/24-18:48:52.166 e30 Level-0 table #39: 3063 bytes OK
+2023/03/24-18:48:52.172 e30 Delete type=2 #34
+2023/03/24-18:48:52.172 e30 Delete type=0 #35
+2023/03/24-18:48:52.172 e30 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 1030 : 1
+2023/03/24-18:48:52.172 e30 Compacting 1@0 + 1@1 files
+2023/03/24-18:48:52.176 e30 Generated table #40@0: 238 keys, 5961 bytes
+2023/03/24-18:48:52.176 e30 Compacted 1@0 + 1@1 files => 5961 bytes
+2023/03/24-18:48:52.182 e30 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/24-18:48:52.182 e30 Delete type=2 #39
+2023/03/24-18:48:52.182 e30 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 1030 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

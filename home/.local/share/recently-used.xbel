@@ -13,4 +13,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/ossi/Downloads/600-6%204K.part1.rar" added="2023-03-27T19:49:27.877943Z" modified="2023-03-27T19:49:27.877950Z" visited="2023-03-27T19:49:27.877944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-27T19:49:27.877947Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

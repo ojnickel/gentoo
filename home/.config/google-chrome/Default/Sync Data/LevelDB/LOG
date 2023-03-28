@@ -1,21 +1,9 @@
-2023/03/22-17:09:26.458 947 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/03/22-17:09:26.459 947 Recovering log #11
-2023/03/22-17:09:26.460 947 Reusing old log /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/000011.log 
-2023/03/22-17:16:38.783 947 Level-0 table #15: started
-2023/03/22-17:16:38.795 947 Level-0 table #15: 172676 bytes OK
-2023/03/22-17:16:38.801 947 Delete type=0 #11
-2023/03/23-08:08:41.966 9af Level-0 table #17: started
-2023/03/23-08:08:41.975 9af Level-0 table #17: 172551 bytes OK
-2023/03/23-08:08:41.986 9af Delete type=0 #14
-2023/03/23-08:08:41.986 9af Compacting 4@0 + 1@1 files
-2023/03/23-08:08:41.997 9af Generated table #18@0: 844 keys, 172045 bytes
-2023/03/23-08:08:41.997 9af Compacted 4@0 + 1@1 files => 172045 bytes
-2023/03/23-08:08:42.009 9af compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/23-08:08:42.009 9af Delete type=2 #8
-2023/03/23-08:08:42.009 9af Delete type=2 #10
-2023/03/23-08:08:42.009 9af Delete type=2 #12
-2023/03/23-08:08:42.009 9af Delete type=2 #15
-2023/03/23-08:08:42.009 9af Delete type=2 #17
-2023/03/23-17:52:41.574 946 Level-0 table #20: started
-2023/03/23-17:52:41.578 946 Level-0 table #20: 171506 bytes OK
-2023/03/23-17:52:41.584 946 Delete type=0 #16
+2023/03/27-18:04:37.578 7f28 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/27-18:04:37.578 7f28 Recovering log #29
+2023/03/27-18:04:37.579 7f28 Reusing old log /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/000029.log 
+2023/03/27-22:04:20.774 7f33 Level-0 table #33: started
+2023/03/27-22:04:20.784 7f33 Level-0 table #33: 204770 bytes OK
+2023/03/27-22:04:20.795 7f33 Delete type=0 #29
+2023/03/28-15:19:14.164 7f2b Level-0 table #35: started
+2023/03/28-15:19:14.177 7f2b Level-0 table #35: 177587 bytes OK
+2023/03/28-15:19:14.189 7f2b Delete type=0 #32
