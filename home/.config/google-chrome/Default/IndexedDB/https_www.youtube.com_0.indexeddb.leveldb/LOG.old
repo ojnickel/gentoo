@@ -1,15 +1,15 @@
-2023/03/27-17:58:43.479 e30 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/27-17:58:43.479 e30 Recovering log #7
-2023/03/27-17:58:43.479 e30 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
-2023/03/27-17:59:04.048 e30 Level-0 table #12: started
-2023/03/27-17:59:04.054 e30 Level-0 table #12: 27511 bytes OK
-2023/03/27-17:59:04.061 e30 Delete type=0 #7
-2023/03/27-17:59:04.061 e30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/03/27-17:59:04.061 e30 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1894 : 1
-2023/03/27-17:59:04.061 e30 Compacting 1@1 + 1@2 files
-2023/03/27-17:59:04.066 e30 Generated table #13@1: 60 keys, 1418 bytes
-2023/03/27-17:59:04.066 e30 Compacted 1@1 + 1@2 files => 1418 bytes
-2023/03/27-17:59:04.072 e30 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/03/27-17:59:04.072 e30 Delete type=2 #9
-2023/03/27-17:59:04.072 e30 Delete type=2 #12
-2023/03/27-17:59:04.072 e30 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1894 : 1 .. (end); will stop at (end)
+2023/04/03-17:15:58.484 e33 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/03-17:15:58.484 e33 Recovering log #19
+2023/04/03-17:15:58.484 e33 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000019.log 
+2023/04/05-17:34:15.102 e34 Level-0 table #24: started
+2023/04/05-17:34:15.124 e34 Level-0 table #24: 811656 bytes OK
+2023/04/05-17:34:15.132 e34 Delete type=0 #19
+2023/04/05-17:34:15.133 e34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/05-17:34:15.133 e34 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 4399 : 1
+2023/04/05-17:34:15.133 e34 Compacting 1@1 + 1@2 files
+2023/04/05-17:34:15.145 e34 Generated table #25@1: 585 keys, 29611 bytes
+2023/04/05-17:34:15.145 e34 Compacted 1@1 + 1@2 files => 29611 bytes
+2023/04/05-17:34:15.157 e34 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/05-17:34:15.157 e34 Delete type=2 #21
+2023/04/05-17:34:15.157 e34 Delete type=2 #24
+2023/04/05-17:34:15.157 e34 Manual compaction at level-1 from '\x00\x0a\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 4399 : 1 .. (end); will stop at (end)

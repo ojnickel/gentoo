@@ -154,7 +154,7 @@ assign [class="Xfce4-terminal"] $workspace1
 #ssign [class="Chromium-browser-chromium"] $workspace2
 assign [class="Google-chrome"] $workspace2
 assign [class="Thunderbird"] $workspace4
-assign [class="Firefox"] $workspace3
+assign [class="firefox"] $workspace3
 assign [class="Simple-scan"] $workspace5
 assign [class="libreoffice-impress"] $workspace7
 

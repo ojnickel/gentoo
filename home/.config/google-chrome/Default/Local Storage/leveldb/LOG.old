@@ -1,93 +1,42 @@
-2023/03/23-18:14:55.658 3 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2023/03/23-18:14:55.659 3 Recovering log #50
-2023/03/23-18:14:55.659 3 Reusing old log /home/ossi/.config/google-chrome/Default/Local Storage/leveldb/000050.log 
-2023/03/24-16:50:59.907 5 Level-0 table #55: started
-2023/03/24-16:50:59.920 5 Level-0 table #55: 18354 bytes OK
-2023/03/24-16:50:59.930 5 Delete type=0 #50
-2023/03/24-17:01:39.131 5 Level-0 table #57: started
-2023/03/24-17:01:39.144 5 Level-0 table #57: 51923 bytes OK
-2023/03/24-17:01:39.153 5 Delete type=0 #54
-2023/03/24-17:09:24.146 5 Level-0 table #59: started
-2023/03/24-17:09:24.159 5 Level-0 table #59: 62649 bytes OK
-2023/03/24-17:09:24.168 5 Delete type=0 #56
-2023/03/25-13:33:00.059 3 Level-0 table #61: started
-2023/03/25-13:33:00.071 3 Level-0 table #61: 64129 bytes OK
-2023/03/25-13:33:00.080 3 Delete type=0 #58
-2023/03/25-13:33:00.081 3 Compacting 4@0 + 1@1 files
-2023/03/25-13:33:00.101 3 Generated table #62@0: 140 keys, 305893 bytes
-2023/03/25-13:33:00.101 3 Compacted 4@0 + 1@1 files => 305893 bytes
-2023/03/25-13:33:00.108 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/25-13:33:00.110 3 Delete type=2 #52
-2023/03/25-13:33:00.110 3 Delete type=2 #55
-2023/03/25-13:33:00.110 3 Delete type=2 #57
-2023/03/25-13:33:00.110 3 Delete type=2 #59
-2023/03/25-13:33:00.110 3 Delete type=2 #61
-2023/03/25-15:58:52.722 5 Level-0 table #64: started
-2023/03/25-15:58:52.734 5 Level-0 table #64: 17028 bytes OK
-2023/03/25-15:58:52.741 5 Delete type=0 #60
-2023/03/25-16:06:37.402 3 Level-0 table #66: started
-2023/03/25-16:06:37.414 3 Level-0 table #66: 50546 bytes OK
-2023/03/25-16:06:37.422 3 Delete type=0 #63
-2023/03/25-16:11:12.595 5 Level-0 table #68: started
-2023/03/25-16:11:12.610 5 Level-0 table #68: 63645 bytes OK
-2023/03/25-16:11:12.619 5 Delete type=0 #65
-2023/03/26-15:33:43.738 3 Level-0 table #70: started
-2023/03/26-15:33:43.751 3 Level-0 table #70: 51467 bytes OK
-2023/03/26-15:33:43.759 3 Delete type=0 #67
-2023/03/26-15:33:43.759 3 Compacting 4@0 + 1@1 files
-2023/03/26-15:33:43.771 3 Generated table #71@0: 174 keys, 321825 bytes
-2023/03/26-15:33:43.771 3 Compacted 4@0 + 1@1 files => 321825 bytes
-2023/03/26-15:33:43.777 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/26-15:33:43.778 3 Delete type=2 #62
-2023/03/26-15:33:43.778 3 Delete type=2 #64
-2023/03/26-15:33:43.778 3 Delete type=2 #66
-2023/03/26-15:33:43.778 3 Delete type=2 #68
-2023/03/26-15:33:43.778 3 Delete type=2 #70
-2023/03/26-15:47:05.108 5 Level-0 table #73: started
-2023/03/26-15:47:05.121 5 Level-0 table #73: 46703 bytes OK
-2023/03/26-15:47:05.135 5 Delete type=0 #69
-2023/03/26-17:33:04.106 3 Level-0 table #75: started
-2023/03/26-17:33:04.118 3 Level-0 table #75: 25192 bytes OK
-2023/03/26-17:33:04.125 3 Delete type=0 #72
-2023/03/27-17:51:01.067 5 Level-0 table #77: started
-2023/03/27-17:51:01.087 5 Level-0 table #77: 269984 bytes OK
-2023/03/27-17:51:01.095 5 Delete type=0 #74
-2023/03/27-17:51:41.674 5 Level-0 table #79: started
-2023/03/27-17:51:41.679 5 Level-0 table #79: 58535 bytes OK
-2023/03/27-17:51:41.686 5 Delete type=0 #76
-2023/03/27-17:51:41.687 5 Compacting 4@0 + 1@1 files
-2023/03/27-17:51:41.703 5 Generated table #80@0: 188 keys, 394166 bytes
-2023/03/27-17:51:41.704 5 Compacted 4@0 + 1@1 files => 394166 bytes
-2023/03/27-17:51:41.710 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/27-17:51:41.711 5 Delete type=2 #71
-2023/03/27-17:51:41.712 5 Delete type=2 #73
-2023/03/27-17:51:41.712 5 Delete type=2 #75
-2023/03/27-17:51:41.712 5 Delete type=2 #77
-2023/03/27-17:51:41.712 5 Delete type=2 #79
-2023/03/27-17:53:58.843 5 Level-0 table #82: started
-2023/03/27-17:53:58.860 5 Level-0 table #82: 240977 bytes OK
-2023/03/27-17:53:58.867 5 Delete type=0 #78
-2023/03/27-17:54:17.779 5 Level-0 table #84: started
-2023/03/27-17:54:17.790 5 Level-0 table #84: 59527 bytes OK
-2023/03/27-17:54:17.798 5 Delete type=0 #81
-2023/03/27-17:56:01.882 3 Level-0 table #86: started
-2023/03/27-17:56:01.893 3 Level-0 table #86: 83092 bytes OK
-2023/03/27-17:56:01.901 3 Delete type=0 #83
-2023/03/27-17:57:53.306 5 Level-0 table #88: started
-2023/03/27-17:57:53.315 5 Level-0 table #88: 65436 bytes OK
-2023/03/27-17:57:53.324 5 Delete type=0 #85
-2023/03/27-17:57:53.325 5 Compacting 4@0 + 1@1 files
-2023/03/27-17:57:53.351 5 Generated table #89@0: 192 keys, 446484 bytes
-2023/03/27-17:57:53.351 5 Compacted 4@0 + 1@1 files => 446484 bytes
-2023/03/27-17:57:53.358 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/27-17:57:53.359 5 Delete type=2 #80
-2023/03/27-17:57:53.360 5 Delete type=2 #82
-2023/03/27-17:57:53.360 5 Delete type=2 #84
-2023/03/27-17:57:53.360 5 Delete type=2 #86
-2023/03/27-17:57:53.360 5 Delete type=2 #88
-2023/03/27-17:58:16.066 5 Level-0 table #91: started
-2023/03/27-17:58:16.079 5 Level-0 table #91: 48560 bytes OK
-2023/03/27-17:58:16.087 5 Delete type=0 #87
-2023/03/27-17:58:48.378 5 Level-0 table #93: started
-2023/03/27-17:58:48.389 5 Level-0 table #93: 44515 bytes OK
-2023/03/27-17:58:48.397 5 Delete type=0 #90
+2023/03/27-18:04:37.580 3 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/27-18:04:37.581 3 Recovering log #92
+2023/03/27-18:04:37.581 3 Reusing old log /home/ossi/.config/google-chrome/Default/Local Storage/leveldb/000092.log 
+2023/03/28-18:04:54.834 5 Level-0 table #96: started
+2023/03/28-18:04:54.846 5 Level-0 table #96: 19214 bytes OK
+2023/03/28-18:04:54.854 5 Delete type=0 #92
+2023/03/28-18:06:58.001 5 Level-0 table #98: started
+2023/03/28-18:06:58.014 5 Level-0 table #98: 110772 bytes OK
+2023/03/28-18:06:58.022 5 Delete type=0 #95
+2023/03/28-18:06:58.023 5 Compacting 4@0 + 1@1 files
+2023/03/28-18:06:58.040 5 Generated table #99@0: 206 keys, 512020 bytes
+2023/03/28-18:06:58.040 5 Compacted 4@0 + 1@1 files => 512020 bytes
+2023/03/28-18:06:58.046 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-18:06:58.047 5 Delete type=2 #89
+2023/03/28-18:06:58.047 5 Delete type=2 #91
+2023/03/28-18:06:58.048 5 Delete type=2 #93
+2023/03/28-18:06:58.048 5 Delete type=2 #96
+2023/03/28-18:06:58.048 5 Delete type=2 #98
+2023/03/28-18:57:56.795 5 Level-0 table #101: started
+2023/03/28-18:57:56.817 5 Level-0 table #101: 219299 bytes OK
+2023/03/28-18:57:56.825 5 Delete type=0 #97
+2023/03/28-18:58:48.652 3 Level-0 table #103: started
+2023/03/28-18:58:48.663 3 Level-0 table #103: 65967 bytes OK
+2023/03/28-18:58:48.669 3 Delete type=0 #100
+2023/03/28-18:59:53.591 5 Level-0 table #105: started
+2023/03/28-18:59:53.601 5 Level-0 table #105: 88509 bytes OK
+2023/03/28-18:59:53.608 5 Delete type=0 #102
+2023/03/28-19:00:49.354 3 Level-0 table #107: started
+2023/03/28-19:00:49.370 3 Level-0 table #107: 118491 bytes OK
+2023/03/28-19:00:49.378 3 Delete type=0 #104
+2023/03/28-19:00:49.378 3 Compacting 4@0 + 1@1 files
+2023/03/28-19:00:49.404 3 Generated table #108@0: 222 keys, 888059 bytes
+2023/03/28-19:00:49.404 3 Compacted 4@0 + 1@1 files => 888059 bytes
+2023/03/28-19:00:49.410 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-19:00:49.412 3 Delete type=2 #99
+2023/03/28-19:00:49.412 3 Delete type=2 #101
+2023/03/28-19:00:49.412 3 Delete type=2 #103
+2023/03/28-19:00:49.412 3 Delete type=2 #105
+2023/03/28-19:00:49.412 3 Delete type=2 #107
+2023/03/28-19:25:24.218 3 Level-0 table #110: started
+2023/03/28-19:25:24.230 3 Level-0 table #110: 80055 bytes OK
+2023/03/28-19:25:24.238 3 Delete type=0 #106

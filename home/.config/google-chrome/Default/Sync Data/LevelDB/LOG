@@ -1,9 +1,66 @@
-2023/03/27-18:04:37.578 7f28 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/03/27-18:04:37.578 7f28 Recovering log #29
-2023/03/27-18:04:37.579 7f28 Reusing old log /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/000029.log 
-2023/03/27-22:04:20.774 7f33 Level-0 table #33: started
-2023/03/27-22:04:20.784 7f33 Level-0 table #33: 204770 bytes OK
-2023/03/27-22:04:20.795 7f33 Delete type=0 #29
-2023/03/28-15:19:14.164 7f2b Level-0 table #35: started
-2023/03/28-15:19:14.177 7f2b Level-0 table #35: 177587 bytes OK
-2023/03/28-15:19:14.189 7f2b Delete type=0 #32
+2023/03/28-19:51:31.245 eb4 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/28-19:51:31.246 eb4 Recovering log #34
+2023/03/28-19:51:31.251 eb4 Reusing old log /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/000034.log 
+2023/03/28-19:51:32.289 e36 Level-0 table #38: started
+2023/03/28-19:51:32.295 e36 Level-0 table #38: 168815 bytes OK
+2023/03/28-19:51:32.306 e36 Delete type=0 #34
+2023/03/28-19:51:32.307 e36 Compacting 4@0 + 1@1 files
+2023/03/28-19:51:32.315 e36 Generated table #39@0: 1415 keys, 288074 bytes
+2023/03/28-19:51:32.315 e36 Compacted 4@0 + 1@1 files => 288074 bytes
+2023/03/28-19:51:32.326 e36 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/28-19:51:32.326 e36 Delete type=2 #28
+2023/03/28-19:51:32.326 e36 Delete type=2 #30
+2023/03/28-19:51:32.326 e36 Delete type=2 #33
+2023/03/28-19:51:32.326 e36 Delete type=2 #35
+2023/03/28-19:51:32.326 e36 Delete type=2 #38
+2023/03/29-17:09:20.754 e34 Level-0 table #41: started
+2023/03/29-17:09:20.768 e34 Level-0 table #41: 174460 bytes OK
+2023/03/29-17:09:20.774 e34 Delete type=0 #37
+2023/03/31-20:20:00.286 e97 Level-0 table #43: started
+2023/03/31-20:20:00.301 e97 Level-0 table #43: 234186 bytes OK
+2023/03/31-20:20:00.311 e97 Delete type=0 #40
+2023/04/01-13:28:02.171 e34 Level-0 table #45: started
+2023/04/01-13:28:02.182 e34 Level-0 table #45: 173581 bytes OK
+2023/04/01-13:28:02.188 e34 Delete type=0 #42
+2023/04/01-20:48:40.025 e97 Level-0 table #47: started
+2023/04/01-20:48:40.032 e97 Level-0 table #47: 203266 bytes OK
+2023/04/01-20:48:40.041 e97 Delete type=0 #44
+2023/04/01-20:48:40.042 e97 Compacting 4@0 + 1@1 files
+2023/04/01-20:48:40.059 e97 Generated table #48@0: 1429 keys, 294605 bytes
+2023/04/01-20:48:40.059 e97 Compacted 4@0 + 1@1 files => 294605 bytes
+2023/04/01-20:48:40.065 e97 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/01-20:48:40.065 e97 Delete type=2 #39
+2023/04/01-20:48:40.065 e97 Delete type=2 #41
+2023/04/01-20:48:40.065 e97 Delete type=2 #43
+2023/04/01-20:48:40.065 e97 Delete type=2 #45
+2023/04/01-20:48:40.065 e97 Delete type=2 #47
+2023/04/03-14:39:21.266 e36 Level-0 table #50: started
+2023/04/03-14:39:21.272 e36 Level-0 table #50: 123862 bytes OK
+2023/04/03-14:39:21.281 e36 Delete type=0 #46
+2023/04/03-17:41:05.960 e34 Level-0 table #52: started
+2023/04/03-17:41:05.971 e34 Level-0 table #52: 87314 bytes OK
+2023/04/03-17:41:05.977 e34 Delete type=0 #49
+2023/04/05-17:34:35.210 e34 Level-0 table #54: started
+2023/04/05-17:34:35.219 e34 Level-0 table #54: 131481 bytes OK
+2023/04/05-17:34:35.225 e34 Delete type=0 #51
+2023/04/06-15:26:59.207 e97 Level-0 table #56: started
+2023/04/06-15:26:59.218 e97 Level-0 table #56: 176881 bytes OK
+2023/04/06-15:26:59.230 e97 Delete type=0 #53
+2023/04/06-15:26:59.230 e97 Compacting 4@0 + 1@1 files
+2023/04/06-15:26:59.248 e97 Generated table #57@0: 1440 keys, 301456 bytes
+2023/04/06-15:26:59.248 e97 Compacted 4@0 + 1@1 files => 301456 bytes
+2023/04/06-15:26:59.259 e97 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/06-15:26:59.259 e97 Delete type=2 #48
+2023/04/06-15:26:59.260 e97 Delete type=2 #50
+2023/04/06-15:26:59.260 e97 Delete type=2 #52
+2023/04/06-15:26:59.260 e97 Delete type=2 #54
+2023/04/06-15:26:59.260 e97 Delete type=2 #56
+2023/04/08-13:21:58.952 e34 Level-0 table #59: started
+2023/04/08-13:21:58.964 e34 Level-0 table #59: 121195 bytes OK
+2023/04/08-13:21:58.969 e34 Delete type=0 #55
+2023/04/09-13:08:17.632 e36 Level-0 table #61: started
+2023/04/09-13:08:17.637 e36 Level-0 table #61: 170135 bytes OK
+2023/04/09-13:08:17.643 e36 Delete type=0 #58
+2023/04/10-09:18:56.419 e97 Level-0 table #63: started
+2023/04/10-09:18:56.431 e97 Level-0 table #63: 128561 bytes OK
+2023/04/10-09:18:56.443 e97 Delete type=0 #60

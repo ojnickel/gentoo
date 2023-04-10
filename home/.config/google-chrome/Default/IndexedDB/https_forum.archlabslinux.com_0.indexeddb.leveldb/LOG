@@ -1,3 +1,15 @@
-2023/03/27-18:04:42.472 7f28 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/27-18:04:42.472 7f28 Recovering log #4
-2023/03/27-18:04:42.474 7f28 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/000004.log 
+2023/04/03-17:15:55.025 e36 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/03-17:15:55.026 e36 Recovering log #4
+2023/04/03-17:15:55.043 e36 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/000004.log 
+2023/04/03-17:16:28.488 e34 Level-0 table #8: started
+2023/04/03-17:16:28.498 e34 Level-0 table #8: 347029 bytes OK
+2023/04/03-17:16:28.504 e34 Delete type=0 #4
+2023/04/03-17:16:28.505 e34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/03-17:16:28.505 e34 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x10\x9a\x06{txB\x00\x01v\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x002\x00X\x00/\x006\x00/\x006\x001\x002\x007\x00b\x009\x00b\x00d\x00e\x005\x009\x007\x00b\x004\x009\x00b\x00b\x005\x005\x00f\x009\x001\x003\x001\x008\x007\x005\x009\x001\x00b\x000\x009\x00d\x00c\x009\x003\x006\x00e\x00b\x00e\x00.\x00p\x00n\x00g' @ 7782 : 1
+2023/04/03-17:16:28.505 e34 Compacting 1@1 + 1@2 files
+2023/04/03-17:16:28.514 e34 Generated table #9@1: 408 keys, 55990 bytes
+2023/04/03-17:16:28.514 e34 Compacted 1@1 + 1@2 files => 55990 bytes
+2023/04/03-17:16:28.520 e34 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/03-17:16:28.521 e34 Delete type=2 #5
+2023/04/03-17:16:28.521 e34 Delete type=2 #8
+2023/04/03-17:16:28.521 e34 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x10\x9a\x06{txB\x00\x01v\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x002\x00X\x00/\x006\x00/\x006\x001\x002\x007\x00b\x009\x00b\x00d\x00e\x005\x009\x007\x00b\x004\x009\x00b\x00b\x005\x005\x00f\x009\x001\x003\x001\x008\x007\x005\x009\x001\x00b\x000\x009\x00d\x00c\x009\x003\x006\x00e\x00b\x00e\x00.\x00p\x00n\x00g' @ 7782 : 1 .. (end); will stop at (end)

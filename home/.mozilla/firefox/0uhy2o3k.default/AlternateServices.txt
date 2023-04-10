@@ -1,0 +1,3 @@
+https:push.services.mozilla.com:443:.::3	0	19455	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1683545965:h3:y:1680951803:n::|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19455	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1683545964:h3:y:1680951070:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:versioncheck-bg.addons.mozilla.org:443:.::3	0	19455	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1683543700:h3:y:1680951070:n::|n:y:

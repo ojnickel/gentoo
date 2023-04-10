@@ -39,3 +39,4 @@ end
 starship init fish | source
 
 
+source ~/.config/fish/abbreviations.fish

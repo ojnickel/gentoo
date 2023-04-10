@@ -1,0 +1,12 @@
+[967038.089] _XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+[967038.090] _XSERVTransMakeAllCOTSServerListeners: server already running
+[967038.090] (EE) 
+Fatal server error:
+[967038.090] (EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) 
+[967038.090] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[967038.090] (EE) Please also check the log file at "/home/ossi/.local/share/xorg/Xorg.0.log" for additional information.
+[967038.090] (EE) 
+[967038.090] (EE) Server terminated with error (1). Closing log file.
