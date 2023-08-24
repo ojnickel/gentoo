@@ -41,23 +41,26 @@ Plug 'frazrepo/vim-rainbow'
 Plug 'scrooloose/syntastic'
 Plug 'tpope/vim-surround'
 Plug 'yggdroot/indentline'
+"clipboard
+Plug 'christoomey/vim-system-copy' 
 Plug 'ryanoasis/vim-devicons'
+Plug 'preservim/nerdcommenter'
 " -- Web Development
 "Plug 'valloric/youcompleteme'
-" Use release branch (recommend)
-
-Plug 'neoclide/coc.nvim', {'do': { -> coc#util#install()}}
-Plug 'neoclide/coc-snippets', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-tsserver', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-prettier', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-eslint', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-tslint', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-css', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-yaml', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-json', {'do': 'yarn install --frozen-lockfile'}
-Plug 'neoclide/coc-lists', {'do': 'yarn install --frozen-lockfile'} " mru and stuff
-Plug 'neoclide/coc-highlight', {'do': 'yarn install --frozen-lockfile'} " color highlighting
-Plug 'josa42/coc-sh'
+" Use release branch (recommended)
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+"Plug 'neoclide/coc.nvim', {'do': { -> coc#util#install()}}
+"Plug 'neoclide/coc-snippets', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-tsserver', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-prettier', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-eslint', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-tslint', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-css', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-yaml', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-json', {'do': 'yarn install --frozen-lockfile'}
+"Plug 'neoclide/coc-lists', {'do': 'yarn install --frozen-lockfile'} " mru and stuff
+"Plug 'neoclide/coc-highlight', {'do': 'yarn install --frozen-lockfile'} " color highlighting
+"Plug 'josa42/coc-sh'
 
 
 Plug 'ekalinin/Dockerfile.vim'
@@ -116,7 +119,9 @@ set softtabstop=4   " in insert mode, tabs are 4 spaces
 
 " windows like clipboard
 " yank to and paste from the clipboard without prepending "* to commands
-let &clipboard = has('unnamedplus') ? 'unnamedplus' : 'unnamed'
+"let &clipboard = has('unnamedplus') ? 'unnamedplus' : 'unnamed'
+set clipboard=unnamedplus
+set clipboard+=unnamed
 " map c-x and c-v to work as they do in windows, only in insert mode
 vm <c-x> "+x
 vm <c-c> "+y
@@ -191,6 +196,7 @@ let g:user_emmet_settings = {
 
 " coc.nvim setup ============================================================{{{
 
+let g:coc_global_extensions = ['coc-snippets', 'coc-tsserver', 'coc-json', 'coc-sh', 'coc-css', 'coc-html', 'coc-git', 'coc-phpls', 'coc-highlight', 'coc-fish', 'coc-pyright'] 
 " color for cursor holding highlight
 hi default CocHighlightText guibg=#8a8a8a guifg=#211F1C
 hi default CocHighlightText ctermbg=#8a8a8a ctermfg=#211F1C
