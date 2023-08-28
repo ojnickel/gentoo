@@ -1,8 +1,3 @@
-"set mouse with Nerdtree
-set mouse=a
-let g:NERDTreeMouseMode=3
-set pastetoggle=<F3>
-
 set noshowmode
 set ts=4
 set cursorline
@@ -18,8 +13,8 @@ set smartindent     " smarter indent for C-like languages
 set shiftwidth=4    " when reading, tabs are 4 spaces
 set softtabstop=4   " in insert mode, tabs are 4 spaces
 
-set nocompatible
-filetype off
+set nocompatible              " be iMproved, required
+filetype off                  " required
 
 " Install vim-plug if not found
 if empty(glob('~/.vim/autoload/plug.vim'))
@@ -31,66 +26,58 @@ endif
 autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
   \| PlugInstall --sync | source $MYVIMRC
 \| endif
-
+" Plugs will be downloaded under the specified directory.
+" call plug#begin('~/.vim/plugged')
 call plug#begin()
+
+Plug 'preservim/nerdcommenter'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'rafi/awesome-vim-colorschemes'
 Plug 'tpope/vim-fugitive'
-Plug 'frazrepo/vim-rainbow'
 Plug 'scrooloose/syntastic'
 Plug 'tpope/vim-surround'
 Plug 'yggdroot/indentline'
-"clipboard
-Plug 'christoomey/vim-system-copy' 
 Plug 'ryanoasis/vim-devicons'
 Plug 'preservim/nerdcommenter'
+"clipboard
+Plug 'christoomey/vim-system-copy' 
 " -- Web Development
-"Plug 'valloric/youcompleteme'
-" Use release branch (recommended)
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-"Plug 'neoclide/coc.nvim', {'do': { -> coc#util#install()}}
-"Plug 'neoclide/coc-snippets', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-tsserver', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-prettier', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-eslint', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-tslint', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-css', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-yaml', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-json', {'do': 'yarn install --frozen-lockfile'}
-"Plug 'neoclide/coc-lists', {'do': 'yarn install --frozen-lockfile'} " mru and stuff
-"Plug 'neoclide/coc-highlight', {'do': 'yarn install --frozen-lockfile'} " color highlighting
-"Plug 'josa42/coc-sh'
-
-
-Plug 'ekalinin/Dockerfile.vim'
+" Plug 'valloric/youcompleteme'
 Plug 'Shutnik/jshint2.vim'
 Plug 'mattn/emmet-vim'
 Plug 'kchmck/vim-coffee-script'
 Plug 'groenewege/vim-less'
-Plug 'ap/vim-css-color'
-Plug 'hail2u/vim-css3-syntax'
 Plug 'digitaltoad/vim-jade'
-Plug 'tpope/vim-haml'
-Plug 'cakebaker/scss-syntax.vim'
-Plug 'jiangmiao/auto-pairs'
-Plug 'prettier/vim-prettier', {
-  \ 'do': 'npm install',
-  \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue', 'php', 'html'] }
-Plug 'scrooloose/nerdtree'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+
+" We could also add repositories with a ".git" extension
+Plug 'scrooloose/nerdtree.git'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 
+" To get plugins from Vim Scripts, you can reference the plugin
+" by name as it appears on the site
+"Plug 'Buffergator'
 
+" List ends here. Plugs become visible to Vim after this call.
 call plug#end()
+filetype plugin indent on    " required
+"
+" Brief help
+" :PlugList       - lists configured plugins
+" :PlugInstall    - installs plugins; append `!` to update or just :PlugUpdate
+" :PlugSearch foo - searches for foo; append `!` to refresh local cache
+" :PlugClean      - confirms removal of unused plugins; append `!` to auto-approve removal
+"
 " Now we can turn our filetype functionality back on
 filetype plugin indent on
 
+set termguicolors
 " colors and theme
 syntax enable
-"colorscheme molokai
-"colorscheme afterglow
-set background=dark    " Setting dark mode
-colorscheme gruvbox
+" colorscheme molokai
+colorscheme onedark 
 
 " Give a shortcut key to NERD Tree
 map <F2> :NERDTreeToggle<CR>
@@ -119,9 +106,7 @@ set softtabstop=4   " in insert mode, tabs are 4 spaces
 
 " windows like clipboard
 " yank to and paste from the clipboard without prepending "* to commands
-"let &clipboard = has('unnamedplus') ? 'unnamedplus' : 'unnamed'
-set clipboard=unnamedplus
-set clipboard+=unnamed
+let &clipboard = has('unnamedplus') ? 'unnamedplus' : 'unnamed'
 " map c-x and c-v to work as they do in windows, only in insert mode
 vm <c-x> "+x
 vm <c-c> "+y
@@ -195,26 +180,8 @@ let g:user_emmet_settings = {
   \}
 
 " coc.nvim setup ============================================================{{{
-
 let g:coc_global_extensions = ['coc-snippets', 'coc-tsserver', 'coc-json', 'coc-sh', 'coc-css', 'coc-html', 'coc-git', 'coc-phpls', 'coc-highlight', 'coc-fish', 'coc-pyright'] 
 " color for cursor holding highlight
 hi default CocHighlightText guibg=#8a8a8a guifg=#211F1C
 hi default CocHighlightText ctermbg=#8a8a8a ctermfg=#211F1C
 
-" fugitive git bindings
-nnoremap <leader>ga :Git add %:p<CR><CR>
-nnoremap <leader>gs :Gstatus<CR>
-nnoremap <leader>gc :Git commit -v -q<CR>
-nnoremap <leader>gt :Gcommit -v -q %:p<CR>
-nnoremap <leader>gd :Gdiff<CR>
-nnoremap <leader>ge :Gedit<CR>
-nnoremap <leader>gr :Gread<CR>
-nnoremap <leader>gw :Gwrite<CR><CR>
-nnoremap <leader>gl :silent! Glog<CR>:bot copen<CR>
-nnoremap <leader>gpr :Ggrep<Space>
-nnoremap <leader>gm :Gmove<Space>
-nnoremap <leader>gb :Git branch<Space>
-nnoremap <leader>go :Git checkout<Space>
-nnoremap <leader>gps :Dispatch! git push<CR>
-nnoremap <leader>gpl :Dispatch! git pull<CR>
-nnoremap <leader>gp :Git push<CR>

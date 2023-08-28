@@ -39,3 +39,36 @@ end
 starship init fish | source
 
 
+source ~/.config/fish/abbreviations.fish
+
+function xrar -d "extract all rar and set today date"
+    mkdir rar
+    for r in *.rar
+        if string match "*.part*" $r
+            #echo "skipping $r"
+            sleep 1
+        else 
+            echo "+-------------------------+"
+            echo "| $r |"
+            echo "+-------------------------+"
+            #mkcd "r$r"
+            cd rar 
+            mv ../$r . -v  
+            unrar e $r
+            find  . -type f \( -iname \*.mp4 -o -iname "*.avi" \) -exec touch -m {} \; -exec mv {} .. \;
+            #for f in *.mp4 
+                ##if string match '*.mp4'
+                    ##touch -m $f 
+                #mv $f .. -v 
+                ##else if string match '*.avi'
+                    ##touch -m $f 
+                    ###mv $f ..
+                ###else
+                    ###rm -vf $f 
+                ##end
+            #end
+            cd -
+            #rm -r rar
+        end
+    end
+end
