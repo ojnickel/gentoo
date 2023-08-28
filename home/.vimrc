@@ -41,12 +41,13 @@ Plug 'frazrepo/vim-rainbow'
 Plug 'scrooloose/syntastic'
 Plug 'tpope/vim-surround'
 Plug 'yggdroot/indentline'
-"clipboard
-Plug 'christoomey/vim-system-copy' 
+Plug 'christoomey/vim-system-copy' "clipboard
+Plug 'bogado/file-line' "go to line 
+Plug 'severin-lemaignan/vim-minimap'   "overview of the file <leader>mm, mc -> on,off 
+
 Plug 'ryanoasis/vim-devicons'
 Plug 'preservim/nerdcommenter'
 " -- Web Development
-"Plug 'valloric/youcompleteme'
 " Use release branch (recommended)
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "Plug 'neoclide/coc.nvim', {'do': { -> coc#util#install()}}
