@@ -38,6 +38,12 @@ function arbeit
             sshpass -p1(16a9!77fM9t3F)h5Ya $argv[2] u63691236-pfennigp@home370711702.1and1-data.host
         case teea
             $argv[2]  teealternative.de@ssh.strato.de
+        case 'hidrive'
+            if test $argv[2] = "sshfs"
+                $argv[2] backuptank-3465@sftp.hidrive.ionos.com:/ /mnt/hidrive
+            else 
+                $argv[2] backuptank-3465@sftp.hidrive.ionos.com
+            end
         case -s
             echo "1u1"
             echo "bbsb | he"

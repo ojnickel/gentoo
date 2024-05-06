@@ -231,7 +231,7 @@ bindsym $mod+Shift+x exec i3lock
 #wallpaper
 #exec_always feh --bg-scale /home/oswaldo/.i3/wallpapers/above-adventure-aerial-air.jpg
 #exec_always feh --bg-scale /home/ossi/git/wallpapers/0010.jpg
-exec_always feh --bg-scale /home/ossi/git/wallpapers/0010.jpg
+exec_always feh --bg-scale /home/ossi/git/wallpapers/0060.jpg
 # transparencpy
 exec_always compton -f
 
@@ -268,7 +268,7 @@ bindsym $mod+plus scratchpad show
 
 #i3-gaps
 for_window [class="^.*"] border pixel 1
-gaps inner 5
+gaps inner 10
 gaps outer 0
 
 # Only enable gaps on a workspace when there is at least one container
