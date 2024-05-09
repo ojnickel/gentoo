@@ -21,21 +21,27 @@ function arbeit
         case 1u1
             $argv[2]  p7822590@home29658965.1and1-data.host 
         case bbsb
-            sshpass -punPH_he!2007 $argv[2] wp1065095@wp1065095.server-he.de
+            $argv[2] wp1065095@wp1065095.server-he.de
         case netcup
             $argv[2] hosting132593@hosting132593.a2e2b.netcup.net
         case bup
-            sshpass -pNFKBHOcw $argv[2] wa6181@ok16.serverdomain.org
+            echo "pw?"
+            read p
+            sshpass -p$p $argv[2] wa6181@ok16.serverdomain.org
         case nwf
             $argv[2] u84885618@home623938150.1and1-data.host
         case pp
-            sshpass -p7fwg78wC $argv[2] ww4281@pfennigparade.de
+            echo "pw?"
+            read p
+            sshpass -p$p $argv[2] ww4281@pfennigparade.de
         case pgw
             $argv[2] u89936386@home690690802.1and1-data.host 
         case rsk
             $argv[2] p96285@home13369541.1and1-data.host
         case fhhh 
-            sshpass -p1(16a9!77fM9t3F)h5Ya $argv[2] u63691236-pfennigp@home370711702.1and1-data.host
+            echo "pw?"
+            read p
+            sshpass -p$p $argv[2] u63691236-pfennigp@home370711702.1and1-data.host
         case teea
             $argv[2]  teealternative.de@ssh.strato.de
         case -s
