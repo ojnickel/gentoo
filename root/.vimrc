@@ -23,9 +23,9 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 endif
 
 " Run PlugInstall if there are missing plugins
-autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
-  \| PlugInstall --sync | source $MYVIMRC
-\| endif
+"autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
+  "\| PlugInstall --sync | source $MYVIMRC
+"\| endif
 " Plugs will be downloaded under the specified directory.
 " call plug#begin('~/.vim/plugged')
 call plug#begin()
@@ -40,6 +40,7 @@ Plug 'tpope/vim-surround'
 Plug 'yggdroot/indentline'
 Plug 'ryanoasis/vim-devicons'
 Plug 'preservim/nerdcommenter'
+Plug 'jiangmiao/auto-pairs'
 "clipboard
 Plug 'christoomey/vim-system-copy' 
 " -- Web Development
@@ -52,8 +53,7 @@ Plug 'digitaltoad/vim-jade'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 
-" We could also add repositories with a ".git" extension
-Plug 'scrooloose/nerdtree.git'
+Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 
 " To get plugins from Vim Scripts, you can reference the plugin
@@ -184,4 +184,23 @@ let g:coc_global_extensions = ['coc-snippets', 'coc-tsserver', 'coc-json', 'coc-
 " color for cursor holding highlight
 hi default CocHighlightText guibg=#8a8a8a guifg=#211F1C
 hi default CocHighlightText ctermbg=#8a8a8a ctermfg=#211F1C
+inoremap <silent><expr> <CR> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
+
+" fugitive git bindings
+nnoremap <leader>ga :Git add %:p<CR><CR>
+nnoremap <leader>gs :Gstatus<CR>
+nnoremap <leader>gc :Git commit -v -q<CR>
+nnoremap <leader>gt :Gcommit -v -q %:p<CR>
+nnoremap <leader>gd :Gdiff<CR>
+nnoremap <leader>ge :Gedit<CR>
+nnoremap <leader>gr :Gread<CR>
+nnoremap <leader>gw :Gwrite<CR><CR>
+nnoremap <leader>gl :silent! Glog<CR>:bot copen<CR>
+nnoremap <leader>gpr :Ggrep<Space>
+nnoremap <leader>gm :Gmove<Space>
+nnoremap <leader>gb :Git branch<Space>
+nnoremap <leader>go :Git checkout<Space>
+nnoremap <leader>gps :Dispatch! git push<CR>
+nnoremap <leader>gpl :Dispatch! git pull<CR>
+nnoremap <leader>gp :Git push<CR>
 
