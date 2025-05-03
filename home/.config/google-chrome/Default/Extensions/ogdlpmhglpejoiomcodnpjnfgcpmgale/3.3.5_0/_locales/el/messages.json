@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Προσαρμοσμένος δρομέας για το Chrome ™. Χρησιμοποιήστε μια μεγάλη συλλογή από ελεύθερους δρομείς ή μεταφορτώστε τη δική σας."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Μετατροπέας δρομέα"
+   },
+   "close": {
+      "message": "close"
+   },
+   "cursor_size_extra_large": {
+      "message": "Πολύ μεγάλο"
+   },
+   "cursor_size_extra_small": {
+      "message": "Πολύ μικρό"
+   },
+   "cursor_size_large": {
+      "message": "Μεγάλο"
+   },
+   "cursor_size_medium": {
+      "message": "Μεσαίο"
+   },
+   "cursor_size_small": {
+      "message": "Μικρό"
+   },
+   "delete": {
+      "message": "Διαγράφω"
+   },
+   "delete_all": {
+      "message": "delete all"
+   },
+   "enter_your_search_text": {
+      "message": "Enter your search text"
+   },
+   "favorite_by_time": {
+      "message": "με το καιρο"
+   },
+   "favorite_by_visited_pages": {
+      "message": "από Σελίδες"
+   },
+   "favorite_manage_button": {
+      "message": "Διαχείριση Αγαπημένων"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Περιστροφή αγαπημένων"
+   },
+   "favorite_sec_page": {
+      "message": "sec/σελίδα"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Διαχείριση Αγαπημένων"
+   },
+   "hint_defaultTo": {
+      "message": "hint_defaultTo"
+   },
+   "hint_remove_cursor": {
+      "message": "Click to remove pointer"
+   },
+   "hint_remove_pointer": {
+      "message": "Click to remove pointer"
+   },
+   "hint_settings": {
+      "message": "hint_settings"
+   },
+   "hint_size": {
+      "message": "hint_size"
+   },
+   "hint_upload_cursor": {
+      "message": "Click to upload cursor"
+   },
+   "hint_upload_pointer": {
+      "message": "Click to upload pointer"
+   },
+   "item_cursor": {
+      "message": "δρομέας"
+   },
+   "item_pointer": {
+      "message": "δείκτης"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Ρυθμίσεις μεγέθους δρομέα"
+   },
+   "manage_manage_collection": {
+      "message": "Διαχείριση συλλογής"
+   },
+   "nav_how_to_use": {
+      "message": "Πώς να χρησιμοποιήσετε"
+   },
+   "nav_manage": {
+      "message": "Διαχειρίζονται"
+   },
+   "nav_more_cursors": {
+      "message": "Περισσότεροι δρομείς"
+   },
+   "nav_upload_cursor": {
+      "message": "Μεταφορά δρομέα"
+   },
+   "options_add_new": {
+      "message": "Προσθεσε νεο"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Συστάσεις:\u003C/h2>\u003Cul>\u003Cli>Μην χρησιμοποιείτε εικόνες πάνω από 128x128 pixels,\u003C/li>\u003Cli>Χρήση εικόνων με διαφανές υπόβαθρο, όπως .png,\u003C/li>\u003Cli>Χαμόγελο πιο συχνά ;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Μεταφορτώστε τους δικούς σας δρομείς"
+   },
+   "popup_default_cursor": {
+      "message": "Προεπιλεγμένος δρομέας"
+   },
+   "popup_manage": {
+      "message": "Διαχειρίζονται"
+   },
+   "popup_more_cursor": {
+      "message": "Περισσότεροι δρομείς"
+   },
+   "popup_upload_cursor": {
+      "message": "Μεταφορά δρομέα"
+   },
+   "rate_us_5_stars": {
+      "message": "Βαθμολογήστε μας 5 αστέρια, παρακαλώ"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

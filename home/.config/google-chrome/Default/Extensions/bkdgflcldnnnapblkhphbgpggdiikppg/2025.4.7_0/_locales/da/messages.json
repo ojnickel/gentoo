@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Den korte beskrivelse af udvidelsen, som den vises i webbutikken",
+      "message": "Beskytter aktivt dine data i din nuværende browser."
+   },
+   "appName": {
+      "description": "Titlen på udvidelsen, som den vises i webbutikken",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

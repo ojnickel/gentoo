@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Webcam ou câmera"
+   },
+   "Cancel": {
+      "message": "Cancelar"
+   },
+   "Countdown": {
+      "message": "Contagem regressiva antes de gravar"
+   },
+   "GrantPerm": {
+      "message": "Conceder permissão"
+   },
+   "Pause": {
+      "message": "Pausa"
+   },
+   "PermCamDenied": {
+      "message": "Permissão para câmera negada."
+   },
+   "PermMicDenied": {
+      "message": "Permissão para microfone negada."
+   },
+   "RateUs": {
+      "message": "Por favor, classifique-nos"
+   },
+   "RecordAnother": {
+      "message": "Faça outra gravação"
+   },
+   "RecordCamera": {
+      "message": "Grave sua câmera"
+   },
+   "RecordDrive": {
+      "message": "Grave no seu Google Drive™️"
+   },
+   "RecordQuality": {
+      "message": "Qualidade de gravação"
+   },
+   "RecordScreen": {
+      "message": "Grave sua tela"
+   },
+   "RecordSys": {
+      "message": "Gravar áudio do sistema"
+   },
+   "RecordSysExpl": {
+      "message": "Grave áudio de seus alto-falantes. Marque a opção Áudio na próxima caixa de diálogo se desejar ativar a gravação de som."
+   },
+   "RecordVoice": {
+      "message": "Gravar voz"
+   },
+   "RecordVoiceExpl": {
+      "message": "Grave sua voz usando seu microfone"
+   },
+   "Resume": {
+      "message": "Currículo"
+   },
+   "SaveRecording": {
+      "message": "Salvar gravação"
+   },
+   "ScreenSrcs": {
+      "message": "Tela, janela ou guia"
+   },
+   "Share": {
+      "message": "Compartilhe nosso aplicativo"
+   },
+   "StopRecording": {
+      "message": "Pare de gravar"
+   },
+   "Tutorial": {
+      "message": "Mostrar tutorial - como usar o aplicativo"
+   }
+}

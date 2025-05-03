@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Anpassade markörer för Chrome ™. Använd en stor samling gratis pekare eller ladda upp din egen."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Anpassad markör"
+   },
+   "close": {
+      "message": "stänga"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra stor"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra liten"
+   },
+   "cursor_size_large": {
+      "message": "Stor"
+   },
+   "cursor_size_medium": {
+      "message": "Medelmåttig"
+   },
+   "cursor_size_small": {
+      "message": "Liten"
+   },
+   "delete": {
+      "message": "Radera"
+   },
+   "delete_all": {
+      "message": "radera allt"
+   },
+   "enter_your_search_text": {
+      "message": "Ange din söktekst"
+   },
+   "favorite_by_time": {
+      "message": "av tiden"
+   },
+   "favorite_by_visited_pages": {
+      "message": "av besökta sidor"
+   },
+   "favorite_manage_button": {
+      "message": "Hantera favoriter"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Rotera favoriter"
+   },
+   "favorite_sec_page": {
+      "message": "sek/sida"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Hantera favoriter"
+   },
+   "hint_defaultTo": {
+      "message": "Standardmarkör"
+   },
+   "hint_remove_cursor": {
+      "message": "Klicka för att ta bort markören"
+   },
+   "hint_remove_pointer": {
+      "message": "Klicka för att ta bort pekaren"
+   },
+   "hint_settings": {
+      "message": "inställningar"
+   },
+   "hint_size": {
+      "message": "Markörstorlek"
+   },
+   "hint_upload_cursor": {
+      "message": "Klicka för att ladda upp markören"
+   },
+   "hint_upload_pointer": {
+      "message": "Klicka för att ladda upp pekaren"
+   },
+   "item_cursor": {
+      "message": "Markören"
+   },
+   "item_pointer": {
+      "message": "Pekare"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Markörstorlek Inställningar"
+   },
+   "manage_manage_collection": {
+      "message": "Hantera samling"
+   },
+   "nav_how_to_use": {
+      "message": "Hur man använder"
+   },
+   "nav_manage": {
+      "message": "Hantera"
+   },
+   "nav_more_cursors": {
+      "message": "Fler markörer"
+   },
+   "nav_upload_cursor": {
+      "message": "Ladda upp markören"
+   },
+   "options_add_new": {
+      "message": "Lägg till ny"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Rekommendationer:\u003C/h2>\u003Cul>\u003Cli>Använd inte bilder mer än 128x128 pixlar;\u003C/li>\u003Cli>Använd bilder med transparent bakgrund, till exempel .png;\u003C/li>\u003Cli>Smil oftere;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Ladda upp dina egna markörer"
+   },
+   "popup_default_cursor": {
+      "message": "Standardmarkör"
+   },
+   "popup_manage": {
+      "message": "Hantera"
+   },
+   "popup_more_cursor": {
+      "message": "Fler markörer"
+   },
+   "popup_upload_cursor": {
+      "message": "Ladda upp markören"
+   },
+   "rate_us_5_stars": {
+      "message": "Betygsätt oss 5 stjärnor, tack"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

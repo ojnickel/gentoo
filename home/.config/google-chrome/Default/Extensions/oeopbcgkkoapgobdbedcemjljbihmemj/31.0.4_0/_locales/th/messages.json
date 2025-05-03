@@ -1,0 +1,1544 @@
+{
+   "24hourMode": {
+      "message": "แสดงเวลาแบบ 24 ชั่วโมง"
+   },
+   "24hourModeTitle": {
+      "message": "แสดงเวลาแบบ 24 ชั่วโมง เช่น 18:00"
+   },
+   "DND": {
+      "message": "ห้ามรบกวน"
+   },
+   "DNDisEnabled": {
+      "message": "เปิดใช้งานโหมดห้ามรบกวน"
+   },
+   "EOM": {
+      "message": "EOM"
+   },
+   "EOMToolTip": {
+      "message": "จุดสิ้นสุดของข้อความ"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "ห้ามลบ"
+   },
+   "NAME_says": {
+      "message": "$1 กล่าว"
+   },
+   "XNewEmails": {
+      "message": "$1 อีเมลใหม่"
+   },
+   "XSnoozedEmails": {
+      "message": "$1 อีเมลที่ถูกเลื่อนออกไป"
+   },
+   "Xattachments": {
+      "message": "$1 ไฟล์แนบ"
+   },
+   "Xday": {
+      "message": "วัน"
+   },
+   "Xdays": {
+      "message": "$1 วัน"
+   },
+   "Xhour": {
+      "message": "$1 ชั่วโมง"
+   },
+   "Xhours": {
+      "message": "$1 ชั่วโมง"
+   },
+   "Xminute": {
+      "message": "$1 นาที"
+   },
+   "Xminutes": {
+      "message": "$1 นาที"
+   },
+   "Xseconds": {
+      "message": "$1 วินาที"
+   },
+   "Xuser": {
+      "message": "$1 ผู้ใช้"
+   },
+   "Xusers": {
+      "message": "$1 ผู้ใช้"
+   },
+   "aboutMe": {
+      "message": "เกี่ยวกับฉัน"
+   },
+   "accessDetails": {
+      "message": "รายละเอียดการเข้าถึง"
+   },
+   "account": {
+      "message": "บัญชี"
+   },
+   "accounts": {
+      "message": "บัญชี"
+   },
+   "accountsAndLabels": {
+      "message": "บัญชี / ป้ายกำกับ"
+   },
+   "addAccount": {
+      "message": "เพิ่มบัญชี"
+   },
+   "addAccountsStaySignedIn": {
+      "message": "เพิ่มบัญชีและอยู่ในสถานะลงชื่อเข้าใช้"
+   },
+   "addEmailAlias": {
+      "message": "เพิ่มนามแฝงให้กับที่อยู่อีเมลของคุณ"
+   },
+   "addSkinsOrThemes": {
+      "message": "สกินและธีม"
+   },
+   "addSpeechEngines": {
+      "message": "เพิ่มเครื่องมือเสียง"
+   },
+   "addToGoogleCalendar": {
+      "message": "เพิ่มไปยังปฏิทินของ Google"
+   },
+   "added": {
+      "message": "เพิ่มแล้ว"
+   },
+   "admin": {
+      "message": "ผู้ดูแลระบบ"
+   },
+   "alias": {
+      "message": "นามแฝง"
+   },
+   "all": {
+      "message": "ทั้งหมด"
+   },
+   "allMail": {
+      "message": "อีเมลทั้งหมด"
+   },
+   "alreadyDonated": {
+      "message": "สนับสนุนแล้ว"
+   },
+   "alsoTryMy": {
+      "message": "ลองดูของฉัน"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "แสดงภาพภายนอกเสมอ"
+   },
+   "alwaysSpeak": {
+      "message": "พูดเสมอ"
+   },
+   "amount": {
+      "message": "จำนวน"
+   },
+   "anyAmount": {
+      "message": "จำนวนใดก็ได้"
+   },
+   "archive": {
+      "message": "เก็บถาวร"
+   },
+   "archiveAll": {
+      "message": "เก็บถาวรทั้งหมด"
+   },
+   "archiveAllWarning": {
+      "message": "สิ่งนี้จะเก็บถาวรอีเมลทั้งหมดในป๊อปอัปนี้สำหรับบัญชีนี้"
+   },
+   "archive_read": {
+      "message": "การเก็บถาวรทำให้อีเมลถูกทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "archive_readToolTip": {
+      "message": "ทำเครื่องหมายอีเมลว่าอ่านแล้วเมื่อคุณทำการเก็บถาวร"
+   },
+   "attachments": {
+      "message": "ไฟล์แนบ"
+   },
+   "autoAdvanceTo": {
+      "message": "เลื่อนไปยัง"
+   },
+   "autoCollapseConversations": {
+      "message": "ยุบรวมการสนทนาอัตโนมัติ"
+   },
+   "autoDetectAccounts": {
+      "message": "พยายามตรวจจับบัญชีที่คุณเข้าสู่ระบบอัตโนมัติ"
+   },
+   "autoDetectAccountsStaySignedIn": {
+      "message": "ตรวจจับบัญชีที่ลงชื่อเข้าใช้อัตโนมัติ"
+   },
+   "available": {
+      "message": "พร้อมใช้งาน"
+   },
+   "back": {
+      "message": "ย้อนกลับ"
+   },
+   "backToInbox": {
+      "message": "กลับไปที่กล่องจดหมาย"
+   },
+   "backgroundColor": {
+      "message": "สีพื้นหลัง"
+   },
+   "bitcoin": {
+      "message": "บิตคอยน์"
+   },
+   "blue": {
+      "message": "น้ำเงิน"
+   },
+   "bubbly": {
+      "message": "ฟองฟุ้งฟิ้ง"
+   },
+   "button": {
+      "message": "ปุ่ม"
+   },
+   "buttonClickAction": {
+      "message": "การคลิกปุ่ม"
+   },
+   "buttonIcon": {
+      "message": "ไอคอนปุ่ม"
+   },
+   "buttonIconColor": {
+      "message": "สีไอคอนปุ่ม"
+   },
+   "by": {
+      "message": "โดย"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "card": {
+      "message": "บัตร"
+   },
+   "categories": {
+      "message": "หมวดหมู่"
+   },
+   "changeLabels": {
+      "message": "เปลี่ยนป้ายกำกับ"
+   },
+   "changeThisDomain": {
+      "message": "เพื่อเปลี่ยนโดเมนอีเมลนี้ตอนนี้ $1"
+   },
+   "changeThisDomain2": {
+      "message": "ออกจากระบบและลงชื่อเข้าใช้เป็นผู้ใช้คนอื่น"
+   },
+   "changelog": {
+      "message": "บันทึกการเปลี่ยนแปลง"
+   },
+   "checkPrimaryOrMore": {
+      "message": "เลือกป้ายกำกับหลักหรืออื่น ๆ"
+   },
+   "chime": {
+      "message": "เสียงกริ่ง"
+   },
+   "chooseNoUnreadEmail": {
+      "message": "เลือกไอคอนอีเมลที่ไม่มีอีเมลที่ยังไม่ได้อ่าน"
+   },
+   "chooseSignedOutIcon": {
+      "message": "เลือกไอคอนเมื่อไม่ได้ลงชื่อเข้าใช้"
+   },
+   "chooseUnreadEmail": {
+      "message": "เลือกไอคอนอีเมลที่ยังไม่ได้อ่าน"
+   },
+   "clickToPreviewEmail": {
+      "message": "คลิกเพื่อดูตัวอย่างอีเมล"
+   },
+   "clickToolbarIconToContinue": {
+      "message": "คลิกที่ไอคอนแถบเครื่องมือเพื่อดำเนินการต่อ"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "คลิกที่ใดก็ได้บนการแจ้งเตือน"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "คลิกที่โลโก้ Checker Plus for Gmail"
+   },
+   "close": {
+      "message": "ปิด"
+   },
+   "closeAfterX": {
+      "message": "ปิดหลังจาก"
+   },
+   "closeAfterX_andThen": {
+      "message": "แล้วจากนั้น"
+   },
+   "closesPopupWindow": {
+      "message": "ปิดหน้าต่างป๊อปอัพ"
+   },
+   "colors": {
+      "message": "สี"
+   },
+   "comfortable": {
+      "message": "สบายตา"
+   },
+   "compact": {
+      "message": "กะทัดรัด"
+   },
+   "compose": {
+      "message": "เขียน"
+   },
+   "composeLinkTitle": {
+      "message": "เขียนอีเมลใหม่"
+   },
+   "contacts": {
+      "message": "ผู้ติดต่อ"
+   },
+   "contactsHome": {
+      "message": "บ้าน"
+   },
+   "contactsLoaded": {
+      "message": "โหลดรายชื่อผู้ติดต่อแล้ว!"
+   },
+   "contactsMobile": {
+      "message": "มือถือ"
+   },
+   "contactsOther": {
+      "message": "อื่นๆ"
+   },
+   "contactsWork": {
+      "message": "ที่ทำงาน"
+   },
+   "continue": {
+      "message": "ต่อไป"
+   },
+   "contribute": {
+      "message": "สนับสนุน"
+   },
+   "conversationList": {
+      "message": "รายการข้อความ"
+   },
+   "conversationView": {
+      "message": "มุมมองการสนทนา"
+   },
+   "conversationViewToolTip": {
+      "message": "ตั้งค่าว่าอีเมลของหัวข้อเดียวกันจะถูกจัดกลุ่มไว้ด้วยกันหรือไม่ (ค่าเริ่มต้นแนะนำคือ เปิด)"
+   },
+   "copyEmailAddress": {
+      "message": "คัดลอกที่อยู่อีเมล"
+   },
+   "cozy": {
+      "message": "เหมาะสม"
+   },
+   "currencyCode": {
+      "message": "USD"
+   },
+   "custom": {
+      "message": "กำหนดเอง"
+   },
+   "customToThisExtension": {
+      "message": "กำหนดเองสำหรับส่วนขยายนี้"
+   },
+   "customizeNotifications": {
+      "message": "ปรับแต่งการแจ้งเตือน"
+   },
+   "dark": {
+      "message": "มืด"
+   },
+   "default": {
+      "message": "ค่าเริ่มต้น"
+   },
+   "delete": {
+      "message": "ลบ"
+   },
+   "deleteCustomSounds": {
+      "message": "ลบเสียงที่กำหนดเอง"
+   },
+   "deleteLink": {
+      "message": "ลบ"
+   },
+   "deleteLinkTitle": {
+      "message": "ลบอีเมล"
+   },
+   "deletingMarksAsRead": {
+      "message": "การลบทำให้อีเมลถูกทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "deletingMarksAsReadToolTip": {
+      "message": "ทำเครื่องหมายอีเมลว่าอ่านแล้วเมื่อคุณทำการลบ"
+   },
+   "detachedPopupWindow": {
+      "message": "หน้าต่างป๊อปอัปแยกต่างหาก"
+   },
+   "developingMore": {
+      "message": "และฉันกำลังทุ่มเทพัฒนาตามข้อเสนอแนะของคุณอย่างหนัก..."
+   },
+   "developingMoreSuggestions": {
+      "message": "และฉันกำลังพัฒนาเพิ่มเติมจาก $1 ของคุณ"
+   },
+   "developingMoreSuggestions_suggestions": {
+      "message": "ข้อเสนอแนะ"
+   },
+   "differentSounds": {
+      "message": "เสียงสำหรับบัญชี, ป้ายกำกับ หรือคนที่แตกต่างกัน"
+   },
+   "ding": {
+      "message": "เสียงดิง"
+   },
+   "disableAll": {
+      "message": "ปิดการใช้งานทั้งหมด"
+   },
+   "disableTransitions": {
+      "message": "ปิดใช้งานการเปลี่ยนแปลง"
+   },
+   "disabled": {
+      "message": "ปิดการใช้งาน"
+   },
+   "disabledSkinsUseEnable": {
+      "message": "คุณได้ปิดใช้งานสกิน, ใช้ปุ่มเปิดใช้งาน"
+   },
+   "discoverMyApps": {
+      "message": "ค้นพบแอปของฉัน"
+   },
+   "dismiss": {
+      "message": "ปิด"
+   },
+   "display": {
+      "message": "แสดง"
+   },
+   "displayAccountReceivingEmail": {
+      "message": "แสดงบัญชีที่ได้รับอีเมล"
+   },
+   "displayDensity": {
+      "message": "ความหนาแน่นของการแสดงผล"
+   },
+   "displayImagesBelow": {
+      "message": "แสดงภาพด้านล่าง"
+   },
+   "displaySenders_1": {
+      "message": "แสดงผู้ส่ง"
+   },
+   "dndDuringCalendarEvent": {
+      "message": "ไม่รบกวนในช่วงเวลาที่มีกิจกรรมในปฏิทิน"
+   },
+   "dndInFullscreenMode": {
+      "message": "ไม่รบกวนในโหมดเต็มหน้าจอ"
+   },
+   "doNotDisturb": {
+      "message": "ห้ามรบกวน"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "อย่าแจ้งเตือนฉันเกี่ยวกับการอัพเดต"
+   },
+   "doNotShowNotificationIfGmailTabOpen": {
+      "message": "ไม่ต้องแสดงการแจ้งเตือนหากมีแท็บ Gmail เปิดอยู่"
+   },
+   "donate": {
+      "message": "บริจาค"
+   },
+   "donationRequired": {
+      "message": "ต้องการการบริจาคสนับสนุน"
+   },
+   "done": {
+      "message": "เสร็จแล้ว"
+   },
+   "download": {
+      "message": "ดาวน์โหลด"
+   },
+   "dragToChangeOrder": {
+      "message": "ลากเพื่อเปลี่ยนลำดับ"
+   },
+   "duplicateLabelWarning": {
+      "message": "เลือกเพียงหนึ่งในป้ายกำกับหลักเท่านั้น (กล่องขาเข้า, หลัก, สำคัญ, อีเมลทั้งหมด) มิฉะนั้นคุณจะได้รับข้อมูลซ้ำ!"
+   },
+   "duplicateWarning": {
+      "message": "คำเตือนเมื่อซ้ำ"
+   },
+   "email": {
+      "message": "อีเมล"
+   },
+   "emailAccounts": {
+      "message": "บัญชีอีเมล"
+   },
+   "emailFrom_NAME": {
+      "message": "อีเมลจาก $1"
+   },
+   "emailPreview": {
+      "message": "ตัวอย่างอีเมล"
+   },
+   "emailPreviewToolTip": {
+      "message": "การปิดใช้งานนี้จะเปิดอีเมลโดยตรงในเว็บไซต์ Gmail เมื่อคลิกที่สรุปอีเมล"
+   },
+   "email_from": {
+      "message": "ผู้ส่ง"
+   },
+   "email_message": {
+      "message": "ข้อความ"
+   },
+   "email_subject": {
+      "message": "หัวเรื่อง"
+   },
+   "enable": {
+      "message": "เปิดใช้งาน"
+   },
+   "enableSwiping": {
+      "message": "เปิดใช้งานการเลื่อน"
+   },
+   "enableVoiceInputToolTip": {
+      "message": "เพิ่มไมโครโฟนที่ด้านล่างของกล่องข้อความใหม่หรือกล่องตอบกลับในหน้าเว็บ Gmail ของคุณ"
+   },
+   "enabled": {
+      "message": "เปิดการใช้งาน"
+   },
+   "enter": {
+      "message": "Enter"
+   },
+   "enterAnAmount": {
+      "message": "โปรดระบุจํานวนเงิน!"
+   },
+   "esc": {
+      "message": "Esc"
+   },
+   "example": {
+      "message": "ตัวอย่าง"
+   },
+   "exceptionsToChooseFrom": {
+      "message": "ข้อยกเว้นที่เลือกได้"
+   },
+   "expandAll": {
+      "message": "ขยายทั้งหมด"
+   },
+   "extensionUpdated": {
+      "message": "อัพเดตส่วนขยายแล้ว!"
+   },
+   "extensionUpdates": {
+      "message": "อัพเดตส่วนขยาย"
+   },
+   "extraFeatures": {
+      "message": "คุณสมบัติพิเศษ"
+   },
+   "extraFeaturesMonthlyBlurb": {
+      "message": "คุณสามารถใช้งานคุณลักษณะเพิ่มเติมนี้ได้โดยการสนับสนุนเงินรายเดือน จำนวนเงินเท่าไหร่ก็ได้เพื่อสนับสนุนงานของฉัน"
+   },
+   "extraFeaturesPopup1": {
+      "message": "ตัวเลือกที่มืดลงเหล่านี้เป็นคุณสมบัติพิเศษที่ฉันใช้เวลานานในการพัฒนา"
+   },
+   "extraFeaturesPopup2": {
+      "message": "เพื่อปลดล็อกคุณลักษณะเหล่านี้ สนับสนุนงานของฉันด้วยจำนวนเงินเท่าไหร่ก็ได้"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "ยกเลิกหรือมีปัญหากับธุรกรรม! ลองใช้ $1 แทนได้ไหม?"
+   },
+   "feedback": {
+      "message": "คำติชม"
+   },
+   "finance": {
+      "message": "การเงิน"
+   },
+   "firstAndLastName": {
+      "message": "ชื่อและนามสกุล"
+   },
+   "firstNameOnly": {
+      "message": "ชื่อเท่านั้น"
+   },
+   "followMe": {
+      "message": "ติดตามฉัน"
+   },
+   "forever": {
+      "message": "ตลอดไป"
+   },
+   "forums": {
+      "message": "ฟอรัม"
+   },
+   "forward": {
+      "message": "ส่งต่อ"
+   },
+   "from": {
+      "message": "จาก"
+   },
+   "general": {
+      "message": "ทั่วไป"
+   },
+   "googleAccountsSignIn": {
+      "message": "ลงชื่อเข้าใช้ด้วย Google"
+   },
+   "grantAccess": {
+      "message": "ให้สิทธิ์การเข้าถึง"
+   },
+   "grantedTo": {
+      "message": "ได้รับอนุญาตให้"
+   },
+   "gray": {
+      "message": "สีเทา"
+   },
+   "green": {
+      "message": "เขียว"
+   },
+   "guideForPrimaryCategory": {
+      "message": "คู่มือสำหรับหมวดหมู่หลัก"
+   },
+   "guideForPrimaryCategoryToolTip": {
+      "message": "ติดตามป้ายกำกับที่เฉพาะเจาะจง: หลัก, สังคม, อัปเดต, กล่องจดหมายเข้า ฯลฯ"
+   },
+   "guideForTooManyUnreadEmails": {
+      "message": "มีอีเมลที่ยังไม่ได้อ่านมากเกินไปหรือเปล่า?"
+   },
+   "hearEmail": {
+      "message": "ฟังอีเมล"
+   },
+   "hearEmailMessage": {
+      "message": "ฟังข้อความอีเมล"
+   },
+   "hearEmailSubject": {
+      "message": "ฟังหัวเรื่องอีเมล"
+   },
+   "hearEmailToolTip": {
+      "message": "เลือกส่วนที่คุณต้องการฟังของอีเมล... ผู้ส่ง, หัวเรื่อง หรือข้อความ (เนื้อหา) ของอีเมล"
+   },
+   "height": {
+      "message": "ความสูง"
+   },
+   "help": {
+      "message": "ช่วยเหลือ"
+   },
+   "hiddenGmailTabsNote": {
+      "message": "คุณได้ซ่อนแท็บ Gmail เช่น อัปเดตหรือฟอรัม ซึ่งส่งผลต่อจำนวนอีเมล"
+   },
+   "hideButton": {
+      "message": "ซ่อนปุ่ม"
+   },
+   "hideReadEmails": {
+      "message": "ซ่อนอีเมลที่อ่านแล้ว"
+   },
+   "hideSentFrom": {
+      "message": "ซ่อนลายเซ็นอีเมลจากสรุป เช่น 'ส่งจาก ...'"
+   },
+   "hideSentFromToolTip": {
+      "message": "เลือกตัวเลือกนี้เพื่อซ่อนลายเซ็นอีเมลที่ส่งมาจากอุปกรณ์ เช่น 'ส่งจาก iPhone หรือ Blackberry' เป็นต้น"
+   },
+   "hideUnreadCount": {
+      "message": "ซ่อนจำนวนอีเมลที่ยังไม่ได้อ่าน"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "ซ่อนตัวเลขจำนวนอีเมลที่ยังไม่ได้อ่านจากไอคอนของเบราว์เซอร์"
+   },
+   "hours": {
+      "message": "ชั่วโมง"
+   },
+   "icon": {
+      "message": "ไอคอน"
+   },
+   "ifNoUnreadMail": {
+      "message": "หากไม่มีอีเมลที่ยังไม่ได้อ่าน"
+   },
+   "ignoreThisAccount": {
+      "message": "ละเว้นบัญชีนี้"
+   },
+   "ignored": {
+      "message": "ถูกละเว้น"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "ไม่แสดงภาพ"
+   },
+   "important": {
+      "message": "สำคัญ"
+   },
+   "importantMail": {
+      "message": "อีเมลที่สำคัญ"
+   },
+   "in": {
+      "message": "ใน"
+   },
+   "inbox": {
+      "message": "กล่องจดหมายเข้า"
+   },
+   "inboxFor": {
+      "message": "กล่องจดหมายสำหรับ $1"
+   },
+   "includesExtraFeaturesForX": {
+      "message": "รวมคุณลักษณะพิเศษสำหรับ $1"
+   },
+   "indefinitely": {
+      "message": "ไม่มีกำหนด"
+   },
+   "keyboardShortcuts": {
+      "message": "แป้นพิมพ์ลัด"
+   },
+   "keys": {
+      "message": "คีย์"
+   },
+   "label": {
+      "message": "ป้ายกำกับ"
+   },
+   "labelAdded": {
+      "message": "เพิ่มป้ายกำกับแล้ว"
+   },
+   "labelRemoved": {
+      "message": "ลบป้ายกำกับแล้ว"
+   },
+   "labels": {
+      "message": "ป้ายกำกับ"
+   },
+   "language": {
+      "message": "ภาษา"
+   },
+   "licenseOnlyValidFor": {
+      "message": "ใบอนุญาตนี้จะใช้ได้เฉพาะกับผู้ใช้ที่ลงชื่อเข้าใช้บัญชี Google ด้วย"
+   },
+   "listenToYourEmail": {
+      "message": "ฟังอีเมลของคุณ"
+   },
+   "loadOptions": {
+      "message": "โหลดตัวเลือก"
+   },
+   "loading": {
+      "message": "กำลังโหลด..."
+   },
+   "loadingSettings": {
+      "message": "กำลังโหลดการตั้งค่า"
+   },
+   "mailtoLinks": {
+      "message": "เปิดลิงก์ mailto ด้วย Gmail"
+   },
+   "makeButtonOpenGmail": {
+      "message": "ทำให้ปุ่มเปิด Gmail"
+   },
+   "makeButtonOpenGmailGuideToolTip": {
+      "message": "ไม่แนะนำเพราะจะแทนที่หน้าต่างป๊อปอัพ"
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "สนับสนุนรายเดือน"
+   },
+   "makeThisAMonthlyContributionTooltip": {
+      "message": "ช่วยสนับสนุนการพัฒนาและการดูแลรักษาซอฟต์แวร์ของฉัน"
+   },
+   "man": {
+      "message": "ผู้ชาย"
+   },
+   "markAllAsDone": {
+      "message": "ทำเครื่องหมายว่าทั้งหมดเสร็จแล้ว"
+   },
+   "markAllAsDoneWarning": {
+      "message": "สิ่งนี้จะทำเครื่องหมายว่าทั้งหมดอีเมลเป็นเสร็จสมบูรณ์ในป๊อปอัปนี้สำหรับบัญชีนี้"
+   },
+   "markAllAsRead": {
+      "message": "ทำเครื่องหมายว่าอ่านแล้วทั้งหมด"
+   },
+   "markAllAsReadTitle": {
+      "message": "ทำเครื่องหมายว่าอ่านแล้วทั้งหมด"
+   },
+   "markAllAsReadWarning": {
+      "message": "สิ่งนี้จะทำเครื่องหมายอีเมลทั้งหมดว่าอ่านแล้วในป๊อปอัปนี้สำหรับบัญชีนี้ คุณสามารถซ่อนปุ่มนี้ในตัวเลือก > ปุ่ม หากคุณต้องการเปิดบัญชีนี้เพียงคลิกที่ชื่อบัญชีทางด้านซ้าย"
+   },
+   "markAllAsSpam": {
+      "message": "ทำเครื่องหมายว่าสแปมทั้งหมด"
+   },
+   "markAllAsSpamWarning": {
+      "message": "สิ่งนี้จะรายงานอีเมลทั้งหมดเป็นสแปมในป๊อปอัปนี้สำหรับบัญชีนี้"
+   },
+   "markAsReadInNotificationWindow": {
+      "message": "ทำเครื่องหมายอีเมลว่าอ่านแล้วในหน้าต่างแจ้งเตือน"
+   },
+   "markDone": {
+      "message": "ทำเสร็จแล้ว"
+   },
+   "markedAsDone": {
+      "message": "ทำเสร็จแล้ว"
+   },
+   "markedAsRead": {
+      "message": "ทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "maxEmailsToShowPerAccount": {
+      "message": "จำนวนอีเมลสูงสุดที่จะแสดงต่อบัญชี"
+   },
+   "me": {
+      "message": "ฉัน"
+   },
+   "message": {
+      "message": "ข้อความ"
+   },
+   "mini": {
+      "message": "ขนาดเล็ก"
+   },
+   "minimumAmount": {
+      "message": "คุณต้องสนับสนุนอย่างน้อย $1"
+   },
+   "monitor": {
+      "message": "ตรวจสอบ"
+   },
+   "month": {
+      "message": "เดือน"
+   },
+   "monthly": {
+      "message": "รายเดือน"
+   },
+   "monthlyContribution": {
+      "message": "สนับสนุนรายเดือน"
+   },
+   "monthlyPaymentBonus": {
+      "message": "โบนัสการชำระเงินรายเดือน"
+   },
+   "monthlySubtitle": {
+      "message": "ข้อเสนอที่ดีที่สุด! ยกเลิกได้ตลอดเวลา"
+   },
+   "more": {
+      "message": "เพิ่มเติม"
+   },
+   "moreInfo": {
+      "message": "ข้อมูลเพิ่มเติม"
+   },
+   "morning": {
+      "message": "เช้า"
+   },
+   "moveIntoActionCenter": {
+      "message": "ย้ายเข้าไปยังศูนย์การดำเนินการ"
+   },
+   "moveLabel": {
+      "message": "ย้ายไปยัง"
+   },
+   "movedToTrash": {
+      "message": "ย้ายไปที่ถังขยะ"
+   },
+   "movingMarksAsRead": {
+      "message": "การย้ายทำให้อีเมลถูกทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "multipleUserLicense": {
+      "message": "สิทธิ์การใช้งานของผู้ใช้หลายราย"
+   },
+   "multipleUserLicenseFor": {
+      "message": "สิทธิ์การใช้งานของผู้ใช้หลายรายสําหรับ $1"
+   },
+   "mustSignInToPay": {
+      "message": "คุณต้องลงชื่อเข้าใช้ Gmail ของคุณและรอให้ส่วนขยายนี้โหลดเสร็จ!"
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "ตารางเวลาห้ามรบกวน"
+   },
+   "native": {
+      "message": "ธรรมชาติ"
+   },
+   "networkProblem": {
+      "message": "ปัญหาเครือข่าย"
+   },
+   "never": {
+      "message": "ไม่เลย"
+   },
+   "newEmail": {
+      "message": "อีเมลใหม่"
+   },
+   "newer": {
+      "message": "ใหม่กว่า"
+   },
+   "next": {
+      "message": "ถัดไป"
+   },
+   "nickname": {
+      "message": "ชื่อเล่น"
+   },
+   "night": {
+      "message": "กลางคืน"
+   },
+   "no": {
+      "message": "ไม่"
+   },
+   "noSubject": {
+      "message": "ไม่มีหัวเรื่อง"
+   },
+   "noUnreadText": {
+      "message": "ไม่มีอีเมลที่ยังไม่ได้อ่าน"
+   },
+   "noUpdateNotifications": {
+      "message": "ไม่มีการแจ้งเตือนการอัพเดต"
+   },
+   "noUpdates": {
+      "message": "ไม่มีการอัปเดต"
+   },
+   "none": {
+      "message": "ไม่มี"
+   },
+   "notSignedIn": {
+      "message": "ยังไม่ได้เข้าสู่ระบบ"
+   },
+   "notSpam": {
+      "message": "ไม่ใช่สแปม"
+   },
+   "notWorking": {
+      "message": "ไม่ทำงาน?"
+   },
+   "notification": {
+      "message": "การแจ้งเตือน"
+   },
+   "notificationButton1": {
+      "message": "ปุ่มการแจ้งเตือน #1"
+   },
+   "notificationButton2": {
+      "message": "ปุ่มการแจ้งเตือน #2"
+   },
+   "notificationSound": {
+      "message": "การแจ้งเตือนด้วยเสียง"
+   },
+   "notificationTextToSpeech": {
+      "message": "การแจ้งเตือนด้วยเสียงพูด"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "ทำเครื่องหมายอย่างน้อยหนึ่งอีเมลของคุณว่ายังไม่ได้อ่านแล้วจากนั้นคลิกที่นี่และรอดูหน้าต่างแจ้งเตือน!"
+   },
+   "notificationWakesUpScreenTemporarily": {
+      "message": "การแจ้งเตือนจะปลุกหน้าจอชั่วคราว"
+   },
+   "notifications": {
+      "message": "การแจ้งเตือน"
+   },
+   "notificationsGuideToolTip": {
+      "message": "เสียง, เสียงพูด, การแจ้งเตือนบนเดสก์ท็อป"
+   },
+   "of": {
+      "message": "ของ"
+   },
+   "off": {
+      "message": "ปิด"
+   },
+   "ok": {
+      "message": "ตกลง"
+   },
+   "older": {
+      "message": "เก่ากว่า"
+   },
+   "onDATE_NAMEwrote": {
+      "message": "เมื่อวันที่ $1, $2 เขียน:"
+   },
+   "onetime": {
+      "message": "ครั้งเดียว"
+   },
+   "onlyMuteSounds": {
+      "message": "ปิดเสียงเท่านั้น"
+   },
+   "open": {
+      "message": "เปิด"
+   },
+   "openCheckerPlusDetached": {
+      "message": "เปิด Checker Plus แยกต่างหาก"
+   },
+   "openComposeInTab": {
+      "message": "เปิดหน้าต่างเขียนอีเมลใหม่ในแท็บ"
+   },
+   "openComposeInTabToolTip": {
+      "message": "เปิดหน้าต่างเขียนอีเมลใหม่ในแท็บแทนหน้าต่างป๊อปอัปขนาดเล็ก (ยังใช้กับลิงก์ mailto)"
+   },
+   "openComposeReplyAction": {
+      "message": "ปุ่มเขียนและตอบกลับ"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "เปิดในหน้าต่างป๊อปอัพภายนอก"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "เปิดในแท็บ"
+   },
+   "openEmailDisplayedInNotificationWindow": {
+      "message": "เปิดอีเมลที่แสดงในหน้าต่างแจ้งเตือน"
+   },
+   "openGmailInNewTab": {
+      "message": "เปิด Gmail ในแท็บใหม่"
+   },
+   "openGmailPopupWindow": {
+      "message": "เปิด Gmail สำหรับมือถือ"
+   },
+   "openGmailPopupWindowToolTip": {
+      "message": "Gmail แบบครบครันในหน้าต่างป๊อปอัป ดูป้ายกำกับใดก็ได้ ไม่สามารถปรับแต่งได้ ไม่แนะนำสำหรับหลายบัญชี"
+   },
+   "openGmailTab": {
+      "message": "เปิด Gmail"
+   },
+   "openGmailTabToolTip": {
+      "message": "ปิดหน้าต่างป๊อปอัป (ไม่แนะนำ) และเปิดแท็บ Gmail"
+   },
+   "openHelp": {
+      "message": "เปิดความช่วยเหลือ"
+   },
+   "openInNewTab": {
+      "message": "เปิดในแท็บใหม่"
+   },
+   "openInPopup": {
+      "message": "เปิดในหน้าต่างป๊อปอัพ"
+   },
+   "openLabel": {
+      "message": "เปิดป้ายกำกับ"
+   },
+   "openLabelTooltip": {
+      "message": "ป้ายกำกับเริ่มต้นที่จะเปิดในแท็บ Gmail"
+   },
+   "openPopout": {
+      "message": "เปิดหน้าต่างป๊อปอัพ"
+   },
+   "openPopupPreview": {
+      "message": "เปิด Checker Plus"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "ดูอีเมลที่ยังไม่ได้อ่านได้อย่างรวดเร็วและดำเนินการได้จากป้ายกำกับใดก็ได้ที่คุณติดตาม ปรับแต่งได้อย่างมาก เหมาะสำหรับหลายบัญชี"
+   },
+   "openReply": {
+      "message": "เปิด (ตอบกลับ)"
+   },
+   "openThisLabel": {
+      "message": "เปิดป้ายกำกับนี้"
+   },
+   "openThisLabelToolTip": {
+      "message": "กำหนดว่าผู้ใช้จะถูกนำไปที่ไหนเมื่อคลิกที่ไอคอนบัญชีอีเมลหรือส่วนขยาย"
+   },
+   "option": {
+      "message": "ตัวเลือก"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "or": {
+      "message": "หรือ"
+   },
+   "original": {
+      "message": "ต้นฉบับ"
+   },
+   "otherAmount": {
+      "message": "จำนวนเงินอื่น ๆ"
+   },
+   "otherPlans": {
+      "message": "แผนอื่น ๆ"
+   },
+   "otherPlansDescription": {
+      "message": "ราคาสำหรับนักเรียนนักศึกษา, รายปี ..."
+   },
+   "paragraph": {
+      "message": "ย่อหน้า"
+   },
+   "pitch": {
+      "message": "เสียงสูงต่ำ"
+   },
+   "playVideosInsideGmail": {
+      "message": "เล่นวิดีโอภายใน Gmail"
+   },
+   "pollingAccounts": {
+      "message": "กำลังตรวจสอบบัญชี"
+   },
+   "pollingInterval": {
+      "message": "ช่วงเวลาการตรวจสอบ"
+   },
+   "popout": {
+      "message": "ป๊อปอัพ"
+   },
+   "positionFromLeft": {
+      "message": "ตำแหน่งจากด้านซ้าย"
+   },
+   "positionFromTop": {
+      "message": "ตำแหน่งจากด้านบน"
+   },
+   "pressCtrlToOpenInBackground": {
+      "message": "กด $1 และคลิกลิงก์เพื่อเปิดในแท็บใหม่ในพื้นหลัง"
+   },
+   "preview": {
+      "message": "ตัวอย่าง"
+   },
+   "previewingMarksAsRead": {
+      "message": "การดูตัวอย่างทำให้อีเมลถูกทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "ทำเครื่องหมายอีเมลว่าอ่านแล้วเมื่อดูตัวอย่างในหน้าต่างป๊อปอัป"
+   },
+   "previous": {
+      "message": "ก่อนหน้า"
+   },
+   "primary": {
+      "message": "หลัก"
+   },
+   "priorityInbox": {
+      "message": "กล่องขาเข้าที่สำคัญ"
+   },
+   "profileLoaded": {
+      "message": "โปรไฟล์โหลดแล้ว!"
+   },
+   "progressivelyLoadEmails": {
+      "message": "โหลดอีเมลเป็นลำดับ"
+   },
+   "promotions": {
+      "message": "โปรโมชั่น"
+   },
+   "purchases": {
+      "message": "การซื้อขาย"
+   },
+   "quickComposeEmail": {
+      "message": "ติดต่อด่วน"
+   },
+   "rate": {
+      "message": "อัตรา"
+   },
+   "read": {
+      "message": "อ่าน"
+   },
+   "readLink": {
+      "message": "ทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "readLinkTitle": {
+      "message": "ทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "realtime": {
+      "message": "เรียลไทม์"
+   },
+   "recommended": {
+      "message": "แนะนำ"
+   },
+   "recordSound": {
+      "message": "บันทึกเสียง"
+   },
+   "recycleNotification": {
+      "message": "รีไซเคิลการแจ้งเตือน"
+   },
+   "reducedDonationAd_notification": {
+      "message": "ข่าวดีสำหรับผู้ใช้งานเก่า [คลิกเพื่อปิด]"
+   },
+   "reducedDonationAd_popup": {
+      "message": "ข่าวดีสำหรับผู้ใช้งานเก่า! รับ $1 เพียง $2"
+   },
+   "refresh": {
+      "message": "รีเฟรช"
+   },
+   "refreshLinkTitle": {
+      "message": "รีเฟรชกล่องจดหมายทั้งหมด"
+   },
+   "removeAccount": {
+      "message": "ลบบัญชี"
+   },
+   "removeAccountIcon": {
+      "message": "ลบไอคอนบัญชี"
+   },
+   "removeShareLinks": {
+      "message": "ซ่อนลิงก์แชร์"
+   },
+   "removeShareLinksTooltip": {
+      "message": "ลบลิงก์ Facebook, Twitter ฯลฯ"
+   },
+   "repeatNotification": {
+      "message": "ทำซ้ำการแจ้งเตือน"
+   },
+   "reply": {
+      "message": "ตอบกลับ"
+   },
+   "replyInGmail": {
+      "message": "ตอบกลับใน Gmail"
+   },
+   "replyInPopup": {
+      "message": "ตอบกลับในหน้าต่างป๊อปอัพ"
+   },
+   "replyLinkTitle": {
+      "message": "ตอบกลับอีเมล"
+   },
+   "replyOnlyToSender": {
+      "message": "ตอบกลับเฉพาะผู้ส่ง"
+   },
+   "replyToAll": {
+      "message": "ตอบกลับทั้งหมด"
+   },
+   "replyingMarksAsRead": {
+      "message": "การตอบกลับจะถูกทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "reportSpam": {
+      "message": "รายงานสแปม"
+   },
+   "reset": {
+      "message": "รีเซ็ต"
+   },
+   "resetEmailUnreadIconWhenButtonClicked": {
+      "message": "รีเซ็ตไอคอนอีเมลที่ยังไม่ได้อ่านเมื่อคลิกปุ่ม"
+   },
+   "revertAutoSizing": {
+      "message": "ย้อนกลับไปที่ขนาดอัตโนมัติ"
+   },
+   "revokeAccess": {
+      "message": "ยกเลิกสิทธิ์การเข้าถึง"
+   },
+   "richNotification": {
+      "message": "การแจ้งเตือนแบบเต็มรูปแบบ"
+   },
+   "richNotificationToolTip": {
+      "message": "การแจ้งเตือนพร้อมปุ่ม"
+   },
+   "runInBackground": {
+      "message": "ทำงานในพื้นหลังเมื่อ Google Chrome ปิด"
+   },
+   "runInBackgroundToolTip": {
+      "message": "ยังคงรับการแจ้งเตือนอีเมลใหม่แม้ในขณะที่เบราว์เซอร์ของคุณปิดอยู่! ฉันแนะนำสำหรับผู้ใช้ขั้นสูงเท่านั้น"
+   },
+   "runInBackgroundWarning1": {
+      "message": "โปรดอ่านอย่างละเอียดเกี่ยวกับ $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "แอปพลิเคชั่นพื้นหลัง"
+   },
+   "runInBackgroundWarning2": {
+      "message": "หากคุณปิดการใช้งานแอปพลิเคชั่นพื้นหลังใน Chrome คุณสามารถเปิดใช้งานอีกครั้งได้โดยอ่าน $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "ส่วนสุดท้ายที่คลิกได้"
+   },
+   "runInBackgroundWarning3": {
+      "message": "คุณอาจต้องใช้ $1 จากหน้าเข้าสู่ระบบ Gmail"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "คงสถานะลงชื่อเข้าใช้"
+   },
+   "save": {
+      "message": "บันทึก"
+   },
+   "saveOptions": {
+      "message": "บันทึกตัวเลือก"
+   },
+   "schedule": {
+      "message": "กำหนดเวลา"
+   },
+   "search": {
+      "message": "ค้นหา"
+   },
+   "seeUpdates": {
+      "message": "ดูการอัพเดต"
+   },
+   "selectEmailAccount": {
+      "message": "เลือกบัญชีอีเมล"
+   },
+   "selectQuickActionButtons": {
+      "message": "แสดงหรือซ่อนปุ่มการดำเนินการ"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "หมายเหตุ: การตั้งค่านี้จะไม่ซ่อนปุ่มในมุมมองอีเมลเต็มรูปแบบ!"
+   },
+   "send": {
+      "message": "ส่ง"
+   },
+   "sendPageLinkTitle": {
+      "message": "ส่งลิงก์หน้าเว็บ"
+   },
+   "sendVoiceOrVideoEmails": {
+      "message": "ส่งอีเมลเสียงหรือวิดีโอ"
+   },
+   "sending": {
+      "message": "กำลังส่ง"
+   },
+   "sent": {
+      "message": "ส่งแล้ว"
+   },
+   "setAccountIcon": {
+      "message": "ตั้งค่าไอคอนบัญชี"
+   },
+   "setPositionAndSize": {
+      "message": "ตั้งค่าตำแหน่งและขนาดของหน้าต่างป๊อปอัพภายนอก"
+   },
+   "share": {
+      "message": "แชร์"
+   },
+   "shareIntro": {
+      "message": "ลองใช้ส่วนขยาย Chrome ที่น่าสนใจนี้"
+   },
+   "shortcutKeysHeader": {
+      "message": "คีย์เหล่านี้ใช้ได้เฉพาะกับหน้าต่างป๊อปอัปที่เปิดโดยปุ่ม"
+   },
+   "showAllEmails": {
+      "message": "แสดงอีเมลทั้งหมด"
+   },
+   "showButtonTooltip": {
+      "message": "แสดงคำแนะนำเมื่อเอาเมาส์ไปชี้ไอคอนปุ่ม"
+   },
+   "showConsoleMessages": {
+      "message": "บันทึกข้อความใน JavaScript Console"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "เหมาะสำหรับการแก้ปัญหาเท่านั้นและอาจทำให้การใช้งานช้าลงบ้าง!"
+   },
+   "showContactPhoto": {
+      "message": "แสดงรูปภาพผู้ติดต่อและรายละเอียดภายในป๊อปอัพ"
+   },
+   "showContactPhotos": {
+      "message": "แสดงรูปภาพผู้ติดต่อ"
+   },
+   "showContextMenuItem": {
+      "message": "แสดงรายการเมนูบริบทเมื่อคลิกขวา"
+   },
+   "showDesktopNotifications": {
+      "message": "การแจ้งเตือนบนเดสก์ท็อป"
+   },
+   "showDetails": {
+      "message": "แสดงรายละเอียด"
+   },
+   "showEOM": {
+      "message": "เพิ่มเครื่องหมายเพื่อบ่งบอกจุดสิ้นสุดของสรุปอีเมล [EOM]"
+   },
+   "showEOMToolTip": {
+      "message": "EOM - End Of Message (จุดสิ้นสุดของข้อความ) มีประโยชน์เมื่อได้รับอีเมลขนาดเล็กหลายฉบับเพื่อหลีกเลี่ยงการต้องคลิกที่สรุปเพื่อดูว่ามีข้อความเพิ่มเติมในตัวอย่างหรือไม่"
+   },
+   "showGrayIconInDND": {
+      "message": "แสดงไอคอนสีเทาเสมอ"
+   },
+   "showHideEmailPreview": {
+      "message": "แสดงตัวอย่างอีเมล"
+   },
+   "showIconAnimation": {
+      "message": "แสดงการเคลื่อนไหวของไอคอน"
+   },
+   "showIconAnimationToolTip": {
+      "message": "ทำให้ไอคอนเคลื่อนไหวเมื่อมีอีเมลใหม่"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "แสดงภาพตัวอย่างของภาพแรกภายในอีเมล"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "แสดงการแจ้งเตือนสำหรับอีเมลที่มีวันที่เก่ากว่า (มีประโยชน์สำหรับบัญชี POP3 เท่านั้น)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "หากไม่เลือก, การแจ้งเตือนป๊อปอัปจะเกิดขึ้นเฉพาะกับอีเมลใหม่ของคุณเท่านั้น (แนะนำสำหรับส่วนใหญ่), แต่บางครั้งอีเมลที่ดึงมาโดยใช้ POP3 อาจมาถึงในกล่องขาเข้าของคุณหลังจากอีเมลใหม่ของคุณและจัดเรียงอยู่ตรงกลางกล่องขาเข้าเนื่องจากวันที่เก่ากว่า หากคุณเลือกตัวเลือกนี้อีเมลเหล่านั้นจะปรากฏในการแจ้งเตือนป๊อปอัปของคุณด้วย แต่สูงสุดเพียง 20 อีเมลที่ยังไม่ได้อ่านในกล่องขาเข้าของคุณ หมายเหตุ: หากคุณทำเครื่องหมายอีเมลเป็นยังไม่ได้อ่านพวกมันจะปรากฏในการแจ้งเตือนป๊อปอัปอีกครั้ง!"
+   },
+   "showNotificationsMissedWhileIdling": {
+      "message": "แสดงการแจ้งเตือนล่าสุดขณะที่คุณไม่ได้ใช้คอมพิวเตอร์"
+   },
+   "showNotificationsOnStartup": {
+      "message": "แสดงการแจ้งเตือนเมื่อเริ่มต้น"
+   },
+   "showOnlyRecentUnreadEmails": {
+      "message": "แสดงเฉพาะอีเมลที่ยังไม่ได้อ่านล่าสุด"
+   },
+   "showSendAndArchiveButton": {
+      "message": "แสดงปุ่ม \"ส่งและเก็บ\""
+   },
+   "showSendAndDeleteButton": {
+      "message": "แสดงปุ่ม \"ส่งและลบ\""
+   },
+   "showSnoozedNotifications": {
+      "message": "แสดงการแจ้งเตือนที่ถูกเลื่อนออกไป"
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "แสดงการแจ้งเตือนสำหรับการอัพเดตและการแก้ไขข้อบกพร่องทั้งหมด"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "แสดงการแจ้งเตือนสำหรับการอัพเดตที่น่าสนใจเท่านั้น"
+   },
+   "signIn": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "signInAsUserOfOrg": {
+      "message": "คุณต้อง $1 และลงชื่อเข้าใช้ Gmail ด้วยอีเมลขององค์กรของคุณ"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "ออกจากระบบ"
+   },
+   "signOutAndIn": {
+      "message": "ออกจากระบบ / เข้าสู่ระบบ"
+   },
+   "signature": {
+      "message": "ลายเซ็นต์"
+   },
+   "skin": {
+      "message": "สกิน"
+   },
+   "skins": {
+      "message": "สกิน"
+   },
+   "snoozed": {
+      "message": "เลื่อนออกไป"
+   },
+   "social": {
+      "message": "โซเชียล"
+   },
+   "sound": {
+      "message": "เสียง"
+   },
+   "spam": {
+      "message": "สแปม"
+   },
+   "spokenWordsLimit": {
+      "message": "จำกัดจำนวนคำที่พูดได้"
+   },
+   "standard": {
+      "message": "มาตรฐาน"
+   },
+   "starAndArchive": {
+      "message": "ใส่ดาวอีเมล & เก็บถาวร"
+   },
+   "starLinkTitle": {
+      "message": "ใส่ดาวอีเมล"
+   },
+   "starringAppliesInboxLabel": {
+      "message": "การใส่ดาวให้กับอีเมลจะใส่ป้ายกำกับกล่องจดหมายเข้า"
+   },
+   "starringMarksAsRead": {
+      "message": "การใส่ดาวทำให้อีเมลถูกทำเครื่องหมายว่าอ่านแล้ว"
+   },
+   "subject": {
+      "message": "หัวเรื่อง"
+   },
+   "summary": {
+      "message": "สรุป"
+   },
+   "support": {
+      "message": "สนับสนุน"
+   },
+   "switchToAddAccounts": {
+      "message": "คุณต้องเปลี่ยนไปใช้วิธีการเพิ่มบัญชีเพื่อใช้คุณลักษณะนี้"
+   },
+   "switchToCheckerPlus": {
+      "message": "เปลี่ยนไปที่ Checker Plus"
+   },
+   "switchToInbox": {
+      "message": "เปลี่ยนไปที่กล่องจดหมาย"
+   },
+   "syncContacts": {
+      "message": "ซิงค์รายชื่อผู้ติดต่อ"
+   },
+   "syncDND": {
+      "message": "ซิงค์การตั้งค่า DND ไปยังส่วนขยาย Checker Plus ทั้งหมด"
+   },
+   "syncSignInOrder": {
+      "message": "ซิงค์ลำดับการเข้าสู่ระบบ"
+   },
+   "syncSignInOrderTooltip": {
+      "message": "ซิงค์บัญชีใหม่: ลำดับการลงชื่อเข้าใช้ของบัญชี 'เว็บเพจ' Gmail ของคุณอาจแตกต่างจากบัญชีที่แสดงที่นี่ และบางครั้งการเปิดลิงก์ในส่วนขยายของฉันอาจเปิดในกล่องขาเข้าที่ผิด"
+   },
+   "systemLabels": {
+      "message": "ป้ายกำกับระบบ"
+   },
+   "tab": {
+      "message": "แท็บ"
+   },
+   "tabToolTip": {
+      "message": "เพิ่มแท็บในหน้าต่างป๊อปอัพ Gmail สำหรับมือถือ"
+   },
+   "testIt": {
+      "message": "ทดสอบดู!"
+   },
+   "textNotification": {
+      "message": "การแจ้งเตือนข้อความ"
+   },
+   "textNotificationToolTip": {
+      "message": "การแจ้งเตือนแบบง่าย"
+   },
+   "thankYouForYourContribution": {
+      "message": "คุณสมบัติถูกปลดล็อคแล้ว ขอบคุณสำหรับการสนับสนุนของคุณ!"
+   },
+   "theme": {
+      "message": "ธีม"
+   },
+   "theresAProblem": {
+      "message": "มีปัญหา"
+   },
+   "tip": {
+      "message": "เคล็ดลับ"
+   },
+   "to": {
+      "message": "ถึง"
+   },
+   "today": {
+      "message": "วันนี้"
+   },
+   "tooManyUnread": {
+      "message": "จะดำเนินการกับอีเมลได้เพียง $1 ฉบับในแต่ละครั้งเพื่อป้องกันการหมดเวลา มีอีเมลมากเกินไปหรือ? ลองตั้งค่าการตรวจสอบป้ายกำกับหลักหรือป้ายกำกับอื่นๆ ในตัวเลือก > บัญชี / ป้ายกำกับ"
+   },
+   "translateMessage": {
+      "message": "แปลข้อความ"
+   },
+   "transparent": {
+      "message": "โปร่งแสง"
+   },
+   "tryAgain": {
+      "message": "กรุณาลองอีกครั้ง"
+   },
+   "tryAgainLater": {
+      "message": "กรุณาลองอีกครั้งในภายหลัง"
+   },
+   "tryCheckerPlusWindowFirst": {
+      "message": "ใช้หน้าต่างป๊อปอัพของ Checker Plus ก่อนสักสองสามวัน มันมีประโยชน์นะ"
+   },
+   "turnOff": {
+      "message": "ปิด"
+   },
+   "uncheckInboxLabel": {
+      "message": "ยกเลิกการเลือกป้ายกำกับกล่องจดหมายเข้า"
+   },
+   "undo": {
+      "message": "ยกเลิก"
+   },
+   "unknownSender": {
+      "message": "ผู้ส่งที่ไม่รู้จัก"
+   },
+   "unlimited": {
+      "message": "ไม่จำกัด"
+   },
+   "unlockOtherExtensions": {
+      "message": "ปลดล็อกส่วนขยายอื่นๆ โดยการเปิดหน้าสนับสนุนของส่วนขยายนั้นๆ และใช้ลิงก์ ฉันได้สนับสนุนแล้ว ด้านบน"
+   },
+   "unread": {
+      "message": "ยังไม่ได้อ่าน"
+   },
+   "unreadLink": {
+      "message": "ยังไม่ได้อ่าน"
+   },
+   "unreadLinkTitle": {
+      "message": "ทำเครื่องหมายว่ายังไม่ได้อ่าน"
+   },
+   "unreadLinkTitleShort": {
+      "message": "ยังไม่ได้อ่าน"
+   },
+   "unreadMail": {
+      "message": "อีเมลที่ยังไม่ได้อ่าน"
+   },
+   "unreadMailCountColor": {
+      "message": "สีจำนวนอีเมลที่ยังไม่ได้อ่าน"
+   },
+   "update": {
+      "message": "อัพเดท"
+   },
+   "updates": {
+      "message": "อัปเดต"
+   },
+   "uploadSound": {
+      "message": "อัปโหลดเสียง"
+   },
+   "useBasicHTMLView": {
+      "message": "ใช้มุมมอง HTML พื้นฐาน"
+   },
+   "useChromeSignIn": {
+      "message": "ลงชื่อเข้าใช้ด้วย Chrome"
+   },
+   "videoEmail": {
+      "message": "อีเมลวิดีโอ"
+   },
+   "videoMessage": {
+      "message": "ข้อความวิดีโอ"
+   },
+   "viewSpamFolder": {
+      "message": "ดูโฟลเดอร์สแปม"
+   },
+   "voice": {
+      "message": "เสียง"
+   },
+   "voiceCommands": {
+      "message": "คำสั่งเสียง"
+   },
+   "voiceEmail": {
+      "message": "อีเมลเสียง"
+   },
+   "voiceInput": {
+      "message": "การป้อนข้อมูลด้วยเสียง"
+   },
+   "voiceInputSuggestions": {
+      "message": "เปิดใช้งานคำแนะนำ"
+   },
+   "voiceMessage": {
+      "message": "ข้อความเสียง"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "เฉพาะในกรณีที่คุณไม่อยู่ที่คอมพิวเตอร์เป็นเวลาอย่างน้อย"
+   },
+   "voiceTest": {
+      "message": "ทดสอบเสียง"
+   },
+   "volume": {
+      "message": "ระดับเสียง"
+   },
+   "welcome": {
+      "message": "ยินดีต้อนรับ"
+   },
+   "white": {
+      "message": "สีขาว"
+   },
+   "wholeEmail": {
+      "message": "ทั้งอีเมล"
+   },
+   "widget": {
+      "message": "วิดเจ็ต"
+   },
+   "width": {
+      "message": "ความกว้าง"
+   },
+   "woman": {
+      "message": "ผู้หญิง"
+   },
+   "yellow": {
+      "message": "เหลือง"
+   },
+   "yes": {
+      "message": "ใช่"
+   },
+   "yourOffline": {
+      "message": "คุณออฟไลน์ - ลองปิดและเปิดการเชื่อมต่อเครือข่ายหรือเริ่มต้นเบราว์เซอร์ใหม่"
+   },
+   "zoom": {
+      "message": "ซูม"
+   }
+}

@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Aktiviere Passwörter in „iCloud für Windows“, um „iCloud-Passwörter“ mit Chrome zu verwenden."
+   },
+   "GenericPopupTitle": {
+      "message": "Deine Passwörter sind mit „iCloud-Schlüsselbund“ synchronisiert"
+   },
+   "GettingPasswords": {
+      "message": "Passwörter laden …"
+   },
+   "NoUserName": {
+      "message": "kein Benutzername"
+   },
+   "_lang": {
+      "message": "de"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Damit das seitengestützte automatische Ausfüllen durch Chrome „iCloud-Passwörter“ nicht behindert, kann die App für dich versuchen, die Browser-Funktion zum automatischen Ausfüllen zu deaktivieren."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Automatisches Ausfüllen durch Chrome deaktivieren"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Um dies zu ändern, entferne den Eintrag für diese Website aus deinem iCloud-Schlüsselbund und melde dich erneut bei dieser Website an."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Du hast zuvor angegeben, Passwörter für diese Website nie zu speichern."
+   },
+   "divICsMessage": {
+      "message": "Zu verwendendes gespeichertes Passwort auswählen:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Du kannst gesicherte Passwörter in der App „Passwörter“ nachschlagen und verwalten."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Du kannst gespeicherte Passwörter im Tab „Passwörter“ der Einstellungen von Safari verwalten."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Du kannst gespeicherte Passwörter im Tab „Passwörter“ der Systemeinstellungen verwalten."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Du kannst gesicherte Passwörter in den Einstellungen für „Passwörter“ nachschlagen und verwalten."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Du kannst gesicherte Passwörter in den Einstellungen für „Passwörter“ nachschlagen und verwalten."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Du kannst gespeicherte Passwörter in der App „iCloud-Passwörter“ sehen und bearbeiten."
+   },
+   "divOpenPasswords": {
+      "message": "Passwörter verwalten …"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Schlage Passwörter nach oder erstelle sie."
+   },
+   "divOpenPasswords_macos": {
+      "message": "App „Passwörter“ öffnen …"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Passwörter verwalten …"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Passwörter verwalten …"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Passwörter verwalten …"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Passwörter verwalten …"
+   },
+   "divPINMessage_macos": {
+      "message": "Dein Mac hat einen Bestätigungscode erzeugt. Gib den Code ein, um fortzufahren."
+   },
+   "divPINMessage_windows": {
+      "message": "„iCloud für Windows“ hat dir eine Mitteilung mit einem Bestätigungscode gesendet. Gib den Code ein, um fortzufahren."
+   },
+   "divPINTitle": {
+      "message": "Automatisches Ausfüllen von Passwörtern aktivieren"
+   },
+   "divTOTPMenu": {
+      "message": "Bestätigungscode konfigurieren"
+   },
+   "divTOTPTitle": {
+      "message": "Bestätigungscode konfigurieren für:"
+   },
+   "downloadButton": {
+      "message": "Laden"
+   },
+   "downloadMessage_macos": {
+      "message": "Für die Installation dieser Erweiterung ist macOS Sonoma (oder neuer) erforderlich."
+   },
+   "downloadMessage_windows": {
+      "message": "Lade „iCloud für Windows“, um „iCloud-Passwörter“ verwenden zu können."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Klicke hier, um „iCloud-Passwörter“ das automatische Ausfüllen deiner Passwörter zu erlauben."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Klicke auf die iCloud-Passwörter-Taste in der Symbolleiste, um das automatische Ausfüllen von Passwörtern zu aktivieren."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Automatisches Ausfüllen von Passwörtern aktivieren"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Erlaube „iCloud-Passwörter“, Zugangsdaten von einer seitengestützten Liste vorzuschlagen. Du kannst Passwörter immer mithilfe der Taste in der Symbolleiste von „iCloud-Passwörter“ ausfüllen, selbst wenn diese Option deaktiviert ist."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Seitengestütztes automatisches Ausfüllen"
+   },
+   "extDescription": {
+      "message": "Verwende mit „iCloud-Passwörter“ bei der Anmeldung auf Websites in Chrome Passwörter aus dem iCloud-Schlüsselbund."
+   },
+   "extName": {
+      "message": "iCloud-Passwörter"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "App „Passwörter“ öffnen …"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Einstellungen für „Passwörter“ öffnen …"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Einstellungen für „Passwörter“ öffnen …"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Einstellungen für „Passwörter“ öffnen …"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Einstellungen für „Passwörter“ öffnen …"
+   },
+   "openThisPageInSafari": {
+      "message": "Diese Seite in Safari öffnen …"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "„iCloud für Windows“ öffnen"
+   },
+   "optionsTitle": {
+      "message": "Optionen für „iCloud-Passwörter“"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Bestätigungscode für „$1“ konfigurieren”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Du kannst ein starkes Passwort in den Einstellungen für „Passwörter“ oder in Safari erstellen."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Du kannst ein starkes Passwort in den Einstellungen für „Passwörter“ oder in Safari erstellen."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Du kannst ein starkes Passwort in den Einstellungen für „Passwörter“ oder in Safari erstellen."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Du kannst ein starkes Passwort in den Einstellungen für „Passwörter“ oder in Safari erstellen."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Du kannst ein starkes Passwort in den Einstellungen für „Passwörter“ oder in Safari erstellen."
+   },
+   "totpVerificationCodeName": {
+      "message": "Bestätigungscode"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Bestätigungscode für „$1“"
+   },
+   "unsupportedOS_windows": {
+      "message": "Diese Erweiterung wurde für Windows 10 oder neuer entwickelt. Wenn du einen Mac verwendest, werden deine Passwörter automatisch mit deinem iPhone, iPad und Mac synchronisiert, sobald du dich bei iCloud anmeldest."
+   }
+}

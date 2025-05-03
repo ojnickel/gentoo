@@ -1,16 +1,13 @@
-import sys
-from typing import BinaryIO, Optional, Text, Union
+from typing import BinaryIO
+from typing_extensions import TypeAlias
 
-_File = Union[Text, BinaryIO]
+__all__ = ["Error", "encode", "decode"]
+
+_File: TypeAlias = str | BinaryIO
 
 class Error(Exception): ...
 
-if sys.version_info >= (3, 7):
-    def encode(
-        in_file: _File, out_file: _File, name: Optional[str] = ..., mode: Optional[int] = ..., *, backtick: bool = ...
-    ) -> None: ...
-
-else:
-    def encode(in_file: _File, out_file: _File, name: Optional[str] = ..., mode: Optional[int] = ...) -> None: ...
-
-def decode(in_file: _File, out_file: Optional[_File] = ..., mode: Optional[int] = ..., quiet: int = ...) -> None: ...
+def encode(
+    in_file: _File, out_file: _File, name: str | None = None, mode: int | None = None, *, backtick: bool = False
+) -> None: ...
+def decode(in_file: _File, out_file: _File | None = None, mode: int | None = None, quiet: bool = False) -> None: ...

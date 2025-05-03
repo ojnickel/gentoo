@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Cursor personalizat pentru Chrome ™. Utilizați o colecție mare de cursoare gratuite sau încărcați-vă propriile."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Cursor personalizat"
+   },
+   "close": {
+      "message": "închisă"
+   },
+   "cursor_size_extra_large": {
+      "message": "Foarte mare"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra mic"
+   },
+   "cursor_size_large": {
+      "message": "Mare"
+   },
+   "cursor_size_medium": {
+      "message": "Mediu"
+   },
+   "cursor_size_small": {
+      "message": "Mic"
+   },
+   "delete": {
+      "message": "Șterge"
+   },
+   "delete_all": {
+      "message": "sterge tot"
+   },
+   "enter_your_search_text": {
+      "message": "Introduceți textul de căutare"
+   },
+   "favorite_by_time": {
+      "message": "cu timpul"
+   },
+   "favorite_by_visited_pages": {
+      "message": "de Pagini vizitate"
+   },
+   "favorite_manage_button": {
+      "message": "Gestionați preferințele"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Rotiți favorite"
+   },
+   "favorite_sec_page": {
+      "message": "sec/pagină(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Gestionați preferințele"
+   },
+   "hint_defaultTo": {
+      "message": "Cursor implicit"
+   },
+   "hint_remove_cursor": {
+      "message": "Faceți clic pentru a elimina cursorul"
+   },
+   "hint_remove_pointer": {
+      "message": "Faceți clic pentru a elimina indicatorul"
+   },
+   "hint_settings": {
+      "message": "Setări"
+   },
+   "hint_size": {
+      "message": "Dimensiunea cursorului"
+   },
+   "hint_upload_cursor": {
+      "message": "Faceți clic pentru a încărca cursorul"
+   },
+   "hint_upload_pointer": {
+      "message": "Faceți clic pentru a încărca indicatorul"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "ac indicator"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Setări dimensiune cursor"
+   },
+   "manage_manage_collection": {
+      "message": "Gestionați colecțiile"
+   },
+   "nav_how_to_use": {
+      "message": "Cum se folosește"
+   },
+   "nav_manage": {
+      "message": "Administra"
+   },
+   "nav_more_cursors": {
+      "message": "Mai multe cursoare"
+   },
+   "nav_upload_cursor": {
+      "message": "Încărcați cursorul"
+   },
+   "options_add_new": {
+      "message": "Adăuga nou"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Recomandări:\u003C/h2>\u003Cul>\u003Cli>Nu utilizați imagini mai mult de 128x128 pixeli;\u003C/li>\u003Cli>Utilizați imagini cu fundal transparent, cum ar fi .png;\u003C/li>\u003Cli>Zâmbiți mai des;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Încărcați cursorii proprii"
+   },
+   "popup_default_cursor": {
+      "message": "Cursor implicit"
+   },
+   "popup_manage": {
+      "message": "Administra"
+   },
+   "popup_more_cursor": {
+      "message": "Mai multe cursoare"
+   },
+   "popup_upload_cursor": {
+      "message": "Încărcați cursorul"
+   },
+   "rate_us_5_stars": {
+      "message": "Ratează-ne 5 stele, te rog"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

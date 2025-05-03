@@ -1,0 +1,1 @@
+import{WelcomePage}from"./common/welcome.js";new class{constructor(){new WelcomePage,chrome.action.onClicked.addListener(()=>{chrome.windows.create({url:"/pages/popup/popup.html",type:"popup",width:700})})}};

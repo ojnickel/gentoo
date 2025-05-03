@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Omogućite Lozinke u iCloudu za Windows za uporabu iCloud lozinki s preglednikom Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "Vaše lozinke sinkronizirane su s iCloud privjeskom ključeva"
+   },
+   "GettingPasswords": {
+      "message": "Učitavanje lozinki…"
+   },
+   "NoUserName": {
+      "message": "bez korisničkog imena"
+   },
+   "_lang": {
+      "message": "hr"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Kako bi se spriječilo da automatska ispuna sa stranice Chromea ometa rad iCloud lozinki, iCloud lozinke mogu pokušati isključiti postavke automatske ispune ovog preglednika."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Isključi automatsku ispunu za Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Kako biste to promijenili, uklonite unos za ovu web stranicu iz iCloud privjeska ključeva i ponovno se prijavite na ovu web stranicu."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Prethodno ste odredili da se lozinke za ovu web stranicu nikad neće spremati."
+   },
+   "divICsMessage": {
+      "message": "Odaberite spremljenu lozinku koju želite koristiti:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Možete potražiti i upravljati spremljenim lozinkama u aplikaciji Lozinke."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Spremljenim lozinkama možete upravljati u kartici Lozinke unutar postavki Safarija."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Spremljenim lozinkama možete upravljati u prozoru Lozinke unutar Postavki sustava."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Možete potražiti i upravljati spremljenim lozinkama u postavkama Lozinke."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Možete potražiti i upravljati spremljenim lozinkama u postavkama Lozinke."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Spremljene lozinke možete pogledati i urediti u aplikaciji iCloud lozinke."
+   },
+   "divOpenPasswords": {
+      "message": "Upravljanje lozinkama…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Potražite i izradite lozinke."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Otvori aplikaciju Lozinke…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Upravljanje lozinkama…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Upravljanje lozinkama…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Upravljanje lozinkama…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Upravljanje lozinkama…"
+   },
+   "divPINMessage_macos": {
+      "message": "Vaš Mac generirao je verifikacijski kôd. Unesite kôd za nastavak."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud za Windows poslao vam je obavijest s verifikacijskim kodom. Unesite kôd za nastavak."
+   },
+   "divPINTitle": {
+      "message": "Omogući Auto ispunu lozinke"
+   },
+   "divTOTPMenu": {
+      "message": "Podesi verifikacijski kôd"
+   },
+   "divTOTPTitle": {
+      "message": "Podesi verifikacijski kôd za:"
+   },
+   "downloadButton": {
+      "message": "Preuzmi"
+   },
+   "downloadMessage_macos": {
+      "message": "Za instaliranje ove ekstenzije potreban je macOS Sonoma ili noviji."
+   },
+   "downloadMessage_windows": {
+      "message": "Preuzmite iCloud za Windows za uporabu iCloud lozinki."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Kliknite ovdje kako biste omogućili da iCloud lozinke automatski ispunjava vaše lozinke."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Kliknite tipku na alatnoj traci iCloud lozinke kako biste omogući Auto ispunu lozinke."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Omogući Auto ispunu lozinke"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Dozvolite iCloud lozinkama pružanje vjerodajnica iz popisa stranice. U bilo kojem trenutku možete ispuniti lozinke pomoću tipke iCloud lozinke u alatnoj traci, čak i ako je ova opcija isključena."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Automatska ispuna sa stranice"
+   },
+   "extDescription": {
+      "message": "Omogućuje ispunjavanje lozinki iz iCloud privjeska ključeva prilikom prijavljivanja na web stranice Chromeom."
+   },
+   "extName": {
+      "message": "iCloud lozinke"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Otvori aplikaciju Lozinke…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Otvori postavke Lozinke…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Otvori postavke Lozinke…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Otvori postavke Lozinke…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Otvori postavke Lozinke…"
+   },
+   "openThisPageInSafari": {
+      "message": "Otvori ovu stranicu u Safariju…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Otvori iCloud za Windows"
+   },
+   "optionsTitle": {
+      "message": "Opcije za iCloud lozinke"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Podesi verifikacijski kôd za “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Možete izraditi snažnu lozinku u aplikaciji Lozinke ili u Safariju."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Možete izraditi snažnu lozinku u postavkama Lozinke ili u Safariju."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Možete izraditi snažnu lozinku u postavkama Lozinke ili u Safariju."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Možete izraditi snažnu lozinku u postavkama Lozinke ili u Safariju."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Možete izraditi snažnu lozinku u postavkama Lozinke ili u Safariju."
+   },
+   "totpVerificationCodeName": {
+      "message": "Verifikacijski kôd"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Verifikacijski kôd za “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Ova ekstenzija dizajnirana je za rad u sustavu Windows 10 ili novijem. Ako koristite Mac, vaše lozinke automatski će se sinkronizirati s vašim iPhoneom, iPadom i Macom kad se prijavite na iCloud."
+   }
+}

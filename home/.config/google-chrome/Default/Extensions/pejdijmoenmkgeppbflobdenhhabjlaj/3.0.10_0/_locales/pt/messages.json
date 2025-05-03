@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Ative Senhas no iCloud para Windows para usar Senhas do iCloud com o Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "Suas senhas serão sincronizadas com as Chaves do iCloud"
+   },
+   "GettingPasswords": {
+      "message": "Carregando senhas…"
+   },
+   "NoUserName": {
+      "message": "nenhum nome de usuário"
+   },
+   "_lang": {
+      "message": "pt"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Para impedir que o Preenchimento Automático na página do Chrome interfira com as Senhas do iCloud, as Senhas do iCloud podem tentar desativar os ajustes de Preenchimento Automático do navegador por você."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Desativar Preenchimento Automático do Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Para mudar isso, remova a entrada deste site das Chaves do iCloud e inicie sessão nele novamente."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Você indicou anteriormente para nunca salvar senhas para este site."
+   },
+   "divICsMessage": {
+      "message": "Escolha uma senha salva para usar:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Você pode pesquisar e gerenciar senhas salvas no app Senhas."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Você pode gerenciar as senhas salvas na aba Senhas das preferências do Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Você pode gerenciar as senhas salvas no painel de Senhas nas Preferências do Sistema."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Você pode pesquisar e gerenciar senhas salvas nos ajustes de Senhas."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Você pode pesquisar e gerenciar senhas salvas nos ajustes de Senhas."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Você pode visualizar e editar as senhas salvas no app Senhas do iCloud."
+   },
+   "divOpenPasswords": {
+      "message": "Gerenciar Senhas…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Procure e crie senhas."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Abrir o App Senhas…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Gerenciar Senhas…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Gerenciar Senhas…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Gerenciar Senhas…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Gerenciar Senhas…"
+   },
+   "divPINMessage_macos": {
+      "message": "Um código de verificação foi gerado pelo seu Mac. Digite o código para continuar."
+   },
+   "divPINMessage_windows": {
+      "message": "O iCloud para Windows enviou uma notificação para você com um código de verificação. Digite o código para continuar."
+   },
+   "divPINTitle": {
+      "message": "Ativar Preenchimento Automático de Senha"
+   },
+   "divTOTPMenu": {
+      "message": "Configurar Código de Verificação"
+   },
+   "divTOTPTitle": {
+      "message": "Configurar código de verificação para:"
+   },
+   "downloadButton": {
+      "message": "Baixar"
+   },
+   "downloadMessage_macos": {
+      "message": "Esta extensão requer que o macOS Sonoma esteja instalado."
+   },
+   "downloadMessage_windows": {
+      "message": "Baixe o iCloud para Windows para usar as Senhas do iCloud."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Clique aqui para permitir que as Senhas do iCloud usem o Preenchimento Automático para as suas senhas."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Clique no botão das Senhas do iCloud na barra de ferramentas para ativar o Preenchimento Automático de Senha."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Ativar Preenchimento Automático de Senha"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Permite que as senhas do iCloud ofereçam credenciais em uma lista na página. Você sempre pode preencher as senhas pelo botão das Senhas do iCloud na barra de ferramentas, mesmo que esta opção esteja desativada."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Preenchimento Automático na Página"
+   },
+   "extDescription": {
+      "message": "As Senhas do iCloud permitem que você preencha senhas das Chaves do iCloud ao iniciar uma sessão em sites com o Chrome."
+   },
+   "extName": {
+      "message": "Senhas do iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Abrir o App Senhas…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Abrir os Ajustes de Senhas…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Abrir os Ajustes de Senhas…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Abrir os Ajustes de Senhas…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Abrir os Ajustes de Senhas…"
+   },
+   "openThisPageInSafari": {
+      "message": "Abrir Esta Página no Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Abrir iCloud para Windows"
+   },
+   "optionsTitle": {
+      "message": "Opções das Senhas do iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Configurar código de verificação para “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Você pode criar uma senha forte no app Senhas ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Você pode criar uma senha forte nos Ajustes de Senhas ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Você pode criar uma senha forte nos Ajustes de Senhas ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Você pode criar uma senha forte nos Ajustes de Senhas ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Você pode criar uma senha forte nos Ajustes de Senhas ou no Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Código de verificação"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Código de verificação para “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Esta extensão é feita para ser usada no Windows 10 ou posterior. Se você estiver usando um Mac, as senhas serão sincronizadas automaticamente com o seu iPhone, iPad e Mac quando você iniciar uma sessão no iCloud."
+   }
+}

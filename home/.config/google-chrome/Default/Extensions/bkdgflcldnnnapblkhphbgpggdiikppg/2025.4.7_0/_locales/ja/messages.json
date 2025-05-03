@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "ウェブストアに表示される拡張機能の簡単な説明",
+      "message": "シンプルかつシームレスにプライバシーを保護するブラウザ向け拡張機能。"
+   },
+   "appName": {
+      "description": "ウェブストアに表示される拡張機能名",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

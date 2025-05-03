@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Uzantının web mağazasında görüntülenen kısa açıklaması",
+      "message": "Tarayıcınız için basit ve sorunsuz gizlilik koruması."
+   },
+   "appName": {
+      "description": "Uzantının web mağazasında görüntülenen başlığı",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

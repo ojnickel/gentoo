@@ -1,0 +1,23 @@
+body {
+  --body-width: 100%;
+  width: var(--body-width);
+  height: 100vh;
+  background-color: var(--md-sys-color-surface);
+  user-select: none;
+  padding-bottom: 1rem;
+}
+
+header.page-header {
+  background-color: var(--md-sys-color-primary);
+}
+header.page-header .main-logo img {
+  max-height: 2rem;
+}
+
+.md-card {
+  position: relative;
+  border-radius: var(--md-shape, 9999px);
+  --md-elevation-level: 3;
+  background-color: var(--md-sys-color-surface-container);
+  color: var(--md-sys-color-on-surface-container);
+}

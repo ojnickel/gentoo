@@ -1,5 +1,8 @@
 <?php
 
+use JetBrains\PhpStorm\Internal\TentativeType;
+use JetBrains\PhpStorm\Pure;
+
 /**
  * @since 7.1
  */
@@ -12,20 +15,19 @@ class ReflectionNamedType extends ReflectionType
      * @return string Returns the text of the type hint.
      * @since 7.1
      */
-    public function getName()
-    {
-    }
+    #[Pure]
+    public function getName() {}
 
     /**
      * Checks if it is a built-in type
      *
-     * @link https://php.net/manual/en/reflectiontype.isbuiltin.php
+     * @link https://php.net/manual/en/reflectionnamedtype.isbuiltin.php
      * @return bool Returns {@see true} if it's a built-in type, otherwise {@see false}
      *
      * @since 7.1 overrides the parent {@see ReflectionType::isBuiltin()} method.
      * @since 8.0 method was removed from the parent {@see ReflectionType} class.
      */
-    public function isBuiltin()
-    {
-    }
+    #[Pure]
+    #[TentativeType]
+    public function isBuiltin(): bool {}
 }

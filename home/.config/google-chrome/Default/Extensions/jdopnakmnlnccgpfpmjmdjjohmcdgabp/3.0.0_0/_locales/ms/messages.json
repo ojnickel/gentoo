@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Webcam atau Kamera"
+   },
+   "Cancel": {
+      "message": "Batal"
+   },
+   "Countdown": {
+      "message": "Kira detik sebelum merakam"
+   },
+   "GrantPerm": {
+      "message": "Berikan kebenaran"
+   },
+   "Pause": {
+      "message": "Jeda"
+   },
+   "PermCamDenied": {
+      "message": "Kebenaran untuk kamera ditolak."
+   },
+   "PermMicDenied": {
+      "message": "Kebenaran untuk mikrofon ditolak."
+   },
+   "RateUs": {
+      "message": "Sila nilaikan kami"
+   },
+   "RecordAnother": {
+      "message": "Buat rakaman lagi"
+   },
+   "RecordCamera": {
+      "message": "Rakam kamera anda"
+   },
+   "RecordDrive": {
+      "message": "Rakam ke Google Drive™️ anda"
+   },
+   "RecordQuality": {
+      "message": "Kualiti Rekod"
+   },
+   "RecordScreen": {
+      "message": "Rakam skrin anda"
+   },
+   "RecordSys": {
+      "message": "Audio Sistem Rakam"
+   },
+   "RecordSysExpl": {
+      "message": "Rakam audio daripada pembesar suara anda. Semak pilihan Audio dalam dialog seterusnya jika anda ingin mendayakan rakaman bunyi."
+   },
+   "RecordVoice": {
+      "message": "Rakam suara"
+   },
+   "RecordVoiceExpl": {
+      "message": "Rakam suara anda menggunakan mikrofon anda"
+   },
+   "Resume": {
+      "message": "Sambung semula"
+   },
+   "SaveRecording": {
+      "message": "Simpan rakaman"
+   },
+   "ScreenSrcs": {
+      "message": "Skrin, Tetingkap atau Tab"
+   },
+   "Share": {
+      "message": "Kongsi apl kami"
+   },
+   "StopRecording": {
+      "message": "Hentikan rakaman"
+   },
+   "Tutorial": {
+      "message": "Tunjukkan tutorial - cara menggunakan apl"
+   }
+}

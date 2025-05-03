@@ -1,0 +1,15 @@
+2024/11/08-18:05:09.250 24d3 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_sean-warman.medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/08-18:05:09.250 24d3 Recovering log #15
+2024/11/08-18:05:09.250 24d3 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_sean-warman.medium.com_0.indexeddb.leveldb/000015.log 
+2024/11/22-17:42:00.064 24d3 Level-0 table #20: started
+2024/11/22-17:42:00.068 24d3 Level-0 table #20: 6532 bytes OK
+2024/11/22-17:42:00.075 24d3 Delete type=0 #15
+2024/11/22-17:42:00.075 24d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/22-17:42:00.075 24d3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\xc0\xb10\x1e1yB\x00\x01\x13\x00m\x003\x00a\x00f\x002\x004\x00i\x00w\x002\x005\x001\x00c\x009\x00y\x00t\x00w\x00c\x00f\x00w' @ 1601 : 1
+2024/11/22-17:42:00.076 24d3 Compacting 1@1 + 1@2 files
+2024/11/22-17:42:00.080 24d3 Generated table #21@1: 174 keys, 5253 bytes
+2024/11/22-17:42:00.080 24d3 Compacted 1@1 + 1@2 files => 5253 bytes
+2024/11/22-17:42:00.086 24d3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/22-17:42:00.086 24d3 Delete type=2 #17
+2024/11/22-17:42:00.086 24d3 Delete type=2 #20
+2024/11/22-17:42:00.086 24d3 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\xc0\xb10\x1e1yB\x00\x01\x13\x00m\x003\x00a\x00f\x002\x004\x00i\x00w\x002\x005\x001\x00c\x009\x00y\x00t\x00w\x00c\x00f\x00w' @ 1601 : 1 .. (end); will stop at (end)

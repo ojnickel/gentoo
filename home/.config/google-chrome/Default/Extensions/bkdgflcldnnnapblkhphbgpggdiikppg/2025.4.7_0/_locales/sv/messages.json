@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Kort beskrivning av tillägget, visas i webbutiken",
+      "message": "Skyddar aktivt dina data i din nuvarande webbläsare."
+   },
+   "appName": {
+      "description": "Tilläggets titel, visas i webbutiken",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

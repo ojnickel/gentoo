@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Webkamera eller kamera"
+   },
+   "Cancel": {
+      "message": "Avbryt"
+   },
+   "Countdown": {
+      "message": "Nedtelling før opptak"
+   },
+   "GrantPerm": {
+      "message": "Gi tillatelse"
+   },
+   "Pause": {
+      "message": "Pause"
+   },
+   "PermCamDenied": {
+      "message": "Tillatelse til kamera nektet."
+   },
+   "PermMicDenied": {
+      "message": "Tillatelse til mikrofon nektet."
+   },
+   "RateUs": {
+      "message": "Vennligst ranger oss"
+   },
+   "RecordAnother": {
+      "message": "Gjør et nytt opptak"
+   },
+   "RecordCamera": {
+      "message": "Ta opp kameraet ditt"
+   },
+   "RecordDrive": {
+      "message": "Ta opp til Google Drive™️"
+   },
+   "RecordQuality": {
+      "message": "Rekordkvalitet"
+   },
+   "RecordScreen": {
+      "message": "Ta opp skjermen din"
+   },
+   "RecordSys": {
+      "message": "Ta opp systemlyd"
+   },
+   "RecordSysExpl": {
+      "message": "Ta opp lyd fra høyttalerne. Merk av for lydalternativet i neste dialogboks hvis du vil aktivere lydopptak."
+   },
+   "RecordVoice": {
+      "message": "Ta opp stemme"
+   },
+   "RecordVoiceExpl": {
+      "message": "Ta opp stemmen din ved hjelp av mikrofonen"
+   },
+   "Resume": {
+      "message": "Gjenoppta"
+   },
+   "SaveRecording": {
+      "message": "Lagre opptaket"
+   },
+   "ScreenSrcs": {
+      "message": "Skjerm, Vindu eller Tab"
+   },
+   "Share": {
+      "message": "Del appen vår"
+   },
+   "StopRecording": {
+      "message": "Stopp innspillingen"
+   },
+   "Tutorial": {
+      "message": "Vis veiledning – hvordan bruke appen"
+   }
+}

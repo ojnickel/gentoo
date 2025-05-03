@@ -1,124 +1,95 @@
-function arbeit
-    set -l host
-    set -l protocol
-
-    #for optarg in $argv]]0      switch $optarg
-    #        case l
-    #        	host=$optarg y   
-    #        case p
-    #        	protocol=$optarg[2]
-    #        case h
-    #            echo "usage: arbeit -l host -p [ssh/sftp]"
-    #        case \*
-    #          echo unknown option `$optarg[1]`
-    #      end
-    
-    #    end
-    #    if test $argv[1] = "pp"
-    #         $argv[2]  p7822590@home29658965.1and1-data.host 
-    #    end
-    switch "$argv[1]"
-        case 1u1
-            $argv[2]  p7822590@home29658965.1and1-data.host 
-        case bbsb
-            $argv[2] wp1065095@wp1065095.server-he.de
-        case netcup
-            $argv[2] hosting132593@hosting132593.a2e2b.netcup.net
-        case bup
-            echo "pw?"
-            read p
-            sshpass -p$p $argv[2] wa6181@ok16.serverdomain.org
-        case nwf
+#!/bin/env fish 
+function arbeit -d "ssh/sftp quickly in known servers"
+    switch $argv[1]
+        case 'mkq'
+            $argv[2] munichkievqueer.org@ssh.strato.de
+        case 'sbs'
+            $argv[2] www.sbsfahrdienst.de@ssh.strato.de
+        case 'cab'
+            $argv[2] u94161847@home745191370.1and1-data.host
+        case 'nwfr'
             $argv[2] u84885618@home623938150.1and1-data.host
-        case pp
-            echo "pw?"
-            read p
-            sshpass -p$p $argv[2] ww4281@pfennigparade.de
-        case pgw
-            $argv[2] u89936386@home690690802.1and1-data.host 
-        case rsk
+        case 'netcup'
+            $argv[2]    hosting132593@hosting132593.a2e2b.netcup.net  
+        case '1u1'
+            $argv[2]  p7822590@home29658965.1and1-data.host     
+        case 'vfsw'
+            if  test "$argv[2]" = "ssh"
+                /usr/bin/sshpass -p $pw ssh vfsw
+            else
+                /usr/bin/sshpass -p $pw sftp vfsw-sftp 
+            end
+
+        case 'pp'
+            if  test "$argv[2]" = "ssh"
+                /usr/bin/sshpass -p $pw ssh ww4281@pfennigparade.de
+            else
+                /usr/bin/sshpass -p $pw sftp ww4281@pfennigparade.de
+            end
+        case 'bup'
+            set server "wa6181@ok16.serverdomain.org"
+            if test "$argv[2]" = "ssh"
+                /usr/bin/sshpass -p $pw ssh $server 
+            else
+                /usr/bin/sshpass -p $pw sftp $server 
+            end
+        case 'pgw'
+            if test "$argv[2]" = "ssh"
+                /usr/bin/sshpass -p $pw ssh u89936386@home690690802.1and1-data.host
+            else
+                /usr/bin/sshpass -p $pw sftp u89936386@home690690802.1and1-data.host
+            end
+        case 'ssnh'
+            $argv[2]   seniorenstiftneuhausen.de@ssh.strato.de
+        case 'rwl'
+            $argv[2] info@rollwagerl.homepage.t-online.de@hosting.telekom.de 
+        case 'sbz'
+            /usr/bin/sshpass -p $pw  sftp seh_0@sbz.de    
+        case  'bbsb'
+                /usr/bin/sshpass -p $pw $argv[2] wp1065095@wp1065095.server-he.de
+        case 'rsk'
             $argv[2] p96285@home13369541.1and1-data.host
-        case fhhh 
-            echo "pw?"
-            read p
-            sshpass -p$p $argv[2] u63691236-pfennigp@home370711702.1and1-data.host
-        case teea
-            $argv[2]  teealternative.de@ssh.strato.de
-        case -s
-            echo "1u1"
-            echo "bbsb | he"
-            echo "netcup"
-            echo "bup"
-            echo "nwf | 1&1"
-            echo "pp  | 1&1   "
-            echo "pgw | 1&1" 
-            echo "rsk | 1&1" 
-            echo "teea"
-        case \*
-            echo "usage: arbeit [-s][server][protocol]"
+        case 'talt'
+            $argv[2] teealternative.de@ssh.strato.de
+        case '-s'
+            echo -e "mkq\nvfsw\nsbs\ncab\nnwfr\ntalt\nrsk\nbbsb\n1u1\npp\npgw\nnetcup\nssnh\nrwl\nsbz\t(sftp only)\nbup"
+            return
+        case ''
+            echo "Usage: arbeit SERVER PROTOCOL"
+            return
     end
-
 end
-
-function createdb
-    mysql -u root -pnhrptk -e "CREATE DATABASE $argv; GRANT ALL PRIVILEGES ON $argv.* TO 'web'@'localhost';"
-end
-function kickstart #.jpa
-    #array for db
-    #set dbnew localhost web 1234 "$argv[2]"
-    #set dbold "<?php echo $this->db->dbhost ?>" "<?php echo $this->db->dbuser ?>" "<?php echo $this->db->dbpass ?>" "<?php echo $this->db->dbname ?>"
-
-    #echo "Copying Kickstart 7.0.1"
-    #echo "======================="
-    #cp /var/www/localhost/htdocs/arbeit/kickstart/7.0.1/* . 
-    #sleep 1s
-    #echo "Extracting $argv"
-    #echo "======================="
-    #php kickstart.php $argv --silent
-    #chmod 777 ./installation/tmp -R
-    #echo "Renaming DB"
-    #echo "======================="
-    #sleep 1s
-    #set i 1
-    #for i in (seq (count $dbold))
-    #    echo "$dbold[$i] -> $dbnew[$i]"
-    #    sed -n "s/$dbold[$i]/$dbnew[$i]/g" default.php 
-
-    #    #sed -i "s/$dbold[$i]/$dbnew[$i]/g"installation/angie/views/database/tmpl/default.php
-    #end
-    #sudo cp default.php installation/angie/views/database/tmpl/ -v
-    ##    for f in $dbold
-    ##        echo "sudo sed -i 's/$f/$dbnew[$i]/g' installation/angie/views/database/tmpl/default.php"
-    ##        #        sudo sed 's/$f/$db[$i]/g' 
-    ##                set i (math $i + 1)
-    ##    end
-
-    ###sudo mv default.php installation/angie/views/database/tmpl/ -v
-    #echo "starting installation in ff"
-    #echo "======================="
-    #sleep 1s
-    #db for backup
-    echo "Dbname?"
-    read answer
-    createdb $answer
-    set pwd (echo $PWD | cut -d '/' -f 1,2,3,4,5)
-    set k (echo $PWD | string replace $pwd 'http://localhost/')
-    firefox $k/kickstart.php
-    #firefox $k/installation/index.php
-end
-function stage_test
-    if test "$argv[1]" = "wkm"
-        set url "wkm-online.de"
-    else
-        set url "ww-stage.de"
+function wplistpl -d "list plugins and copy selection"
+    set plugins (wp plugin list --field=name)
+    set i 1
+    for p in $plugins
+        echo "$i. $p"
+        set i (math $i + 1)
     end
-    set www "http://$argv[2].$url"
-    curl -I "$www"
-    echo "copy URL? y/n"
-    read s
-    if test $s = "y"
-        echo "$www" | xsel -ib
+    echo "Select"
+    read i
+    echo "$plugins[$i]" | xsel -ib
+    echo "$plugins[$i] copied"
+end
+
+function grbl -d "fetch and checkout a remote branch to local"
+    set remote $argv[1]
+    set local $argv[1]
+    git fetch origin $remote:$local
+    git checkout $local
+    # or simplier
+    # git switch $remote
+    # or
+    # git checkout --track origin/$remote
+end
+
+function switch_php
+    set input_file ~/git/devilbox/.env
+    if grep 'PHP_SERVER='$argv $input_file
+        sed -i 's/^PHP_SERVER/#PHP_SERVER/' $input_file
+        sed -i 's/^#PHP_SERVER='$argv'/PHP_SERVER='$argv'/' $input_file
+        grep '^PHP_SERVER*' $input_file
     else
-       echo "bye" 
+        echo "There is no container for PHP " $argv
     end
 end

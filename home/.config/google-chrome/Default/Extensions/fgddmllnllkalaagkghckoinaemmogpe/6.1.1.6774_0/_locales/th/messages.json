@@ -1,0 +1,1706 @@
+{
+   "_locationName_Albania": {
+      "message": "แอลเบเนีย"
+   },
+   "_locationName_Algeria": {
+      "message": "แอลจีเรีย"
+   },
+   "_locationName_Americas": {
+      "message": "อเมริกา"
+   },
+   "_locationName_Andorra": {
+      "message": "อันดอร์รา"
+   },
+   "_locationName_Argentina": {
+      "message": "อาร์เจนตินา"
+   },
+   "_locationName_Armenia": {
+      "message": "อาร์เมเนีย"
+   },
+   "_locationName_Asia_Pacific": {
+      "message": "เอเซียแปซิฟิก"
+   },
+   "_locationName_Australia": {
+      "message": "ออสเตรเลีย"
+   },
+   "_locationName_Australia___Adelaide": {
+      "message": "ออสเตรเลีย - แอดิเลด"
+   },
+   "_locationName_Australia___Brisbane": {
+      "message": "ออสเตรเลีย - บริสเบน"
+   },
+   "_locationName_Australia___Melbourne": {
+      "message": "ออสเตรเลีย - เมลเบิร์น"
+   },
+   "_locationName_Australia___Perth": {
+      "message": "ออสเตรเลีย - เพิร์ธ"
+   },
+   "_locationName_Australia___Sydney": {
+      "message": "ออสเตรเลีย - ซิดนีย์"
+   },
+   "_locationName_Australia___Sydney___2": {
+      "message": "ออสเตรเลีย - ซิดนีย์ - 2"
+   },
+   "_locationName_Australia___Sydney___3": {
+      "message": "ออสเตรเลีย - ซิดนีย์ - 3"
+   },
+   "_locationName_Australia___Woolloomooloo": {
+      "message": "ออสเตรเลีย - วูลลูมูลู"
+   },
+   "_locationName_Austria": {
+      "message": "ออสเตรีย"
+   },
+   "_locationName_Azerbaijan": {
+      "message": "อาเซอร์ไบจาน"
+   },
+   "_locationName_Bahamas": {
+      "message": "บาฮามาส"
+   },
+   "_locationName_Bangladesh": {
+      "message": "บังคลาเทศ"
+   },
+   "_locationName_Belarus": {
+      "message": "เบลารุส"
+   },
+   "_locationName_Belgium": {
+      "message": "เบลเยี่ยม"
+   },
+   "_locationName_Bermuda": {
+      "message": "เบอร์มิวดา"
+   },
+   "_locationName_Bhutan": {
+      "message": "ภูฏาน"
+   },
+   "_locationName_Bolivia": {
+      "message": "โบลิเวีย"
+   },
+   "_locationName_Bosnia_and_Herzegovina": {
+      "message": "บอสเนียและเฮอร์เซโกวีนา"
+   },
+   "_locationName_Brazil": {
+      "message": "บราซิล"
+   },
+   "_locationName_Brazil___2": {
+      "message": "บราซิล - 2"
+   },
+   "_locationName_Brunei": {
+      "message": "บรูไน"
+   },
+   "_locationName_Brunei_Darussalam": {
+      "message": "บรูไนดารุสซาลาม"
+   },
+   "_locationName_Bulgaria": {
+      "message": "บัลแกเรีย"
+   },
+   "_locationName_Cambodia": {
+      "message": "กัมพูชา"
+   },
+   "_locationName_Canada": {
+      "message": "แคนาดา"
+   },
+   "_locationName_Canada___Montreal": {
+      "message": "แคนาดา - มอนทรีออล  "
+   },
+   "_locationName_Canada___Montreal___2": {
+      "message": "แคนาดา - มอนทรีออล - 2"
+   },
+   "_locationName_Canada___Toronto": {
+      "message": "แคนาดา - โตรอนโต"
+   },
+   "_locationName_Canada___Toronto___2": {
+      "message": "แคนาดา - โตรอนโต - 2"
+   },
+   "_locationName_Canada___Vancouver": {
+      "message": "แคนาดา - แวนคูเวอร์"
+   },
+   "_locationName_Cayman_Islands": {
+      "message": "หมู่เกาะเคย์เเมน"
+   },
+   "_locationName_Chile": {
+      "message": "ชิลี"
+   },
+   "_locationName_Colombia": {
+      "message": "โคลอมเบีย"
+   },
+   "_locationName_Costa_Rica": {
+      "message": "คอสตาริกา"
+   },
+   "_locationName_Croatia": {
+      "message": "โครเอเชีย"
+   },
+   "_locationName_Cuba": {
+      "message": "คิวบา"
+   },
+   "_locationName_Cyprus": {
+      "message": "ไซปรัส"
+   },
+   "_locationName_Czech_Republic": {
+      "message": "สาธารณรัฐเช็ก"
+   },
+   "_locationName_Denmark": {
+      "message": "เดนมาร์ก"
+   },
+   "_locationName_Dominican_Republic": {
+      "message": "สาธารณรัฐโดมินิกัน"
+   },
+   "_locationName_Ecuador": {
+      "message": "เอกวาดอร์ "
+   },
+   "_locationName_Egypt": {
+      "message": "อียิปต์"
+   },
+   "_locationName_Estonia": {
+      "message": "เอสโตเนีย"
+   },
+   "_locationName_Europe": {
+      "message": "ยุโรป"
+   },
+   "_locationName_Finland": {
+      "message": "ฟินแลนด์"
+   },
+   "_locationName_France": {
+      "message": "ฝรั่งเศส"
+   },
+   "_locationName_France___Alsace": {
+      "message": "ฝรั่งเศส - อัลซาซ"
+   },
+   "_locationName_France___Marseille": {
+      "message": "ฝรั่งเศส - มาร์แซย์"
+   },
+   "_locationName_France___Paris___1": {
+      "message": "ฝรั่งเศส - ปารีส - 1"
+   },
+   "_locationName_France___Paris___2": {
+      "message": "ฝรั่งเศส - ปารีส - 2"
+   },
+   "_locationName_France___Strasbourg": {
+      "message": "ฝรั่งเศส - สตราสบูร์ก"
+   },
+   "_locationName_Georgia": {
+      "message": "จอร์เจีย"
+   },
+   "_locationName_Germany": {
+      "message": "เยอรมัน"
+   },
+   "_locationName_Germany___Frankfurt___1": {
+      "message": "เยอรมนี - แฟรงค์เฟิร์ต - 1"
+   },
+   "_locationName_Germany___Frankfurt___2": {
+      "message": "เยอรมนี - แฟรงค์เฟิร์ต - 2"
+   },
+   "_locationName_Germany___Frankfurt___3": {
+      "message": "เยอรมนี - แฟรงค์เฟิร์ต - 3"
+   },
+   "_locationName_Germany___Nuremberg": {
+      "message": "เยอรมนี - นูเรมเบิร์ก"
+   },
+   "_locationName_Ghana": {
+      "message": "กานา"
+   },
+   "_locationName_Greece": {
+      "message": "กรีซ"
+   },
+   "_locationName_Guam": {
+      "message": "กวม"
+   },
+   "_locationName_Guatemala": {
+      "message": "กัวเตมาลา"
+   },
+   "_locationName_Honduras": {
+      "message": "ฮอนดูรัส"
+   },
+   "_locationName_Hong_Kong": {
+      "message": "ฮ่องกง"
+   },
+   "_locationName_Hong_Kong___1": {
+      "message": "ฮ่องกง - 1"
+   },
+   "_locationName_Hong_Kong___2": {
+      "message": "ฮ่องกง - 2"
+   },
+   "_locationName_Hong_Kong___3": {
+      "message": "ฮ่องกง - 3"
+   },
+   "_locationName_Hong_Kong___4": {
+      "message": "ฮ่องกง - 4"
+   },
+   "_locationName_Hungary": {
+      "message": "ฮังการี"
+   },
+   "_locationName_Iceland": {
+      "message": "ไอซ์แลนด์"
+   },
+   "_locationName_India": {
+      "message": "อินเดีย"
+   },
+   "_locationName_India___Chennai": {
+      "message": "อินเดีย - เจนไน"
+   },
+   "_locationName_India___Mumbai___1": {
+      "message": "อินเดีย - มุมไบ - 1"
+   },
+   "_locationName_India__via_Singapore_": {
+      "message": "อินเดีย (ผ่าน สิงคโปร์)"
+   },
+   "_locationName_India__via_UK_": {
+      "message": "อินเดีย (ผ่านสหราชอาณาจักร)"
+   },
+   "_locationName_Indonesia": {
+      "message": "อินโดนีเซีย"
+   },
+   "_locationName_Ireland": {
+      "message": "ไอร์แลนด์"
+   },
+   "_locationName_Isle_of_Man": {
+      "message": "ไอล์ออฟแมน"
+   },
+   "_locationName_Israel": {
+      "message": "อิสราเอล"
+   },
+   "_locationName_Italy": {
+      "message": "อิตาลี"
+   },
+   "_locationName_Italy___Cosenza": {
+      "message": "อิตาลี - โคเซนซา"
+   },
+   "_locationName_Italy___Milan": {
+      "message": "อิตาลี - มิลาน"
+   },
+   "_locationName_Italy___Naples": {
+      "message": "อิตาลี - เนเปิลส์"
+   },
+   "_locationName_Jamaica": {
+      "message": "จาเมกา"
+   },
+   "_locationName_Japan": {
+      "message": "ญี่ปุ่น"
+   },
+   "_locationName_Japan___Osaka": {
+      "message": "ญี่ปุ่น - โอซาก้า"
+   },
+   "_locationName_Japan___Shibuya": {
+      "message": "ญี่ปุ่น - ชิบูย่า"
+   },
+   "_locationName_Japan___Tokyo": {
+      "message": "ญี่ปุ่น - โตเกียว"
+   },
+   "_locationName_Japan___Tokyo___1": {
+      "message": "ญี่ปุ่น - โตเกียว - 1"
+   },
+   "_locationName_Japan___Tokyo___2": {
+      "message": "ญี่ปุ่น - โตเกียว - 2"
+   },
+   "_locationName_Japan___Tokyo___3": {
+      "message": "ญี่ปุ่น - โตเกียว - 3"
+   },
+   "_locationName_Japan___Yokohama": {
+      "message": "ญี่ปุ่น - โยโกฮาม่า"
+   },
+   "_locationName_Jersey": {
+      "message": "เจอร์ซีย์"
+   },
+   "_locationName_Kazakhstan": {
+      "message": "คาซัคสถาน"
+   },
+   "_locationName_Kenya": {
+      "message": "เคนย่า"
+   },
+   "_locationName_Kyrgyzstan": {
+      "message": "คีร์กีซสถาน"
+   },
+   "_locationName_Laos": {
+      "message": "ลาว"
+   },
+   "_locationName_Latvia": {
+      "message": "ลัตเวีย"
+   },
+   "_locationName_Lebanon": {
+      "message": "เลบานอน"
+   },
+   "_locationName_Liechtenstein": {
+      "message": "ลิกเตนสไตน์"
+   },
+   "_locationName_Lithuania": {
+      "message": "ลิทัวเนีย"
+   },
+   "_locationName_Luxembourg": {
+      "message": "ลักเซมเบิร์ก"
+   },
+   "_locationName_Macau": {
+      "message": "มาเก๊า"
+   },
+   "_locationName_Malaysia": {
+      "message": "มาเลเซีย"
+   },
+   "_locationName_Malta": {
+      "message": "มอลตา"
+   },
+   "_locationName_Mexico": {
+      "message": "เม็กซิโก"
+   },
+   "_locationName_Middle_East_and_Africa": {
+      "message": "ตะวันออกกลางและแอฟริกา"
+   },
+   "_locationName_Moldova": {
+      "message": "มอลโดวา"
+   },
+   "_locationName_Monaco": {
+      "message": "โมนาโก"
+   },
+   "_locationName_Mongolia": {
+      "message": "มองโกเลีย"
+   },
+   "_locationName_Montenegro": {
+      "message": "มอนเตเนโก"
+   },
+   "_locationName_Morocco": {
+      "message": "โมร็อกโก"
+   },
+   "_locationName_Myanmar": {
+      "message": "พม่า"
+   },
+   "_locationName_Nepal": {
+      "message": "เนปาล"
+   },
+   "_locationName_Netherlands": {
+      "message": "เนเธอร์แลนด์"
+   },
+   "_locationName_Netherlands___Amsterdam": {
+      "message": "เนเธอร์แลนด์ - อัมสเตอร์ดัม"
+   },
+   "_locationName_Netherlands___Amsterdam___2": {
+      "message": "เนเธอร์แลนด์ - อัมสเตอร์ดัม - 2"
+   },
+   "_locationName_Netherlands___Rotterdam": {
+      "message": "เนเธอร์แลนด์ - รอตเตอร์ดัม"
+   },
+   "_locationName_Netherlands___The_Hague": {
+      "message": "เนเธอร์แลนด์ - เฮก"
+   },
+   "_locationName_New_Zealand": {
+      "message": "นิวซีแลนด์"
+   },
+   "_locationName_North_Macedonia": {
+      "message": "มาซิโดเนีย"
+   },
+   "_locationName_Norway": {
+      "message": "นอร์เวย์"
+   },
+   "_locationName_Pakistan": {
+      "message": "ปากีสถาน"
+   },
+   "_locationName_Panama": {
+      "message": "ปานามา"
+   },
+   "_locationName_Peru": {
+      "message": "เปรู"
+   },
+   "_locationName_Philippines": {
+      "message": "ฟิลิปปินส์"
+   },
+   "_locationName_Philippines__via_Singapore_": {
+      "message": "ฟิลิปปินส์ (ผ่านสิงคโปร์)"
+   },
+   "_locationName_Pick_for_Me": {
+      "message": "เลือกให้ฉัน "
+   },
+   "_locationName_Poland": {
+      "message": "โปแลนด์"
+   },
+   "_locationName_Portugal": {
+      "message": "โปรตุเกส"
+   },
+   "_locationName_Puerto_Rico": {
+      "message": "เปอร์โตริโก้"
+   },
+   "_locationName_Romania": {
+      "message": "โรมาเนีย"
+   },
+   "_locationName_Serbia": {
+      "message": "เซอร์เบีย"
+   },
+   "_locationName_Singapore": {
+      "message": "สิงคโปร์"
+   },
+   "_locationName_Singapore___CBD": {
+      "message": "สิงคโปร์ - ย่านธุรกิจกลาง"
+   },
+   "_locationName_Singapore___Jurong": {
+      "message": "สิงคโปร์ - จูร่ง"
+   },
+   "_locationName_Singapore___Marina_Bay": {
+      "message": "สิงคโปร์ - มารีน่าเบย์"
+   },
+   "_locationName_Singapore___Sentosa": {
+      "message": "สิงคโปร์ - เซ็นโตซ่า"
+   },
+   "_locationName_Slovakia": {
+      "message": "สโลวาเกีย"
+   },
+   "_locationName_Slovenia": {
+      "message": "สโลวีเนีย"
+   },
+   "_locationName_South_Africa": {
+      "message": "แอฟริกาใต้"
+   },
+   "_locationName_South_Korea": {
+      "message": "เกาหลีใต้"
+   },
+   "_locationName_South_Korea___2": {
+      "message": "เกาหลีใต้ - 2"
+   },
+   "_locationName_Spain": {
+      "message": "สเปน"
+   },
+   "_locationName_Spain___Barcelona": {
+      "message": "สเปน - บาร์เซโลนา"
+   },
+   "_locationName_Spain___Barcelona___2": {
+      "message": "สเปน - บาร์เซโลนา - 2"
+   },
+   "_locationName_Spain___Madrid": {
+      "message": "สเปน - มาดริด"
+   },
+   "_locationName_Sri_Lanka": {
+      "message": "ศรีลังกา"
+   },
+   "_locationName_Sweden": {
+      "message": "สวีเดน"
+   },
+   "_locationName_Sweden___2": {
+      "message": "สวีเดน - 2"
+   },
+   "_locationName_Switzerland": {
+      "message": "สวิสเซอร์แลนด์"
+   },
+   "_locationName_Switzerland___2": {
+      "message": "สวิตเซอร์แลนด์ - 2"
+   },
+   "_locationName_Taiwan": {
+      "message": "ไต้หวัน"
+   },
+   "_locationName_Taiwan___3": {
+      "message": "ไต้หวัน - 3"
+   },
+   "_locationName_Thailand": {
+      "message": "ไทย"
+   },
+   "_locationName_Trinidad_and_Tobago": {
+      "message": "ตรินิแดดและโตเบโก"
+   },
+   "_locationName_Turkey": {
+      "message": "ตุรกี"
+   },
+   "_locationName_UK___Docklands": {
+      "message": "สหราชอาณาจักร - ด็อคแลนด์"
+   },
+   "_locationName_UK___East_London": {
+      "message": "สหราชอาณาจักร - ลอนดอนตะวันออก"
+   },
+   "_locationName_UK___Kent": {
+      "message": "สหราชอาณาจักร - เคนต์"
+   },
+   "_locationName_UK___London": {
+      "message": "สหราชอาณาจักร - ลอนดอน"
+   },
+   "_locationName_UK___Midlands": {
+      "message": "สหราชอาณาจักร - มิดแลนส์"
+   },
+   "_locationName_UK___Wembley": {
+      "message": "สหราชอาณาจักร - เวมบลีย์"
+   },
+   "_locationName_USA___Albuquerque": {
+      "message": "สหรัฐอเมริกา - แอลบูเคอร์คี"
+   },
+   "_locationName_USA___Atlanta": {
+      "message": "สหรัฐ - แอตแลนตา"
+   },
+   "_locationName_USA___Chicago": {
+      "message": "สหรัฐ - ชิคาโก"
+   },
+   "_locationName_USA___Dallas": {
+      "message": "สหรัฐ - ดัลลัส"
+   },
+   "_locationName_USA___Dallas___2": {
+      "message": "สหรัฐ - ดัลลัส - 2"
+   },
+   "_locationName_USA___Denver": {
+      "message": "สหรัฐ - เดนเวอร์"
+   },
+   "_locationName_USA___Hollywood": {
+      "message": "สหรัฐ - ฮอลลีวูด"
+   },
+   "_locationName_USA___Lincoln_Park": {
+      "message": "สหรัฐอเมริกา - ลินคอล์น พาร์ค"
+   },
+   "_locationName_USA___Los_Angeles": {
+      "message": "สหรัฐ - ลอสแองเจลิส "
+   },
+   "_locationName_USA___Los_Angeles___1": {
+      "message": "สหรัฐ - ลอสแองเจลิส - 1"
+   },
+   "_locationName_USA___Los_Angeles___2": {
+      "message": "สหรัฐ - ลอสแองเจลิส - 2"
+   },
+   "_locationName_USA___Los_Angeles___3": {
+      "message": "สหรัฐ - ลอสแองเจลิส - 3"
+   },
+   "_locationName_USA___Los_Angeles___4": {
+      "message": "สหรัฐ - ลอสแองเจลิส - 4"
+   },
+   "_locationName_USA___Los_Angeles___5": {
+      "message": "สหรัฐ - ลอสแองเจลิส - 5"
+   },
+   "_locationName_USA___Miami": {
+      "message": "สหรัฐ - ไมอามี"
+   },
+   "_locationName_USA___Miami___2": {
+      "message": "สหรัฐ - ไมอามี - 2"
+   },
+   "_locationName_USA___New_Jersey___1": {
+      "message": "สหรัฐ - นิวเจอร์ซีย์ - 1"
+   },
+   "_locationName_USA___New_Jersey___2": {
+      "message": "สหรัฐ - นิวเจอร์ซีย์ - 2"
+   },
+   "_locationName_USA___New_Jersey___3": {
+      "message": "สหรัฐ - นิวเจอร์ซีย์ - 3"
+   },
+   "_locationName_USA___New_York": {
+      "message": "สหรัฐ - นิวยอร์ก  "
+   },
+   "_locationName_USA___New_York___2": {
+      "message": "สหรัฐ - นิวยอร์ก - 2"
+   },
+   "_locationName_USA___Phoenix": {
+      "message": "สหรัฐอเมริกา - ฟีนิกซ์"
+   },
+   "_locationName_USA___Salt_Lake_City": {
+      "message": "สหรัฐ - ซอลต์เลกซิตี"
+   },
+   "_locationName_USA___San_Francisco": {
+      "message": "สหรัฐ - ซานฟรานซิสโก"
+   },
+   "_locationName_USA___San_Jose": {
+      "message": "สหรัฐ - ซานโฮเซ่"
+   },
+   "_locationName_USA___Santa_Monica": {
+      "message": "สหรัฐ - ซานตาโมนิกา"
+   },
+   "_locationName_USA___Seattle": {
+      "message": "สหรัฐ - ซีแอตเทิล"
+   },
+   "_locationName_USA___Tampa___1": {
+      "message": "สหรัฐ - แทมปา - 1"
+   },
+   "_locationName_USA___Washington_DC": {
+      "message": "สหรัฐ - วอชิงตันดีซี"
+   },
+   "_locationName_USA___Washington_DC___2": {
+      "message": "สหรัฐ - วอชิงตันดีซี - 2"
+   },
+   "_locationName_Ukraine": {
+      "message": "ยูเครน"
+   },
+   "_locationName_United_Kingdom": {
+      "message": "สหราชอาณาจักร"
+   },
+   "_locationName_United_States": {
+      "message": "สหรัฐ"
+   },
+   "_locationName_Uruguay": {
+      "message": "อุรุกวัย"
+   },
+   "_locationName_Uzbekistan": {
+      "message": "อุซเบกิสถาน"
+   },
+   "_locationName_Venezuela": {
+      "message": "เวเนซุเอลา"
+   },
+   "_locationName_Vietnam": {
+      "message": "เวียดนาม"
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "โลดแล่นบนโลกออนไลน์ด้วยความเร็วสูงสุด ซ่อนตำแหน่งของคุณ เข้าถึงเนื้อหาได้ทุกที่ พร้อมควบคุมแอป ExpressVPN โดยตรงจาก Firefox"
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "โลดแล่นบนโลกออนไลน์ด้วยความเร็วสูงสุด ซ่อนตำแหน่งของคุณ เข้าถึงเนื้อหาได้ทุกที่ พร้อมควบคุมแอป ExpressVPN โดยตรงจาก Chrome"
+   },
+   "app_description_text_beta": {
+      "message": "ExpressVPN Beta มีไว้สำหรับผู้ที่ชื่นชอบการใช้ชีวิตที่ล้ำสมัย ร่วมเป็นคนแรกที่ได้รับคุณสมบัติล่าสุด"
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN: พร็อกซี VPN อินเทอร์เน็ตที่ดีกว่า"
+   },
+   "app_name_title_beta": {
+      "message": "ExpressVPN Beta: VPN อินเทอร์เน็ตที่ดีกว่า"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN"
+   },
+   "error_@firefox@_hide_text": {
+      "message": "หรือคุณสามารถซ่อนส่วนขยายโดยคลิกขวาที่ไอคอนและเลือก \"ลบออกจากแถบเครื่องมือ\" หรือ \"ย้ายไปที่เมนู\""
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_main_button_label": {
+      "message": "รับการสมัครสมาชิก"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_sub_button_label": {
+      "message": "ออกจากระบบ"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_title": {
+      "message": "รับการปกป้องตลอดเวลา"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_main_button_label": {
+      "message": "อัปเดตรายละเอียดการชำระเงิน"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_sub_button_label": {
+      "message": "ออกจากระบบ"
+   },
+   "error_IAP_CONTINUE_USING_p1_text": {
+      "message": "หากต้องการใช้ ExpressVPN ต่อไป โปรดอัปเดตรายละเอียดการชำระเงินในบัญชี iTunes / App Store ของคุณ"
+   },
+   "error_IAP_MAIN_title": {
+      "message": "การชำระเงินล้มเหลว"
+   },
+   "error_IAP_WILL_AUTO_ACTIVATE_p2_text": {
+      "message": "ExpressVPN จะเปิดใช้งานโดยอัตโนมัติภายใน 30 นาทีหลังจากอัปเดตรายละเอียดของคุณ"
+   },
+   "error_NOT_INSTALLED_chromeOS_manual": {
+      "message": "หาก Play Store ไม่มีอยู่ใน Chromebook ของคุณ โปรดทำตามคำแนะนำ [การกำหนดค่าด้วยตนเอง] ของเรา"
+   },
+   "error_NOT_INSTALLED_chromeOS_primary_button": {
+      "message": "ติดตั้ง ExpressVPN"
+   },
+   "error_NOT_INSTALLED_chromeOS_secondary_button": {
+      "message": "ติดต่อฝ่ายสนับสนุน"
+   },
+   "error_NOT_INSTALLED_chromeOS_title": {
+      "description": "Context: This message shows to users on Chromebook (operating Chrome OS). The ExpressVPN app does not work for Chromebook users, for now.",
+      "message": "ไม่รองรับ Chrome OS "
+   },
+   "error_NOT_INSTALLED_linux_title": {
+      "message": "ไม่พบแอป"
+   },
+   "error_NOT_INSTALLED_primary_button": {
+      "message": "ติดตั้งแอปเดสก์ท็อป"
+   },
+   "error_NOT_INSTALLED_secondary_button": {
+      "message": "สมัครสมาชิกใหม่"
+   },
+   "error_NOT_INSTALLED_title": {
+      "message": "ไม่ได้ติดตั้งแอป"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_main_button_label": {
+      "message": "อัปเดตรายละเอียดการชำระเงิน"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_sub_button_label": {
+      "message": "ครั้งหน้า"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_main_button_label": {
+      "message": "สมัครสมาชิกใหม่"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_sub_button_label": {
+      "message": "ออกจากระบบ"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_title": {
+      "message": "การสมัครสมาชิกหมดอายุแล้ว"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_main_button_label": {
+      "message": "อัปเดตรายละเอียดการชำระเงิน"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_sub_button_label": {
+      "message": "ออกจากระบบ"
+   },
+   "error_app_not_found_buy_subscription_button_label": {
+      "message": "ซื้อการเป็นสมาชิก"
+   },
+   "error_app_not_found_contact_support_text": {
+      "message": "\nต้องการความช่วยเหลือ? โปรด [ติดต่อฝ่ายสนับสนุน]"
+   },
+   "error_app_not_found_download_LINUX_button_label": {
+      "message": "ดาวน์โหลดแอป Linux"
+   },
+   "error_app_not_found_download_MAC_button_label": {
+      "message": "ดาวน์โหลดแอป Mac"
+   },
+   "error_app_not_found_download_WINDOWS_button_label": {
+      "message": "ดาวน์โหลดแอป Windows"
+   },
+   "error_app_not_found_get_started_text": {
+      "message": "ใหม่สำหรับ ExpressVPN ใช่หรือไม่? [เริ่มต้น]"
+   },
+   "error_app_not_found_require_CHROMIUM_text": {
+      "message": "โปรดติดตั้งแอป ExpressVPN จาก Google Play Store"
+   },
+   "error_app_not_found_require_LINUX_snap_text": {
+      "message": "หากคุณติดตั้งเบราว์เซอร์จาก \u003Cb>Ubuntu Software Center \u003C/b> ส่วนขยายจะไม่สามารถสื่อสารกับแอป Linux ได้ [เรียนรู้เพิ่มเติม]"
+   },
+   "error_app_not_found_require_LINUX_text": {
+      "message": "ส่วนขยายนี้ต้องการแอป ExpressVPN สำหรับ Linux ที่มีการสมัครใช้งานอยู่"
+   },
+   "error_app_not_found_require_MAC_text": {
+      "message": "ส่วนขยายนี้ต้องการแอป ExpressVPN สำหรับ Mac ที่มีการสมัครใช้งานอยู่"
+   },
+   "error_app_not_found_require_WINDOWS_text": {
+      "message": "ส่วนขยายนี้ต้องการแอป ExpressVPN สำหรับ Windows ที่มีการสมัครใช้งานอยู่"
+   },
+   "error_btnReturnHome_default": {
+      "message": "กลับสู่หน้าหลัก"
+   },
+   "error_business_subscription_expired_contact_support_text": {
+      "message": "หากคุณมีคำถามใด ๆ โปรด [ติดต่อฝ่ายสนับสนุน]"
+   },
+   "error_business_subscription_expired_signout_button_label": {
+      "message": "ออกจากระบบ"
+   },
+   "error_business_subscription_expired_status_text": {
+      "message": "หมดอายุ (%1)"
+   },
+   "error_business_subscription_expired_text": {
+      "message": "โปรดติดต่อเจ้าของบัญชีเพื่อซื้อการสมัครสมาชิกสำหรับธุรกิจใหม่"
+   },
+   "error_business_subscription_expired_title": {
+      "message": "การสมัครสมาชิกหมดอายุแล้ว"
+   },
+   "error_compatibility_error_@firefox@_hide_text": {
+      "message": "หรือคุณสามารถซ่อนส่วนขยายโดยคลิกขวาที่ไอคอนและเลือก \"ลบออกจากแถบเครื่องมือ\" หรือ \"ย้ายไปที่เมนู\""
+   },
+   "error_compatibility_error_hide_text": {
+      "message": "หรือคุณสามารถซ่อนส่วนขยายโดยการคลิกขวาที่ไอคอนและเลือก \"ซ่อนในเมนู Chrome\""
+   },
+   "error_compatibility_error_os_version_p1_text": {
+      "message": "ขณะนี้ส่วนขยายนี้มีให้บริการเฉพาะสำหรับ \u003Cb>macOS 10.10 / Windows 7 \u003C/b> และใหม่กว่า"
+   },
+   "error_compatibility_error_os_version_p2_text": {
+      "message": "โปรดอัปเดตระบบปฏิบัติการเพื่อใช้ส่วนขยาย"
+   },
+   "error_compatibility_error_os_version_update_button_label": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "error_compatibility_error_title": {
+      "message": "อัปเดตระบบปฏิบัติการ"
+   },
+   "error_connection_error_check_l1_text": {
+      "message": "ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต"
+   },
+   "error_connection_error_check_l2_text": {
+      "message": "เลือก [ตำแหน่ง VPN] อื่น"
+   },
+   "error_connection_error_check_l3_text": {
+      "message": "หากทุกอย่างล้มเหลว [ติดต่อฝ่ายสนับสนุน]"
+   },
+   "error_connection_error_lock_on_text": {
+      "message": "ปัจจุบันการใช้งานอินเทอร์เน็ตถูกบล็อกเพื่อปกป้องข้อมูลส่วนบุคคลของคุณ"
+   },
+   "error_connection_error_return_home_button_label": {
+      "message": "กลับสู่หน้าหลัก"
+   },
+   "error_connection_error_return_home_button_label_network_lock_off": {
+      "message": "ยกเลิก"
+   },
+   "error_connection_error_return_home_button_label_network_lock_on": {
+      "message": "ปลดบล็อกอินเทอร์เน็ต"
+   },
+   "error_connection_error_title": {
+      "message": "ไม่สามารถเชื่อมต่อ"
+   },
+   "error_connection_error_to_location_text": {
+      "message": "ไม่สามารถเชื่อมต่อกับ %LOCATION%"
+   },
+   "error_connection_error_try_again_button_label": {
+      "message": "ลองอีกครั้ง"
+   },
+   "error_expired_update_now_link_text": {
+      "message": "สมัครรับข้อมูลแล้ว? [อัพเดทตอนนี้]"
+   },
+   "error_forced_signout_p1_text": {
+      "message": "คุณได้ออกจากระบบเนื่องจากรายละเอียดบัญชีของคุณได้รับการอัปเดต"
+   },
+   "error_forced_signout_p2_linux_text": {
+      "message": "หากต้องการใช้ ExpressVPN ต่อไป โปรดเรียกใช้คำสั่งนี้ในเทอร์มินัลของคุณเพื่อลงชื่อเข้าใช้อีกครั้ง:"
+   },
+   "error_forced_signout_p2_text": {
+      "message": "หากต้องการใช้ ExpressVPN ต่อไป โปรดลงชื่อเข้าใช้อีกครั้ง"
+   },
+   "error_forced_signout_signin_button_label": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "error_forced_signout_title": {
+      "message": "ลงชื่อเข้าใช้ ExpressVPN"
+   },
+   "error_fraudster_hint": {
+      "message": "เราไม่สามารถยืนยันข้อมูลการเรียกเก็บเงินของคุณได้ ดังนั้นเราจึงได้ยกเลิกการชำระเงินของคุณ"
+   },
+   "error_fraudster_p1_text": {
+      "message": "หากต้องการเปิดใช้งานการสมัครของคุณอีกครั้ง\u003Cbr> โปรดอีเมลมาที่"
+   },
+   "error_fraudster_p2_text": {
+      "description": "Do not translate 'Billing Verification'",
+      "message": "หัวเรื่อง: \u003Cspan class='bold DO_NOT_TRANSLATE'>การยืนยันการเรียกเก็บเงิน\u003C/span>"
+   },
+   "error_fraudster_p3_text": {
+      "message": "โปรดแนบภาพถ่ายของบัตรเครดิตที่คุณใช้ (ให้เห็นเฉพาะตัวเลข 4 หลักสุดท้ายและชื่อเท่านั้น)"
+   },
+   "error_fraudster_p4_text": {
+      "message": "โปรดระบุหมายเลขโทรศัพท์ของคุณ (พร้อมรหัสประเทศ) และเวลาที่ดีที่สุดที่เราสามารถโทรหาคุณได้"
+   },
+   "error_fraudster_p5_text": {
+      "message": "ทีมเรียกเก็บเงินจะตอบกลับภายใน 24–48 ชั่วโมง"
+   },
+   "error_fraudster_question1_text": {
+      "message": "คุณจ่ายด้วยบัตรเครดิตหรือไม่?"
+   },
+   "error_fraudster_question2_text": {
+      "message": "ไม่ได้ชำระเงินด้วยบัตรเครดิตใช่ไหม?"
+   },
+   "error_fraudster_title": {
+      "message": "บัญชีถูกระงับ"
+   },
+   "error_free_trial_expired_benefits_text": {
+      "message": "การทดลองใช้ฟรีของคุณหมดอายุ แต่การเชื่อมต่ออีกครั้งทำได้ง่าย ๆ"
+   },
+   "error_free_trial_expired_benefits_title": {
+      "message": "ทำไมต้องอัปเกรด?"
+   },
+   "error_free_trial_expired_enter_new_code_button_label": {
+      "message": "กรอกรหัสการเปิดใช้งาน"
+   },
+   "error_free_trial_expired_l1_text": {
+      "message": "แอปสำหรับทุกอุปกรณ์"
+   },
+   "error_free_trial_expired_l2_text": {
+      "message": "การรับประกันคืนเงิน 30 วัน"
+   },
+   "error_free_trial_expired_l3_text": {
+      "message": "เซิร์ฟเวอร์ที่ปลอดภัยใน 105 ประเทศ"
+   },
+   "error_free_trial_expired_l4_text": {
+      "message": "การสนับสนุนลูกค้าตลอด 24 ชั่วโมงทุกวัน"
+   },
+   "error_free_trial_expired_noIAP_l3_text": {
+      "message": "รับประกันคืนเงินภายใน 30 วัน"
+   },
+   "error_free_trial_expired_status_text": {
+      "message": "หมดอายุ (%1)"
+   },
+   "error_free_trial_expired_title": {
+      "message": "การทดลองใช้ฟรีหมดอายุ"
+   },
+   "error_free_trial_expired_upgrade_now_button_label": {
+      "message": "อัปเกรดตอนนี้"
+   },
+   "error_hide_text": {
+      "message": "หรือคุณสามารถซ่อนส่วนขยายโดยการคลิกขวาที่ไอคอนและเลือก \"ซ่อนในเมนู Chrome\""
+   },
+   "error_not_activated_LINUX_text": {
+      "message": "โปรดรันคำสั่งนี้ในเทอร์มินัลของคุณเพื่อเปิดใช้งานแอปเดสก์ท็อป:"
+   },
+   "error_not_activated_text": {
+      "message": "โปรดลงชื่อเข้าใช้แอป ExpressVPN สำหรับเดสก์ท็อปเพื่อใช้ส่วนขยายนี้"
+   },
+   "error_not_activated_title": {
+      "message": "ไม่ได้เปิดใช้แอป"
+   },
+   "error_open_app_@firefox@_text": {
+      "message": "จำเป็นต้องเปิดแอป ExpressVPN เพื่อใช้งานส่วนขยายนี้"
+   },
+   "error_open_app_contact_support_button_label": {
+      "message": "ติดต่อฝ่ายสนับสนุน"
+   },
+   "error_open_app_open_app_button_label": {
+      "message": "เปิดแอปเดสก์ท็อป"
+   },
+   "error_open_app_text": {
+      "message": "จำเป็นต้องเปิดแอป ExpressVPN เพื่อใช้งานส่วนขยายนี้"
+   },
+   "error_open_app_title": {
+      "message": "แอปไม่เปิด"
+   },
+   "error_signout_button": {
+      "message": "ออกจากระบบ"
+   },
+   "error_simultaneous_connection_cancel_button_label": {
+      "message": "ยกเลิก"
+   },
+   "error_simultaneous_connection_hint": {
+      "message": "ถึงขีดจำกัดการเชื่อมต่อแล้ว"
+   },
+   "error_simultaneous_connection_iap_false_p2_text": {
+      "message": "โปรดยกเลิกการเชื่อมต่ออุปกรณ์หรือ [ซื้อการสมัครสมาชิกเพิ่มเติม]"
+   },
+   "error_simultaneous_connection_iap_true_p2_text": {
+      "message": "กรุณาตัดการเชื่อมต่ออุปกรณ์"
+   },
+   "error_simultaneous_connection_learn_more_button_label": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "error_simultaneous_connection_ok_button_label": {
+      "message": "ตกลง"
+   },
+   "error_simultaneous_connection_p1_text": {
+      "message": "คุณได้ใช้เกินขีดจำกัดการใช้อุปกรณ์ ExpressVPN สำหรับการสมัครนี้แล้ว"
+   },
+   "error_simultaneous_connection_popup_btn0": {
+      "message": "ยกเลิก"
+   },
+   "error_simultaneous_connection_popup_btn1": {
+      "message": "ตกลง"
+   },
+   "error_simultaneous_connection_popup_text": {
+      "message": "การเปิดลิงค์นี้จะเป็นการปลดบล็อคการรับส่งข้อมูลทางอินเทอร์เน็ตทั้งหมด"
+   },
+   "error_simultaneous_connection_popup_title": {
+      "message": "ปลดบล็อกอินเทอร์เน็ต"
+   },
+   "error_subscription_expired_benefits_text": {
+      "message": "การสมัครสมาชิกของคุณหมดอายุ แต่การเชื่อมต่ออีกครั้งทำได้ง่าย ๆ"
+   },
+   "error_subscription_expired_benefits_title": {
+      "message": "เหตุใดจึงต่ออายุ?"
+   },
+   "error_subscription_expired_buy_subscription_button_label": {
+      "message": "สมัครสมาชิกใหม่"
+   },
+   "error_subscription_expired_enter_new_code_button_label": {
+      "message": "กรอกรหัสการเปิดใช้งาน"
+   },
+   "error_subscription_expired_get_subscription_button_label": {
+      "message": "สมัครสมาชิก"
+   },
+   "error_subscription_expired_l1_text": {
+      "message": "เข้าถึงเนื้อหาทั้งหมดที่คุณชื่นชอบ"
+   },
+   "error_subscription_expired_l2_text": {
+      "message": "ออนไลน์อย่างปลอดภัยพร้อมปิดบังตัวตน"
+   },
+   "error_subscription_expired_l3_text": {
+      "message": "บริการสนับสนุนทุกวันตลอด 24 ชั่วโมง"
+   },
+   "error_subscription_expired_l4_text": {
+      "message": "การสนับสนุนลูกค้าตลอด 24 ชั่วโมงทุกวัน"
+   },
+   "error_subscription_expired_status_text": {
+      "message": "หมดอายุ (%1)"
+   },
+   "error_subscription_expired_title": {
+      "message": "การสมัครสมาชิกหมดอายุ"
+   },
+   "error_subscription_expiring_autobill_later_button_label": {
+      "message": "ครั้งหน้า"
+   },
+   "error_subscription_expiring_autobill_p1_text": {
+      "message": "หากต้องการใช้ ExpressVPN ต่อไป โปรดอัปเดตรายละเอียดการชำระเงินของคุณ"
+   },
+   "error_subscription_expiring_autobill_title": {
+      "message": "การชำระเงินล้มเหลว"
+   },
+   "error_subscription_expiring_autobill_update_payment_button_label": {
+      "message": "อัปเดตรายละเอียดการชำระเงิน"
+   },
+   "error_subscription_expiring_later_button_label": {
+      "message": "ครั้งหน้า"
+   },
+   "error_subscription_expiring_p1_text": {
+      "message": "หากต้องการใช้ ExpressVPN ต่อไป โปรดต่ออายุการสมัครของคุณ"
+   },
+   "error_subscription_expiring_renew_button_label": {
+      "message": "ต่ออายุตอนนี้"
+   },
+   "error_subscription_expiring_title": {
+      "message": "การสมัครสมาชิกกำลังหมดอายุ"
+   },
+   "error_upgrade_app_button_label": {
+      "message": "อัปเดตตอนนี้"
+   },
+   "error_upgrade_app_header_title": {
+      "message": "อัปเดตแอป "
+   },
+   "error_upgrade_app_text": {
+      "message": "ส่วนขยายนี้ต้องใช้แอป ExpressVPN เวอร์ชันล่าสุด"
+   },
+   "general_contact_support_button_label": {
+      "message": "ติดต่อฝ่ายสนับสนุน"
+   },
+   "hint_connection_delay_text": {
+      "message": "ยังคงพยายามเชื่อมต่อ"
+   },
+   "hint_network_state_captive_portal_text": {
+      "message": "โปรดลงชื่อเข้าใช้เครือข่าย Wi-Fi เพื่อใช้ VPN"
+   },
+   "hint_network_state_no_internet_connecting_text": {
+      "message": "ตรวจไม่พบการเชื่อมต่ออินเทอร์เน็ต \u003Cbr> VPN จะเชื่อมต่อเมื่อพร้อมใช้งาน"
+   },
+   "hint_network_state_no_internet_ready_text": {
+      "message": "ตรวจไม่พบการเชื่อมต่ออินเทอร์เน็ต \u003Cbr> VPN อาจใช้งานไม่ได้"
+   },
+   "hint_network_state_no_internet_reconnecting_text": {
+      "message": "การเชื่อมต่ออินเทอร์เน็ตขาดหายไป \u003Cbr> VPN จะเชื่อมต่อใหม่เมื่อพร้อมใช้งาน"
+   },
+   "hint_network_state_not_ready_text": {
+      "message": "โปรดรอในขณะที่เครือข่ายของคุณพร้อมใช้งาน"
+   },
+   "hint_network_state_not_sure_connecting_text": {
+      "message": "ตรวจไม่พบการเชื่อมต่ออินเทอร์เน็ต VPN จะเชื่อมต่อเมื่อพร้อมใช้งาน"
+   },
+   "hint_network_state_not_sure_ready_text": {
+      "message": "ตรวจไม่พบการเชื่อมต่ออินเทอร์เน็ต VPN อาจไม่พร้อมใช้งาน"
+   },
+   "hint_network_state_not_sure_reconnecting_text": {
+      "message": "ตรวจไม่พบการเชื่อมต่ออินเทอร์เน็ต VPN จะเชื่อมต่อเมื่อพร้อมใช้งาน"
+   },
+   "hint_no_internet_connecting_text": {
+      "message": "ตรวจไม่พบการเชื่อมต่ออินเทอร์เน็ต \u003Cbr> VPN จะเชื่อมต่อเมื่อพร้อมใช้งาน"
+   },
+   "hint_no_internet_ready_text": {
+      "message": "ตรวจไม่พบการเชื่อมต่ออินเทอร์เน็ต \u003Cbr> VPN อาจใช้งานไม่ได้"
+   },
+   "hint_no_internet_reconnecting_text": {
+      "message": "การเชื่อมต่ออินเทอร์เน็ตขาดหายไป \u003Cbr> VPN จะเชื่อมต่อใหม่เมื่อพร้อมใช้งาน"
+   },
+   "hint_reconnecting_network_lock_off_text": {
+      "message": "การเชื่อมต่อลดลงโดยไม่คาดหมาย เชื่อมต่อใหม่..."
+   },
+   "hint_reconnecting_network_lock_on_text": {
+      "message": "ขณะนี้การใช้อินเทอร์เน็ตถูกบล็อกเพื่อปกป้องความเป็นส่วนตัวของคุณ"
+   },
+   "hint_saved_text": {
+      "message": "บันทึก "
+   },
+   "home_change_location_popup_btn0": {
+      "message": "ยกเลิก"
+   },
+   "home_change_location_popup_btn1": {
+      "message": "ดำเนินการต่อ"
+   },
+   "home_change_location_popup_text": {
+      "message": "ข้อมูลการใช้งานของคุณอาจจะไม่ปลอดภัยระหว่างการเชื่อมต่อใหม่"
+   },
+   "home_change_location_popup_title": {
+      "message": "เปลี่ยนสถานที่"
+   },
+   "language_dropdown_danish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "เดนมาร์ก (Dansk)"
+   },
+   "language_dropdown_dutch": {
+      "description": "Do not translate the text between parentheses",
+      "message": "ดัตช์ (Nederlands)"
+   },
+   "language_dropdown_english": {
+      "description": "Do not translate the text between parentheses",
+      "message": "อังกฤษ (English)"
+   },
+   "language_dropdown_finnish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "ฟินแลนด์ (Suomi)"
+   },
+   "language_dropdown_french": {
+      "description": "Do not translate the text between parentheses",
+      "message": "ฝรั่งเศส (Français)"
+   },
+   "language_dropdown_german": {
+      "description": "Do not translate the text between parentheses",
+      "message": "เยอรมัน (Deutsch)"
+   },
+   "language_dropdown_italian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "อิตาลี (Italiano)"
+   },
+   "language_dropdown_japanese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "ญี่ปุ่น (日本語)"
+   },
+   "language_dropdown_korean": {
+      "description": "Do not translate the text between parentheses",
+      "message": "เกาหลี (한국어)"
+   },
+   "language_dropdown_norwegian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "นอร์เวย์ (Norsk)"
+   },
+   "language_dropdown_polish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "โปแลนด์ (Polski)"
+   },
+   "language_dropdown_portuguese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "โปรตุเกส (Português)"
+   },
+   "language_dropdown_russian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "รัสเซีย (Русский)"
+   },
+   "language_dropdown_spanish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "สเปน (Español)"
+   },
+   "language_dropdown_swedish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "สวีเดน (Svenska)"
+   },
+   "language_dropdown_thai": {
+      "description": "Do not translate the text between parentheses",
+      "message": "ไทย (ภาษาไทย)"
+   },
+   "language_dropdown_turkish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "ตุรกี (Türkçe)"
+   },
+   "list_item_247_support": {
+      "message": "การสนับสนุนลูกค้าตลอด 24 ชั่วโมงทุกวัน"
+   },
+   "list_item_30day_guarantee": {
+      "message": "การรับประกันคืนเงิน 30 วัน"
+   },
+   "list_item_apps_for_every_device": {
+      "message": "แอปสำหรับทุกอุปกรณ์"
+   },
+   "list_item_locations_worldwide": {
+      "message": "เซิร์ฟเวอร์ที่ปลอดภัยใน 105 ประเทศ"
+   },
+   "list_item_refer_frieds": {
+      "message": "แนะนำเพื่อน รับ 30 วันฟรี"
+   },
+   "list_item_unlimited_bandwidth": {
+      "message": "แบนด์วิดท์ไม่จำกัด"
+   },
+   "location_picker_locations_title": {
+      "message": "ตำแหน่ง VPN"
+   },
+   "location_picker_recent_locations_text": {
+      "message": "ตำแหน่งล่าสุด"
+   },
+   "location_picker_recommended_locations_text": {
+      "message": "ตำแหน่งแนะนำ"
+   },
+   "location_picker_search_no_results_text": {
+      "message": "ไม่มีผลลัพธ์"
+   },
+   "location_picker_search_placeholder_text": {
+      "message": "ค้นหาเมืองหรือประเทศ"
+   },
+   "location_picker_smart_location_text": {
+      "message": "สถานที่อัจฉริยะ"
+   },
+   "location_picker_tab_all_text": {
+      "message": "ตำแหน่งทั้งหมด"
+   },
+   "location_picker_tab_recommended_text": {
+      "message": "แนะนำ"
+   },
+   "main_screen_current_location_text": {
+      "message": "ตำแหน่งปัจจุบัน"
+   },
+   "main_screen_recent_location_text": {
+      "message": "ตำแหน่งล่าสุด"
+   },
+   "main_screen_selected_location_text": {
+      "message": "ตำแหน่งที่เลือก"
+   },
+   "main_screen_smart_location_text": {
+      "message": "สถานที่อัจฉริยะ"
+   },
+   "main_screen_status_vpn_connected_text": {
+      "message": "เชื่อมต่อแล้ว"
+   },
+   "main_screen_status_vpn_connecting_text": {
+      "message": "กำลังเชื่อมต่อ..."
+   },
+   "main_screen_status_vpn_disconnecting_text": {
+      "message": "กำลังยกเลิกการเชื่อมต่อ..."
+   },
+   "main_screen_status_vpn_ready_text": {
+      "message": "ไม่ได้เชื่อมต่อ"
+   },
+   "main_screen_status_vpn_reconnecting_text": {
+      "message": "กำลังเชื่อมต่อใหม่..."
+   },
+   "main_screen_status_vpn_speedtesting_text": {
+      "message": "กำลังใช้งานการทดสอบความเร็ว..."
+   },
+   "menu_beta_feedback": {
+      "message": "ส่งข้อเสนอแนะเบต้า"
+   },
+   "menu_cancel_text": {
+      "message": "ยกเลิก"
+   },
+   "menu_connection_startup_@firefox@_header": {
+      "description": "Settings startup header",
+      "message": "เริ่มต้น Firefox"
+   },
+   "menu_connection_startup_text": {
+      "message": "เชื่อมต่อเมื่อเปิดเบราว์เซอร์"
+   },
+   "menu_desktop_notification_text": {
+      "message": "แสดงการแจ้งเตือนบนเดสก์ท็อป"
+   },
+   "menu_get_30_days_free": {
+      "message": "รับฟรี 30 วัน"
+   },
+   "menu_header": {
+      "message": "ตัวเลือก"
+   },
+   "menu_help_support": {
+      "message": "ความช่วยเหลือและการสนับสนุน"
+   },
+   "menu_item_DNS_leak_test_text": {
+      "message": "การทดสอบการรั่วไหล DNS"
+   },
+   "menu_item_acknowledgements_text": {
+      "message": "คำประกาศ"
+   },
+   "menu_item_app_version_text": {
+      "message": "เวอร์ชันของแอปสำหรับ %OS%: %VERSION%"
+   },
+   "menu_item_contact_support_text": {
+      "message": "ติดต่อฝ่ายสนับสนุน"
+   },
+   "menu_item_diagnostic_text": {
+      "message": "ข้อมูลการวินิจฉัย"
+   },
+   "menu_item_extension_version_text": {
+      "message": "เวอร์ชันส่วนขยาย: %VERSION%"
+   },
+   "menu_item_faq_text": {
+      "message": "คำถามที่พบบ่อย"
+   },
+   "menu_item_ip_address_checker_text": {
+      "message": "ตัวตรวจสอบที่อยู่ IP"
+   },
+   "menu_item_webRTC_leak_test_text": {
+      "message": "การทดสอบการรั่วไหล WebRTC"
+   },
+   "menu_keyboard_shortcut_text": {
+      "message": "เปิดด้วยแป้นพิมพ์ลัด"
+   },
+   "menu_my_account": {
+      "message": "บัญชี"
+   },
+   "menu_myaccount_title": {
+      "message": "บัญชี"
+   },
+   "menu_privacy_block_webrtc_text": {
+      "message": "บล็อก WebRTC"
+   },
+   "menu_privacy_hide_location_text": {
+      "message": "ปลอมตำแหน่งของคุณ"
+   },
+   "menu_rate_expressvpn": {
+      "message": "ให้คะแนน ExpressVPN"
+   },
+   "menu_section_about_title": {
+      "message": "เกี่ยวกับ "
+   },
+   "menu_section_support_chat_menu_label": {
+      "message": "พูดคุยกับเรา"
+   },
+   "menu_section_support_improvements_menu_label": {
+      "message": "แนะนำการปรับปรุง"
+   },
+   "menu_section_support_report_menu_label": {
+      "message": "รายงานปัญหา"
+   },
+   "menu_section_support_title": {
+      "message": "ติดต่อเรา"
+   },
+   "menu_settings_general_display_header": {
+      "message": "แสดงการตั้งค่า"
+   },
+   "menu_settings_general_header": {
+      "message": "ทั่วไป"
+   },
+   "menu_settings_general_language_label": {
+      "message": "ภาษา"
+   },
+   "menu_settings_general_name": {
+      "message": "การตั้งค่า"
+   },
+   "menu_settings_general_open_app_settings_button_label": {
+      "message": "กำหนดค่าการตั้งค่าแอปเดสก์ท็อป"
+   },
+   "menu_settings_help_button_label": {
+      "message": "ช่วยเหลือ"
+   },
+   "menu_settings_privacy_block_webrtc_description_text": {
+      "message": "ป้องกันไม่ให้เว็บไซต์ค้นพบที่อยู่ IP จริงและตำแหน่งของคุณในขณะที่เชื่อมต่อกับ VPN"
+   },
+   "menu_settings_privacy_hide_location_description_text": {
+      "message": "หยุดการระบุตำแหน่งทางภูมิศาสตร์ HTML5 บนเว็บไซต์ส่วนใหญ่ ปิดบังตำแหน่งทางกายภาพของคุณในขณะที่เชื่อมต่อกับ VPN"
+   },
+   "menu_settings_privacy_https_everywhere_description_text": {
+      "message": "เชื่อมต่อกับเว็บไซต์ HTTPS เวอร์ชันที่มีความปลอดภัยมากขึ้นเมื่อมีโอกาส"
+   },
+   "menu_settings_privacy_learn_more_button_label": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "menu_settings_privacy_security_name": {
+      "message": "ความเป็นส่วนตัวและความปลอดภัย"
+   },
+   "menu_settings_settings_general_title": {
+      "message": "การตั้งค่า"
+   },
+   "menu_settings_settings_privacy_title": {
+      "message": "การตั้งค่าความเป็นส่วนตัว"
+   },
+   "menu_setup_other_devices": {
+      "message": "ตั้งค่าอุปกรณ์อื่น ๆ"
+   },
+   "menu_signout_p1_text": {
+      "message": "คุณแน่ใจใช่หรือไม่? คุณจะลงชื่อออกจากแอปเดสก์ท็อป"
+   },
+   "menu_signout_text": {
+      "message": "ออกจากระบบ"
+   },
+   "myaccount_account_active_p1_text": {
+      "message": "แบ่งปัน ExpressVPN และรับบริการฟรี!"
+   },
+   "myaccount_account_active_p2_text": {
+      "message": "สำหรับเพื่อนทุกคนที่สมัครใช้งาน เราจะให้คุณทั้งคู่ฟรี 30 วัน"
+   },
+   "myaccount_account_expired_label": {
+      "message": "หมดอายุ"
+   },
+   "myaccount_account_expiry_label": {
+      "message": "หมดอายุ"
+   },
+   "myaccount_account_payment_due_label": {
+      "message": "ครบกำหนดชำระเงินตั้งแต่"
+   },
+   "myaccount_account_renews_label": {
+      "message": "ต่ออายุ"
+   },
+   "myaccount_account_status_active_text": {
+      "message": "เปิดใช้งาน"
+   },
+   "myaccount_account_status_expired_text": {
+      "message": "หมดอายุ"
+   },
+   "myaccount_account_status_free_trial_active_text": {
+      "message": "ทดลอง"
+   },
+   "myaccount_account_status_label": {
+      "message": "สถานะบัญชี"
+   },
+   "myaccount_account_status_trial_expired_text": {
+      "message": "การทดลองหมดอายุ"
+   },
+   "myaccount_account_status_trial_text": {
+      "message": "ทดลอง"
+   },
+   "myaccount_account_subscription_starts_label": {
+      "message": "การสมัครสมาชิกเริ่มต้น"
+   },
+   "myaccount_active_refer_button_label": {
+      "message": "แนะนำเพื่อน"
+   },
+   "myaccount_expiring_buy_button_label": {
+      "message": "ซื้อตอนนี้ "
+   },
+   "myaccount_expiring_renew_button_label": {
+      "message": "ต่ออายุตอนนี้"
+   },
+   "myaccount_expiring_upgrade_button_label": {
+      "message": "อัปเกรดตอนนี้"
+   },
+   "myaccount_manage_button_label": {
+      "message": "จัดการบัญชี"
+   },
+   "myaccount_manage_subscription_button_label": {
+      "message": "จัดการการสมัครสมาชิก"
+   },
+   "myaccount_why_get_subscription_subheader_text": {
+      "message": "ทำไมต้องสมัครสมาชิก?"
+   },
+   "myaccount_why_renew_subheader_text": {
+      "message": "ทำไมต้องต่ออายุ?"
+   },
+   "networkLock_cancel_button_label": {
+      "message": "ยกเลิก"
+   },
+   "networkLock_header_connected_text": {
+      "message": "เชื่อมต่อ VPN แล้ว"
+   },
+   "networkLock_header_connecting_text": {
+      "message": "กรุณาเตรียมพร้อม"
+   },
+   "networkLock_header_connection_error_text": {
+      "message": "ไม่สามารถเชื่อมต่อ"
+   },
+   "networkLock_header_reconnecting_text": {
+      "message": "กรุณาเตรียมพร้อม"
+   },
+   "networkLock_hint_connected_text": {
+      "message": "คุณจะถูกเปลี่ยนเส้นทางในไม่ช้า"
+   },
+   "networkLock_hint_connecting_text": {
+      "message": "ปัจจุบันการใช้งานอินเทอร์เน็ตถูกบล็อกเพื่อปกป้องข้อมูลส่วนบุคคลของคุณ"
+   },
+   "networkLock_hint_connection_error_text": {
+      "message": "ปัจจุบันการใช้งานอินเทอร์เน็ตถูกบล็อกเพื่อปกป้องข้อมูลส่วนบุคคลของคุณ"
+   },
+   "networkLock_hint_reconnecting_text": {
+      "message": "ปัจจุบันการใช้งานอินเทอร์เน็ตถูกบล็อกเพื่อปกป้องข้อมูลส่วนบุคคลของคุณ"
+   },
+   "networkLock_status_connected_text": {
+      "message": "เชื่อมต่อกับ %LOCATION%"
+   },
+   "networkLock_status_connecting_text": {
+      "message": "เชื่อมต่อกับ %LOCATION%"
+   },
+   "networkLock_status_connection_error_text": {
+      "message": "ไม่สามารถเชื่อมต่อกับ %LOCATION%"
+   },
+   "networkLock_status_reconnecting_text": {
+      "message": "กำลังเชื่อมต่อใหม่กับ %LOCATION%"
+   },
+   "networkLock_try_again_button_label": {
+      "message": "ลองอีกครั้ง"
+   },
+   "networkLock_unblock_internet_button_label": {
+      "message": "ปลดบล็อกอินเทอร์เน็ต"
+   },
+   "notification_extension_update_message": {
+      "message": "คลิกเพื่อดูว่ามีอะไรใหม่ในเวอร์ชัน %VERSION%"
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN อัปเดตแล้ว"
+   },
+   "promo_bar_free_trial_expiring_soon_days_text": {
+      "message": "การทดลองใช้ฟรีหมดอายุในอีก [days] วัน"
+   },
+   "promo_bar_free_trial_expiring_soon_expired_text": {
+      "message": "การทดลองใช้ฟรีของคุณหมดอายุแล้ว"
+   },
+   "promo_bar_free_trial_expiring_soon_hours_text": {
+      "message": "การทดลองใช้ฟรีหมดอายุใน [hours] ชั่วโมง  "
+   },
+   "promo_bar_free_trial_expiring_soon_less_than_one_hour_text": {
+      "message": "การทดลองใช้ฟรีหมดอายุภายใน \u003C1 ชั่วโมง  "
+   },
+   "promo_bar_free_trial_expiring_soon_upgrade_now_button_label": {
+      "message": "อัพเกรดตอนนี้"
+   },
+   "promo_bar_splittunneling_@firefox@_text": {
+      "message": "Firefox ถูกแยกออกจาก VPN"
+   },
+   "promo_bar_splittunneling_settings_button_label": {
+      "message": "ตรวจสอบการตั้งค่า"
+   },
+   "promo_bar_splittunneling_text": {
+      "message": "Chrome ถูกแยกออกจาก VPN"
+   },
+   "promo_bar_subscription_expiring_soon_days_text": {
+      "message": "การสมัครสมาชิกหมดอายุใน [days] วัน "
+   },
+   "promo_bar_subscription_expiring_soon_expired_text": {
+      "message": "การสมัครสมาชิกของคุณหมดอายุแล้ว"
+   },
+   "promo_bar_subscription_expiring_soon_get_new_subscription_button_label": {
+      "message": "สมัครสมาชิกใหม่"
+   },
+   "promo_bar_subscription_expiring_soon_hours_text": {
+      "message": "การสมัครสมาชิกหมดอายุใน [hours] ชั่วโมง"
+   },
+   "promo_bar_subscription_expiring_soon_less_than_one_hour_text": {
+      "message": "การสมัครสมาชิกหมดอายุภายใน \u003C1 ชั่วโมง"
+   },
+   "promo_bar_subscription_expiring_soon_renew_now_button_label": {
+      "message": "ต่ออายุตอนนี้"
+   },
+   "promobar_free_trial_expiring_soon_days_header": {
+      "message": "การทดลองใช้ฟรีหมดอายุในอีก [days] วัน"
+   },
+   "promobar_free_trial_expiring_soon_expired_header": {
+      "message": "การทดลองใช้ฟรีของคุณหมดอายุแล้ว"
+   },
+   "promobar_free_trial_expiring_soon_hours_header": {
+      "message": "การทดลองใช้ฟรีหมดอายุใน [hours] ชั่วโมง  "
+   },
+   "promobar_free_trial_expiring_soon_less_than_one_hour_header": {
+      "message": "การทดลองใช้ฟรีหมดอายุภายใน \u003C1 ชั่วโมง  "
+   },
+   "promobar_free_trial_expiring_soon_text": {
+      "message": "อัปเกรดตอนนี้"
+   },
+   "promobar_iap_failed_header": {
+      "message": "การชำระเงินครั้งล่าสุดของคุณล้มเหลว"
+   },
+   "promobar_iap_failed_text": {
+      "message": "อัปเดตรายละเอียด"
+   },
+   "promobar_splittunneling_@firefox@_header": {
+      "message": "Firefox ถูกแยกออกจาก VPN"
+   },
+   "promobar_splittunneling_header": {
+      "message": "Chrome ถูกแยกออกจาก VPN"
+   },
+   "promobar_splittunneling_text": {
+      "message": "ตรวจสอบการตั้งค่า"
+   },
+   "promobar_subscription_expired_header": {
+      "message": "การสมัครของคุณใกล้จะหมดอายุ"
+   },
+   "promobar_subscription_expiring_autobill_header": {
+      "message": "การชำระเงินครั้งล่าสุดของคุณล้มเหลว"
+   },
+   "promobar_subscription_expiring_autobill_text": {
+      "message": "อัปเดตรายละเอียด"
+   },
+   "promobar_subscription_expiring_soon_days_header": {
+      "message": "การสมัครสมาชิกหมดอายุใน [days] วัน "
+   },
+   "promobar_subscription_expiring_soon_expired_header": {
+      "message": "สมาชิกของคุณหมดอายุแล้ว"
+   },
+   "promobar_subscription_expiring_soon_hours_header": {
+      "message": "การสมัครสมาชิกหมดอายุใน [hours] ชั่วโมง"
+   },
+   "promobar_subscription_expiring_soon_renewable_false_text": {
+      "message": "สมัครสมาชิกใหม่"
+   },
+   "promobar_subscription_expiring_soon_renewable_true_text": {
+      "message": "ต่ออายุตอนนี้"
+   },
+   "promobar_update_available_header": {
+      "message": "มีการอัปเดต!"
+   },
+   "promobar_update_available_text": {
+      "message": "ติดตั้งตอนนี้"
+   },
+   "rating_improve_header": {
+      "message": "เราจะสามารถทำดีกว่านี้ได้อย่างไร?"
+   },
+   "rating_improve_report_button": {
+      "message": "รายงานปัญหา"
+   },
+   "rating_improve_suggest_button": {
+      "message": "แนะนำการปรับปรุง"
+   },
+   "rating_no_thanks_text": {
+      "message": "ไม่เป็นไร ขอบคุณ"
+   },
+   "rating_prompt_header": {
+      "message": "คุณชอบ ExpressVPN มากแค่ไหน?"
+   },
+   "rating_prompt_ok_button": {
+      "message": "ตกลง"
+   },
+   "rating_thanks4_text": {
+      "message": "ขอบคุณสำหรับคะแนนของคุณ!"
+   },
+   "rating_thanks_@firefox@_text": {
+      "message": "ขอบคุณ! ให้คะแนนเราที่ Firefox Add-on Store หรือไม่?"
+   },
+   "rating_thanks_text": {
+      "message": "ขอบคุณ! ให้คะแนนเราที่ Chrome Web Store หรือไม่?"
+   },
+   "settings_general_help_improve_description": {
+      "message": "แบ่งปันรายงานข้อขัดข้อง การทดสอบความเร็ว การวินิจฉัย\nการใช้งาน และความสำเร็จในการเชื่อมต่อ VPN รายงานเหล่านี้ไม่มีข้อมูลส่วนบุคคลที่สามารถระบุตัวตนได้"
+   },
+   "settings_general_help_improve_label": {
+      "message": "ช่วยปรับปรุง ExpressVPN"
+   },
+   "vpn_status_notification_connected_label": {
+      "message": "เชื่อมต่อ VPN แล้ว"
+   },
+   "vpn_status_notification_connected_text": {
+      "message": "เชื่อมต่อกับ %s"
+   },
+   "vpn_status_notification_connecting_label": {
+      "message": "กำลังเชื่อมต่อ VPN..."
+   },
+   "vpn_status_notification_connection_failed_label": {
+      "message": "VPN ไม่สามารถเชื่อมต่อได้"
+   },
+   "vpn_status_notification_connection_failed_network_lock_off_text": {
+      "message": "ไม่สามารถเชื่อมต่อกับ %s"
+   },
+   "vpn_status_notification_connection_failed_network_lock_on_text": {
+      "message": "ไม่สามารถเชื่อมต่อกับ %s \nการจราจรทางอินเทอร์เน็ตถูกบล็อก"
+   },
+   "vpn_status_notification_connection_limit_label": {
+      "message": "ถึงขีดจำกัดการเชื่อมต่อแล้ว"
+   },
+   "vpn_status_notification_connection_limit_text": {
+      "message": "โปรดยกเลิกการเชื่อมต่อกับอุปกรณ์หรือซื้อการสมัครสมาชิกเพิ่มเติม"
+   },
+   "vpn_status_notification_reconnecting_label": {
+      "message": "กำลังเชื่อมต่อ VPN..."
+   },
+   "vpn_status_notification_reconnecting_network_lock_off_text": {
+      "message": "กำลังเชื่อมต่อใหม่กับ %s"
+   },
+   "vpn_status_notification_reconnecting_network_lock_on_text": {
+      "message": "กำลังเชื่อมต่อใหม่ไปยัง %s การจราจรทางอินเทอร์เน็ตถูกบล็อก"
+   },
+   "welcome_continue_button_label": {
+      "message": "ดำเนินการต่อ"
+   },
+   "welcome_help_improve_expressvpn_header": {
+      "message": "ช่วยปรับปรุง ExpressVPN"
+   },
+   "welcome_help_improve_expressvpn_learn_more_text": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "welcome_help_improve_expressvpn_no_button_label": {
+      "message": "ไม่เป็นไร ขอบคุณ"
+   },
+   "welcome_help_improve_expressvpn_ok_button_label": {
+      "message": "ตกลง"
+   },
+   "welcome_help_improve_expressvpn_p1_text": {
+      "message": "แบ่งปันรายงานข้อขัดข้อง การทดสอบความเร็ว การวินิจฉัยการใช้งาน และความสำเร็จในการเชื่อมต่อ VPN รายงานเหล่านี้ไม่มีข้อมูลที่สามารถระบุตัวบุคคลได้"
+   },
+   "welcome_not_installed_buy_header": {
+      "message": "เริ่มต้นโดยปราศจากความเสี่ยง"
+   },
+   "welcome_not_installed_buy_text": {
+      "message": "สมัครสมาชิกที่ 8.32 USD/เดือน"
+   },
+   "welcome_not_installed_existing_button_label": {
+      "message": "เป็นลูกค้าเดิม?"
+   },
+   "welcome_not_installed_get_button_label": {
+      "message": "รับ ExpressVPN"
+   },
+   "welcome_not_installed_reasons_li_1_text": {
+      "message": "รักษาความปลอดภัย VPN ทั่วโลก"
+   },
+   "welcome_not_installed_reasons_li_2_text": {
+      "message": "ความรวดเร็วและแบนด์วิดท์ไม่จำกัด"
+   },
+   "welcome_not_installed_reasons_li_3_text": {
+      "message": "สนับสนุนทุกวันตลอด 24 ชั่วโมง"
+   },
+   "welcome_not_installed_reasons_li_4_text": {
+      "message": "รับประกันคืนเงินใน 30 วัน"
+   },
+   "welcome_not_installed_scene_1_text": {
+      "message": "ควบคุมความเป็นส่วนตัวและปกป้องข้อมูลออนไลน์ของคุณ"
+   },
+   "welcome_not_installed_scene_2_text": {
+      "message": "เพลิดเพลินกับโชว์และแอปโปรด ไม่ว่าคุณจะอยู่ที่ใดก็ตาม"
+   },
+   "welcome_not_installed_scene_3_text": {
+      "message": "เชื่อมต่อ Wi-Fi สาธารณะอย่างปลอดภัยในโรงแรม คาเฟ่ และสนามบิน"
+   },
+   "welcome_screen1_p1_text": {
+      "message": "ส่วนขยาย ExpressVPN เป็นรีโมทคอนโทรลสำหรับแอปเดสก์ท็อป"
+   },
+   "welcome_screen2_p1_text": {
+      "message": "เมื่อคุณเชื่อมต่อกับ VPN อุปกรณ์ทั้งหมดของคุณจะได้รับการปกป้อง ไม่ใช่เฉพาะเบราว์เซอร์"
+   },
+   "welcome_screen3_learn_more_text": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "welcome_screen3_p1_text": {
+      "message": "ส่วนขยายนี้ปลอมแปลงตำแหน่งของคุณบนเว็บไซต์ส่วนใหญ่ บล็อก WebRTC และรวมถึง HTTPS Everywhere"
+   },
+   "welcome_skip_button_label": {
+      "message": "ข้าม"
+   }
+}

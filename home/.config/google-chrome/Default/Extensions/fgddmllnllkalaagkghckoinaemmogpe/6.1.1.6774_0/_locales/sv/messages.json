@@ -1,0 +1,1693 @@
+{
+   "_locationName_Albania": {
+      "message": "Albanien"
+   },
+   "_locationName_Algeria": {
+      "message": "Algeriet"
+   },
+   "_locationName_Americas": {
+      "message": "Amerika"
+   },
+   "_locationName_Andorra": {
+      "message": "Andorra"
+   },
+   "_locationName_Argentina": {
+      "message": "Argentina"
+   },
+   "_locationName_Armenia": {
+      "message": "Armenien"
+   },
+   "_locationName_Asia_Pacific": {
+      "message": "Asien och Stillahavsområdet"
+   },
+   "_locationName_Australia": {
+      "message": "Australien"
+   },
+   "_locationName_Australia___Adelaide": {
+      "message": "Australien - Adelaide"
+   },
+   "_locationName_Australia___Brisbane": {
+      "message": "Australien - Brisbane"
+   },
+   "_locationName_Australia___Melbourne": {
+      "message": "Australien - Melbourne"
+   },
+   "_locationName_Australia___Perth": {
+      "message": "Australien - Perth"
+   },
+   "_locationName_Australia___Sydney": {
+      "message": "Australien - Sydney"
+   },
+   "_locationName_Australia___Sydney___2": {
+      "message": "Australien - Sydney - 2"
+   },
+   "_locationName_Australia___Sydney___3": {
+      "message": "Australien - Sydney - 3"
+   },
+   "_locationName_Australia___Woolloomooloo": {
+      "message": "Australien - Woolloomooloo"
+   },
+   "_locationName_Austria": {
+      "message": "Österrike"
+   },
+   "_locationName_Azerbaijan": {
+      "message": "Azerbajdzjan"
+   },
+   "_locationName_Bahamas": {
+      "message": "Bahamas"
+   },
+   "_locationName_Bangladesh": {
+      "message": "Bangladesh"
+   },
+   "_locationName_Belarus": {
+      "message": "Vitryssland"
+   },
+   "_locationName_Belgium": {
+      "message": "Belgien"
+   },
+   "_locationName_Bermuda": {
+      "message": "Bermuda"
+   },
+   "_locationName_Bhutan": {
+      "message": "Bhutan"
+   },
+   "_locationName_Bolivia": {
+      "message": "Bolivia"
+   },
+   "_locationName_Bosnia_and_Herzegovina": {
+      "message": "Bosnien och Hercegovina"
+   },
+   "_locationName_Brazil": {
+      "message": "Brasilien"
+   },
+   "_locationName_Brazil___2": {
+      "message": "Brasilien - 2"
+   },
+   "_locationName_Brunei": {
+      "message": "Brunei"
+   },
+   "_locationName_Brunei_Darussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "_locationName_Bulgaria": {
+      "message": "Bulgarien"
+   },
+   "_locationName_Cambodia": {
+      "message": "Kambodja"
+   },
+   "_locationName_Canada": {
+      "message": "Kanada"
+   },
+   "_locationName_Canada___Montreal": {
+      "message": "Kanada - Montreal"
+   },
+   "_locationName_Canada___Montreal___2": {
+      "message": "Kanada - Montreal - 2"
+   },
+   "_locationName_Canada___Toronto": {
+      "message": "Kanada - Toronto"
+   },
+   "_locationName_Canada___Toronto___2": {
+      "message": "Kanada - Toronto - 2"
+   },
+   "_locationName_Canada___Vancouver": {
+      "message": "Kanada - Vancouver"
+   },
+   "_locationName_Cayman_Islands": {
+      "message": "Caymanöarna"
+   },
+   "_locationName_Chile": {
+      "message": "Chile"
+   },
+   "_locationName_Colombia": {
+      "message": "Colombia"
+   },
+   "_locationName_Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "_locationName_Croatia": {
+      "message": "Kroatien"
+   },
+   "_locationName_Cuba": {
+      "message": "Kuba"
+   },
+   "_locationName_Cyprus": {
+      "message": "Cypern"
+   },
+   "_locationName_Czech_Republic": {
+      "message": "Tjeckien"
+   },
+   "_locationName_Denmark": {
+      "message": "Danmark"
+   },
+   "_locationName_Dominican_Republic": {
+      "message": "Dominikanska republiken"
+   },
+   "_locationName_Ecuador": {
+      "message": "Ecuador"
+   },
+   "_locationName_Egypt": {
+      "message": "Egypten"
+   },
+   "_locationName_Estonia": {
+      "message": "Estland"
+   },
+   "_locationName_Europe": {
+      "message": "Europa"
+   },
+   "_locationName_Finland": {
+      "message": "Finland"
+   },
+   "_locationName_France": {
+      "message": "Frankrike"
+   },
+   "_locationName_France___Alsace": {
+      "message": "Frankrike - Alsace"
+   },
+   "_locationName_France___Marseille": {
+      "message": "Frankrike - Marseille"
+   },
+   "_locationName_France___Paris___1": {
+      "message": "Frankrike - Paris - 1"
+   },
+   "_locationName_France___Paris___2": {
+      "message": "Frankrike - Paris - 2"
+   },
+   "_locationName_France___Strasbourg": {
+      "message": "Frankrike - Strasbourg"
+   },
+   "_locationName_Georgia": {
+      "message": "Georgien"
+   },
+   "_locationName_Germany": {
+      "message": "Tyskland"
+   },
+   "_locationName_Germany___Frankfurt___1": {
+      "message": "Tyskland - Frankfurt - 1"
+   },
+   "_locationName_Germany___Frankfurt___2": {
+      "message": "Tyskland - Frankfurt - 2"
+   },
+   "_locationName_Germany___Frankfurt___3": {
+      "message": "Tyskland - Frankfurt - 3"
+   },
+   "_locationName_Germany___Nuremberg": {
+      "message": "Tyskland - Nürnberg"
+   },
+   "_locationName_Ghana": {
+      "message": "Ghana"
+   },
+   "_locationName_Greece": {
+      "message": "Grekland"
+   },
+   "_locationName_Guam": {
+      "message": "Guam"
+   },
+   "_locationName_Guatemala": {
+      "message": "Guatemala"
+   },
+   "_locationName_Honduras": {
+      "message": "Honduras"
+   },
+   "_locationName_Hong_Kong": {
+      "message": "Hongkong"
+   },
+   "_locationName_Hong_Kong___1": {
+      "message": "Hongkong - 1"
+   },
+   "_locationName_Hong_Kong___2": {
+      "message": "Hongkong - 2"
+   },
+   "_locationName_Hong_Kong___3": {
+      "message": "Hongkong - 3"
+   },
+   "_locationName_Hong_Kong___4": {
+      "message": "Hongkong - 4"
+   },
+   "_locationName_Hungary": {
+      "message": "Ungern"
+   },
+   "_locationName_Iceland": {
+      "message": "Island"
+   },
+   "_locationName_India": {
+      "message": "Indien"
+   },
+   "_locationName_India___Chennai": {
+      "message": "Indien - Chennai"
+   },
+   "_locationName_India___Mumbai___1": {
+      "message": "Indien - Mumbai - 1"
+   },
+   "_locationName_India__via_Singapore_": {
+      "message": "Indien (via Singapore)"
+   },
+   "_locationName_India__via_UK_": {
+      "message": "Indien (via Storbritannien)"
+   },
+   "_locationName_Indonesia": {
+      "message": "Indonesien"
+   },
+   "_locationName_Ireland": {
+      "message": "Irland"
+   },
+   "_locationName_Isle_of_Man": {
+      "message": "Isle of Man"
+   },
+   "_locationName_Israel": {
+      "message": "Israel"
+   },
+   "_locationName_Italy": {
+      "message": "Italien"
+   },
+   "_locationName_Italy___Cosenza": {
+      "message": "Italien - Cosenza"
+   },
+   "_locationName_Italy___Milan": {
+      "message": "Italien - Milano"
+   },
+   "_locationName_Italy___Naples": {
+      "message": "Italien – Neapel"
+   },
+   "_locationName_Jamaica": {
+      "message": "Jamaica"
+   },
+   "_locationName_Japan": {
+      "message": "Japan"
+   },
+   "_locationName_Japan___Osaka": {
+      "message": "Japan - Osaka"
+   },
+   "_locationName_Japan___Shibuya": {
+      "message": "Japan - Shibuya"
+   },
+   "_locationName_Japan___Tokyo": {
+      "message": "Japan - Tokyo"
+   },
+   "_locationName_Japan___Tokyo___1": {
+      "message": "Japan - Tokyo - 1"
+   },
+   "_locationName_Japan___Tokyo___2": {
+      "message": "Japan - Tokyo - 2"
+   },
+   "_locationName_Japan___Tokyo___3": {
+      "message": "Japan - Tokyo - 3"
+   },
+   "_locationName_Japan___Yokohama": {
+      "message": "Japan - Yokohama"
+   },
+   "_locationName_Jersey": {
+      "message": "Jersey"
+   },
+   "_locationName_Kazakhstan": {
+      "message": "Kazakstan"
+   },
+   "_locationName_Kenya": {
+      "message": "Kenya"
+   },
+   "_locationName_Kyrgyzstan": {
+      "message": "Kirgizistan"
+   },
+   "_locationName_Laos": {
+      "message": "Laos"
+   },
+   "_locationName_Latvia": {
+      "message": "Lettland"
+   },
+   "_locationName_Lebanon": {
+      "message": "Libanon"
+   },
+   "_locationName_Liechtenstein": {
+      "message": "Lichtenstein"
+   },
+   "_locationName_Lithuania": {
+      "message": "Litauen"
+   },
+   "_locationName_Luxembourg": {
+      "message": "Luxemburg"
+   },
+   "_locationName_Macau": {
+      "message": "Macao"
+   },
+   "_locationName_Malaysia": {
+      "message": "Malaysia"
+   },
+   "_locationName_Malta": {
+      "message": "Malta"
+   },
+   "_locationName_Mexico": {
+      "message": "Mexiko"
+   },
+   "_locationName_Middle_East_and_Africa": {
+      "message": "Mellanöstern och Afrika"
+   },
+   "_locationName_Moldova": {
+      "message": "Moldavien"
+   },
+   "_locationName_Monaco": {
+      "message": "Monaco"
+   },
+   "_locationName_Mongolia": {
+      "message": "Mongoliet"
+   },
+   "_locationName_Montenegro": {
+      "message": "Montenegro"
+   },
+   "_locationName_Morocco": {
+      "message": "Marocko"
+   },
+   "_locationName_Myanmar": {
+      "message": "Myanmar"
+   },
+   "_locationName_Nepal": {
+      "message": "Nepal"
+   },
+   "_locationName_Netherlands": {
+      "message": "Nederländerna"
+   },
+   "_locationName_Netherlands___Amsterdam": {
+      "message": "Nederländerna - Amsterdam"
+   },
+   "_locationName_Netherlands___Amsterdam___2": {
+      "message": "Nederländerna - Amsterdam - 2"
+   },
+   "_locationName_Netherlands___Rotterdam": {
+      "message": "Nederländerna - Rotterdam"
+   },
+   "_locationName_Netherlands___The_Hague": {
+      "message": "Nederländerna - Haag"
+   },
+   "_locationName_New_Zealand": {
+      "message": "Nya Zeeland"
+   },
+   "_locationName_North_Macedonia": {
+      "message": "Nordmakedonien"
+   },
+   "_locationName_Norway": {
+      "message": "Norge"
+   },
+   "_locationName_Pakistan": {
+      "message": "Pakistan"
+   },
+   "_locationName_Panama": {
+      "message": "Panama"
+   },
+   "_locationName_Peru": {
+      "message": "Peru"
+   },
+   "_locationName_Philippines": {
+      "message": "Filippinerna"
+   },
+   "_locationName_Philippines__via_Singapore_": {
+      "message": "Filippinerna (via Singapore)"
+   },
+   "_locationName_Pick_for_Me": {
+      "message": "Välj åt mig"
+   },
+   "_locationName_Poland": {
+      "message": "Polen"
+   },
+   "_locationName_Portugal": {
+      "message": "Portugal"
+   },
+   "_locationName_Puerto_Rico": {
+      "message": "Puerto Rico"
+   },
+   "_locationName_Romania": {
+      "message": "Rumänien"
+   },
+   "_locationName_Serbia": {
+      "message": "Serbien"
+   },
+   "_locationName_Singapore": {
+      "message": "Singapore"
+   },
+   "_locationName_Singapore___CBD": {
+      "message": "Singapore - CBD"
+   },
+   "_locationName_Singapore___Jurong": {
+      "message": "Singapore - Jurong"
+   },
+   "_locationName_Singapore___Marina_Bay": {
+      "message": "Singapore - Marina Bay"
+   },
+   "_locationName_Singapore___Sentosa": {
+      "message": "Singapore - Sentosa"
+   },
+   "_locationName_Slovakia": {
+      "message": "Slovakien"
+   },
+   "_locationName_Slovenia": {
+      "message": "Slovenien"
+   },
+   "_locationName_South_Africa": {
+      "message": "Sydafrika"
+   },
+   "_locationName_South_Korea": {
+      "message": "Sydkorea"
+   },
+   "_locationName_South_Korea___2": {
+      "message": "Sydkorea - 2"
+   },
+   "_locationName_Spain": {
+      "message": "Spanien"
+   },
+   "_locationName_Spain___Barcelona": {
+      "message": "Spanien - Barcelona"
+   },
+   "_locationName_Spain___Barcelona___2": {
+      "message": "Spanien - Barcelona - 2"
+   },
+   "_locationName_Spain___Madrid": {
+      "message": "Spanien - Madrid"
+   },
+   "_locationName_Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "_locationName_Sweden": {
+      "message": "Sverige"
+   },
+   "_locationName_Sweden___2": {
+      "message": "Sverige - 2"
+   },
+   "_locationName_Switzerland": {
+      "message": "Schweiz"
+   },
+   "_locationName_Switzerland___2": {
+      "message": "Schweiz - 2"
+   },
+   "_locationName_Taiwan": {
+      "message": "Taiwan"
+   },
+   "_locationName_Taiwan___3": {
+      "message": "Taiwan - 3"
+   },
+   "_locationName_Thailand": {
+      "message": "Thailand"
+   },
+   "_locationName_Trinidad_and_Tobago": {
+      "message": "Trinidad och Tobago"
+   },
+   "_locationName_Turkey": {
+      "message": "Turkiet"
+   },
+   "_locationName_UK___Docklands": {
+      "message": "Storbritannien - Docklands"
+   },
+   "_locationName_UK___East_London": {
+      "message": "Storbritannien - East London"
+   },
+   "_locationName_UK___Kent": {
+      "message": "Storbritannien - Kent"
+   },
+   "_locationName_UK___London": {
+      "message": "Storbritannien - London"
+   },
+   "_locationName_UK___Midlands": {
+      "message": "Storbritannien - Midlands"
+   },
+   "_locationName_UK___Wembley": {
+      "message": "Storbritannien - Wembley"
+   },
+   "_locationName_USA___Albuquerque": {
+      "message": "USA - Albuquerque"
+   },
+   "_locationName_USA___Atlanta": {
+      "message": "USA - Atlanta"
+   },
+   "_locationName_USA___Chicago": {
+      "message": "USA - Chicago"
+   },
+   "_locationName_USA___Dallas": {
+      "message": "USA - Dallas"
+   },
+   "_locationName_USA___Dallas___2": {
+      "message": "USA - Dallas - 2"
+   },
+   "_locationName_USA___Denver": {
+      "message": "USA - Denver"
+   },
+   "_locationName_USA___Hollywood": {
+      "message": "USA - Hollywood"
+   },
+   "_locationName_USA___Lincoln_Park": {
+      "message": "USA - Lincoln Park"
+   },
+   "_locationName_USA___Los_Angeles": {
+      "message": "USA - Los Angeles"
+   },
+   "_locationName_USA___Los_Angeles___1": {
+      "message": "USA - Los Angeles - 1"
+   },
+   "_locationName_USA___Los_Angeles___2": {
+      "message": "USA - Los Angeles - 2"
+   },
+   "_locationName_USA___Los_Angeles___3": {
+      "message": "USA - Los Angeles - 3"
+   },
+   "_locationName_USA___Los_Angeles___4": {
+      "message": "USA - Los Angeles - 4"
+   },
+   "_locationName_USA___Los_Angeles___5": {
+      "message": "USA - Los Angeles - 5"
+   },
+   "_locationName_USA___Miami": {
+      "message": "USA - Miami"
+   },
+   "_locationName_USA___Miami___2": {
+      "message": "USA - Miami - 2"
+   },
+   "_locationName_USA___New_Jersey___1": {
+      "message": "USA - New Jersey - 1"
+   },
+   "_locationName_USA___New_Jersey___2": {
+      "message": "USA - New Jersey - 2"
+   },
+   "_locationName_USA___New_Jersey___3": {
+      "message": "USA - New Jersey - 3"
+   },
+   "_locationName_USA___New_York": {
+      "message": "USA - New York"
+   },
+   "_locationName_USA___New_York___2": {
+      "message": "USA - New York - 2"
+   },
+   "_locationName_USA___Phoenix": {
+      "message": "USA - Phoenix"
+   },
+   "_locationName_USA___Salt_Lake_City": {
+      "message": "USA - Salt Lake City"
+   },
+   "_locationName_USA___San_Francisco": {
+      "message": "USA - San Francisco"
+   },
+   "_locationName_USA___San_Jose": {
+      "message": "USA - San Jose"
+   },
+   "_locationName_USA___Santa_Monica": {
+      "message": "USA - Santa Monica"
+   },
+   "_locationName_USA___Seattle": {
+      "message": "USA - Seattle"
+   },
+   "_locationName_USA___Tampa___1": {
+      "message": "USA - Tampa - 1"
+   },
+   "_locationName_USA___Washington_DC": {
+      "message": "USA - Washington DC"
+   },
+   "_locationName_USA___Washington_DC___2": {
+      "message": "USA - Washington DC - 2"
+   },
+   "_locationName_Ukraine": {
+      "message": "Ukraina"
+   },
+   "_locationName_United_Kingdom": {
+      "message": "Storbritannien"
+   },
+   "_locationName_United_States": {
+      "message": "USA"
+   },
+   "_locationName_Uruguay": {
+      "message": "Uruguay"
+   },
+   "_locationName_Uzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "_locationName_Venezuela": {
+      "message": "Venezuela"
+   },
+   "_locationName_Vietnam": {
+      "message": "Vietnam"
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Surfa säkert i blixtsnabba hastigheter. Spoofa din position, kom åt innehåll överallt och kontrollera ExpressVPN:s app från Firefox."
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "Surfa säkert i blixtsnabba hastigheter. Spoofa din position, kom åt innehåll överallt och kontrollera ExpressVPN:s app från Chrome."
+   },
+   "app_description_text_beta": {
+      "message": "ExpressVPN beta är för dig som vill leva livet i framkant. Var först med att få de senaste funktionerna."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN: VPN proxy för ett bättre internet"
+   },
+   "app_name_title_beta": {
+      "message": "ExpressVPN Beta: VPN för ett bättre internet"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN"
+   },
+   "error_@firefox@_hide_text": {
+      "message": "Alternativt kan du dölja tillägget genom att högerklicka på ikonen och välja \"Ta bort från verktygsfältet\" eller \"Flytta till menyn\"."
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_main_button_label": {
+      "message": "Skaffa ett abonnemang"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_sub_button_label": {
+      "message": "Logga ut"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_title": {
+      "message": "Fortsätt vara skyddad"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_main_button_label": {
+      "message": "Uppdatera betaluppgifter"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_sub_button_label": {
+      "message": "Logga ut"
+   },
+   "error_IAP_CONTINUE_USING_p1_text": {
+      "message": "För att fortsätta använda ExpressVPN, vänligen uppdatera betaluppgifterna på ditt iTunes- / App Store-konto."
+   },
+   "error_IAP_MAIN_title": {
+      "message": "Betalning misslyckades"
+   },
+   "error_IAP_WILL_AUTO_ACTIVATE_p2_text": {
+      "message": "ExpressVPN kommer automatiskt aktiveras inom 30 minuter från att du uppdaterar dina uppgifter."
+   },
+   "error_NOT_INSTALLED_chromeOS_manual": {
+      "message": "Om Play Store inte är tillgängligt på din Chromebook, vänligen följ våra guider för [manuella konfigurationer]."
+   },
+   "error_NOT_INSTALLED_chromeOS_primary_button": {
+      "message": "Installera ExpressVPN"
+   },
+   "error_NOT_INSTALLED_chromeOS_secondary_button": {
+      "message": "Kontakta support"
+   },
+   "error_NOT_INSTALLED_chromeOS_title": {
+      "description": "Context: This message shows to users on Chromebook (operating Chrome OS). The ExpressVPN app does not work for Chromebook users, for now.",
+      "message": "Chrome OS stöds inte"
+   },
+   "error_NOT_INSTALLED_linux_title": {
+      "message": "Appen hittades inte"
+   },
+   "error_NOT_INSTALLED_primary_button": {
+      "message": "Installera skrivbordsappen"
+   },
+   "error_NOT_INSTALLED_secondary_button": {
+      "message": "Skaffa nytt abonnemang"
+   },
+   "error_NOT_INSTALLED_title": {
+      "message": "Appen är inte installerad"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_main_button_label": {
+      "message": "Uppdatera betaluppgifter"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_sub_button_label": {
+      "message": "Senare"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_main_button_label": {
+      "message": "Skaffa nytt abonnemang"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_sub_button_label": {
+      "message": "Logga ut"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_title": {
+      "message": "Abonnemang utgånget"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_main_button_label": {
+      "message": "Uppdatera betaluppgifter"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_sub_button_label": {
+      "message": "Logga ut"
+   },
+   "error_app_not_found_buy_subscription_button_label": {
+      "message": "Köp ett abonnemang"
+   },
+   "error_app_not_found_contact_support_text": {
+      "message": "Behöver du hjälp? Vänligen [kontakta support]."
+   },
+   "error_app_not_found_download_LINUX_button_label": {
+      "message": "Ladda ner Linux-appen"
+   },
+   "error_app_not_found_download_MAC_button_label": {
+      "message": "Ladda ner Mac-appen"
+   },
+   "error_app_not_found_download_WINDOWS_button_label": {
+      "message": "Ladda ner Windows-appen"
+   },
+   "error_app_not_found_get_started_text": {
+      "message": "Ny hos ExpressVPN? [Get started]"
+   },
+   "error_app_not_found_require_CHROMIUM_text": {
+      "message": "Vänligen installera ExpressVPN:s app från Google Play Store."
+   },
+   "error_app_not_found_require_LINUX_snap_text": {
+      "message": "Om du installerat din webbläsare från \u003Cb>Ubuntu Software Center\u003C/b> kommer tillägget inte kunna kommunicera med Linux-appen. [Läs mer]"
+   },
+   "error_app_not_found_require_LINUX_text": {
+      "message": "Det här tillägget kräver ExpressVPN:s app för Linux med ett aktivt abonnemang."
+   },
+   "error_app_not_found_require_MAC_text": {
+      "message": "Det här tillägget kräver ExpressVPN:s app för Mac med ett aktivt abonnemang."
+   },
+   "error_app_not_found_require_WINDOWS_text": {
+      "message": "Det här tillägget kräver ExpressVPN:s app för Windows med ett aktivt abonnemang."
+   },
+   "error_btnReturnHome_default": {
+      "message": "Gå tillbaks till startsidan"
+   },
+   "error_business_subscription_expired_contact_support_text": {
+      "message": "Om du har några frågor, vänligen [kontakta support]."
+   },
+   "error_business_subscription_expired_signout_button_label": {
+      "message": "Logga ut"
+   },
+   "error_business_subscription_expired_status_text": {
+      "message": "Utgånget (%1)."
+   },
+   "error_business_subscription_expired_text": {
+      "message": "Vänligen kontakta kontoinnehavaren för att köpa ett nytt företagsabonnemang."
+   },
+   "error_business_subscription_expired_title": {
+      "message": "Abonnemanget har löpt ut"
+   },
+   "error_compatibility_error_@firefox@_hide_text": {
+      "message": "Alternativt kan du dölja tillägget genom att högerklicka på ikonen och välja \"Ta bort från verktygsfältet\" eller \"Flytta till menyn\"."
+   },
+   "error_compatibility_error_hide_text": {
+      "message": "Alternativt kan du dölja tillägget genom att högerklicka på ikonen och välja \"Dölj i Chrome-menyn\"."
+   },
+   "error_compatibility_error_os_version_p1_text": {
+      "message": "Det här tillägget fungerar för närvarande bara för \u003Cb>macOS 10.10 / Windows 7\u003C/b> eller senare."
+   },
+   "error_compatibility_error_os_version_p2_text": {
+      "message": "Vänligen uppdatera ditt operativsystem för att använda det här tillägget."
+   },
+   "error_compatibility_error_os_version_update_button_label": {
+      "message": "Läs mer"
+   },
+   "error_compatibility_error_title": {
+      "message": "Uppdatera operativsystemet"
+   },
+   "error_connection_error_check_l1_text": {
+      "message": "Kolla din uppkoppling"
+   },
+   "error_connection_error_check_l2_text": {
+      "message": "Välj en annan [VPN-position]"
+   },
+   "error_connection_error_check_l3_text": {
+      "message": "Om inget annat fungerar, [kontakta support]"
+   },
+   "error_connection_error_lock_on_text": {
+      "message": "Internettrafiken blockeras för närvarande för att skydda din integritet."
+   },
+   "error_connection_error_return_home_button_label": {
+      "message": "Tillbaka till startsidan"
+   },
+   "error_connection_error_return_home_button_label_network_lock_off": {
+      "message": "Avbryt"
+   },
+   "error_connection_error_return_home_button_label_network_lock_on": {
+      "message": "Avblockera internet"
+   },
+   "error_connection_error_title": {
+      "message": "Kunde inte ansluta"
+   },
+   "error_connection_error_to_location_text": {
+      "message": "Kunde inte ansluta till %LOCATION%."
+   },
+   "error_connection_error_try_again_button_label": {
+      "message": "Prova igen"
+   },
+   "error_expired_update_now_link_text": {
+      "message": "Har du redan ett abonnemang? [Uppdatera nu]."
+   },
+   "error_forced_signout_p1_text": {
+      "message": "Du har loggats ut eftersom dina kontouppgifter uppdaterats."
+   },
+   "error_forced_signout_p2_linux_text": {
+      "message": "För att fortsätta använda ExpressVPN, kör följande kommande i din terminal för att logga in igen:"
+   },
+   "error_forced_signout_p2_text": {
+      "message": "För att fortsätta använda ExpressVPN, vänligen logga in igen."
+   },
+   "error_forced_signout_signin_button_label": {
+      "message": "Logga in"
+   },
+   "error_forced_signout_title": {
+      "message": "Logga in på ExpressVPN"
+   },
+   "error_fraudster_hint": {
+      "message": "Vi kunde inte verifiera din faktureringsinformation, så vi har avbrutit din betalning."
+   },
+   "error_fraudster_p1_text": {
+      "message": "För att återaktivera ditt abonnemang,\u003Cbr>vänligen mejla"
+   },
+   "error_fraudster_p2_text": {
+      "description": "Do not translate 'Billing Verification'",
+      "message": "med ämnesraden: \u003Cspan class='bold'>Billing Verification\u003C/span>."
+   },
+   "error_fraudster_p3_text": {
+      "message": "Var god bifoga en bild på kortet du använde (som ENDAST visar de 4 sista siffrorna och namnet)."
+   },
+   "error_fraudster_p4_text": {
+      "message": "Var god ange ditt telefonnummer (med landskod) och vilka tider vi enklast kan nå dig."
+   },
+   "error_fraudster_p5_text": {
+      "message": "Faktureringsavdelningen svarar inom 24-48 timmar."
+   },
+   "error_fraudster_question1_text": {
+      "message": "Betalade du med kort?"
+   },
+   "error_fraudster_question2_text": {
+      "message": "Betalade du inte med kort?"
+   },
+   "error_fraudster_title": {
+      "message": "Kontot avstängt"
+   },
+   "error_free_trial_expired_benefits_text": {
+      "message": "Din provperiod har löpt ut, men det är enkelt att koppla upp sig igen."
+   },
+   "error_free_trial_expired_benefits_title": {
+      "message": "Varför uppgradera?"
+   },
+   "error_free_trial_expired_enter_new_code_button_label": {
+      "message": "Ange aktiveringskod"
+   },
+   "error_free_trial_expired_l1_text": {
+      "message": "Appar till alla enheter"
+   },
+   "error_free_trial_expired_l2_text": {
+      "message": "30 dagars pengarna-tillbaka-garanti"
+   },
+   "error_free_trial_expired_l3_text": {
+      "message": "160 positioner världen över"
+   },
+   "error_free_trial_expired_l4_text": {
+      "message": "Kundtjänst dygnet runt"
+   },
+   "error_free_trial_expired_noIAP_l3_text": {
+      "message": "30 dagars pengarna-tillbaka-garanti"
+   },
+   "error_free_trial_expired_status_text": {
+      "message": "Utgånget (%1)."
+   },
+   "error_free_trial_expired_title": {
+      "message": "Provperiod har löpt ut"
+   },
+   "error_free_trial_expired_upgrade_now_button_label": {
+      "message": "Uppgradera nu"
+   },
+   "error_hide_text": {
+      "message": "Alternativt kan du dölja tillägget genom att högerklicka på ikonen och välja \"Dölj i Chrome-menyn\"."
+   },
+   "error_not_activated_LINUX_text": {
+      "message": "Vänligen kör det här kommandot i din terminal för att aktivera skrivbordsappen:"
+   },
+   "error_not_activated_text": {
+      "message": "Vänligen logga in i ExpressVPN:s skrivbordsapp för att använda det här tillägget."
+   },
+   "error_not_activated_title": {
+      "message": "Appen är inte aktiverad"
+   },
+   "error_open_app_@firefox@_text": {
+      "message": "Det här tillägget kräver ExpressVPN:s app för att användas."
+   },
+   "error_open_app_contact_support_button_label": {
+      "message": "Kontakta support"
+   },
+   "error_open_app_open_app_button_label": {
+      "message": "Öppna skrivbordsappen"
+   },
+   "error_open_app_text": {
+      "message": "Det här tillägget kräver ExpressVPN:s app för att köras."
+   },
+   "error_open_app_title": {
+      "message": "Appen är inte öppen"
+   },
+   "error_signout_button": {
+      "message": "Logga ut"
+   },
+   "error_simultaneous_connection_cancel_button_label": {
+      "message": "Avbryt"
+   },
+   "error_simultaneous_connection_hint": {
+      "message": "Anslutningsgränsen är nådd."
+   },
+   "error_simultaneous_connection_iap_false_p2_text": {
+      "message": "Vänligen koppla från en enhet eller [köp ytterligare ett abonnemang]."
+   },
+   "error_simultaneous_connection_iap_true_p2_text": {
+      "message": "Vänligen koppla från en enhet."
+   },
+   "error_simultaneous_connection_learn_more_button_label": {
+      "message": "Läs mer"
+   },
+   "error_simultaneous_connection_p1_text": {
+      "message": "Du har överskridit ExpressVPN:s enhetsgräns för det här abonnemanget."
+   },
+   "error_simultaneous_connection_popup_btn0": {
+      "message": "Avbryt"
+   },
+   "error_simultaneous_connection_popup_text": {
+      "message": "Om du öppnar den här länken avblockerar du all internettrafik."
+   },
+   "error_simultaneous_connection_popup_title": {
+      "message": "Avblockera internet"
+   },
+   "error_subscription_expired_benefits_text": {
+      "message": "Ditt abonnemang har löpt ut, men det är enkelt att återansluta."
+   },
+   "error_subscription_expired_benefits_title": {
+      "message": "Varför förnya?"
+   },
+   "error_subscription_expired_buy_subscription_button_label": {
+      "message": "Skaffa nytt abonnemang"
+   },
+   "error_subscription_expired_enter_new_code_button_label": {
+      "message": "Ange aktiveringskoden"
+   },
+   "error_subscription_expired_get_subscription_button_label": {
+      "message": "Skaffa abonnemang"
+   },
+   "error_subscription_expired_l1_text": {
+      "message": "Få tillgång till allt innehåll du gillar"
+   },
+   "error_subscription_expired_l2_text": {
+      "message": "Var skyddad och privat online"
+   },
+   "error_subscription_expired_l3_text": {
+      "message": "Kundtjänst dygnet runt"
+   },
+   "error_subscription_expired_l4_text": {
+      "message": "Kundtjänst dygnet runt"
+   },
+   "error_subscription_expired_status_text": {
+      "message": "Utgånget (%1)."
+   },
+   "error_subscription_expired_title": {
+      "message": "Utgånget abonnemang"
+   },
+   "error_subscription_expiring_autobill_later_button_label": {
+      "message": "Senare"
+   },
+   "error_subscription_expiring_autobill_p1_text": {
+      "message": "Vänligen uppdatera dina betaluppgifter för att fortsätta använda ExpressVPN."
+   },
+   "error_subscription_expiring_autobill_title": {
+      "message": "Betalningen misslyckades"
+   },
+   "error_subscription_expiring_autobill_update_payment_button_label": {
+      "message": "Uppdatera betaluppgifter"
+   },
+   "error_subscription_expiring_later_button_label": {
+      "message": "Senare"
+   },
+   "error_subscription_expiring_p1_text": {
+      "message": "Vänligen förnya ditt abonnemang för att fortsätta använda ExpressVPN."
+   },
+   "error_subscription_expiring_renew_button_label": {
+      "message": "Förnya nu"
+   },
+   "error_subscription_expiring_title": {
+      "message": "Abonnemanget löper ut"
+   },
+   "error_upgrade_app_button_label": {
+      "message": "Uppdatera nu"
+   },
+   "error_upgrade_app_header_title": {
+      "message": "Uppdatera appen"
+   },
+   "error_upgrade_app_text": {
+      "message": "Det här tillägget kräver den senaste versionen av ExpressVPN-appen."
+   },
+   "general_contact_support_button_label": {
+      "message": "Kontakta support"
+   },
+   "hint_connection_delay_text": {
+      "message": "Försöker fortfarande ansluta."
+   },
+   "hint_network_state_captive_portal_text": {
+      "message": "Vänligen logga in på wifi-nätverket för att använda VPN."
+   },
+   "hint_network_state_no_internet_connecting_text": {
+      "message": "Kunde inte hitta någon internetuppkoppling.\u003Cbr>VPN kopplar upp när en anslutning hittas."
+   },
+   "hint_network_state_no_internet_ready_text": {
+      "message": "Kunde inte hitta någon internetuppkoppling.\u003Cbr>VPN kan vara otillgängligt."
+   },
+   "hint_network_state_no_internet_reconnecting_text": {
+      "message": "Internetanslutningen tappades.\u003Cbr>VPN kommer återansluta så fort det går."
+   },
+   "hint_network_state_not_ready_text": {
+      "message": "Var god vänta medan ditt nätverk förbereds."
+   },
+   "hint_network_state_not_sure_connecting_text": {
+      "message": "Kan inte hitta internetuppkoppling. VPN ansluter när en är tillgänglig."
+   },
+   "hint_network_state_not_sure_ready_text": {
+      "message": "Kan inte hitta internetuppkoppling. VPN kan vara otillgängligt."
+   },
+   "hint_network_state_not_sure_reconnecting_text": {
+      "message": "Kan inte hitta internetuppkoppling. VPN ansluter när en är tillgänglig."
+   },
+   "hint_no_internet_connecting_text": {
+      "message": "Kunde inte hitta någon internetuppkoppling.\u003Cbr>VPN kopplar upp när en anslutning hittas."
+   },
+   "hint_no_internet_ready_text": {
+      "message": "Kunde inte hitta någon internetuppkoppling.\u003Cbr>VPN kan vara otillgängligt."
+   },
+   "hint_no_internet_reconnecting_text": {
+      "message": "Internetanslutningen tappades.\u003Cbr>VPN kommer återansluta så fort det går."
+   },
+   "hint_reconnecting_network_lock_off_text": {
+      "message": "Anslutningen förlorades. Återansluter. . ."
+   },
+   "hint_reconnecting_network_lock_on_text": {
+      "message": "Internettrafik blockeras för att skydda din integritet."
+   },
+   "hint_saved_text": {
+      "message": "Sparat"
+   },
+   "home_change_location_popup_btn0": {
+      "message": "Avbryt"
+   },
+   "home_change_location_popup_btn1": {
+      "message": "Fortsätt"
+   },
+   "home_change_location_popup_text": {
+      "message": "Din internettrafik kan vara oskyddad medan du återansluter."
+   },
+   "home_change_location_popup_title": {
+      "message": "Ändra position"
+   },
+   "language_dropdown_danish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Danska (Dansk)"
+   },
+   "language_dropdown_dutch": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Holländska (Nederlands)"
+   },
+   "language_dropdown_english": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Engelska (English)"
+   },
+   "language_dropdown_finnish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Finska (Suomi)"
+   },
+   "language_dropdown_french": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Franska (Français)"
+   },
+   "language_dropdown_german": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Tyska (Deutsch)"
+   },
+   "language_dropdown_italian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Italienska (Italiano)"
+   },
+   "language_dropdown_japanese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Japanska (日本語)"
+   },
+   "language_dropdown_korean": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Koreanska (한국어)"
+   },
+   "language_dropdown_norwegian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Norska (Norsk)"
+   },
+   "language_dropdown_polish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Polska (Polski)"
+   },
+   "language_dropdown_portuguese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Portugisiska (Português)"
+   },
+   "language_dropdown_russian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Ryska (Русский)"
+   },
+   "language_dropdown_spanish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Spanska (Español)"
+   },
+   "language_dropdown_swedish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Svenska (Svenska)"
+   },
+   "language_dropdown_thai": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Thailändska (ภาษาไทย)"
+   },
+   "language_dropdown_turkish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Turkiska (Türkçe)"
+   },
+   "list_item_247_support": {
+      "message": "Kundtjänst dygnet runt"
+   },
+   "list_item_30day_guarantee": {
+      "message": "30 dagars pengarna-tillbaka-garanti"
+   },
+   "list_item_apps_for_every_device": {
+      "message": "Appar till alla enheter"
+   },
+   "list_item_locations_worldwide": {
+      "message": "160 positioner världen över"
+   },
+   "list_item_refer_frieds": {
+      "message": "Värva vänner, få 30 dagar gratis"
+   },
+   "list_item_unlimited_bandwidth": {
+      "message": "Obegränsad bandbredd"
+   },
+   "location_picker_locations_title": {
+      "message": "VPN-positioner"
+   },
+   "location_picker_recent_locations_text": {
+      "message": "Senaste positioner"
+   },
+   "location_picker_recommended_locations_text": {
+      "message": "Rekommenderade positioner"
+   },
+   "location_picker_search_no_results_text": {
+      "message": "Inga resultat"
+   },
+   "location_picker_search_placeholder_text": {
+      "message": "Sök efter stad / land"
+   },
+   "location_picker_smart_location_text": {
+      "message": "Smart position"
+   },
+   "location_picker_tab_all_text": {
+      "message": "Alla positioner"
+   },
+   "location_picker_tab_recommended_text": {
+      "message": "Rekommenderade"
+   },
+   "main_screen_current_location_text": {
+      "message": "Aktuell position"
+   },
+   "main_screen_recent_location_text": {
+      "message": "Senaste positionen"
+   },
+   "main_screen_selected_location_text": {
+      "message": "Vald position"
+   },
+   "main_screen_smart_location_text": {
+      "message": "Smart position"
+   },
+   "main_screen_status_vpn_connected_text": {
+      "message": "Ansluten"
+   },
+   "main_screen_status_vpn_connecting_text": {
+      "message": "Ansluter"
+   },
+   "main_screen_status_vpn_disconnecting_text": {
+      "message": "Kopplar från"
+   },
+   "main_screen_status_vpn_ready_text": {
+      "message": "Inte ansluten"
+   },
+   "main_screen_status_vpn_reconnecting_text": {
+      "message": "Återansluter"
+   },
+   "main_screen_status_vpn_speedtesting_text": {
+      "message": "Hastighetstest körs"
+   },
+   "menu_beta_feedback": {
+      "message": "Skicka Beta feedback"
+   },
+   "menu_cancel_text": {
+      "message": "Avbryt"
+   },
+   "menu_connection_startup_text": {
+      "message": "Anslut när webbläsaren startas"
+   },
+   "menu_desktop_notification_text": {
+      "message": "Visa skrivbordsnotiser"
+   },
+   "menu_get_30_days_free": {
+      "message": "Få 30 dagar gratis"
+   },
+   "menu_header": {
+      "message": "Alternativ"
+   },
+   "menu_help_support": {
+      "message": "Hjälp & support"
+   },
+   "menu_item_DNS_leak_test_text": {
+      "message": "DNS-läckagetest"
+   },
+   "menu_item_acknowledgements_text": {
+      "message": "Licenser"
+   },
+   "menu_item_app_version_text": {
+      "message": "%OS%-appversion: %VERSION%"
+   },
+   "menu_item_contact_support_text": {
+      "message": "Kontakta support"
+   },
+   "menu_item_diagnostic_text": {
+      "message": "Diagnostisk information"
+   },
+   "menu_item_extension_version_text": {
+      "message": "Tilläggsversion: %VERSION%"
+   },
+   "menu_item_faq_text": {
+      "message": "Vanliga frågor"
+   },
+   "menu_item_ip_address_checker_text": {
+      "message": "IP-adresskollen"
+   },
+   "menu_item_webRTC_leak_test_text": {
+      "message": "WebRTC-läckagetest"
+   },
+   "menu_keyboard_shortcut_text": {
+      "message": "Öppna med kortkommando"
+   },
+   "menu_my_account": {
+      "message": "Konto"
+   },
+   "menu_myaccount_title": {
+      "message": "Konto"
+   },
+   "menu_privacy_block_webrtc_text": {
+      "message": "Blockera WebRTC"
+   },
+   "menu_privacy_hide_location_text": {
+      "message": "Dölj din position"
+   },
+   "menu_rate_expressvpn": {
+      "message": "Betygsätt ExpressVPN"
+   },
+   "menu_section_about_title": {
+      "message": "Om"
+   },
+   "menu_section_support_chat_menu_label": {
+      "message": "Skriv till oss"
+   },
+   "menu_section_support_improvements_menu_label": {
+      "message": "Föreslå en förbättring"
+   },
+   "menu_section_support_report_menu_label": {
+      "message": "Rapportera ett problem"
+   },
+   "menu_section_support_title": {
+      "message": "Kontakta oss"
+   },
+   "menu_settings_general_display_header": {
+      "message": "Visningsinställningar"
+   },
+   "menu_settings_general_header": {
+      "message": "Allmänt"
+   },
+   "menu_settings_general_language_label": {
+      "message": "Språk"
+   },
+   "menu_settings_general_name": {
+      "message": "Inställningar"
+   },
+   "menu_settings_general_open_app_settings_button_label": {
+      "message": "Skrivbordsappens inställningar"
+   },
+   "menu_settings_help_button_label": {
+      "message": "Hjälp"
+   },
+   "menu_settings_privacy_block_webrtc_description_text": {
+      "message": "Förhindra sidor från att upptäcka din sanna IP-adress och position när du är ansluten till VPN."
+   },
+   "menu_settings_privacy_hide_location_description_text": {
+      "message": "Hindra HTML5-geolokalisering på de flesta sidor och maskera din faktiska position när du är ansluten till VPN."
+   },
+   "menu_settings_privacy_https_everywhere_description_text": {
+      "message": "Ansluter automatiskt till den säkrare HTTPS-versionen på hemsidor där detta är möjligt."
+   },
+   "menu_settings_privacy_learn_more_button_label": {
+      "message": "Läs mer"
+   },
+   "menu_settings_privacy_security_name": {
+      "message": "Integritet & säkerhet"
+   },
+   "menu_settings_settings_general_title": {
+      "message": "Inställningar"
+   },
+   "menu_settings_settings_privacy_title": {
+      "message": "Sekretessinställningar"
+   },
+   "menu_setup_other_devices": {
+      "message": "Kom igång på andra enheter"
+   },
+   "menu_signout_p1_text": {
+      "message": "Är du säker? Du kommer att loggas ut från skrivbordsappen."
+   },
+   "menu_signout_text": {
+      "message": "Logga ut"
+   },
+   "myaccount_account_active_p1_text": {
+      "message": "Dela ExpressVPN, få gratis dagar!"
+   },
+   "myaccount_account_active_p2_text": {
+      "message": "För varje vän som registrerar sig ger vi er båda 30 dagar gratis."
+   },
+   "myaccount_account_expired_label": {
+      "message": "Löpt ut"
+   },
+   "myaccount_account_expiry_label": {
+      "message": "Löper ut"
+   },
+   "myaccount_account_payment_due_label": {
+      "message": "Betalning saknas sedan"
+   },
+   "myaccount_account_renews_label": {
+      "message": "Förnyas"
+   },
+   "myaccount_account_status_active_text": {
+      "message": "Aktivt"
+   },
+   "myaccount_account_status_expired_text": {
+      "message": "Löpt ut"
+   },
+   "myaccount_account_status_free_trial_active_text": {
+      "message": "Provperiod"
+   },
+   "myaccount_account_status_label": {
+      "message": "Kontostatus"
+   },
+   "myaccount_account_status_trial_expired_text": {
+      "message": "Provperiod har löpt ut"
+   },
+   "myaccount_account_status_trial_text": {
+      "message": "Provperiod"
+   },
+   "myaccount_account_subscription_starts_label": {
+      "message": "Abonnemanget börjar"
+   },
+   "myaccount_active_refer_button_label": {
+      "message": "Bjud in vänner"
+   },
+   "myaccount_expiring_buy_button_label": {
+      "message": "Köp nu"
+   },
+   "myaccount_expiring_renew_button_label": {
+      "message": "Förnya nu"
+   },
+   "myaccount_expiring_upgrade_button_label": {
+      "message": "Uppgradera nu"
+   },
+   "myaccount_manage_button_label": {
+      "message": "Hantera konto"
+   },
+   "myaccount_manage_subscription_button_label": {
+      "message": "Hantera abonnemang"
+   },
+   "myaccount_why_get_subscription_subheader_text": {
+      "message": "Varför skaffa ett abonnemang?"
+   },
+   "myaccount_why_renew_subheader_text": {
+      "message": "Varför förnya?"
+   },
+   "networkLock_cancel_button_label": {
+      "message": "Avbryt"
+   },
+   "networkLock_header_connected_text": {
+      "message": "VPN anslutet"
+   },
+   "networkLock_header_connecting_text": {
+      "message": "Var god vänta"
+   },
+   "networkLock_header_connection_error_text": {
+      "message": "Kunde inte ansluta"
+   },
+   "networkLock_header_reconnecting_text": {
+      "message": "Var god vänta"
+   },
+   "networkLock_hint_connected_text": {
+      "message": "Du kommer snart omdirigeras."
+   },
+   "networkLock_hint_connecting_text": {
+      "message": "Internettrafik blockeras för närvarande för att skydda din integritet."
+   },
+   "networkLock_hint_connection_error_text": {
+      "message": "Internettrafik blockeras för närvarande för att skydda din integritet."
+   },
+   "networkLock_hint_reconnecting_text": {
+      "message": "Internettrafik blockeras för närvarande för att skydda din integritet."
+   },
+   "networkLock_status_connected_text": {
+      "message": "Ansluten till \u003Cb>%LOCATION%\u003C/b>."
+   },
+   "networkLock_status_connecting_text": {
+      "message": "Ansluter till %LOCATION%."
+   },
+   "networkLock_status_connection_error_text": {
+      "message": "Kunde inte ansluta till %LOCATION%."
+   },
+   "networkLock_status_reconnecting_text": {
+      "message": "Återansluter till %LOCATION%."
+   },
+   "networkLock_try_again_button_label": {
+      "message": "Försök igen"
+   },
+   "networkLock_unblock_internet_button_label": {
+      "message": "Avblockera internet"
+   },
+   "notification_extension_update_message": {
+      "message": "Klicka för att se vad som är nytt i version %VERSION%"
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN uppdaterat"
+   },
+   "promo_bar_free_trial_expiring_soon_days_text": {
+      "message": "Gratis provperiod löper ut om [days] dagar"
+   },
+   "promo_bar_free_trial_expiring_soon_expired_text": {
+      "message": "Din gratis provperiod har löpt ut"
+   },
+   "promo_bar_free_trial_expiring_soon_hours_text": {
+      "message": "Gratis provperiod löper ut om [hours] timmar"
+   },
+   "promo_bar_free_trial_expiring_soon_less_than_one_hour_text": {
+      "message": "Gratis provperiod löper ut om \u003C1 timme"
+   },
+   "promo_bar_free_trial_expiring_soon_upgrade_now_button_label": {
+      "message": "Uppgradera nu"
+   },
+   "promo_bar_splittunneling_@firefox@_text": {
+      "message": "Firefox exkluderas från VPN"
+   },
+   "promo_bar_splittunneling_settings_button_label": {
+      "message": "Granska inställningar"
+   },
+   "promo_bar_splittunneling_text": {
+      "message": "Chrome exkluderas från VPN"
+   },
+   "promo_bar_subscription_expiring_soon_days_text": {
+      "message": "Abonnemanget löper ut om [days] dagar"
+   },
+   "promo_bar_subscription_expiring_soon_expired_text": {
+      "message": "Ditt abonnemang har löpt ut"
+   },
+   "promo_bar_subscription_expiring_soon_get_new_subscription_button_label": {
+      "message": "Skaffa nytt abonnemang"
+   },
+   "promo_bar_subscription_expiring_soon_hours_text": {
+      "message": "Abonnemanget löper ut om [hours] timmar"
+   },
+   "promo_bar_subscription_expiring_soon_less_than_one_hour_text": {
+      "message": "Abonnemanget löper ut om \u003C1 timme"
+   },
+   "promo_bar_subscription_expiring_soon_renew_now_button_label": {
+      "message": "Förnya nu"
+   },
+   "promobar_free_trial_expiring_soon_days_header": {
+      "message": "Gratis provperiod löper ut om [days] dagar"
+   },
+   "promobar_free_trial_expiring_soon_expired_header": {
+      "message": "Din gratis provperiod har utgått"
+   },
+   "promobar_free_trial_expiring_soon_hours_header": {
+      "message": "Gratis provperiod löper ut om [hours] timmar"
+   },
+   "promobar_free_trial_expiring_soon_less_than_one_hour_header": {
+      "message": "Gratis provperiod löper ut om \u003C1 timme"
+   },
+   "promobar_free_trial_expiring_soon_text": {
+      "message": "Uppgradera nu"
+   },
+   "promobar_iap_failed_header": {
+      "message": "Din senaste betalning misslyckades"
+   },
+   "promobar_iap_failed_text": {
+      "message": "Uppdatera information"
+   },
+   "promobar_splittunneling_@firefox@_header": {
+      "message": "Firefox exkluderas från VPN"
+   },
+   "promobar_splittunneling_header": {
+      "message": "Chrome exkluderas från VPN"
+   },
+   "promobar_splittunneling_text": {
+      "message": "Granska inställningar"
+   },
+   "promobar_subscription_expired_header": {
+      "message": "Ditt abonnemang löper ut"
+   },
+   "promobar_subscription_expiring_autobill_header": {
+      "message": "Din senaste betalning misslyckades"
+   },
+   "promobar_subscription_expiring_autobill_text": {
+      "message": "Uppdatera information"
+   },
+   "promobar_subscription_expiring_soon_days_header": {
+      "message": "Abonnemanget löper ut om [days] dagar"
+   },
+   "promobar_subscription_expiring_soon_expired_header": {
+      "message": "Ditt abonnemang har löpt ut"
+   },
+   "promobar_subscription_expiring_soon_hours_header": {
+      "message": "Abonnemanget löper ut om [hours] timmar"
+   },
+   "promobar_subscription_expiring_soon_renewable_false_text": {
+      "message": "Skaffa nytt abonnemang"
+   },
+   "promobar_subscription_expiring_soon_renewable_true_text": {
+      "message": "Förnya nu"
+   },
+   "promobar_update_available_header": {
+      "message": "Uppdatering tillgänglig!"
+   },
+   "promobar_update_available_text": {
+      "message": "Installera nu"
+   },
+   "rating_improve_header": {
+      "message": "Hur kan vi bli bättre?"
+   },
+   "rating_improve_report_button": {
+      "message": "Rapportera ett problem"
+   },
+   "rating_improve_suggest_button": {
+      "message": "Föreslå en förbättring"
+   },
+   "rating_no_thanks_text": {
+      "message": "Nej tack"
+   },
+   "rating_prompt_header": {
+      "message": "Hur mycket gillar du ExpressVPN?"
+   },
+   "rating_thanks4_text": {
+      "message": "Tack för din betygsättning!"
+   },
+   "rating_thanks_@firefox@_text": {
+      "message": "Tack! Ge oss ett betyg i Firefox Add-ons Store?"
+   },
+   "rating_thanks_text": {
+      "message": "Tack! Ge oss ett betyg i Chrome Web Store?"
+   },
+   "settings_general_help_improve_description": {
+      "message": "Dela kraschrapporter, hastighetstester, användbarhetsdiagnostik, samt om VPN-anslutningsförsök lyckats. Rapporterna kan inte användas för att identifiera dig."
+   },
+   "settings_general_help_improve_label": {
+      "message": "Hjälp oss förbättra ExpressVPN"
+   },
+   "vpn_status_notification_connected_label": {
+      "message": "VPN anslutet"
+   },
+   "vpn_status_notification_connected_text": {
+      "message": "Ansluten till %s."
+   },
+   "vpn_status_notification_connecting_label": {
+      "message": "VPN ansluter..."
+   },
+   "vpn_status_notification_connection_failed_label": {
+      "message": "VPN kunde inte ansluta"
+   },
+   "vpn_status_notification_connection_failed_network_lock_off_text": {
+      "message": "Kunde inte ansluta till %s."
+   },
+   "vpn_status_notification_connection_failed_network_lock_on_text": {
+      "message": "Kunde inte ansluta till %s. Internettrafiken blockeras."
+   },
+   "vpn_status_notification_connection_limit_label": {
+      "message": "Anslutningsgräns nådd"
+   },
+   "vpn_status_notification_connection_limit_text": {
+      "message": "Vänligen koppla bort en enhet eller köp ett abonnemang till."
+   },
+   "vpn_status_notification_reconnecting_label": {
+      "message": "VPN återansluter..."
+   },
+   "vpn_status_notification_reconnecting_network_lock_off_text": {
+      "message": "Återansluter till %s."
+   },
+   "vpn_status_notification_reconnecting_network_lock_on_text": {
+      "message": "Återansluter till %s. Internettrafiken blockeras."
+   },
+   "welcome_continue_button_label": {
+      "message": "Fortsätt"
+   },
+   "welcome_help_improve_expressvpn_header": {
+      "message": "Hjälp oss förbättra ExpressVPN"
+   },
+   "welcome_help_improve_expressvpn_learn_more_text": {
+      "message": "Läs mer"
+   },
+   "welcome_help_improve_expressvpn_no_button_label": {
+      "message": "Nej, tack"
+   },
+   "welcome_help_improve_expressvpn_ok_button_label": {
+      "message": "Tillåt"
+   },
+   "welcome_help_improve_expressvpn_p1_text": {
+      "message": "Dela kraschrapporter, hastighetstester, användbarhetsdiagnostik, samt om VPN-anslutningsförsök lyckats. Rapporterna kan inte användas för att identifiera dig."
+   },
+   "welcome_not_installed_buy_header": {
+      "message": "Kom igång riskfritt"
+   },
+   "welcome_not_installed_buy_text": {
+      "message": "Abonnera från 8.32 USD/månad"
+   },
+   "welcome_not_installed_existing_button_label": {
+      "message": "Befintlig kund?"
+   },
+   "welcome_not_installed_get_button_label": {
+      "message": "Skaffa ExpressVPN"
+   },
+   "welcome_not_installed_reasons_li_1_text": {
+      "message": "Säkra VPN-positioner världen över"
+   },
+   "welcome_not_installed_reasons_li_2_text": {
+      "message": "Snabba hastigheter och obegränsad bandbredd"
+   },
+   "welcome_not_installed_reasons_li_3_text": {
+      "message": "Support dygnet runt"
+   },
+   "welcome_not_installed_reasons_li_4_text": {
+      "message": "30 dagars pengarna-tillbaka-garanti"
+   },
+   "welcome_not_installed_scene_1_text": {
+      "message": "Ta kontroll över din integritet och skydda din data online"
+   },
+   "welcome_not_installed_scene_2_text": {
+      "message": "Njut av dina favoritprogram och appar var du än är"
+   },
+   "welcome_not_installed_scene_3_text": {
+      "message": "Anslut säkert till offentligt wi-fi på hotell, kaféer och flygplatser"
+   },
+   "welcome_screen1_p1_text": {
+      "message": "ExpressVPN:s tillägg fungerar som en fjärrkontroll för skrivbordsappen."
+   },
+   "welcome_screen2_p1_text": {
+      "message": "När du är ansluten till vårt VPN skyddas hela din enhet, inte bara din webbläsare."
+   },
+   "welcome_screen3_learn_more_text": {
+      "message": "Läs mer"
+   },
+   "welcome_screen3_p1_text": {
+      "message": "Tillägget spoofar din position på de flesta sidor, blockerar WebRTC och kommer med HTTPS Everywhere."
+   },
+   "welcome_skip_button_label": {
+      "message": "Hoppa över"
+   }
+}

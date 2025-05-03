@@ -1,0 +1,15 @@
+2024/04/27-13:23:53.464 2a4c Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/27-13:23:53.464 2a4c Recovering log #4
+2024/04/27-13:23:53.464 2a4c Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000004.log 
+2024/04/27-17:12:33.093 2a4d Level-0 table #8: started
+2024/04/27-17:12:33.096 2a4d Level-0 table #8: 26366 bytes OK
+2024/04/27-17:12:33.105 2a4d Delete type=0 #4
+2024/04/27-17:12:33.105 2a4d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/04/27-17:12:33.105 2a4d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01"\x04\x02\x01\x09\x00m\x00a\x00r\x00k\x00e\x00t\x00i\x00n\x00g\x03\x00\xf0\xe9\xd6\x01\xf2xB\x00\x01$\x008\x002\x002\x002\x008\x00d\x001\x00e\x00-\x003\x006\x004\x00a\x00-\x004\x00c\x005\x003\x00-\x00a\x00c\x009\x005\x00-\x00f\x004\x005\x005\x003\x00a\x00b\x00f\x006\x00a\x00a\x000' @ 585 : 1
+2024/04/27-17:12:33.105 2a4d Compacting 1@1 + 1@2 files
+2024/04/27-17:12:33.108 2a4d Generated table #9@1: 71 keys, 5301 bytes
+2024/04/27-17:12:33.109 2a4d Compacted 1@1 + 1@2 files => 5301 bytes
+2024/04/27-17:12:33.114 2a4d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/27-17:12:33.114 2a4d Delete type=2 #5
+2024/04/27-17:12:33.114 2a4d Delete type=2 #8
+2024/04/27-17:12:33.115 2a4d Manual compaction at level-1 from '\x00\x01\x01"\x04\x02\x01\x09\x00m\x00a\x00r\x00k\x00e\x00t\x00i\x00n\x00g\x03\x00\xf0\xe9\xd6\x01\xf2xB\x00\x01$\x008\x002\x002\x002\x008\x00d\x001\x00e\x00-\x003\x006\x004\x00a\x00-\x004\x00c\x005\x003\x00-\x00a\x00c\x009\x005\x00-\x00f\x004\x005\x005\x003\x00a\x00b\x00f\x006\x00a\x00a\x000' @ 585 : 1 .. (end); will stop at (end)

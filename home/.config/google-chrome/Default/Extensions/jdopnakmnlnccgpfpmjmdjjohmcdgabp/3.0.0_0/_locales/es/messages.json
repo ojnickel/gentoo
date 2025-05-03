@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "cámara web o cámara"
+   },
+   "Cancel": {
+      "message": "Cancelar"
+   },
+   "Countdown": {
+      "message": "Cuenta atrás antes de grabar"
+   },
+   "GrantPerm": {
+      "message": "Conceder permiso"
+   },
+   "Pause": {
+      "message": "Pausa"
+   },
+   "PermCamDenied": {
+      "message": "Permiso para la cámara denegado."
+   },
+   "PermMicDenied": {
+      "message": "Permiso para micrófono denegado."
+   },
+   "RateUs": {
+      "message": "Por favor califícanos"
+   },
+   "RecordAnother": {
+      "message": "hacer otra grabacion"
+   },
+   "RecordCamera": {
+      "message": "Graba tu cámara"
+   },
+   "RecordDrive": {
+      "message": "Graba en tu Google Drive™️"
+   },
+   "RecordQuality": {
+      "message": "Calidad de registro"
+   },
+   "RecordScreen": {
+      "message": "Graba tu pantalla"
+   },
+   "RecordSys": {
+      "message": "Grabar audio del sistema"
+   },
+   "RecordSysExpl": {
+      "message": "Graba audio desde tus parlantes. Marque la opción Audio en el siguiente cuadro de diálogo si desea habilitar la grabación de sonido."
+   },
+   "RecordVoice": {
+      "message": "grabar voz"
+   },
+   "RecordVoiceExpl": {
+      "message": "Graba tu voz usando tu micrófono"
+   },
+   "Resume": {
+      "message": "Currículum"
+   },
+   "SaveRecording": {
+      "message": "Guardar grabación"
+   },
+   "ScreenSrcs": {
+      "message": "Pantalla, ventana o pestaña"
+   },
+   "Share": {
+      "message": "Comparte nuestra aplicación"
+   },
+   "StopRecording": {
+      "message": "Para de grabar"
+   },
+   "Tutorial": {
+      "message": "Mostrar tutorial: cómo utilizar la aplicación"
+   }
+}

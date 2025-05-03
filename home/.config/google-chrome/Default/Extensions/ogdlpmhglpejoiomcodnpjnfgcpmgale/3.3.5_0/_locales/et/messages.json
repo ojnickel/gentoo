@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Huvitavad Chrome ™ -i kohandatud kursorid. Kasutage suures koguses tasuta kursori või laadige üles oma."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - kursori vahetaja"
+   },
+   "close": {
+      "message": "Sulge"
+   },
+   "cursor_size_extra_large": {
+      "message": "Väga suur"
+   },
+   "cursor_size_extra_small": {
+      "message": "Eriti väike"
+   },
+   "cursor_size_large": {
+      "message": "Suur"
+   },
+   "cursor_size_medium": {
+      "message": "Keskmine"
+   },
+   "cursor_size_small": {
+      "message": "Väike"
+   },
+   "delete": {
+      "message": "Kustuta"
+   },
+   "delete_all": {
+      "message": "Kustutada kõik"
+   },
+   "enter_your_search_text": {
+      "message": "Sisestage oma otsingutekst"
+   },
+   "favorite_by_time": {
+      "message": "aja järgi"
+   },
+   "favorite_by_visited_pages": {
+      "message": "lehekülgede kaupa"
+   },
+   "favorite_manage_button": {
+      "message": "Halda eelistusi"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Pööra lemmikuid"
+   },
+   "favorite_sec_page": {
+      "message": "sek/lehel(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Halda eelistusi"
+   },
+   "hint_defaultTo": {
+      "message": "Vaikekursor"
+   },
+   "hint_remove_cursor": {
+      "message": "Klõpsake eemaldada kursori"
+   },
+   "hint_remove_pointer": {
+      "message": "Klõpsake eemaldada link kursorit"
+   },
+   "hint_settings": {
+      "message": "Seadistused"
+   },
+   "hint_size": {
+      "message": "Kursori suurus"
+   },
+   "hint_upload_cursor": {
+      "message": "Kliki laadida kursori"
+   },
+   "hint_upload_pointer": {
+      "message": "Kliki laadida link kursorit"
+   },
+   "item_cursor": {
+      "message": "kursor"
+   },
+   "item_pointer": {
+      "message": "osuti"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Kursori suuruse seaded"
+   },
+   "manage_manage_collection": {
+      "message": "Kogu haldamine"
+   },
+   "nav_how_to_use": {
+      "message": "Kuidas kasutada"
+   },
+   "nav_manage": {
+      "message": "Halda"
+   },
+   "nav_more_cursors": {
+      "message": "Rohkem kursoreid"
+   },
+   "nav_upload_cursor": {
+      "message": "Kursori üleslaadimine"
+   },
+   "options_add_new": {
+      "message": "Lisa uus"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Soovitused:\u003C/h2>\u003Cul>\u003Cli>Ärge kasutage rohkem kui 128x128 pikslit;\u003C/li>\u003Cli>Kasutage läbipaistva taustaga pilte, näiteks .png;\u003C/li>\u003Cli>Sagedamini naeratage;\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Laadi üles oma kursorid"
+   },
+   "popup_default_cursor": {
+      "message": "Vaikekursor"
+   },
+   "popup_manage": {
+      "message": "Halda"
+   },
+   "popup_more_cursor": {
+      "message": "Rohkem kursoreid"
+   },
+   "popup_upload_cursor": {
+      "message": "Kursori üleslaadimine"
+   },
+   "rate_us_5_stars": {
+      "message": "Hinda meile 5 tärni, palun"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

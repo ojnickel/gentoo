@@ -1,67 +1,152 @@
-from tkinter import Button, Entry, Frame, Listbox, Scrollbar, Toplevel, commondialog
-from typing import Any, ClassVar, Dict, Optional, Tuple
+import sys
+from _typeshed import Incomplete, StrOrBytesPath
+from collections.abc import Iterable
+from tkinter import Button, Entry, Frame, Listbox, Misc, Scrollbar, StringVar, Toplevel, commondialog
+from typing import IO, ClassVar
+from typing_extensions import Literal
 
-dialogstates: Dict[Any, Tuple[Any, Any]]
+if sys.version_info >= (3, 9):
+    __all__ = [
+        "FileDialog",
+        "LoadFileDialog",
+        "SaveFileDialog",
+        "Open",
+        "SaveAs",
+        "Directory",
+        "askopenfilename",
+        "asksaveasfilename",
+        "askopenfilenames",
+        "askopenfile",
+        "askopenfiles",
+        "asksaveasfile",
+        "askdirectory",
+    ]
+
+dialogstates: dict[Incomplete, tuple[Incomplete, Incomplete]]
 
 class FileDialog:
-    title: str = ...
-    master: Any = ...
-    directory: Optional[Any] = ...
-    top: Toplevel = ...
-    botframe: Frame = ...
-    selection: Entry = ...
-    filter: Entry = ...
-    midframe: Entry = ...
-    filesbar: Scrollbar = ...
-    files: Listbox = ...
-    dirsbar: Scrollbar = ...
-    dirs: Listbox = ...
-    ok_button: Button = ...
-    filter_button: Button = ...
-    cancel_button: Button = ...
+    title: str
+    master: Incomplete
+    directory: Incomplete | None
+    top: Toplevel
+    botframe: Frame
+    selection: Entry
+    filter: Entry
+    midframe: Entry
+    filesbar: Scrollbar
+    files: Listbox
+    dirsbar: Scrollbar
+    dirs: Listbox
+    ok_button: Button
+    filter_button: Button
+    cancel_button: Button
     def __init__(
-        self, master, title: Optional[Any] = ...
+        self, master, title: Incomplete | None = None
     ) -> None: ...  # title is usually a str or None, but e.g. int doesn't raise en exception either
-    how: Optional[Any] = ...
-    def go(self, dir_or_file: Any = ..., pattern: str = ..., default: str = ..., key: Optional[Any] = ...): ...
-    def quit(self, how: Optional[Any] = ...) -> None: ...
+    how: Incomplete | None
+    def go(self, dir_or_file=".", pattern: str = "*", default: str = "", key: Incomplete | None = None): ...
+    def quit(self, how: Incomplete | None = None) -> None: ...
     def dirs_double_event(self, event) -> None: ...
     def dirs_select_event(self, event) -> None: ...
     def files_double_event(self, event) -> None: ...
     def files_select_event(self, event) -> None: ...
     def ok_event(self, event) -> None: ...
     def ok_command(self) -> None: ...
-    def filter_command(self, event: Optional[Any] = ...) -> None: ...
+    def filter_command(self, event: Incomplete | None = None) -> None: ...
     def get_filter(self): ...
     def get_selection(self): ...
-    def cancel_command(self, event: Optional[Any] = ...) -> None: ...
+    def cancel_command(self, event: Incomplete | None = None) -> None: ...
     def set_filter(self, dir, pat) -> None: ...
     def set_selection(self, file) -> None: ...
 
 class LoadFileDialog(FileDialog):
-    title: str = ...
+    title: str
     def ok_command(self) -> None: ...
 
 class SaveFileDialog(FileDialog):
-    title: str = ...
-    def ok_command(self): ...
+    title: str
+    def ok_command(self) -> None: ...
 
 class _Dialog(commondialog.Dialog): ...
 
 class Open(_Dialog):
-    command: ClassVar[str] = ...
+    command: ClassVar[str]
 
 class SaveAs(_Dialog):
-    command: ClassVar[str] = ...
+    command: ClassVar[str]
 
 class Directory(commondialog.Dialog):
-    command: ClassVar[str] = ...
+    command: ClassVar[str]
 
-def askopenfilename(**options): ...
-def asksaveasfilename(**options): ...
-def askopenfilenames(**options): ...
-def askopenfile(mode: str = ..., **options): ...
-def askopenfiles(mode: str = ..., **options): ...
-def asksaveasfile(mode: str = ..., **options): ...
-def askdirectory(**options): ...
+# TODO: command kwarg available on macos
+def asksaveasfilename(
+    *,
+    confirmoverwrite: bool | None = ...,
+    defaultextension: str | None = ...,
+    filetypes: Iterable[tuple[str, str | list[str] | tuple[str, ...]]] | None = ...,
+    initialdir: StrOrBytesPath | None = ...,
+    initialfile: StrOrBytesPath | None = ...,
+    parent: Misc | None = ...,
+    title: str | None = ...,
+    typevariable: StringVar | str | None = ...,
+) -> str: ...  # can be empty string
+def askopenfilename(
+    *,
+    defaultextension: str | None = ...,
+    filetypes: Iterable[tuple[str, str | list[str] | tuple[str, ...]]] | None = ...,
+    initialdir: StrOrBytesPath | None = ...,
+    initialfile: StrOrBytesPath | None = ...,
+    parent: Misc | None = ...,
+    title: str | None = ...,
+    typevariable: StringVar | str | None = ...,
+) -> str: ...  # can be empty string
+def askopenfilenames(
+    *,
+    defaultextension: str | None = ...,
+    filetypes: Iterable[tuple[str, str | list[str] | tuple[str, ...]]] | None = ...,
+    initialdir: StrOrBytesPath | None = ...,
+    initialfile: StrOrBytesPath | None = ...,
+    parent: Misc | None = ...,
+    title: str | None = ...,
+    typevariable: StringVar | str | None = ...,
+) -> Literal[""] | tuple[str, ...]: ...
+def askdirectory(
+    *, initialdir: StrOrBytesPath | None = ..., mustexist: bool | None = ..., parent: Misc | None = ..., title: str | None = ...
+) -> str: ...  # can be empty string
+
+# TODO: If someone actually uses these, overload to have the actual return type of open(..., mode)
+def asksaveasfile(
+    mode: str = "w",
+    *,
+    confirmoverwrite: bool | None = ...,
+    defaultextension: str | None = ...,
+    filetypes: Iterable[tuple[str, str | list[str] | tuple[str, ...]]] | None = ...,
+    initialdir: StrOrBytesPath | None = ...,
+    initialfile: StrOrBytesPath | None = ...,
+    parent: Misc | None = ...,
+    title: str | None = ...,
+    typevariable: StringVar | str | None = ...,
+) -> IO[Incomplete] | None: ...
+def askopenfile(
+    mode: str = "r",
+    *,
+    defaultextension: str | None = ...,
+    filetypes: Iterable[tuple[str, str | list[str] | tuple[str, ...]]] | None = ...,
+    initialdir: StrOrBytesPath | None = ...,
+    initialfile: StrOrBytesPath | None = ...,
+    parent: Misc | None = ...,
+    title: str | None = ...,
+    typevariable: StringVar | str | None = ...,
+) -> IO[Incomplete] | None: ...
+def askopenfiles(
+    mode: str = "r",
+    *,
+    defaultextension: str | None = ...,
+    filetypes: Iterable[tuple[str, str | list[str] | tuple[str, ...]]] | None = ...,
+    initialdir: StrOrBytesPath | None = ...,
+    initialfile: StrOrBytesPath | None = ...,
+    parent: Misc | None = ...,
+    title: str | None = ...,
+    typevariable: StringVar | str | None = ...,
+) -> tuple[IO[Incomplete], ...]: ...  # can be empty tuple
 def test() -> None: ...

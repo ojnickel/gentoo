@@ -1,9 +1,13 @@
 <?php
 
+use JetBrains\PhpStorm\Pure;
+
 /**
  * @since 8.0
+ *
+ * @template T of object
  */
-class ReflectionAttribute
+class ReflectionAttribute implements Reflector
 {
     /**
      * Indicates that the search for a suitable attribute should not be by
@@ -13,15 +17,13 @@ class ReflectionAttribute
      *
      * @since 8.0
      */
-    const IS_INSTANCEOF = 2;
+    public const IS_INSTANCEOF = 2;
 
     /**
      * ReflectionAttribute cannot be created explicitly.
      * @since 8.0
      */
-    private function __construct()
-    {
-    }
+    private function __construct() {}
 
     /**
      * Gets attribute name
@@ -29,9 +31,8 @@ class ReflectionAttribute
      * @return string The name of the attribute parameter.
      * @since 8.0
      */
-    public function getName()
-    {
-    }
+    #[Pure]
+    public function getName(): string {}
 
     /**
      * Returns the target of the attribute as a bit mask format.
@@ -39,9 +40,8 @@ class ReflectionAttribute
      * @return int
      * @since 8.0
      */
-    public function getTarget()
-    {
-    }
+    #[Pure]
+    public function getTarget(): int {}
 
     /**
      * Returns {@see true} if the attribute is repeated.
@@ -49,9 +49,8 @@ class ReflectionAttribute
      * @return bool
      * @since 8.0
      */
-    public function isRepeated()
-    {
-    }
+    #[Pure]
+    public function isRepeated(): bool {}
 
     /**
      * Gets list of passed attribute's arguments.
@@ -59,19 +58,16 @@ class ReflectionAttribute
      * @return array
      * @since 8.0
      */
-    public function getArguments()
-    {
-    }
+    #[Pure]
+    public function getArguments(): array {}
 
     /**
-     * Creates a new instance of declarted attribute with passed arguments
+     * Creates a new instance of the attribute with passed arguments
      *
-     * @return object
+     * @return T
      * @since 8.0
      */
-    public function newInstance()
-    {
-    }
+    public function newInstance(): object {}
 
     /**
      * ReflectionAttribute cannot be cloned
@@ -79,7 +75,9 @@ class ReflectionAttribute
      * @return void
      * @since 8.0
      */
-    private function __clone()
-    {
-    }
+    private function __clone(): void {}
+
+    public function __toString(): string {}
+
+    public static function export() {}
 }

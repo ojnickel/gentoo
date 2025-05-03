@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "iCloudパスワードをChromeで使用するにはWindows用iCloudでパスワードを有効にしてください。"
+   },
+   "GenericPopupTitle": {
+      "message": "パスワードはiCloudキーチェーンと同期されます"
+   },
+   "GettingPasswords": {
+      "message": "パスワードを読み込み中…"
+   },
+   "NoUserName": {
+      "message": "ユーザ名が入力されていません"
+   },
+   "_lang": {
+      "message": "ja"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Chromeのページ内自動入力がiCloudパスワードに干渉するのを防ぐため、iCloudパスワードではユーザの代わりにブラウザの自動入力設定のオフへの切り替えが試行される場合があります。"
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Chromeの自動入力をオフにする"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "変更するには、iCloudキーチェーンからこのWebサイトのエントリーを削除して、このWebサイトにログインし直してください。"
+   },
+   "divDoNotRememberTitle": {
+      "message": "このWebサイトのパスワードを保存しないように以前に指定しました。"
+   },
+   "divICsMessage": {
+      "message": "使用するには保存されているパスワードを選択してください:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "パスワードアプリで、保存されているパスワードを調べたり管理したりできます。"
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "保存済みのパスワードはSafariの環境設定にある“パスワード”タブで管理できます。"
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "保存済みのパスワードはシステム環境設定の“パスワード”パネルで管理できます。"
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "“パスワード”設定で、保存されているパスワードを調べたり管理したりできます。"
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "“パスワード”設定で、保存されているパスワードを調べたり管理したりできます。"
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "iCloudパスワードアプリで、保存済みのパスワードを表示/編集できます。"
+   },
+   "divOpenPasswords": {
+      "message": "パスワードを管理…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "パスワードを調べて作成します。"
+   },
+   "divOpenPasswords_macos": {
+      "message": "パスワードアプリを開く…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "パスワードを管理…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "パスワードを管理…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "パスワードを管理…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "パスワードを管理…"
+   },
+   "divPINMessage_macos": {
+      "message": "確認コードがMacで生成されました。続けるには、そのコードを入力してください。"
+   },
+   "divPINMessage_windows": {
+      "message": "Windows用iCloudから確認コードを記載した通知が送信されました。続けるには、そのコードをしてください。"
+   },
+   "divPINTitle": {
+      "message": "パスワードの自動入力を有効にする"
+   },
+   "divTOTPMenu": {
+      "message": "確認コードを設定"
+   },
+   "divTOTPTitle": {
+      "message": "確認コードを設定: "
+   },
+   "downloadButton": {
+      "message": "ダウンロード"
+   },
+   "downloadMessage_macos": {
+      "message": "この拡張機能を使用するにはmacOS Sonoma以降がインストールされている必要があります。"
+   },
+   "downloadMessage_windows": {
+      "message": "iCloudパスワードを使用するにはWindows用iCloudをダウンロードしてください。"
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "iCloudパスワードを使ってパスワードを自動入力できるようにするには、ここをクリックしてください。"
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "パスワードの自動入力を有効にするには、“iCloudパスワード”ツールバーボタンをクリックしてください。"
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "パスワードの自動入力を有効にする"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "iCloudパスワードを使用してページ内リストから資格情報を入力できるようにします。このオプションをオフにしても、“iCloudパスワード”ツールバーボタンからいつでもパスワードを入力できます。"
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "ページ内自動入力"
+   },
+   "extDescription": {
+      "message": "iCloudパスワードを使用すると、ChromeでWebサイトにサインインするときにiCloudキーチェーンからパスワードを入力できます。"
+   },
+   "extName": {
+      "message": "iCloudパスワード"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "パスワードアプリを開く…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "“パスワード”設定を開く…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "“パスワード”設定を開く…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "“パスワード”設定を開く…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "“パスワード”設定を開く…"
+   },
+   "openThisPageInSafari": {
+      "message": "このページをSafariで開く…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Windows用iCloudを開く"
+   },
+   "optionsTitle": {
+      "message": "iCloudパスワードのオプション"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "“$1”の確認コードを設定"
+   },
+   "strongPasswordSuggestion": {
+      "message": "パスワードアプリまたはSafariで強力なパスワードを作成することができます。"
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "“パスワード”設定またはSafariで強力なパスワードを作成することができます。"
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "“パスワード”設定またはSafariで強力なパスワードを作成することができます。"
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "“パスワード”設定またはSafariで強力なパスワードを作成することができます。"
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "“パスワード”設定またはSafariで強力なパスワードを作成することができます。"
+   },
+   "totpVerificationCodeName": {
+      "message": "確認コード"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "“$1”の確認コード"
+   },
+   "unsupportedOS_windows": {
+      "message": "この拡張機能は、Windows 10以降で動作するように設計されています。Macを使用している場合は、iPhone、iPad、MacでiCloudにサインインしているときにパスワードがすべてのデバイスで自動的に同期されます。"
+   }
+}

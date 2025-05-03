@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Slå adgangskoder til i iCloud til Windows for at bruge iCloud-adgangskoder i Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "Dine adgangskoder synkroniseres med iCloud-nøglering"
+   },
+   "GettingPasswords": {
+      "message": "Indlæser adgangskoder…"
+   },
+   "NoUserName": {
+      "message": "intet brugernavn"
+   },
+   "_lang": {
+      "message": "da"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "iCloud-adgangskoder kan forsøge at slå indstillingerne til Autoudfyld fra i browseren for at forhindre, at Chrome-funktionen Autoudfyld på siden forstyrrer iCloud-adgangskoder."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Slå Autoudfyld fra i Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Hvis du vil ændre dette, skal du fjerne oplysningerne om dette websted fra din iCloud-nøglering og logge ind på webstedet igen."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Du har tidligere angivet, at adgangskoder til dette websted aldrig skulle gemmes."
+   },
+   "divICsMessage": {
+      "message": "Vælg en gemt adgangskode, du vil bruge:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Du kan slå gemte adgangskoder op og administrere dem i appen Adgangskoder."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Du kan administrere gemte adgangskoder på fanen Adgangskoder i indstillingerne til Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Du kan administrere gemte adgangskoder i vinduet Adgangskoder i Systemindstillinger."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Du kan slå gemte adgangskoder op og administrere dem i indstillingerne til Adgangskoder."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Du kan slå gemte adgangskoder op og administrere dem i indstillingerne til Adgangskoder."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Du kan se og redigere gemte adgangskoder i appen iCloud-adgangskoder."
+   },
+   "divOpenPasswords": {
+      "message": "Administrer adgangskoder…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Søg efter og opret adgangskoder."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Åbn appen Adgangskoder…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Administrer adgangskoder…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Administrer adgangskoder…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Administrer adgangskoder…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Administrer adgangskoder…"
+   },
+   "divPINMessage_macos": {
+      "message": "Der er genereret en bekræftelseskode på din Mac. Indtast koden for at fortsætte."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud til Windows sendte en notifikation med en bekræftelseskode. Indtast koden for at fortsætte."
+   },
+   "divPINTitle": {
+      "message": "Slå Autoudfyld adgangskode til"
+   },
+   "divTOTPMenu": {
+      "message": "Indstil bekræftelseskode"
+   },
+   "divTOTPTitle": {
+      "message": "Indstil bekræftelseskode til:"
+   },
+   "downloadButton": {
+      "message": "Hent"
+   },
+   "downloadMessage_macos": {
+      "message": "Denne udvidelse kan kun installeres på macOS Sonoma og nyere versioner."
+   },
+   "downloadMessage_windows": {
+      "message": "Hent iCloud til Windows for at bruge iCloud-adgangskoder."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Klik her for at tillade, at iCloud-adgangskoder autoudfylder dine adgangskoder."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Klik på knappen iCloud-adgangskoder på værktøjslinjen for at slå Autoudfyld adgangskode til."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Slå Autoudfyld adgangskode til"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Tillad, at iCloud-adgangskoder angiver godkendelsesoplysninger fra en liste på siden. Du kan altid udfylde adgangskoder fra knappen iCloud-adgangskoder på værktøjslinjen, selvom denne funktion er slået fra."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Autoudfyld på siden"
+   },
+   "extDescription": {
+      "message": "iCloud-adgangskoder gør det muligt at udfylde adgangskoder fra iCloud-nøglering, når du logger ind på websteder i Chrome."
+   },
+   "extName": {
+      "message": "iCloud-adgangskoder"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Åbn appen Adgangskoder…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Åbn indstillingerne til Adgangskoder…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Åbn indstillingerne til Adgangskoder…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Åbn indstillingerne til Adgangskoder…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Åbn indstillingerne til Adgangskoder…"
+   },
+   "openThisPageInSafari": {
+      "message": "Åbn denne side i Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Åbn iCloud til Windows"
+   },
+   "optionsTitle": {
+      "message": "Indstillinger til iCloud-adgangskode"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Indstil bekræftelseskode til “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Du kan oprette en stærk adgangskode i appen Adgangskoder eller i Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Du kan oprette en stærk adgangskode i indstillingerne til Adgangskoder eller i Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Du kan oprette en stærk adgangskode i indstillingerne til Adgangskoder eller i Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Du kan oprette en stærk adgangskode i indstillingerne til Adgangskoder eller i Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Du kan oprette en stærk adgangskode i indstillingerne til Adgangskoder eller i Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Bekræftelseskode"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Bekræftelseskode til “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Denne udvidelse er beregnet til Windows 10 og nyere versioner. Hvis du bruger en Mac, bliver dine adgangskoder automatisk synkroniseret med din iPhone, iPad og Mac, når du logger ind på iCloud."
+   }
+}

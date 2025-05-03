@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Pentru a utiliza parolele iCloud cu Chrome, activați opțiunea Parole în iCloud."
+   },
+   "GenericPopupTitle": {
+      "message": "Parolele dvs. sunt sincronizate cu portcheiul iCloud"
+   },
+   "GettingPasswords": {
+      "message": "Încărcare parole…"
+   },
+   "NoUserName": {
+      "message": "niciun nume de utilizator"
+   },
+   "_lang": {
+      "message": "ro"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Pentru a preveni interferențele dintre funcționalitatea de completare automată în interiorul paginii din Chrome și Parole iCloud, Parole iCloud poate încerca să dezactiveze configurările de completare automată ale browserului în numele dvs."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Dezactivați completarea automată Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Pentru a schimba această opțiune, eliminați înregistrarea corespunzătoare acestui site web din Portchei iCloud și reconectați-vă la acest site web."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Ați optat anterior ca parolele pentru acest site web să nu fie salvate niciodată."
+   },
+   "divICsMessage": {
+      "message": "Alegeți o parolă salvată de utilizat:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Puteți căuta și gestiona parolele salvate în aplicația Parole."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Puteți gestiona parolele salvate în fila Parole din preferințele Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Puteți gestiona parolele salvate în fila Parole din Preferințe sistem."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Puteți căuta și gestiona parolele salvate în aplicația Parole."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Puteți căuta și gestiona parolele salvate în aplicația Parole."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Puteți vedea și edita parolele salvate în aplicația Parole iCloud."
+   },
+   "divOpenPasswords": {
+      "message": "Gestionare parole…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Căutați și creați parole."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Deschidere aplicație Parole…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Gestionare parole…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Gestionare parole…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Gestionare parole…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Gestionare parole…"
+   },
+   "divPINMessage_macos": {
+      "message": "Un cod de verificare a fost generat de Mac-ul dvs. Introduceți codul pentru a continua."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud pentru Windows v‑a trimis o notificare cu un cod de verificare. Introduceți codul pentru a continua."
+   },
+   "divPINTitle": {
+      "message": "Activați Auto-completare parole"
+   },
+   "divTOTPMenu": {
+      "message": "Configurați un cod de verificare"
+   },
+   "divTOTPTitle": {
+      "message": "Configurați codul de verificare pentru:"
+   },
+   "downloadButton": {
+      "message": "Descărcați"
+   },
+   "downloadMessage_macos": {
+      "message": "Această extensie necesită instalarea macOS Sonoma sau a unei versiuni ulterioare."
+   },
+   "downloadMessage_windows": {
+      "message": "Pentru a utiliza Parole iCloud, descărcați iCloud pentru Windows."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Faceți clic aici pentru a permite aplicației Parole iCloud să vă completeze automat parolele."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Faceți clic pe butonul Parole iCloud din bara de instrumente pentru a activa Auto‑completare parole."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Activați Auto-completare parole"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Permiteți ca Parole iCloud să ofere informații de autentificare dintr-o listă aflată în interiorul paginii. Puteți completa oricând parolele folosind butonul Parole iCloud din bara de instrumente, chiar dacă această opțiune este dezactivată."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Completare automată în interiorul paginii"
+   },
+   "extDescription": {
+      "message": "Extensia Parole iCloud vă permite să completați parolele din Portchei iCloud atunci când vă autentificați pe site-urile web folosind Chrome."
+   },
+   "extName": {
+      "message": "Parole iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Deschidere aplicație Parole…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Deschidere configurări Parole…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Deschidere configurări Parole…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Deschidere configurări Parole…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Deschidere configurări Parole…"
+   },
+   "openThisPageInSafari": {
+      "message": "Deschidere pagină în Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Deschideți iCloud pentru Windows"
+   },
+   "optionsTitle": {
+      "message": "Opțiuni Parole iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Configurați codul de verificare pentru “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Puteți crea o parolă puternică în configurările Parole sau în Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Puteți crea o parolă puternică în configurările Parole sau în Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Puteți crea o parolă puternică în configurările Parole sau în Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Puteți crea o parolă puternică în configurările Parole sau în Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Puteți crea o parolă puternică în configurările Parole sau în Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Cod de verificare"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Cod de verificare pentru “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Această extensie este concepută pentru a rula pe Windows 10 sau versiuni ulterioare. Dacă utilizați un Mac, parolele dvs. se vor sincroniza automat cu iPhone-ul, iPad-ul sau Mac-ul dvs. atunci când vă autentificați pe iCloud."
+   }
+}

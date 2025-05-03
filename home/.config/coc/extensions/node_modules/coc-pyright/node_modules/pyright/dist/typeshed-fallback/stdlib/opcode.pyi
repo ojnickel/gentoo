@@ -1,25 +1,63 @@
 import sys
-from typing import Dict, List, Optional, Sequence
+from typing_extensions import Literal
 
-cmp_op: Sequence[str]
-hasconst: List[int]
-hasname: List[int]
-hasjrel: List[int]
-hasjabs: List[int]
-haslocal: List[int]
-hascompare: List[int]
-hasfree: List[int]
-opname: List[str]
+__all__ = [
+    "cmp_op",
+    "hasconst",
+    "hasname",
+    "hasjrel",
+    "hasjabs",
+    "haslocal",
+    "hascompare",
+    "hasfree",
+    "opname",
+    "opmap",
+    "HAVE_ARGUMENT",
+    "EXTENDED_ARG",
+    "stack_effect",
+]
+if sys.version_info >= (3, 12):
+    __all__ += ["hasarg", "hasexc"]
+else:
+    __all__ += ["hasnargs"]
 
-opmap: Dict[str, int]
-HAVE_ARGUMENT: int
-EXTENDED_ARG: int
+if sys.version_info >= (3, 9):
+    cmp_op: tuple[Literal["<"], Literal["<="], Literal["=="], Literal["!="], Literal[">"], Literal[">="]]
+else:
+    cmp_op: tuple[
+        Literal["<"],
+        Literal["<="],
+        Literal["=="],
+        Literal["!="],
+        Literal[">"],
+        Literal[">="],
+        Literal["in"],
+        Literal["not in"],
+        Literal["is"],
+        Literal["is not"],
+        Literal["exception match"],
+        Literal["BAD"],
+    ]
+hasconst: list[int]
+hasname: list[int]
+hasjrel: list[int]
+hasjabs: list[int]
+haslocal: list[int]
+hascompare: list[int]
+hasfree: list[int]
+if sys.version_info >= (3, 12):
+    hasarg: list[int]
+    hasexc: list[int]
+else:
+    hasnargs: list[int]
+opname: list[str]
+
+opmap: dict[str, int]
+HAVE_ARGUMENT: Literal[90]
+EXTENDED_ARG: Literal[144]
 
 if sys.version_info >= (3, 8):
-    def stack_effect(__opcode: int, __oparg: Optional[int] = ..., *, jump: Optional[bool] = ...) -> int: ...
+    def stack_effect(__opcode: int, __oparg: int | None = None, *, jump: bool | None = None) -> int: ...
 
-elif sys.version_info >= (3, 4):
-    def stack_effect(__opcode: int, __oparg: Optional[int] = ...) -> int: ...
-
-if sys.version_info >= (3, 6):
-    hasnargs: List[int]
+else:
+    def stack_effect(__opcode: int, __oparg: int | None = None) -> int: ...

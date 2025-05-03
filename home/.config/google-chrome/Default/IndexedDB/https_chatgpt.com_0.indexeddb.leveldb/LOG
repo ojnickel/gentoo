@@ -1,0 +1,6 @@
+2025/04/26-15:36:26.757 3362 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/26-15:36:26.757 3362 Recovering log #47
+2025/04/26-15:36:26.766 3362 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000047.log 
+2025/05/02-16:57:30.464 3363 Level-0 table #52: started
+2025/05/02-16:57:30.510 3363 Level-0 table #52: 2741386 bytes OK
+2025/05/02-16:57:30.518 3363 Delete type=0 #47

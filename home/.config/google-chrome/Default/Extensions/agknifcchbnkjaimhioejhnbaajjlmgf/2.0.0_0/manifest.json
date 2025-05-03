@@ -1,0 +1,52 @@
+{
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.b63c6675dffa26d9d966b763bd7f6023f3a45343abd3c8f1614398266b21a36c",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsh+pmFszblkRMi+9o8+QAnYhCiKi3lyHdXYie7lZUOBzJqNTV04xjeKVrw75ESosBw56xu3qwLHhnRmvnp8gAXO+taZvC92D8Q0CFNMW2FNz6tiRsXri23V8pgOYjRK8DSJOjEOTIu57RGAZJ3Nh3P4QOKhk88/5dUkfc6UON2O/GU+B/8QnnQp8SM7Y4dDlKEbGBHutSwholOxP+k8k2d4Z2z4SZPehXbMNoPQVLoxrymgNGrtFMroUUa22Q/PdZJ6TlQ2JlSFCHIweQwS6IvH+RNX7R4cYpIchk82RF3NTippq4gMJoU87iWDM+1QgQ10abzj2V7zyCiCI21dhoQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "theme": {
+      "colors": {
+         "background_tab": [ 59, 68, 77 ],
+         "background_tab_inactive": [ 59, 68, 77 ],
+         "bookmark_text": [ 135, 199, 255 ],
+         "frame": [ 0, 0, 0 ],
+         "frame_inactive": [ 0, 0, 0 ],
+         "ntp_background": [ 47, 54, 61 ],
+         "ntp_link": [ 135, 199, 255 ],
+         "ntp_text": [ 135, 199, 255 ],
+         "omnibox_background": [ 35, 41, 46 ],
+         "omnibox_text": [ 135, 199, 255 ],
+         "tab_background_text": [ 135, 199, 255 ],
+         "tab_background_text_inactive": [ 108, 159, 204 ],
+         "tab_text": [ 135, 199, 255 ],
+         "toolbar": [ 47, 54, 61 ],
+         "toolbar_button_icon": [ 135, 199, 255 ],
+         "toolbar_text": [ 135, 199, 255 ]
+      },
+      "images": {
+         "theme_frame": "theme_frame.png",
+         "theme_frame_inactive": "theme_frame_inactive.png",
+         "theme_tab_background": "theme_tab_background.png",
+         "theme_tab_background_inactive": "theme_tab_background_inactive.png",
+         "theme_toolbar": "theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "background_tab": [ -1, -1, -1 ],
+         "buttons": [ -1, -1, -1 ],
+         "frame": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0"
+}

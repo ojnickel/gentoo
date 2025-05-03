@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "在网络商店显示的扩展插件简短说明",
+      "message": "为浏览器提供简单无缝的隐私保护。"
+   },
+   "appName": {
+      "description": "在网络商店显示的扩展插件标题",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

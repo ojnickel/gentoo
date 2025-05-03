@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Чтобы использовать Пароли iCloud в Chrome, включите параметр «Пароли» в iCloud для Windows."
+   },
+   "GenericPopupTitle": {
+      "message": "Ваши пароли синхронизированы со связкой ключей iCloud"
+   },
+   "GettingPasswords": {
+      "message": "Загрузка паролей…"
+   },
+   "NoUserName": {
+      "message": "отсутствует имя пользователя"
+   },
+   "_lang": {
+      "message": "ru"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Чтобы функция встроенного в страницу автозаполнения в Chrome не мешала работе расширения «Пароли iCloud», это расширение может попробовать выключить настройки автозаполнения в браузере от Вашего имени."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Выключить автозаполнение в Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Чтобы внести изменения, удалите этот веб‑сайт из Связки ключей iCloud и снова выполните вход на этот веб‑сайт."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Ранее Вы указали, что для этого веб‑сайта не следует сохранять пароли."
+   },
+   "divICsMessage": {
+      "message": "Выберите сохраненный пароль:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "В приложении «Пароли» можно находить сохраненные пароли и управлять ими."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Сохраненными паролями можно управлять на вкладке «Пароли» в настройках Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Сохраненными паролями можно управлять на вкладке «Пароли» в Системных настройках."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "В настройках приложения «Пароли» можно находить сохраненные пароли и управлять ими."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "В настройках приложения «Пароли» можно находить сохраненные пароли и управлять ими."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Сохраненные пароли можно просматривать и удалять в приложении «Пароли iCloud»."
+   },
+   "divOpenPasswords": {
+      "message": "Управление паролями…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Найти и создать пароли."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Открыть приложение «Пароли»…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Управление паролями…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Управление паролями…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Управление паролями…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Управление паролями…"
+   },
+   "divPINMessage_macos": {
+      "message": "На Вашем Mac сгенерирован код проверки. Введите этот код, чтобы продолжить."
+   },
+   "divPINMessage_windows": {
+      "message": "Приложение iCloud для Windows отправило Вам уведомление с кодом проверки. Введите этот код, чтобы продолжить."
+   },
+   "divPINTitle": {
+      "message": "Включить автозаполнение паролей"
+   },
+   "divTOTPMenu": {
+      "message": "Настроить код проверки"
+   },
+   "divTOTPTitle": {
+      "message": "Настроить код проверки для:"
+   },
+   "downloadButton": {
+      "message": "Загрузить"
+   },
+   "downloadMessage_macos": {
+      "message": "Для установки этого расширения требуется macOS Sonoma или новее."
+   },
+   "downloadMessage_windows": {
+      "message": "Загрузите iCloud для Windows, чтобы использовать Пароли iCloud."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Нажмите здесь, чтобы разрешить расширению «Пароли iCloud» автоматически заполнять пароли."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Чтобы включить автозаполнение паролей, нажмите кнопку «Пароли iCloud» в панели инструментов."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Включить Автозаполнение паролей"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Разрешите расширению «Пароли iCloud» предлагать учетные данные из встроенного в страницу списка. Заполнять пароли с помощью кнопки «Пароли iCloud» в панели инструментов можно всегда, даже если этот параметр выключен."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Встроенное в страницу автозаполнение"
+   },
+   "extDescription": {
+      "message": "Расширение «Пароли iCloud» позволяет автоматически заполнять пароли из связки ключей iCloud при входе на сайты в Chrome."
+   },
+   "extName": {
+      "message": "Пароли iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Открыть приложение «Пароли»…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Открыть настройки паролей…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Открыть настройки паролей…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Открыть настройки паролей…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Открыть настройки паролей…"
+   },
+   "openThisPageInSafari": {
+      "message": "Открыть эту страницу в Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Открыть iCloud для Windows"
+   },
+   "optionsTitle": {
+      "message": "Параметры расширения «Пароли iCloud»"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Настроить код проверки для «$1»"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Надежный пароль можно создать в приложении «Пароли» или в Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Надежный пароль можно создать в настройках приложения «Пароли» или в Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Надежный пароль можно создать в настройках приложения «Пароли» или в Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Надежный пароль можно создать в настройках приложения «Пароли» или в Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Надежный пароль можно создать в настройках приложения «Пароли» или в Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Код проверки"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Код проверки для «$1»"
+   },
+   "unsupportedOS_windows": {
+      "message": "Это расширение предназначено для Windows 10 или новее. Если Вы используете Mac, Ваши пароли будут автоматически синхронизироваться с iPhone, iPad и Mac, на которых Вы выполнили вход в iCloud."
+   }
+}

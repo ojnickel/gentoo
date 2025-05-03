@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Morsomme egendefinerte markører for Chrome ™. Bruk en stor samling av gratis markører eller last opp dine egne."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Tilpasset markør"
+   },
+   "close": {
+      "message": "lukk"
+   },
+   "cursor_size_extra_large": {
+      "message": "Ekstra stor"
+   },
+   "cursor_size_extra_small": {
+      "message": "Ekstra liten"
+   },
+   "cursor_size_large": {
+      "message": "Stor"
+   },
+   "cursor_size_medium": {
+      "message": "Medium"
+   },
+   "cursor_size_small": {
+      "message": "Liten"
+   },
+   "delete": {
+      "message": "Slett"
+   },
+   "delete_all": {
+      "message": "slette alle"
+   },
+   "enter_your_search_text": {
+      "message": "Skriv inn søketeksten"
+   },
+   "favorite_by_time": {
+      "message": "etter tid"
+   },
+   "favorite_by_visited_pages": {
+      "message": "av besøkte sider"
+   },
+   "favorite_manage_button": {
+      "message": "Rediger favoritter"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Roter favoritter"
+   },
+   "favorite_sec_page": {
+      "message": "sek/side(r)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Rediger favoritter"
+   },
+   "hint_defaultTo": {
+      "message": "Standard markør"
+   },
+   "hint_remove_cursor": {
+      "message": "Klikk for å fjerne markøren"
+   },
+   "hint_remove_pointer": {
+      "message": "Klikk for å fjerne pekeren"
+   },
+   "hint_settings": {
+      "message": "innstillinger"
+   },
+   "hint_size": {
+      "message": "Markørstørrelse"
+   },
+   "hint_upload_cursor": {
+      "message": "Klikk for å laste opp markøren"
+   },
+   "hint_upload_pointer": {
+      "message": "KKlikk for å laste opp pekeren"
+   },
+   "item_cursor": {
+      "message": "markør"
+   },
+   "item_pointer": {
+      "message": "pekeren"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Markørstørrelsesinnstillinger"
+   },
+   "manage_manage_collection": {
+      "message": "Administrer samling"
+   },
+   "nav_how_to_use": {
+      "message": "Hvordan å bruke"
+   },
+   "nav_manage": {
+      "message": "Få til"
+   },
+   "nav_more_cursors": {
+      "message": "Flere markører"
+   },
+   "nav_upload_cursor": {
+      "message": "Last opp markøren"
+   },
+   "options_add_new": {
+      "message": "Legg til ny"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Anbefalinger:\u003C/h2>\u003Cul>\u003Cli>Ikke bruk bilder mer enn 128x128 piksler;\u003C/li>\u003Cli>Bruk bilder med gjennomsiktig bakgrunn, for eksempel .png;\u003C/li>\u003Cli>Smil oftere;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Last opp dine egne markører"
+   },
+   "popup_default_cursor": {
+      "message": "Standard markør"
+   },
+   "popup_manage": {
+      "message": "Få til"
+   },
+   "popup_more_cursor": {
+      "message": "Flere markører"
+   },
+   "popup_upload_cursor": {
+      "message": "Last opp markøren"
+   },
+   "rate_us_5_stars": {
+      "message": "Ranger oss 5 stjerner, vær så snill"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

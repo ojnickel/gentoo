@@ -1,0 +1,24 @@
+Erweiterung „Formula (pdflatex)“ konnte aus folgendem Grund nicht geladen werden: eine Abhängigkeit nicht aufgelöst werden konnte.
+Abhängigkeit:
+	Typ: executable
+	Pfad: Pfad
+	Zeichenkette: pdflatex
+
+Erweiterung „XFIG Input“ konnte aus folgendem Grund nicht geladen werden: eine Abhängigkeit nicht aufgelöst werden konnte.
+Abhängigkeit:
+	Typ: executable
+	Pfad: Pfad
+	Zeichenkette: fig2dev
+
+Erweiterung „Optimized PNG“ konnte aus folgendem Grund nicht geladen werden: eine Abhängigkeit nicht aufgelöst werden konnte.
+Abhängigkeit:
+	Typ: executable
+	Pfad: Pfad
+	Zeichenkette: optipng
+
+Erweiterung „Export to PDF via Scribus“ konnte aus folgendem Grund nicht geladen werden: eine Abhängigkeit nicht aufgelöst werden konnte.
+Abhängigkeit:
+	Typ: executable
+	Pfad: Pfad
+	Zeichenkette: scribus
+

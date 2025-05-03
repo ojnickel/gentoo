@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "De korte beschrijving van de extensie, weergegeven in de webwinkel",
+      "message": "Eenvoudige en naadloze bescherming van je privacy voor in je browser."
+   },
+   "appName": {
+      "description": "De titel van de extensie, weergegeven in de webwinkel",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

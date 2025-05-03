@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Webcam ή κάμερα"
+   },
+   "Cancel": {
+      "message": "Ματαίωση"
+   },
+   "Countdown": {
+      "message": "Αντίστροφη μέτρηση πριν την εγγραφή"
+   },
+   "GrantPerm": {
+      "message": "Χορήγηση άδειας"
+   },
+   "Pause": {
+      "message": "Παύση"
+   },
+   "PermCamDenied": {
+      "message": "Απορρίφθηκε η άδεια για κάμερα."
+   },
+   "PermMicDenied": {
+      "message": "Απορρίφθηκε η άδεια για μικρόφωνο."
+   },
+   "RateUs": {
+      "message": "Παρακαλώ αξιολογήστε μας"
+   },
+   "RecordAnother": {
+      "message": "Κάντε άλλη εγγραφή"
+   },
+   "RecordCamera": {
+      "message": "Καταγράψτε την κάμερα σας"
+   },
+   "RecordDrive": {
+      "message": "Εγγραφή στο Google Drive™️ σας"
+   },
+   "RecordQuality": {
+      "message": "Ποιότητα εγγραφής"
+   },
+   "RecordScreen": {
+      "message": "Καταγράψτε την οθόνη σας"
+   },
+   "RecordSys": {
+      "message": "Εγγραφή ήχου συστήματος"
+   },
+   "RecordSysExpl": {
+      "message": "Εγγραφή ήχου από τα ηχεία σας. Επιλέξτε την επιλογή Ήχος στο επόμενο παράθυρο διαλόγου εάν θέλετε να ενεργοποιήσετε την εγγραφή ήχου."
+   },
+   "RecordVoice": {
+      "message": "Ηχογράφηση φωνής"
+   },
+   "RecordVoiceExpl": {
+      "message": "Ηχογραφήστε τη φωνή σας χρησιμοποιώντας το μικρόφωνό σας"
+   },
+   "Resume": {
+      "message": "ΒΙΟΓΡΑΦΙΚΟ"
+   },
+   "SaveRecording": {
+      "message": "Αποθήκευση εγγραφής"
+   },
+   "ScreenSrcs": {
+      "message": "Οθόνη, παράθυρο ή καρτέλα"
+   },
+   "Share": {
+      "message": "Μοιραστείτε την εφαρμογή μας"
+   },
+   "StopRecording": {
+      "message": "Διακοπή εγγραφής"
+   },
+   "Tutorial": {
+      "message": "Εμφάνιση εκμάθησης - πώς να χρησιμοποιήσετε την εφαρμογή"
+   }
+}

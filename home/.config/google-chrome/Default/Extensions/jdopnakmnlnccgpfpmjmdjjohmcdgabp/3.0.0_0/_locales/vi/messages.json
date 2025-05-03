@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Webcam hoặc máy ảnh"
+   },
+   "Cancel": {
+      "message": "Hủy"
+   },
+   "Countdown": {
+      "message": "Đếm ngược trước khi ghi"
+   },
+   "GrantPerm": {
+      "message": "Cấp phép"
+   },
+   "Pause": {
+      "message": "Tạm ngừng"
+   },
+   "PermCamDenied": {
+      "message": "Quyền cho máy ảnh bị từ chối."
+   },
+   "PermMicDenied": {
+      "message": "Quyền sử dụng micrô bị từ chối."
+   },
+   "RateUs": {
+      "message": "Vui lòng đánh giá chúng tôi"
+   },
+   "RecordAnother": {
+      "message": "Thực hiện một bản ghi âm khác"
+   },
+   "RecordCamera": {
+      "message": "Ghi lại máy ảnh của bạn"
+   },
+   "RecordDrive": {
+      "message": "Ghi vào Google Drive™️ của bạn"
+   },
+   "RecordQuality": {
+      "message": "Ghi lại chất lượng"
+   },
+   "RecordScreen": {
+      "message": "Ghi lại màn hình của bạn"
+   },
+   "RecordSys": {
+      "message": "Ghi lại âm thanh hệ thống"
+   },
+   "RecordSysExpl": {
+      "message": "Ghi lại âm thanh từ loa của bạn. Chọn tùy chọn Audio trong hộp thoại tiếp theo nếu bạn muốn bật ghi âm."
+   },
+   "RecordVoice": {
+      "message": "Ghi âm giọng nói"
+   },
+   "RecordVoiceExpl": {
+      "message": "Ghi lại giọng nói của bạn bằng micrô"
+   },
+   "Resume": {
+      "message": "Sơ yếu lý lịch"
+   },
+   "SaveRecording": {
+      "message": "Lưu bản ghi"
+   },
+   "ScreenSrcs": {
+      "message": "Màn hình, Cửa sổ hoặc Tab"
+   },
+   "Share": {
+      "message": "Chia sẻ ứng dụng của chúng tôi"
+   },
+   "StopRecording": {
+      "message": "Dừng ghi"
+   },
+   "Tutorial": {
+      "message": "Hiển thị hướng dẫn - cách sử dụng ứng dụng"
+   }
+}

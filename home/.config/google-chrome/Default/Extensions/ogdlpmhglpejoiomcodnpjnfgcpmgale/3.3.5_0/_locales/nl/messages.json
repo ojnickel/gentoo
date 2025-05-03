@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Leuke aangepaste cursors voor Chrome ™. Gebruik een grote verzameling gratis cursors of upload uw eigen cursors."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™"
+   },
+   "close": {
+      "message": "sluiten"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra groot"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra klein"
+   },
+   "cursor_size_large": {
+      "message": "Groot"
+   },
+   "cursor_size_medium": {
+      "message": "Gemiddeld"
+   },
+   "cursor_size_small": {
+      "message": "Klein"
+   },
+   "delete": {
+      "message": "Verwijder"
+   },
+   "delete_all": {
+      "message": "Verwijder alles"
+   },
+   "enter_your_search_text": {
+      "message": "Voer uw zoektekst in"
+   },
+   "favorite_by_time": {
+      "message": "tegen tijd"
+   },
+   "favorite_by_visited_pages": {
+      "message": "door pagina's"
+   },
+   "favorite_manage_button": {
+      "message": "Beheer favorieten"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Favorieten draaien"
+   },
+   "favorite_sec_page": {
+      "message": "sec/bladzijde"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Beheer favorieten"
+   },
+   "hint_defaultTo": {
+      "message": "Standaard cursor"
+   },
+   "hint_remove_cursor": {
+      "message": "Klik om de cursor te verwijderen"
+   },
+   "hint_remove_pointer": {
+      "message": "Klik om de aanwijzer te verwijderen"
+   },
+   "hint_settings": {
+      "message": "instellingen"
+   },
+   "hint_size": {
+      "message": "Cursor grootte"
+   },
+   "hint_upload_cursor": {
+      "message": "Klik om de cursor te uploaden"
+   },
+   "hint_upload_pointer": {
+      "message": "Klik om de aanwijzer te uploaden"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "wijzer"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Instellingen voor de cursorgrootte"
+   },
+   "manage_manage_collection": {
+      "message": "Beheer verzameling"
+   },
+   "nav_how_to_use": {
+      "message": "Hoe te gebruiken"
+   },
+   "nav_manage": {
+      "message": "Beheren"
+   },
+   "nav_more_cursors": {
+      "message": "Meer cursors"
+   },
+   "nav_upload_cursor": {
+      "message": "Upload de cursor"
+   },
+   "options_add_new": {
+      "message": "Voeg nieuw toe"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Aanbevelingen:\u003C/h2>\u003Cul>\u003Cli>Gebruik geen afbeeldingen van meer dan 128x128 pixels;\u003C/li>\u003Cli>Gebruik afbeeldingen met een transparante achtergrond, zoals .png;\u003C/li>\u003Cli>Lach vaker;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Upload uw eigen cursors"
+   },
+   "popup_default_cursor": {
+      "message": "Standaardcursor"
+   },
+   "popup_manage": {
+      "message": "Beheren"
+   },
+   "popup_more_cursor": {
+      "message": "Meer cursors"
+   },
+   "popup_upload_cursor": {
+      "message": "Upload de cursor"
+   },
+   "rate_us_5_stars": {
+      "message": "Beoordeel ons 5 sterren, alsjeblieft"
+   },
+   "short_name": {
+      "message": "Aangepaste cursor"
+   }
+}

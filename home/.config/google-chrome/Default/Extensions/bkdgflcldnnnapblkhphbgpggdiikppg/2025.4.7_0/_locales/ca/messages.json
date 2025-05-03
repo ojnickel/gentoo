@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "La breu descripció de l'extensió, que es mostra a la botiga web",
+      "message": "Protecció de la privadesa de manera senzilla i continuada per al teu navegador."
+   },
+   "appName": {
+      "description": "El títol de l'extensió, que es mostra a la botiga web",
+      "message": "Privacy Essentials de DuckDuckGo "
+   }
+}

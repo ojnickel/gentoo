@@ -1,0 +1,1706 @@
+{
+   "_locationName_Albania": {
+      "message": "Arnavutluk"
+   },
+   "_locationName_Algeria": {
+      "message": "Cezayir"
+   },
+   "_locationName_Americas": {
+      "message": "Kıta Amerikası"
+   },
+   "_locationName_Andorra": {
+      "message": "Andorra"
+   },
+   "_locationName_Argentina": {
+      "message": "Arjantin"
+   },
+   "_locationName_Armenia": {
+      "message": "Ermenistan"
+   },
+   "_locationName_Asia_Pacific": {
+      "message": "Pasifik Asya"
+   },
+   "_locationName_Australia": {
+      "message": "Avustralya"
+   },
+   "_locationName_Australia___Adelaide": {
+      "message": "Avustralya - Adelaide"
+   },
+   "_locationName_Australia___Brisbane": {
+      "message": "Avustralya - Brisbane"
+   },
+   "_locationName_Australia___Melbourne": {
+      "message": "Avustralya - Melbourne"
+   },
+   "_locationName_Australia___Perth": {
+      "message": "Avustralya - Perth"
+   },
+   "_locationName_Australia___Sydney": {
+      "message": "Avustralya - Sydney"
+   },
+   "_locationName_Australia___Sydney___2": {
+      "message": "Avustralya - Sydney - 2"
+   },
+   "_locationName_Australia___Sydney___3": {
+      "message": "Avustralya - Sydney - 3"
+   },
+   "_locationName_Australia___Woolloomooloo": {
+      "message": "Avustralya - Woolloomooloo"
+   },
+   "_locationName_Austria": {
+      "message": "Avusturya"
+   },
+   "_locationName_Azerbaijan": {
+      "message": "Azerbaycan"
+   },
+   "_locationName_Bahamas": {
+      "message": "Bahamalar"
+   },
+   "_locationName_Bangladesh": {
+      "message": "Bangladeş"
+   },
+   "_locationName_Belarus": {
+      "message": "Belarus"
+   },
+   "_locationName_Belgium": {
+      "message": "Belçika"
+   },
+   "_locationName_Bermuda": {
+      "message": "Bermuda"
+   },
+   "_locationName_Bhutan": {
+      "message": "Butan"
+   },
+   "_locationName_Bolivia": {
+      "message": "Bolivya"
+   },
+   "_locationName_Bosnia_and_Herzegovina": {
+      "message": "Bosna-Hersek"
+   },
+   "_locationName_Brazil": {
+      "message": "Brezilya"
+   },
+   "_locationName_Brazil___2": {
+      "message": "Brezilya - 2"
+   },
+   "_locationName_Brunei": {
+      "message": "Brunei"
+   },
+   "_locationName_Brunei_Darussalam": {
+      "message": "Brunei Darüsselam"
+   },
+   "_locationName_Bulgaria": {
+      "message": "Bulgaristan"
+   },
+   "_locationName_Cambodia": {
+      "message": "Kamboçya"
+   },
+   "_locationName_Canada": {
+      "message": "Kanada"
+   },
+   "_locationName_Canada___Montreal": {
+      "message": "Kanada - Montreal"
+   },
+   "_locationName_Canada___Montreal___2": {
+      "message": "Kanada - Montreal - 2"
+   },
+   "_locationName_Canada___Toronto": {
+      "message": "Kanada - Toronto"
+   },
+   "_locationName_Canada___Toronto___2": {
+      "message": "Kanada - Toronto - 2"
+   },
+   "_locationName_Canada___Vancouver": {
+      "message": "Kanada - Vancouver"
+   },
+   "_locationName_Cayman_Islands": {
+      "message": "Cayman Adaları"
+   },
+   "_locationName_Chile": {
+      "message": "Şili"
+   },
+   "_locationName_Colombia": {
+      "message": "Kolombiya"
+   },
+   "_locationName_Costa_Rica": {
+      "message": "Kosta Rika"
+   },
+   "_locationName_Croatia": {
+      "message": "Hırvatistan"
+   },
+   "_locationName_Cuba": {
+      "message": "Küba"
+   },
+   "_locationName_Cyprus": {
+      "message": "Kıbrıs"
+   },
+   "_locationName_Czech_Republic": {
+      "message": "Çekya"
+   },
+   "_locationName_Denmark": {
+      "message": "Danimarka"
+   },
+   "_locationName_Dominican_Republic": {
+      "message": "Dominik Cumhuriyeti"
+   },
+   "_locationName_Ecuador": {
+      "message": "Ekvator"
+   },
+   "_locationName_Egypt": {
+      "message": "Mısır"
+   },
+   "_locationName_Estonia": {
+      "message": "Estonya"
+   },
+   "_locationName_Europe": {
+      "message": "Avrupa"
+   },
+   "_locationName_Finland": {
+      "message": "Finlandiya"
+   },
+   "_locationName_France": {
+      "message": "Fransa"
+   },
+   "_locationName_France___Alsace": {
+      "message": "Fransa - Alsas"
+   },
+   "_locationName_France___Marseille": {
+      "message": "Fransa - Marsilya"
+   },
+   "_locationName_France___Paris___1": {
+      "message": "Fransa - Paris - 1"
+   },
+   "_locationName_France___Paris___2": {
+      "message": "Fransa - Paris - 2"
+   },
+   "_locationName_France___Strasbourg": {
+      "message": "Fransa - Strasbourg"
+   },
+   "_locationName_Georgia": {
+      "message": "Gürcistan"
+   },
+   "_locationName_Germany": {
+      "message": "Almanya"
+   },
+   "_locationName_Germany___Frankfurt___1": {
+      "message": "Almanya - Frankfurt - 1"
+   },
+   "_locationName_Germany___Frankfurt___2": {
+      "message": "Almanya - Frankfurt - 2"
+   },
+   "_locationName_Germany___Frankfurt___3": {
+      "message": "Almanya - Frankfurt - 3"
+   },
+   "_locationName_Germany___Nuremberg": {
+      "message": "Almanya - Nuremberg"
+   },
+   "_locationName_Ghana": {
+      "message": "Gana"
+   },
+   "_locationName_Greece": {
+      "message": "Yunanistan"
+   },
+   "_locationName_Guam": {
+      "message": "Guam"
+   },
+   "_locationName_Guatemala": {
+      "message": "Guatemala"
+   },
+   "_locationName_Honduras": {
+      "message": "Honduras"
+   },
+   "_locationName_Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "_locationName_Hong_Kong___1": {
+      "message": "Hong Kong - 1"
+   },
+   "_locationName_Hong_Kong___2": {
+      "message": "Hong Kong - 2"
+   },
+   "_locationName_Hong_Kong___3": {
+      "message": "Hong Kong - 3"
+   },
+   "_locationName_Hong_Kong___4": {
+      "message": "Hong Kong - 4"
+   },
+   "_locationName_Hungary": {
+      "message": "Macaristan"
+   },
+   "_locationName_Iceland": {
+      "message": "İzlanda"
+   },
+   "_locationName_India": {
+      "message": "Hindistan"
+   },
+   "_locationName_India___Chennai": {
+      "message": "Hindistan - Chennai"
+   },
+   "_locationName_India___Mumbai___1": {
+      "message": "Hindistan - Bombay - 1"
+   },
+   "_locationName_India__via_Singapore_": {
+      "message": "Hindistan (Singapur'dan)"
+   },
+   "_locationName_India__via_UK_": {
+      "message": "Hindistan (BK'dan)"
+   },
+   "_locationName_Indonesia": {
+      "message": "Endonezya"
+   },
+   "_locationName_Ireland": {
+      "message": "İrlanda"
+   },
+   "_locationName_Isle_of_Man": {
+      "message": "Man Adası"
+   },
+   "_locationName_Israel": {
+      "message": "İsrail"
+   },
+   "_locationName_Italy": {
+      "message": "İtalya"
+   },
+   "_locationName_Italy___Cosenza": {
+      "message": "İtalya - Cosenza"
+   },
+   "_locationName_Italy___Milan": {
+      "message": "İtalya - Milan"
+   },
+   "_locationName_Italy___Naples": {
+      "message": "İtalya - Napoli"
+   },
+   "_locationName_Jamaica": {
+      "message": "Jamaika"
+   },
+   "_locationName_Japan": {
+      "message": "Japonya"
+   },
+   "_locationName_Japan___Osaka": {
+      "message": "Japonya - Osaka"
+   },
+   "_locationName_Japan___Shibuya": {
+      "message": "Japonya - Shibuya"
+   },
+   "_locationName_Japan___Tokyo": {
+      "message": "Japonya - Tokyo"
+   },
+   "_locationName_Japan___Tokyo___1": {
+      "message": "Japonya - Tokyo - 1"
+   },
+   "_locationName_Japan___Tokyo___2": {
+      "message": "Japonya - Tokyo - 2"
+   },
+   "_locationName_Japan___Tokyo___3": {
+      "message": "Japonya - Tokyo - 3"
+   },
+   "_locationName_Japan___Yokohama": {
+      "message": "Japonya - Yokohama"
+   },
+   "_locationName_Jersey": {
+      "message": "Jersey"
+   },
+   "_locationName_Kazakhstan": {
+      "message": "Kazakistan"
+   },
+   "_locationName_Kenya": {
+      "message": "Kenya"
+   },
+   "_locationName_Kyrgyzstan": {
+      "message": "Kırgızistan"
+   },
+   "_locationName_Laos": {
+      "message": "Laos"
+   },
+   "_locationName_Latvia": {
+      "message": "Letonya"
+   },
+   "_locationName_Lebanon": {
+      "message": "Lübnan"
+   },
+   "_locationName_Liechtenstein": {
+      "message": "Lihtenştayn"
+   },
+   "_locationName_Lithuania": {
+      "message": "Litvanya"
+   },
+   "_locationName_Luxembourg": {
+      "message": "Lüksemburg"
+   },
+   "_locationName_Macau": {
+      "message": "Makao"
+   },
+   "_locationName_Malaysia": {
+      "message": "Malezya"
+   },
+   "_locationName_Malta": {
+      "message": "Malta"
+   },
+   "_locationName_Mexico": {
+      "message": "Meksika"
+   },
+   "_locationName_Middle_East_and_Africa": {
+      "message": "Orta Doğu ve Afrika"
+   },
+   "_locationName_Moldova": {
+      "message": "Moldova"
+   },
+   "_locationName_Monaco": {
+      "message": "Monako"
+   },
+   "_locationName_Mongolia": {
+      "message": "Moğolistan"
+   },
+   "_locationName_Montenegro": {
+      "message": "Karadağ"
+   },
+   "_locationName_Morocco": {
+      "message": "Fas"
+   },
+   "_locationName_Myanmar": {
+      "message": "Myanmar"
+   },
+   "_locationName_Nepal": {
+      "message": "Nepal"
+   },
+   "_locationName_Netherlands": {
+      "message": "Hollanda"
+   },
+   "_locationName_Netherlands___Amsterdam": {
+      "message": "Hollanda - Amsterdam"
+   },
+   "_locationName_Netherlands___Amsterdam___2": {
+      "message": "Hollanda - Amsterdam - 2"
+   },
+   "_locationName_Netherlands___Rotterdam": {
+      "message": "Hollanda - Rotterdam"
+   },
+   "_locationName_Netherlands___The_Hague": {
+      "message": "Hollanda - The Hague"
+   },
+   "_locationName_New_Zealand": {
+      "message": "Yeni Zelanda"
+   },
+   "_locationName_North_Macedonia": {
+      "message": "Kuzey Makedonya"
+   },
+   "_locationName_Norway": {
+      "message": "Norveç"
+   },
+   "_locationName_Pakistan": {
+      "message": "Pakistan"
+   },
+   "_locationName_Panama": {
+      "message": "Panama"
+   },
+   "_locationName_Peru": {
+      "message": "Peru"
+   },
+   "_locationName_Philippines": {
+      "message": "Filipinler"
+   },
+   "_locationName_Philippines__via_Singapore_": {
+      "message": "Filipinler (Singapur'dan)"
+   },
+   "_locationName_Pick_for_Me": {
+      "message": "Benim için Seç"
+   },
+   "_locationName_Poland": {
+      "message": "Polonya"
+   },
+   "_locationName_Portugal": {
+      "message": "Portekiz"
+   },
+   "_locationName_Puerto_Rico": {
+      "message": "Porto Riko"
+   },
+   "_locationName_Romania": {
+      "message": "Romanya"
+   },
+   "_locationName_Serbia": {
+      "message": "Sırbistan"
+   },
+   "_locationName_Singapore": {
+      "message": "Singapur"
+   },
+   "_locationName_Singapore___CBD": {
+      "message": "Singapur - CBD"
+   },
+   "_locationName_Singapore___Jurong": {
+      "message": "Singapur - Jurong"
+   },
+   "_locationName_Singapore___Marina_Bay": {
+      "message": "Singapur - Marina Bay"
+   },
+   "_locationName_Singapore___Sentosa": {
+      "message": "Singapur - Sentosa"
+   },
+   "_locationName_Slovakia": {
+      "message": "Slovakya"
+   },
+   "_locationName_Slovenia": {
+      "message": "Slovenya"
+   },
+   "_locationName_South_Africa": {
+      "message": "Güney Afrika"
+   },
+   "_locationName_South_Korea": {
+      "message": "Güney Kore"
+   },
+   "_locationName_South_Korea___2": {
+      "message": "Güney Kore - 2"
+   },
+   "_locationName_Spain": {
+      "message": "İspanya"
+   },
+   "_locationName_Spain___Barcelona": {
+      "message": "İspanya - Barselona"
+   },
+   "_locationName_Spain___Barcelona___2": {
+      "message": "İspanya - Barselona - 2"
+   },
+   "_locationName_Spain___Madrid": {
+      "message": "İspanya - Madrid"
+   },
+   "_locationName_Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "_locationName_Sweden": {
+      "message": "İsveç"
+   },
+   "_locationName_Sweden___2": {
+      "message": "İsveç - 2"
+   },
+   "_locationName_Switzerland": {
+      "message": "İsviçre"
+   },
+   "_locationName_Switzerland___2": {
+      "message": "İsviçre - 2"
+   },
+   "_locationName_Taiwan": {
+      "message": "Tayvan"
+   },
+   "_locationName_Taiwan___3": {
+      "message": "Tayvan - 3"
+   },
+   "_locationName_Thailand": {
+      "message": "Tayland"
+   },
+   "_locationName_Trinidad_and_Tobago": {
+      "message": "Trinidad ve Tobago"
+   },
+   "_locationName_Turkey": {
+      "message": "Türkiye"
+   },
+   "_locationName_UK___Docklands": {
+      "message": "BK - Docklands"
+   },
+   "_locationName_UK___East_London": {
+      "message": "BK - Doğu Londra"
+   },
+   "_locationName_UK___Kent": {
+      "message": "BK - Kent"
+   },
+   "_locationName_UK___London": {
+      "message": "BK - Londra"
+   },
+   "_locationName_UK___Midlands": {
+      "message": "BK - Midlands"
+   },
+   "_locationName_UK___Wembley": {
+      "message": "BK - Wembley"
+   },
+   "_locationName_USA___Albuquerque": {
+      "message": "ABD - Albuquerque"
+   },
+   "_locationName_USA___Atlanta": {
+      "message": "ABD - Atlanta"
+   },
+   "_locationName_USA___Chicago": {
+      "message": "ABD - Chicago"
+   },
+   "_locationName_USA___Dallas": {
+      "message": "ABD - Dallas"
+   },
+   "_locationName_USA___Dallas___2": {
+      "message": "ABD - Dallas - 2"
+   },
+   "_locationName_USA___Denver": {
+      "message": "ABD - Denver"
+   },
+   "_locationName_USA___Hollywood": {
+      "message": "ABD - Hollywood"
+   },
+   "_locationName_USA___Lincoln_Park": {
+      "message": "ABD - Lincoln Park"
+   },
+   "_locationName_USA___Los_Angeles": {
+      "message": "ABD - Los Angeles"
+   },
+   "_locationName_USA___Los_Angeles___1": {
+      "message": "ABD - Los Angeles - 1"
+   },
+   "_locationName_USA___Los_Angeles___2": {
+      "message": "ABD - Los Angeles - 2"
+   },
+   "_locationName_USA___Los_Angeles___3": {
+      "message": "ABD - Los Angeles - 3"
+   },
+   "_locationName_USA___Los_Angeles___4": {
+      "message": "ABD - Los Angeles - 4"
+   },
+   "_locationName_USA___Los_Angeles___5": {
+      "message": "ABD - Los Angeles - 5"
+   },
+   "_locationName_USA___Miami": {
+      "message": "ABD - Miami"
+   },
+   "_locationName_USA___Miami___2": {
+      "message": "ABD - Miami - 2"
+   },
+   "_locationName_USA___New_Jersey___1": {
+      "message": "ABD - New Jersey - 1"
+   },
+   "_locationName_USA___New_Jersey___2": {
+      "message": "ABD - New Jersey - 2"
+   },
+   "_locationName_USA___New_Jersey___3": {
+      "message": "ABD - New Jersey - 3"
+   },
+   "_locationName_USA___New_York": {
+      "message": "ABD - New York"
+   },
+   "_locationName_USA___New_York___2": {
+      "message": "ABD - New York - 2"
+   },
+   "_locationName_USA___Phoenix": {
+      "message": "ABD - Phoenix"
+   },
+   "_locationName_USA___Salt_Lake_City": {
+      "message": "ABD - Salt Lake City"
+   },
+   "_locationName_USA___San_Francisco": {
+      "message": "ABD - San Francisco"
+   },
+   "_locationName_USA___San_Jose": {
+      "message": "ABD - San Jose"
+   },
+   "_locationName_USA___Santa_Monica": {
+      "message": "ABD - Santa Monica"
+   },
+   "_locationName_USA___Seattle": {
+      "message": "ABD - Seattle"
+   },
+   "_locationName_USA___Tampa___1": {
+      "message": "ABD - Tampa - 1"
+   },
+   "_locationName_USA___Washington_DC": {
+      "message": "ABD - Washington DC"
+   },
+   "_locationName_USA___Washington_DC___2": {
+      "message": "ABD - Washington DC - 2"
+   },
+   "_locationName_Ukraine": {
+      "message": "Ukrayna"
+   },
+   "_locationName_United_Kingdom": {
+      "message": "Birleşik Krallık"
+   },
+   "_locationName_United_States": {
+      "message": "ABD"
+   },
+   "_locationName_Uruguay": {
+      "message": "Uruguay"
+   },
+   "_locationName_Uzbekistan": {
+      "message": "Özbekistan"
+   },
+   "_locationName_Venezuela": {
+      "message": "Venezuela"
+   },
+   "_locationName_Vietnam": {
+      "message": "Vietnam"
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Yüksek hızla çevrimiçi olun. Konumunuzu gizleyin, içeriklere her yerden erişin ve ExpressVPN uygulamasını Firefox'tan kontrol edin."
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "Yüksek hızla çevrimiçi olun. Konumunuzu gizleyin, içeriklere her yerden erişin ve ExpressVPN uygulamasını Chrome'dan kontrol edin."
+   },
+   "app_description_text_beta": {
+      "message": "ExpressVPN beta, üstün teknoloji ile yaşamayı seven kişiler içindir. En yeni özellikleri önce siz edinin."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN: Daha iyi internet için VPN proxy"
+   },
+   "app_name_title_beta": {
+      "message": "ExpressVPN Beta: Daha iyi internet için VPN"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN"
+   },
+   "error_@firefox@_hide_text": {
+      "message": "Alternatif olarak, simgeye sağ tıklayarak ve \"Araç Çubuğundan Kaldır\"ı veya \"Chrome menüsünde gizle\"yi seçerek eklentiyi gizleyebilirsiniz."
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_main_button_label": {
+      "message": "Abonelik Edinin"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_sub_button_label": {
+      "message": "Çıkış Yap"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_title": {
+      "message": "Korunmaya devam edin"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_main_button_label": {
+      "message": "Ödeme Bilgilerini Güncelleyin"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_sub_button_label": {
+      "message": "Çıkış Yap"
+   },
+   "error_IAP_CONTINUE_USING_p1_text": {
+      "message": "ExpressVPN'i kullanmaya devam etmek için lütfen iTunes/App Store hesabınızdan ödeme bilgilerini güncelleyin."
+   },
+   "error_IAP_MAIN_title": {
+      "message": "Ödeme Başarısız Oldu"
+   },
+   "error_IAP_WILL_AUTO_ACTIVATE_p2_text": {
+      "message": "Bilgilerinizi güncellediğinizde, ExpressVPN 30 dakika içinde otomatik olarak aktif hâle gelecektir."
+   },
+   "error_NOT_INSTALLED_chromeOS_manual": {
+      "message": "Chromebook'unuzda Play Store yok ise, lütfen [el ile yapılandırma] yönergelerimizi takip edin."
+   },
+   "error_NOT_INSTALLED_chromeOS_primary_button": {
+      "message": "ExpressVPN'i Yükleyin"
+   },
+   "error_NOT_INSTALLED_chromeOS_secondary_button": {
+      "message": "Destek ile iletişime geçin"
+   },
+   "error_NOT_INSTALLED_chromeOS_title": {
+      "description": "Context: This message shows to users on Chromebook (operating Chrome OS). The ExpressVPN app does not work for Chromebook users, for now.",
+      "message": "Chrome OS Desteklenmiyor"
+   },
+   "error_NOT_INSTALLED_linux_title": {
+      "message": "Uygulama Bulunamadı"
+   },
+   "error_NOT_INSTALLED_primary_button": {
+      "message": "Masaüstü Uygulamasını Yükleyin"
+   },
+   "error_NOT_INSTALLED_secondary_button": {
+      "message": "Yeni Abonelik Edinin"
+   },
+   "error_NOT_INSTALLED_title": {
+      "message": "Uygulama Yüklenmemiş"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_main_button_label": {
+      "message": "Ödeme Bilgilerini Güncelleyin"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_sub_button_label": {
+      "message": "Daha sonra"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_main_button_label": {
+      "message": "Yeni Abonelik Edinin"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_sub_button_label": {
+      "message": "Çıkış Yap"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_title": {
+      "message": "Abonelik Sona Erdi"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_main_button_label": {
+      "message": "Ödeme Bilgilerini Güncelleyin"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_sub_button_label": {
+      "message": "Çıkış Yap"
+   },
+   "error_app_not_found_buy_subscription_button_label": {
+      "message": "Bir abonelik satın alın"
+   },
+   "error_app_not_found_contact_support_text": {
+      "message": "Yardıma ihtiyacınız mı var? Lütfen [Destek ile iletişime geçin]."
+   },
+   "error_app_not_found_download_LINUX_button_label": {
+      "message": "Linux Uygulamasını İndir"
+   },
+   "error_app_not_found_download_MAC_button_label": {
+      "message": "Mac Uygulamasını İndir"
+   },
+   "error_app_not_found_download_WINDOWS_button_label": {
+      "message": "Windows Uygulamasını İndir"
+   },
+   "error_app_not_found_get_started_text": {
+      "message": "ExpressVPN'e yeni misiniz? [Başlayın]"
+   },
+   "error_app_not_found_require_CHROMIUM_text": {
+      "message": "Lütfen Google Play Store'dan ExpressVPN uygulamasını yükleyin."
+   },
+   "error_app_not_found_require_LINUX_snap_text": {
+      "message": "Tarayıcınızı \u003Cb>Ubuntu Software Center\u003C/b>'dan yüklediyseniz, eklenti Linux uygulaması ile iletişim kuramayacak. [Daha fazlasını öğrenin]"
+   },
+   "error_app_not_found_require_LINUX_text": {
+      "message": "Bu eklenti, Linux için ExpressVPN uygulamasının yüklü olmasını ve aktif bir abonelik içermesini gerektirir."
+   },
+   "error_app_not_found_require_MAC_text": {
+      "message": "Bu eklenti, Mac için ExpressVPN uygulamasının yüklü olmasını ve aktif bir abonelik içermesini gerektirir."
+   },
+   "error_app_not_found_require_WINDOWS_text": {
+      "message": "Bu eklenti, Windows için ExpressVPN uygulamasının yüklü olmasını ve aktif bir abonelik içermesini gerektirir."
+   },
+   "error_btnReturnHome_default": {
+      "message": "Anasayfaya Dön"
+   },
+   "error_business_subscription_expired_contact_support_text": {
+      "message": "Herhangi bir sorunuz var ise, lütfen [Destek ile iletişime geçin]."
+   },
+   "error_business_subscription_expired_signout_button_label": {
+      "message": "Çıkış Yap"
+   },
+   "error_business_subscription_expired_status_text": {
+      "message": "Sona erdi (%1)."
+   },
+   "error_business_subscription_expired_text": {
+      "message": "Yeni bir işletme aboneliği satın almak için lütfen hesap sahibi ile iletişime geçin."
+   },
+   "error_business_subscription_expired_title": {
+      "message": "Abonelik Sona Erdi"
+   },
+   "error_compatibility_error_@firefox@_hide_text": {
+      "message": "Alternatif olarak, simgeye sağ tıklayarak ve \"Araç Çubuğundan Kaldır\"ı veya \"Chrome menüsünde gizle\"yi seçerek eklentiyi gizleyebilirsiniz."
+   },
+   "error_compatibility_error_hide_text": {
+      "message": "Alternatif olarak, simgeye sağ tıklayarak ve \"Chrome menüsünde gizle\"yi seçerek eklentiyi gizleyebilirsiniz."
+   },
+   "error_compatibility_error_os_version_p1_text": {
+      "message": "Bu eklenti sadece \u003Cb>macOS 10.10 / Windows 7\u003C/b> ve daha yenisi üzerinde kullanılabilir."
+   },
+   "error_compatibility_error_os_version_p2_text": {
+      "message": "Eklentiyi kullanabilmek için lütfen işletim sisteminizi güncelleyin."
+   },
+   "error_compatibility_error_os_version_update_button_label": {
+      "message": "Daha Fazlasını Öğrenin"
+   },
+   "error_compatibility_error_title": {
+      "message": "İşletim Sistemini Güncelleyin"
+   },
+   "error_connection_error_check_l1_text": {
+      "message": "İnternet bağlantınızı kontrol edin"
+   },
+   "error_connection_error_check_l2_text": {
+      "message": "Farklı bir [VPN konumu] seçin"
+   },
+   "error_connection_error_check_l3_text": {
+      "message": "Hiçbiri işe yaramaz ise, [Destek ile iletişime geçin]"
+   },
+   "error_connection_error_lock_on_text": {
+      "message": "İnternet trafiği gizliliğinizi korumak amacıyla şu anda engellenmektedir."
+   },
+   "error_connection_error_return_home_button_label": {
+      "message": "Anasayfa'ya Dön"
+   },
+   "error_connection_error_return_home_button_label_network_lock_off": {
+      "message": "İptal"
+   },
+   "error_connection_error_return_home_button_label_network_lock_on": {
+      "message": "İnternete Engeli Kaldırın"
+   },
+   "error_connection_error_title": {
+      "message": "Bağlanamadı"
+   },
+   "error_connection_error_to_location_text": {
+      "message": "%LOCATION% konumuna bağlanılamadı."
+   },
+   "error_connection_error_try_again_button_label": {
+      "message": "Tekrar Deneyin"
+   },
+   "error_expired_update_now_link_text": {
+      "message": "Zaten abone misiniz? [Hemen güncelleyin]."
+   },
+   "error_forced_signout_p1_text": {
+      "message": "Hesabınızdan çıkış yapıldı çünkü hesap bilgileriniz güncellendi."
+   },
+   "error_forced_signout_p2_linux_text": {
+      "message": "ExpressVPN'i kullanmaya devam etmek için lütfen bu komutu tekrar giriş yapmak için terminalinizde çalıştırın:"
+   },
+   "error_forced_signout_p2_text": {
+      "message": "ExpressVPN'i kullanmaya devam etmek için lütfen tekrar giriş yapın."
+   },
+   "error_forced_signout_signin_button_label": {
+      "message": "Giriş Yap"
+   },
+   "error_forced_signout_title": {
+      "message": "ExpressVPN'e Giriş Yapın"
+   },
+   "error_fraudster_hint": {
+      "message": "Faturalama bilgilerinizi doğrulayamadık, bu yüzden ödemenizi iptal ettik."
+   },
+   "error_fraudster_p1_text": {
+      "message": "Aboneliğinizi yeniden etkinleştirmek için, \u003Cbr>lütfen şu adrese e-posta gönderin:"
+   },
+   "error_fraudster_p2_text": {
+      "description": "Do not translate 'Billing Verification'",
+      "message": "konu satırı: \u003Cspan class='bold DO_NOT_TRANSLATE'>Billing Verification\u003C/span>."
+   },
+   "error_fraudster_p3_text": {
+      "message": "Ödeme için kullanılan kredi kartının fotoğrafını ekleyin (SADECE son 4 rakam ve adınız görülebilir şekilde)."
+   },
+   "error_fraudster_p4_text": {
+      "message": "Lütfen telefon numaranızı (ülke kodu ile) ve sizi arayabileceğimiz en uygun saati ekleyin."
+   },
+   "error_fraudster_p5_text": {
+      "message": "Fatura Ekibi 24–48 saat içinde yanıt verecektir."
+   },
+   "error_fraudster_question1_text": {
+      "message": "Kredi kartı ile mi ödediniz?"
+   },
+   "error_fraudster_question2_text": {
+      "message": "Kredi kartı ile ödemediniz mi?"
+   },
+   "error_fraudster_title": {
+      "message": "Hesap askıya alındı"
+   },
+   "error_free_trial_expired_benefits_text": {
+      "message": "Denemeniz sona erdi, ama tekrar bağlanmak çok kolay."
+   },
+   "error_free_trial_expired_benefits_title": {
+      "message": "Neden yükseltmeli?"
+   },
+   "error_free_trial_expired_enter_new_code_button_label": {
+      "message": "Aktivasyon Kodu'nu girin"
+   },
+   "error_free_trial_expired_l1_text": {
+      "message": "Her cihaz için uygulama"
+   },
+   "error_free_trial_expired_l2_text": {
+      "message": "30 günlük para iade garantisi"
+   },
+   "error_free_trial_expired_l3_text": {
+      "message": "Dünya genelinde 160 konum"
+   },
+   "error_free_trial_expired_l4_text": {
+      "message": "7/24 müşteri desteği"
+   },
+   "error_free_trial_expired_noIAP_l3_text": {
+      "message": "30 günlük para iade garantisi"
+   },
+   "error_free_trial_expired_status_text": {
+      "message": "Sona erdi (%1)."
+   },
+   "error_free_trial_expired_title": {
+      "message": "Ücretsiz deneme sona erdi"
+   },
+   "error_free_trial_expired_upgrade_now_button_label": {
+      "message": "Hemen Yükseltin"
+   },
+   "error_hide_text": {
+      "message": "Alternatif olarak, simgeye sağ tıklayarak ve \"Chrome menüsünde gizle\"yi seçerek eklentiyi gizleyebilirsiniz."
+   },
+   "error_not_activated_LINUX_text": {
+      "message": "Masaüstü uygulamasını aktif hâle getirmek için lütfen şu komutu terminalde çalıştırın:"
+   },
+   "error_not_activated_text": {
+      "message": "Bu eklentiyi kullanmak için lütfen ExpressVPN masaüstü uygulamasında giriş yapın."
+   },
+   "error_not_activated_title": {
+      "message": "Uygulama Aktif Değil"
+   },
+   "error_open_app_@firefox@_text": {
+      "message": "Bu eklenti ExpressVPN uygulamasının çalışmasını gerektirir."
+   },
+   "error_open_app_contact_support_button_label": {
+      "message": "Destek ile İletişime Geçin"
+   },
+   "error_open_app_open_app_button_label": {
+      "message": "Masaüstü Uygulamasını Açın"
+   },
+   "error_open_app_text": {
+      "message": "Bu eklenti ExpressVPN uygulamasının çalışmasını gerektirir."
+   },
+   "error_open_app_title": {
+      "message": "Uygulama Açık Değil"
+   },
+   "error_signout_button": {
+      "message": "Çıkış Yap"
+   },
+   "error_simultaneous_connection_cancel_button_label": {
+      "message": "İptal"
+   },
+   "error_simultaneous_connection_hint": {
+      "message": "Bağlantı sınırına ulaşıldı."
+   },
+   "error_simultaneous_connection_iap_false_p2_text": {
+      "message": "Lütfen bir cihazın bağlantısını sonlandırın veya [ek bir abonelik satın alın]."
+   },
+   "error_simultaneous_connection_iap_true_p2_text": {
+      "message": "Lütfen bir cihazın bağlantısını sonlandırın."
+   },
+   "error_simultaneous_connection_learn_more_button_label": {
+      "message": "Daha Fazlasını Öğrenin"
+   },
+   "error_simultaneous_connection_ok_button_label": {
+      "message": "Tamam"
+   },
+   "error_simultaneous_connection_p1_text": {
+      "message": "ExpressVPN'in bu abonelik için cihaz kullanım sınırını aştınız."
+   },
+   "error_simultaneous_connection_popup_btn0": {
+      "message": "İptal"
+   },
+   "error_simultaneous_connection_popup_btn1": {
+      "message": "Tamam"
+   },
+   "error_simultaneous_connection_popup_text": {
+      "message": "Bu bağlantıyı açmak internet trafiğinizin tamamına engeli kaldıracaktır."
+   },
+   "error_simultaneous_connection_popup_title": {
+      "message": "İnternete Engeli Kaldırın"
+   },
+   "error_subscription_expired_benefits_text": {
+      "message": "Aboneliğiniz sona erdi, ancak tekrar bağlanmak çok kolay."
+   },
+   "error_subscription_expired_benefits_title": {
+      "message": "Neden yenilemeli?"
+   },
+   "error_subscription_expired_buy_subscription_button_label": {
+      "message": "Yeni Abonelik Edinin"
+   },
+   "error_subscription_expired_enter_new_code_button_label": {
+      "message": "Aktivasyon kodu'nu girin"
+   },
+   "error_subscription_expired_get_subscription_button_label": {
+      "message": "Abonelik Edinin"
+   },
+   "error_subscription_expired_l1_text": {
+      "message": "Sevdiğiniz tüm içeriklere erişin"
+   },
+   "error_subscription_expired_l2_text": {
+      "message": "Çevrimiçi iken güvende ve anonim olun"
+   },
+   "error_subscription_expired_l3_text": {
+      "message": "7/24 destek"
+   },
+   "error_subscription_expired_l4_text": {
+      "message": "7/24 müşteri desteği"
+   },
+   "error_subscription_expired_status_text": {
+      "message": "Sona erdi (%1)."
+   },
+   "error_subscription_expired_title": {
+      "message": "Abonelik Sona Erdi"
+   },
+   "error_subscription_expiring_autobill_later_button_label": {
+      "message": "Daha sonra"
+   },
+   "error_subscription_expiring_autobill_p1_text": {
+      "message": "ExpressVPN'i kullanmaya devam etmek için lütfen ödeme bilgilerinizi güncelleyin."
+   },
+   "error_subscription_expiring_autobill_title": {
+      "message": "Ödeme Başarısız Oldu"
+   },
+   "error_subscription_expiring_autobill_update_payment_button_label": {
+      "message": "Ödeme Bilgilerini Güncelleyin"
+   },
+   "error_subscription_expiring_later_button_label": {
+      "message": "Daha sonra"
+   },
+   "error_subscription_expiring_p1_text": {
+      "message": "ExpressVPN'i kullanmaya devam etmek için lütfen aboneliğinizi yenileyin."
+   },
+   "error_subscription_expiring_renew_button_label": {
+      "message": "Hemen Yenileyin"
+   },
+   "error_subscription_expiring_title": {
+      "message": "Abonelik Sona Eriyor"
+   },
+   "error_upgrade_app_button_label": {
+      "message": "Şimdi Güncelleyin"
+   },
+   "error_upgrade_app_header_title": {
+      "message": "Uygulamayı Güncelleyin"
+   },
+   "error_upgrade_app_text": {
+      "message": "Bu eklenti ExpressVPN uygulamasının en son versiyonuna ihtiyaç duymaktadır."
+   },
+   "general_contact_support_button_label": {
+      "message": "Destek ile İletişime Geçin"
+   },
+   "hint_connection_delay_text": {
+      "message": "Hâlâ bağlanmaya çalışıyor."
+   },
+   "hint_network_state_captive_portal_text": {
+      "message": "VPN'i kullanmak için lütfen Wi-Fi ağına bağlanın."
+   },
+   "hint_network_state_no_internet_connecting_text": {
+      "message": "İnternet bağlantısı algılanamıyor.\u003Cbr>VPN bağlantı olduğunda bağlanacak."
+   },
+   "hint_network_state_no_internet_ready_text": {
+      "message": "İnternet bağlantısı algılanamıyor.\u003Cbr>VPN kullanım dışı olabilir."
+   },
+   "hint_network_state_no_internet_reconnecting_text": {
+      "message": "İnternet bağlantısı koptu.\u003Cbr>VPN bağlantı olduğunda tekrar bağlanacak."
+   },
+   "hint_network_state_not_ready_text": {
+      "message": "Ağınız hazırlanırken lütfen bekleyin."
+   },
+   "hint_network_state_not_sure_connecting_text": {
+      "message": "İnternet bağlantısı algılanamıyor. VPN bağlantı olduğunda bağlanacak."
+   },
+   "hint_network_state_not_sure_ready_text": {
+      "message": "İnternet bağlantısı algılanamadı. VPN kullanılamayabilir."
+   },
+   "hint_network_state_not_sure_reconnecting_text": {
+      "message": "İnternet bağlantısı algılanamıyor. VPN bağlantı olduğunda bağlanacak."
+   },
+   "hint_no_internet_connecting_text": {
+      "message": "İnternet bağlantısı algılanamıyor.\u003Cbr>VPN bağlantı olduğunda bağlanacak."
+   },
+   "hint_no_internet_ready_text": {
+      "message": "İnternet bağlantısı algılanamıyor.\u003Cbr>VPN kullanım dışı olabilir."
+   },
+   "hint_no_internet_reconnecting_text": {
+      "message": "İnternet bağlantısı koptu.\u003Cbr>VPN bağlantı olduğunda tekrar bağlanacak."
+   },
+   "hint_reconnecting_network_lock_off_text": {
+      "message": "Bağlantı beklenmedik bir şekilde koptu. Tekrar bağlanıyor..."
+   },
+   "hint_reconnecting_network_lock_on_text": {
+      "message": "İnternet trafiği gizliliğinizi korumak amacıyla şu anda engellenmektedir."
+   },
+   "hint_saved_text": {
+      "message": "Kaydedildi"
+   },
+   "home_change_location_popup_btn0": {
+      "message": "İptal"
+   },
+   "home_change_location_popup_btn1": {
+      "message": "Devam Et"
+   },
+   "home_change_location_popup_text": {
+      "message": "İnternet trafiğiniz tekrar bağlanma sırasında güvenli olmayabilir."
+   },
+   "home_change_location_popup_title": {
+      "message": "Konumu Değiştir"
+   },
+   "language_dropdown_danish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Danimarkaca (Dansk)"
+   },
+   "language_dropdown_dutch": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Flemenkçe (Nederlands)"
+   },
+   "language_dropdown_english": {
+      "description": "Do not translate the text between parentheses",
+      "message": "İngilizce (English)"
+   },
+   "language_dropdown_finnish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Fince (Suomi)"
+   },
+   "language_dropdown_french": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Fransızca (Français)"
+   },
+   "language_dropdown_german": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Almanca (Deutsch)"
+   },
+   "language_dropdown_italian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "İtalyanca (Italiano)"
+   },
+   "language_dropdown_japanese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Japonca (日本語)"
+   },
+   "language_dropdown_korean": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Korece (한국어)"
+   },
+   "language_dropdown_norwegian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Norveççe (Norsk)"
+   },
+   "language_dropdown_polish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Lehçe (Polski)"
+   },
+   "language_dropdown_portuguese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Portekizce (Português)"
+   },
+   "language_dropdown_russian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Rusça (Русский)"
+   },
+   "language_dropdown_spanish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "İspanyolca (Español)"
+   },
+   "language_dropdown_swedish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "İsveççe (Svenska)"
+   },
+   "language_dropdown_thai": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Tayca (ภาษาไทย)"
+   },
+   "language_dropdown_turkish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Türkçe (Türkçe)"
+   },
+   "list_item_247_support": {
+      "message": "7/24 müşteri desteği"
+   },
+   "list_item_30day_guarantee": {
+      "message": "30 günlük para iade garantisi"
+   },
+   "list_item_apps_for_every_device": {
+      "message": "Her cihaz için uygulama"
+   },
+   "list_item_locations_worldwide": {
+      "message": "Dünya genelinde 160 konum"
+   },
+   "list_item_refer_frieds": {
+      "message": "Arkadaşlara önerin, ücretsiz 30 gün edinin"
+   },
+   "list_item_unlimited_bandwidth": {
+      "message": "Sınırsız bant genişliği"
+   },
+   "location_picker_locations_title": {
+      "message": "VPN Konumları"
+   },
+   "location_picker_recent_locations_text": {
+      "message": "Son Konumlar"
+   },
+   "location_picker_recommended_locations_text": {
+      "message": "Önerilen Konumlar"
+   },
+   "location_picker_search_no_results_text": {
+      "message": "Sonuç yok"
+   },
+   "location_picker_search_placeholder_text": {
+      "message": "Bir şehir veya ülke ara"
+   },
+   "location_picker_smart_location_text": {
+      "message": "Akıllı Konum"
+   },
+   "location_picker_tab_all_text": {
+      "message": "Tüm Konumlar"
+   },
+   "location_picker_tab_recommended_text": {
+      "message": "Önerilen"
+   },
+   "main_screen_current_location_text": {
+      "message": "Geçerli Konum"
+   },
+   "main_screen_recent_location_text": {
+      "message": "Son Konum"
+   },
+   "main_screen_selected_location_text": {
+      "message": "Seçilen Konum"
+   },
+   "main_screen_smart_location_text": {
+      "message": "Akıllı Konum"
+   },
+   "main_screen_status_vpn_connected_text": {
+      "message": "Bağlandı"
+   },
+   "main_screen_status_vpn_connecting_text": {
+      "message": "Bağlanıyor"
+   },
+   "main_screen_status_vpn_disconnecting_text": {
+      "message": "Bağlantı kesiliyor"
+   },
+   "main_screen_status_vpn_ready_text": {
+      "message": "Bağlı Değil"
+   },
+   "main_screen_status_vpn_reconnecting_text": {
+      "message": "Tekrar bağlanıyor"
+   },
+   "main_screen_status_vpn_speedtesting_text": {
+      "message": "Hız Testi çalışıyor"
+   },
+   "menu_beta_feedback": {
+      "message": "Beta Geri Bildirimi Gönder"
+   },
+   "menu_cancel_text": {
+      "message": "İptal"
+   },
+   "menu_connection_startup_@firefox@_header": {
+      "description": "Settings startup header",
+      "message": "Firefox Başlatma"
+   },
+   "menu_connection_startup_text": {
+      "message": "Tarayıcı açıldığında bağlan"
+   },
+   "menu_desktop_notification_text": {
+      "message": "Masaüstü bildirimlerini göster"
+   },
+   "menu_get_30_days_free": {
+      "message": "Ücretsiz 30 Gün Edinin"
+   },
+   "menu_header": {
+      "message": "Seçenekler"
+   },
+   "menu_help_support": {
+      "message": "Yardım ve Destek"
+   },
+   "menu_item_DNS_leak_test_text": {
+      "message": "DNS Sızıntı Testi"
+   },
+   "menu_item_acknowledgements_text": {
+      "message": "Beyanlar"
+   },
+   "menu_item_app_version_text": {
+      "message": "%OS% uygulama versiyonu: %VERSION%"
+   },
+   "menu_item_contact_support_text": {
+      "message": "Destek ile İletişime Geçin"
+   },
+   "menu_item_diagnostic_text": {
+      "message": "Hata Bulma Bilgileri"
+   },
+   "menu_item_extension_version_text": {
+      "message": "Eklenti versiyonu: %VERSION%"
+   },
+   "menu_item_faq_text": {
+      "message": "Sıkça Sorulan Sorular"
+   },
+   "menu_item_ip_address_checker_text": {
+      "message": "IP Adresi Kontrolü"
+   },
+   "menu_item_webRTC_leak_test_text": {
+      "message": "WebRTC Sızıntı Testi"
+   },
+   "menu_keyboard_shortcut_text": {
+      "message": "Klavye kısayolları ile aç"
+   },
+   "menu_my_account": {
+      "message": "Hesap"
+   },
+   "menu_myaccount_title": {
+      "message": "Hesap"
+   },
+   "menu_privacy_block_webrtc_text": {
+      "message": "WebRTC'yi engelle"
+   },
+   "menu_privacy_hide_location_text": {
+      "message": "Konumu gizle"
+   },
+   "menu_rate_expressvpn": {
+      "message": "ExpressVPN'i Oylayın"
+   },
+   "menu_section_about_title": {
+      "message": "Hakkında"
+   },
+   "menu_section_support_chat_menu_label": {
+      "message": "Bizimle konuşun"
+   },
+   "menu_section_support_improvements_menu_label": {
+      "message": "Bir iyileştirme önerin"
+   },
+   "menu_section_support_report_menu_label": {
+      "message": "Bir sorun bildirin"
+   },
+   "menu_section_support_title": {
+      "message": "İletişime geçin"
+   },
+   "menu_settings_general_display_header": {
+      "message": "Görünüm tercihleri"
+   },
+   "menu_settings_general_header": {
+      "message": "Genel"
+   },
+   "menu_settings_general_language_label": {
+      "message": "Dil"
+   },
+   "menu_settings_general_name": {
+      "message": "Ayarlar"
+   },
+   "menu_settings_general_open_app_settings_button_label": {
+      "message": "Masaüstü Ayarlarını Yapılandırın"
+   },
+   "menu_settings_help_button_label": {
+      "message": "Yardım"
+   },
+   "menu_settings_privacy_block_webrtc_description_text": {
+      "message": "VPN'e bağlı iken web sitelerinin gerçek IP adresinizi ve konumunuzu öğrenmelerini önleyin."
+   },
+   "menu_settings_privacy_hide_location_description_text": {
+      "message": "VPN'e bağlı iken çoğu sitede HTML5 konum belirlemeyi durdurarak fiziksel konumunuzu gizleyin."
+   },
+   "menu_settings_privacy_https_everywhere_description_text": {
+      "message": "Uygun olduğunda web sitelerinin daha güvenli HTTPS versiyonlarına otomatik olarak bağlanın."
+   },
+   "menu_settings_privacy_learn_more_button_label": {
+      "message": "Daha Fazlasını Öğrenin"
+   },
+   "menu_settings_privacy_security_name": {
+      "message": "Gizlilik ve Güvenlik"
+   },
+   "menu_settings_settings_general_title": {
+      "message": "Ayarlar"
+   },
+   "menu_settings_settings_privacy_title": {
+      "message": "Gizlilik Ayarları"
+   },
+   "menu_setup_other_devices": {
+      "message": "Diğer Cihazlara Kurun"
+   },
+   "menu_signout_p1_text": {
+      "message": "Emin misiniz? Masaüstü uygulamasından da çıkış yapacaksınız."
+   },
+   "menu_signout_text": {
+      "message": "Çıkış Yap"
+   },
+   "myaccount_account_active_p1_text": {
+      "message": "ExpressVPN'i paylaş ve ücretsiz hizmet edin!"
+   },
+   "myaccount_account_active_p2_text": {
+      "message": "Kaydolan her arkadaş için ikinize de ücretsiz 30 gün veriyoruz."
+   },
+   "myaccount_account_expired_label": {
+      "message": "Sona eriş tarihi"
+   },
+   "myaccount_account_expiry_label": {
+      "message": "Sona ereceği tarih"
+   },
+   "myaccount_account_payment_due_label": {
+      "message": "Fatura tarihi"
+   },
+   "myaccount_account_renews_label": {
+      "message": "Yenileme tarihi"
+   },
+   "myaccount_account_status_active_text": {
+      "message": "Aktif"
+   },
+   "myaccount_account_status_expired_text": {
+      "message": "Sona erdi"
+   },
+   "myaccount_account_status_free_trial_active_text": {
+      "message": "Deneme"
+   },
+   "myaccount_account_status_label": {
+      "message": "Hesap durumu"
+   },
+   "myaccount_account_status_trial_expired_text": {
+      "message": "Deneme sona erdi"
+   },
+   "myaccount_account_status_trial_text": {
+      "message": "Deneme"
+   },
+   "myaccount_account_subscription_starts_label": {
+      "message": "Abonelik başlama tarihi"
+   },
+   "myaccount_active_refer_button_label": {
+      "message": "Arkadaşlara Önerin"
+   },
+   "myaccount_expiring_buy_button_label": {
+      "message": "Hemen Satın Al"
+   },
+   "myaccount_expiring_renew_button_label": {
+      "message": "Hemen Yenileyin"
+   },
+   "myaccount_expiring_upgrade_button_label": {
+      "message": "Hemen Yükseltin"
+   },
+   "myaccount_manage_button_label": {
+      "message": "Hesabı Yönetin"
+   },
+   "myaccount_manage_subscription_button_label": {
+      "message": "Aboneliği Yönetin"
+   },
+   "myaccount_why_get_subscription_subheader_text": {
+      "message": "Neden bir abonelik edinmeli?"
+   },
+   "myaccount_why_renew_subheader_text": {
+      "message": "Neden yenilemeli?"
+   },
+   "networkLock_cancel_button_label": {
+      "message": "İptal"
+   },
+   "networkLock_header_connected_text": {
+      "message": "VPN Bağlandı"
+   },
+   "networkLock_header_connecting_text": {
+      "message": "Lütfen Bekleyin"
+   },
+   "networkLock_header_connection_error_text": {
+      "message": "Bağlanamadı"
+   },
+   "networkLock_header_reconnecting_text": {
+      "message": "Lütfen Bekleyin"
+   },
+   "networkLock_hint_connected_text": {
+      "message": "Birazdan yönlendirileceksiniz."
+   },
+   "networkLock_hint_connecting_text": {
+      "message": "İnternet trafiği gizliliğinizi korumak amacıyla şu anda engellenmektedir."
+   },
+   "networkLock_hint_connection_error_text": {
+      "message": "İnternet trafiği gizliliğinizi korumak amacıyla şu anda engellenmektedir."
+   },
+   "networkLock_hint_reconnecting_text": {
+      "message": "İnternet trafiği gizliliğinizi korumak amacıyla şu anda engellenmektedir."
+   },
+   "networkLock_status_connected_text": {
+      "message": "%LOCATION% konumuna bağlandı."
+   },
+   "networkLock_status_connecting_text": {
+      "message": "%LOCATION% konumuna bağlanıyor."
+   },
+   "networkLock_status_connection_error_text": {
+      "message": "%LOCATION% konumuna bağlanılamadı."
+   },
+   "networkLock_status_reconnecting_text": {
+      "message": "%LOCATION% konumuna yeniden bağlanıyor."
+   },
+   "networkLock_try_again_button_label": {
+      "message": "Tekrar Deneyin"
+   },
+   "networkLock_unblock_internet_button_label": {
+      "message": "İnternete Engeli Kaldırın"
+   },
+   "notification_extension_update_message": {
+      "message": "%VERSION% versiyonundaki yenilikleri görmek için tıklayın"
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN Güncellendi"
+   },
+   "promo_bar_free_trial_expiring_soon_days_text": {
+      "message": "Ücretsiz deneme [days] gün içinde sona eriyor"
+   },
+   "promo_bar_free_trial_expiring_soon_expired_text": {
+      "message": "Ücretsiz denemeniz sona erdi"
+   },
+   "promo_bar_free_trial_expiring_soon_hours_text": {
+      "message": "Ücretsiz deneme [hours] saat içinde sona eriyor"
+   },
+   "promo_bar_free_trial_expiring_soon_less_than_one_hour_text": {
+      "message": "Ücretsiz denemenin bitmesine 1 saatten az kaldı"
+   },
+   "promo_bar_free_trial_expiring_soon_upgrade_now_button_label": {
+      "message": "Hemen yükseltin"
+   },
+   "promo_bar_splittunneling_@firefox@_text": {
+      "message": "Firefox VPN'in dışında bırakılmış"
+   },
+   "promo_bar_splittunneling_settings_button_label": {
+      "message": "Ayarları gözden geçirin"
+   },
+   "promo_bar_splittunneling_text": {
+      "message": "Chrome VPN'in dışında bırakılmış"
+   },
+   "promo_bar_subscription_expiring_soon_days_text": {
+      "message": "Abonelik [days] gün içinde sona eriyor"
+   },
+   "promo_bar_subscription_expiring_soon_expired_text": {
+      "message": "Aboneliğiniz sona erdi"
+   },
+   "promo_bar_subscription_expiring_soon_get_new_subscription_button_label": {
+      "message": "Yeni abonelik edinin"
+   },
+   "promo_bar_subscription_expiring_soon_hours_text": {
+      "message": "Abonelik [hours] saat içinde sona eriyor"
+   },
+   "promo_bar_subscription_expiring_soon_less_than_one_hour_text": {
+      "message": "Aboneliğin bitmesine 1 saatten az kaldı"
+   },
+   "promo_bar_subscription_expiring_soon_renew_now_button_label": {
+      "message": "Hemen yenileyin"
+   },
+   "promobar_free_trial_expiring_soon_days_header": {
+      "message": "Ücretsiz deneme [days] gün içinde sona eriyor"
+   },
+   "promobar_free_trial_expiring_soon_expired_header": {
+      "message": "Ücretsiz denemeniz sona erdi"
+   },
+   "promobar_free_trial_expiring_soon_hours_header": {
+      "message": "Ücretsiz deneme [hours] saat içinde sona eriyor"
+   },
+   "promobar_free_trial_expiring_soon_less_than_one_hour_header": {
+      "message": "Ücretsiz denemenin bitmesine 1 saatten az kaldı"
+   },
+   "promobar_free_trial_expiring_soon_text": {
+      "message": "Hemen yükseltin"
+   },
+   "promobar_iap_failed_header": {
+      "message": "Son ödemeniz başarısız oldu"
+   },
+   "promobar_iap_failed_text": {
+      "message": "Bilgileri Güncelleyin"
+   },
+   "promobar_splittunneling_@firefox@_header": {
+      "message": "Firefox VPN'in dışında bırakılmış"
+   },
+   "promobar_splittunneling_header": {
+      "message": "Chrome VPN'in dışında bırakılmış"
+   },
+   "promobar_splittunneling_text": {
+      "message": "Ayarları gözden geçirin"
+   },
+   "promobar_subscription_expired_header": {
+      "message": "Aboneliğiniz sona erecek"
+   },
+   "promobar_subscription_expiring_autobill_header": {
+      "message": "Son ödemeniz başarısız oldu"
+   },
+   "promobar_subscription_expiring_autobill_text": {
+      "message": "Bilgileri Güncelleyin"
+   },
+   "promobar_subscription_expiring_soon_days_header": {
+      "message": "Abonelik [days] gün içinde sona eriyor"
+   },
+   "promobar_subscription_expiring_soon_expired_header": {
+      "message": "Aboneliğiniz sona erdi"
+   },
+   "promobar_subscription_expiring_soon_hours_header": {
+      "message": "Abonelik [hours] saat içinde sona eriyor"
+   },
+   "promobar_subscription_expiring_soon_renewable_false_text": {
+      "message": "Yeni abonelik edinin"
+   },
+   "promobar_subscription_expiring_soon_renewable_true_text": {
+      "message": "Hemen yenileyin"
+   },
+   "promobar_update_available_header": {
+      "message": "Güncelleme hazır!"
+   },
+   "promobar_update_available_text": {
+      "message": "Hemen yükleyin"
+   },
+   "rating_improve_header": {
+      "message": "Nasıl daha iyi olabiliriz?"
+   },
+   "rating_improve_report_button": {
+      "message": "Bir Sorun Bildirin"
+   },
+   "rating_improve_suggest_button": {
+      "message": "Bir İyileştirme Önerin"
+   },
+   "rating_no_thanks_text": {
+      "message": "Hayır Teşekkürler"
+   },
+   "rating_prompt_header": {
+      "message": "ExpressVPN'i ne kadar seviyorsunuz?"
+   },
+   "rating_prompt_ok_button": {
+      "message": "Tamam"
+   },
+   "rating_thanks4_text": {
+      "message": "Değerlendirmeniz için teşekkür ederiz!"
+   },
+   "rating_thanks_@firefox@_text": {
+      "message": "Teşekkür ederiz! Bizi Firefox Eklenti Mağazasında oylamak ister misiniz?"
+   },
+   "rating_thanks_text": {
+      "message": "Teşekkür ederiz! Bizi Chrome Web Mağazasında oylamak ister misiniz?"
+   },
+   "settings_general_help_improve_description": {
+      "message": "Çökme raporlarını, hız testlerini, kullanılabilirlik tanılarını ve VPN'e bağlanmaya çalışmanın başarılı olup olmadığını paylaşın. Bu raporlar hiçbir zaman kişisel bilgiler içermez."
+   },
+   "settings_general_help_improve_label": {
+      "message": "ExpressVPN'i İyileştirin"
+   },
+   "vpn_status_notification_connected_label": {
+      "message": "VPN Bağlandı"
+   },
+   "vpn_status_notification_connected_text": {
+      "message": "%s konumuna bağlandı."
+   },
+   "vpn_status_notification_connecting_label": {
+      "message": "VPN Bağlanıyor..."
+   },
+   "vpn_status_notification_connection_failed_label": {
+      "message": "VPN Bağlanamadı"
+   },
+   "vpn_status_notification_connection_failed_network_lock_off_text": {
+      "message": "%s'a bağlanamadı."
+   },
+   "vpn_status_notification_connection_failed_network_lock_on_text": {
+      "message": "%s konumuna bağlanılamıyor. İnternet trafiği engellendi."
+   },
+   "vpn_status_notification_connection_limit_label": {
+      "message": "Bağlantı Sınırına Ulaşıldı"
+   },
+   "vpn_status_notification_connection_limit_text": {
+      "message": "Lütfen bir cihazın bağlantısını sonlandırın veya ek bir abonelik satın alın."
+   },
+   "vpn_status_notification_reconnecting_label": {
+      "message": "VPN Yeniden Bağlanıyor..."
+   },
+   "vpn_status_notification_reconnecting_network_lock_off_text": {
+      "message": "%s konumuna yeniden bağlanılıyor."
+   },
+   "vpn_status_notification_reconnecting_network_lock_on_text": {
+      "message": "%s konumuna yeniden bağlanıyor. İnternet trafiği engellendi."
+   },
+   "welcome_continue_button_label": {
+      "message": "İlerle"
+   },
+   "welcome_help_improve_expressvpn_header": {
+      "message": "ExpressVPN'i İyileştirin"
+   },
+   "welcome_help_improve_expressvpn_learn_more_text": {
+      "message": "Daha fazlasını öğrenin"
+   },
+   "welcome_help_improve_expressvpn_no_button_label": {
+      "message": "Hayır Teşekkürler"
+   },
+   "welcome_help_improve_expressvpn_ok_button_label": {
+      "message": "Tamam"
+   },
+   "welcome_help_improve_expressvpn_p1_text": {
+      "message": "Çökme raporlarını, hız testlerini, kullanılabilirlik tanılarını ve VPN'e bağlanmaya çalışmanın başarılı olup olmadığını paylaşın. Bu raporlar hiçbir zaman kişisel bilgiler içermez."
+   },
+   "welcome_not_installed_buy_header": {
+      "message": "Risksiz başlayın"
+   },
+   "welcome_not_installed_buy_text": {
+      "message": "Aylık 8,32 ABD dolarından başlayan fiyatlar ile abone olun."
+   },
+   "welcome_not_installed_existing_button_label": {
+      "message": "Zaten müşterimiz misiniz?"
+   },
+   "welcome_not_installed_get_button_label": {
+      "message": "ExpressVPN Edinin"
+   },
+   "welcome_not_installed_reasons_li_1_text": {
+      "message": "Dünya çapında güvenli VPN konumları"
+   },
+   "welcome_not_installed_reasons_li_2_text": {
+      "message": "Yüksek hız ve sınırsız bant genişliği"
+   },
+   "welcome_not_installed_reasons_li_3_text": {
+      "message": "7/24 Destek"
+   },
+   "welcome_not_installed_reasons_li_4_text": {
+      "message": "30 günlük para iade garantisi"
+   },
+   "welcome_not_installed_scene_1_text": {
+      "message": "Gizliliğinizin kontrolünü elinize alın ve verilerinizi çevrimiçiyken koruyun"
+   },
+   "welcome_not_installed_scene_2_text": {
+      "message": "Favori programlarınızı ve uygulamalarınızı her yerde kullanın"
+   },
+   "welcome_not_installed_scene_3_text": {
+      "message": "Otellerde, kafelerde ve havalimanlarında herkese açık Wi-Fi ağlarına güvenli bir şekilde bağlanın"
+   },
+   "welcome_screen1_p1_text": {
+      "message": "ExpressVPN eklentisi masaüstü uygulaması için bir uzaktan kontrol aracıdır."
+   },
+   "welcome_screen2_p1_text": {
+      "message": "VPN'e bağlı olduğunuzda, VPN sadece tarayıcınızı değil, cihazınızın tamamını korur."
+   },
+   "welcome_screen3_learn_more_text": {
+      "message": "Daha fazlasını öğrenin"
+   },
+   "welcome_screen3_p1_text": {
+      "message": "Bu eklenti çoğu sitede konumunuzu gizler, WebRTC'yi engeller ve HTTPS Everywhere'i içerir."
+   },
+   "welcome_skip_button_label": {
+      "message": "Atla"
+   }
+}

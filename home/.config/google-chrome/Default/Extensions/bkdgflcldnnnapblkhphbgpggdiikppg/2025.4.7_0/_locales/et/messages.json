@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Laienduse lühikirjeldus, mis kuvatakse veebipoes",
+      "message": "Kaitseb aktiivselt teie andmeid kasutatavas brauseris."
+   },
+   "appName": {
+      "description": "Laienduse nimetus, mis kuvatakse veebipoes",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

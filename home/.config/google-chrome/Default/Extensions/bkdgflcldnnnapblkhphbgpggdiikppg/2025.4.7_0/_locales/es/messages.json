@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "La breve descripción de la extensión, que se muestra en la tienda web",
+      "message": "Protege activamente los datos en tu navegador actual."
+   },
+   "appName": {
+      "description": "El título de la extensión, que se muestra en la tienda web",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

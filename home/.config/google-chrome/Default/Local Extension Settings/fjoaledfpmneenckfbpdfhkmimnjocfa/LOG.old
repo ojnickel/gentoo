@@ -1,3 +1,12 @@
-2023/03/27-18:04:38.011 7f2b Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Local Extension Settings/fjoaledfpmneenckfbpdfhkmimnjocfa/MANIFEST-000001
-2023/03/27-18:04:38.011 7f2b Recovering log #3
-2023/03/27-18:04:38.012 7f2b Reusing old log /home/ossi/.config/google-chrome/Default/Local Extension Settings/fjoaledfpmneenckfbpdfhkmimnjocfa/000003.log 
+2025/04/25-15:59:51.816 df1 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Local Extension Settings/fjoaledfpmneenckfbpdfhkmimnjocfa/MANIFEST-000001
+2025/04/25-15:59:51.818 df1 Recovering log #3413
+2025/04/25-15:59:51.874 df1 Reusing old log /home/ossi/.config/google-chrome/Default/Local Extension Settings/fjoaledfpmneenckfbpdfhkmimnjocfa/003413.log 
+2025/04/25-15:59:52.405 dfc Level-0 table #3418: started
+2025/04/25-15:59:52.425 dfc Level-0 table #3418: 1140764 bytes OK
+2025/04/25-15:59:52.431 dfc Delete type=0 #3413
+2025/04/26-14:42:16.139 dee Compacting 1@0 + 1@1 files
+2025/04/26-14:42:16.157 dee Generated table #3419@0: 8 keys, 162909 bytes
+2025/04/26-14:42:16.157 dee Compacted 1@0 + 1@1 files => 162909 bytes
+2025/04/26-14:42:16.163 dee compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/26-14:42:16.164 dee Delete type=2 #3415
+2025/04/26-14:42:16.164 dee Delete type=2 #3418

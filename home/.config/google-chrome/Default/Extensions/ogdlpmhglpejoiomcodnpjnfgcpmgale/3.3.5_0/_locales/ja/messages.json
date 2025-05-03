@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome™用の楽しいカスタムカーソル。 大量の無料のカーソルを使用するか、自分でアップロードしてください。"
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - カスタムカーソル"
+   },
+   "close": {
+      "message": "を閉じる"
+   },
+   "cursor_size_extra_large": {
+      "message": "特大"
+   },
+   "cursor_size_extra_small": {
+      "message": "特大"
+   },
+   "cursor_size_large": {
+      "message": "大"
+   },
+   "cursor_size_medium": {
+      "message": "中"
+   },
+   "cursor_size_small": {
+      "message": "小さい"
+   },
+   "delete": {
+      "message": "削除する"
+   },
+   "delete_all": {
+      "message": "すべて削除"
+   },
+   "enter_your_search_text": {
+      "message": "検索テキストを入力してください"
+   },
+   "favorite_by_time": {
+      "message": "時間で"
+   },
+   "favorite_by_visited_pages": {
+      "message": "アクセスしたページごと"
+   },
+   "favorite_manage_button": {
+      "message": "お気に入りの管理"
+   },
+   "favorite_rotate_favorites": {
+      "message": "お気に入りを回転させる"
+   },
+   "favorite_sec_page": {
+      "message": "秒/ページ"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "お気に入りの管理"
+   },
+   "hint_defaultTo": {
+      "message": "デフォルトのカーソル"
+   },
+   "hint_remove_cursor": {
+      "message": "クリックしてカーソルを削除します"
+   },
+   "hint_remove_pointer": {
+      "message": "クリックしてポインターを削除します"
+   },
+   "hint_settings": {
+      "message": "設定"
+   },
+   "hint_size": {
+      "message": "カーソルサイズರ"
+   },
+   "hint_upload_cursor": {
+      "message": "クリックしてカーソルをアップロード"
+   },
+   "hint_upload_pointer": {
+      "message": "クリックしてポインタをアップロード"
+   },
+   "item_cursor": {
+      "message": "カーソル"
+   },
+   "item_pointer": {
+      "message": "ポインタ"
+   },
+   "manage_cursor_size_settings": {
+      "message": "カーソルサイズ設定"
+   },
+   "manage_manage_collection": {
+      "message": "コレクション管理"
+   },
+   "nav_how_to_use": {
+      "message": "使い方"
+   },
+   "nav_manage": {
+      "message": "管理する"
+   },
+   "nav_more_cursors": {
+      "message": "より多くのカーソル"
+   },
+   "nav_upload_cursor": {
+      "message": "アップロードカーソル"
+   },
+   "options_add_new": {
+      "message": "新しく追加する"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>推奨事項：\u003C/h2>\u003Cul>\u003Cli>128 x 128ピクセルを超える画像を使用しないでください。\u003C/li>\u003Cli>.pngなどの透明な背景の画像を使用してください。\u003C/li>\u003Cli>より頻繁に笑顔 ;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "自分のカーソルをアップロードする"
+   },
+   "popup_default_cursor": {
+      "message": "デフォルトカーソル"
+   },
+   "popup_manage": {
+      "message": "管理する"
+   },
+   "popup_more_cursor": {
+      "message": "より多くのカーソル"
+   },
+   "popup_upload_cursor": {
+      "message": "アップロードカーソル"
+   },
+   "rate_us_5_stars": {
+      "message": "5つ星を評価してください"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

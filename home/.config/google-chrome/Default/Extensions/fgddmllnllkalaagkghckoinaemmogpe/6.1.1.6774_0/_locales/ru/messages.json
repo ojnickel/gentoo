@@ -1,0 +1,1694 @@
+{
+   "_locationName_Albania": {
+      "message": "Албания"
+   },
+   "_locationName_Algeria": {
+      "message": "Алжир"
+   },
+   "_locationName_Americas": {
+      "message": "Северная и Южная Америка"
+   },
+   "_locationName_Andorra": {
+      "message": "Андорра"
+   },
+   "_locationName_Argentina": {
+      "message": "Аргентина"
+   },
+   "_locationName_Armenia": {
+      "message": "Армения"
+   },
+   "_locationName_Asia_Pacific": {
+      "message": "АТР"
+   },
+   "_locationName_Australia": {
+      "message": "Австралия"
+   },
+   "_locationName_Australia___Adelaide": {
+      "message": "Австралия - Аделаида"
+   },
+   "_locationName_Australia___Brisbane": {
+      "message": "Австралия - Брисбен"
+   },
+   "_locationName_Australia___Melbourne": {
+      "message": "Австралия - Мельбурн"
+   },
+   "_locationName_Australia___Perth": {
+      "message": "Австралия - Перт"
+   },
+   "_locationName_Australia___Sydney": {
+      "message": "Австралия - Сидней"
+   },
+   "_locationName_Australia___Sydney___2": {
+      "message": "Австралия - Сидней - 2"
+   },
+   "_locationName_Australia___Sydney___3": {
+      "message": "Австралия - Сидней - 3"
+   },
+   "_locationName_Australia___Woolloomooloo": {
+      "message": "Австралия - Вуллумулу"
+   },
+   "_locationName_Austria": {
+      "message": "Австрия"
+   },
+   "_locationName_Azerbaijan": {
+      "message": "Азербайджан"
+   },
+   "_locationName_Bahamas": {
+      "message": "Багамские Острова"
+   },
+   "_locationName_Bangladesh": {
+      "message": "Бангладеш"
+   },
+   "_locationName_Belarus": {
+      "message": "Беларусь"
+   },
+   "_locationName_Belgium": {
+      "message": "Бельгия"
+   },
+   "_locationName_Bermuda": {
+      "message": "Бермудские Острова"
+   },
+   "_locationName_Bhutan": {
+      "message": "Бутан"
+   },
+   "_locationName_Bolivia": {
+      "message": "Боливия"
+   },
+   "_locationName_Bosnia_and_Herzegovina": {
+      "message": "Босния и Герцеговина"
+   },
+   "_locationName_Brazil": {
+      "message": "Бразилия"
+   },
+   "_locationName_Brazil___2": {
+      "message": "Бразилия - 2"
+   },
+   "_locationName_Brunei": {
+      "message": "Бруней"
+   },
+   "_locationName_Brunei_Darussalam": {
+      "message": "Бруней-Даруссалам"
+   },
+   "_locationName_Bulgaria": {
+      "message": "Болгария"
+   },
+   "_locationName_Cambodia": {
+      "message": "Камбоджа"
+   },
+   "_locationName_Canada": {
+      "message": "Канада"
+   },
+   "_locationName_Canada___Montreal": {
+      "message": "Канада - Монреаль"
+   },
+   "_locationName_Canada___Montreal___2": {
+      "message": "Канада - Монреаль - 2"
+   },
+   "_locationName_Canada___Toronto": {
+      "message": "Канада - Торонто"
+   },
+   "_locationName_Canada___Toronto___2": {
+      "message": "Канада - Торонто - 2"
+   },
+   "_locationName_Canada___Vancouver": {
+      "message": "Канада - Ванкувер"
+   },
+   "_locationName_Cayman_Islands": {
+      "message": "Острова Кайман"
+   },
+   "_locationName_Chile": {
+      "message": "Чили"
+   },
+   "_locationName_Colombia": {
+      "message": "Колумбия"
+   },
+   "_locationName_Costa_Rica": {
+      "message": "Коста-Рика"
+   },
+   "_locationName_Croatia": {
+      "message": "Хорватия"
+   },
+   "_locationName_Cuba": {
+      "message": "Куба"
+   },
+   "_locationName_Cyprus": {
+      "message": "Кипр"
+   },
+   "_locationName_Czech_Republic": {
+      "message": "Чешская Республика"
+   },
+   "_locationName_Denmark": {
+      "message": "Дания"
+   },
+   "_locationName_Dominican_Republic": {
+      "message": "Доминиканская Республика"
+   },
+   "_locationName_Ecuador": {
+      "message": "Эквадор"
+   },
+   "_locationName_Egypt": {
+      "message": "Египет"
+   },
+   "_locationName_Estonia": {
+      "message": "Эстония"
+   },
+   "_locationName_Europe": {
+      "message": "Европа"
+   },
+   "_locationName_Finland": {
+      "message": "Финляндия"
+   },
+   "_locationName_France": {
+      "message": "Франция"
+   },
+   "_locationName_France___Alsace": {
+      "message": "Франция - Эльзас"
+   },
+   "_locationName_France___Marseille": {
+      "message": "Франция - Марсель"
+   },
+   "_locationName_France___Paris___1": {
+      "message": "Франция - Париж - 1"
+   },
+   "_locationName_France___Paris___2": {
+      "message": "Франция - Париж - 2"
+   },
+   "_locationName_France___Strasbourg": {
+      "message": "Франция - Страсбург"
+   },
+   "_locationName_Georgia": {
+      "message": "Грузия"
+   },
+   "_locationName_Germany": {
+      "message": "Германия"
+   },
+   "_locationName_Germany___Frankfurt___1": {
+      "message": "Германия - Франкфурт - 1"
+   },
+   "_locationName_Germany___Frankfurt___2": {
+      "message": "Германия - Франкфурт - 2"
+   },
+   "_locationName_Germany___Frankfurt___3": {
+      "message": "Германия - Франкфурт - 3"
+   },
+   "_locationName_Germany___Nuremberg": {
+      "message": "Германия - Нюрнберг"
+   },
+   "_locationName_Ghana": {
+      "message": "Гана"
+   },
+   "_locationName_Greece": {
+      "message": "Греция"
+   },
+   "_locationName_Guam": {
+      "message": "Гуам"
+   },
+   "_locationName_Guatemala": {
+      "message": "Гватемала"
+   },
+   "_locationName_Honduras": {
+      "message": "Гондурас"
+   },
+   "_locationName_Hong_Kong": {
+      "message": "Гонконг"
+   },
+   "_locationName_Hong_Kong___1": {
+      "message": "Гонконг - 1"
+   },
+   "_locationName_Hong_Kong___2": {
+      "message": "Гонконг - 2"
+   },
+   "_locationName_Hong_Kong___3": {
+      "message": "Гонконг - 3"
+   },
+   "_locationName_Hong_Kong___4": {
+      "message": "Гонконг - 4"
+   },
+   "_locationName_Hungary": {
+      "message": "Венгрия"
+   },
+   "_locationName_Iceland": {
+      "message": "Исландия"
+   },
+   "_locationName_India": {
+      "message": "Индия"
+   },
+   "_locationName_India___Chennai": {
+      "message": "Индия - Ченнаи"
+   },
+   "_locationName_India___Mumbai___1": {
+      "message": "Индия - Мумбаи - 1"
+   },
+   "_locationName_India__via_Singapore_": {
+      "message": "Индия (через Сингапур)"
+   },
+   "_locationName_India__via_UK_": {
+      "message": "Индия (через Англию)"
+   },
+   "_locationName_Indonesia": {
+      "message": "Индонезия"
+   },
+   "_locationName_Ireland": {
+      "message": "Ирландия"
+   },
+   "_locationName_Isle_of_Man": {
+      "message": "Остров Мэн"
+   },
+   "_locationName_Israel": {
+      "message": "Израиль"
+   },
+   "_locationName_Italy": {
+      "message": "Италия"
+   },
+   "_locationName_Italy___Cosenza": {
+      "message": "Италия - Козенца"
+   },
+   "_locationName_Italy___Milan": {
+      "message": "Италия - Милан"
+   },
+   "_locationName_Italy___Naples": {
+      "message": "Италия - Неаполь"
+   },
+   "_locationName_Jamaica": {
+      "message": "Ямайка"
+   },
+   "_locationName_Japan": {
+      "message": "Япония"
+   },
+   "_locationName_Japan___Osaka": {
+      "message": "Япония - Осака"
+   },
+   "_locationName_Japan___Shibuya": {
+      "message": "Япония - Сибуя"
+   },
+   "_locationName_Japan___Tokyo": {
+      "message": "Япония - Токио"
+   },
+   "_locationName_Japan___Tokyo___1": {
+      "message": "Япония - Токио - 1"
+   },
+   "_locationName_Japan___Tokyo___2": {
+      "message": "Япония - Токио - 2"
+   },
+   "_locationName_Japan___Tokyo___3": {
+      "message": "Япония - Токио - 3"
+   },
+   "_locationName_Japan___Yokohama": {
+      "message": "Япония - Иокогама"
+   },
+   "_locationName_Jersey": {
+      "message": "Джерси"
+   },
+   "_locationName_Kazakhstan": {
+      "message": "Казахстан"
+   },
+   "_locationName_Kenya": {
+      "message": "Кения"
+   },
+   "_locationName_Kyrgyzstan": {
+      "message": "Кыргызстан"
+   },
+   "_locationName_Laos": {
+      "message": "Лаос"
+   },
+   "_locationName_Latvia": {
+      "message": "Латвия"
+   },
+   "_locationName_Lebanon": {
+      "message": "Ливан"
+   },
+   "_locationName_Liechtenstein": {
+      "message": "Лихтенштейн"
+   },
+   "_locationName_Lithuania": {
+      "message": "Литва"
+   },
+   "_locationName_Luxembourg": {
+      "message": "Люксембург"
+   },
+   "_locationName_Macau": {
+      "message": "Макао"
+   },
+   "_locationName_Malaysia": {
+      "message": "Малайзия"
+   },
+   "_locationName_Malta": {
+      "message": "Мальта"
+   },
+   "_locationName_Mexico": {
+      "message": "Мексика"
+   },
+   "_locationName_Middle_East_and_Africa": {
+      "message": "Ближний Восток и Африка"
+   },
+   "_locationName_Moldova": {
+      "message": "Молдова"
+   },
+   "_locationName_Monaco": {
+      "message": "Монако"
+   },
+   "_locationName_Mongolia": {
+      "message": "Монголия"
+   },
+   "_locationName_Montenegro": {
+      "message": "Черногория"
+   },
+   "_locationName_Morocco": {
+      "message": "Марокко"
+   },
+   "_locationName_Myanmar": {
+      "message": "Мьянма"
+   },
+   "_locationName_Nepal": {
+      "message": "Непал"
+   },
+   "_locationName_Netherlands": {
+      "message": "Нидерланды"
+   },
+   "_locationName_Netherlands___Amsterdam": {
+      "message": "Нидерланды - Амстердам"
+   },
+   "_locationName_Netherlands___Amsterdam___2": {
+      "message": "Нидерланды - Амстердам - 2"
+   },
+   "_locationName_Netherlands___Rotterdam": {
+      "message": "Нидерланды - Роттердам"
+   },
+   "_locationName_Netherlands___The_Hague": {
+      "message": "Нидерланды - Гаага"
+   },
+   "_locationName_New_Zealand": {
+      "message": "Новая Зеландия"
+   },
+   "_locationName_North_Macedonia": {
+      "message": "Северная Македония"
+   },
+   "_locationName_Norway": {
+      "message": "Норвегия"
+   },
+   "_locationName_Pakistan": {
+      "message": "Пакистан"
+   },
+   "_locationName_Panama": {
+      "message": "Панама"
+   },
+   "_locationName_Peru": {
+      "message": "Перу"
+   },
+   "_locationName_Philippines": {
+      "message": "Филиппины"
+   },
+   "_locationName_Philippines__via_Singapore_": {
+      "message": "Филиппины (через Сингапур)"
+   },
+   "_locationName_Pick_for_Me": {
+      "message": "Выбрать для меня"
+   },
+   "_locationName_Poland": {
+      "message": "Польша"
+   },
+   "_locationName_Portugal": {
+      "message": "Португалия"
+   },
+   "_locationName_Puerto_Rico": {
+      "message": "Пуэрто-Рико"
+   },
+   "_locationName_Romania": {
+      "message": "Румыния"
+   },
+   "_locationName_Serbia": {
+      "message": "Сербия"
+   },
+   "_locationName_Singapore": {
+      "message": "Сингапур"
+   },
+   "_locationName_Singapore___CBD": {
+      "message": "Сингапур - Центр"
+   },
+   "_locationName_Singapore___Jurong": {
+      "message": "Сингапур - Джуронг"
+   },
+   "_locationName_Singapore___Marina_Bay": {
+      "message": "Сингапур - Марина-Бэй"
+   },
+   "_locationName_Singapore___Sentosa": {
+      "message": "Сингапур - Сентоса"
+   },
+   "_locationName_Slovakia": {
+      "message": "Словакия"
+   },
+   "_locationName_Slovenia": {
+      "message": "Словения"
+   },
+   "_locationName_South_Africa": {
+      "message": "ЮАР"
+   },
+   "_locationName_South_Korea": {
+      "message": "Южная Корея"
+   },
+   "_locationName_South_Korea___2": {
+      "message": "Южная Корея - 2"
+   },
+   "_locationName_Spain": {
+      "message": "Испания"
+   },
+   "_locationName_Spain___Barcelona": {
+      "message": "Испания - Барселона"
+   },
+   "_locationName_Spain___Barcelona___2": {
+      "message": "Испания - Барселона - 2"
+   },
+   "_locationName_Spain___Madrid": {
+      "message": "Испания - Мадрид"
+   },
+   "_locationName_Sri_Lanka": {
+      "message": "Шри-Ланка"
+   },
+   "_locationName_Sweden": {
+      "message": "Швеция"
+   },
+   "_locationName_Sweden___2": {
+      "message": "Швеция - 2"
+   },
+   "_locationName_Switzerland": {
+      "message": "Швейцария"
+   },
+   "_locationName_Switzerland___2": {
+      "message": "Швейцария - 2"
+   },
+   "_locationName_Taiwan": {
+      "message": "Тайвань"
+   },
+   "_locationName_Taiwan___3": {
+      "message": "Тайвань - 3"
+   },
+   "_locationName_Thailand": {
+      "message": "Таиланд"
+   },
+   "_locationName_Trinidad_and_Tobago": {
+      "message": "Тринидад и Тобаго"
+   },
+   "_locationName_Turkey": {
+      "message": "Турция"
+   },
+   "_locationName_UK___Docklands": {
+      "message": "Англия - Доклендс"
+   },
+   "_locationName_UK___East_London": {
+      "message": "Англия - Вост. Лондон"
+   },
+   "_locationName_UK___Kent": {
+      "message": "Англия - Кент"
+   },
+   "_locationName_UK___London": {
+      "message": "Англия - Лондон"
+   },
+   "_locationName_UK___Midlands": {
+      "message": "Англия - Мидлендс"
+   },
+   "_locationName_UK___Wembley": {
+      "message": "Англия - Уэмбли"
+   },
+   "_locationName_USA___Albuquerque": {
+      "message": "США - Альбукерке"
+   },
+   "_locationName_USA___Atlanta": {
+      "message": "США - Атланта"
+   },
+   "_locationName_USA___Chicago": {
+      "message": "США - Чикаго"
+   },
+   "_locationName_USA___Dallas": {
+      "message": "США - Даллас"
+   },
+   "_locationName_USA___Dallas___2": {
+      "message": "США - Даллас - 2"
+   },
+   "_locationName_USA___Denver": {
+      "message": "США - Денвер"
+   },
+   "_locationName_USA___Hollywood": {
+      "message": "США - Голливуд"
+   },
+   "_locationName_USA___Lincoln_Park": {
+      "message": "США - Линкольн-Парк"
+   },
+   "_locationName_USA___Los_Angeles": {
+      "message": "США - Лос-Анджелес"
+   },
+   "_locationName_USA___Los_Angeles___1": {
+      "message": "США - Лос-Анджелес - 1"
+   },
+   "_locationName_USA___Los_Angeles___2": {
+      "message": "США - Лос-Анджелес - 2"
+   },
+   "_locationName_USA___Los_Angeles___3": {
+      "message": "США - Лос-Анджелес - 3"
+   },
+   "_locationName_USA___Los_Angeles___4": {
+      "message": "США - Лос-Анджелес - 4"
+   },
+   "_locationName_USA___Los_Angeles___5": {
+      "message": "США - Лос-Анджелес - 5"
+   },
+   "_locationName_USA___Miami": {
+      "message": "США - Майами"
+   },
+   "_locationName_USA___Miami___2": {
+      "message": "США - Майами - 2"
+   },
+   "_locationName_USA___New_Jersey___1": {
+      "message": "США - Нью-Джерси - 1"
+   },
+   "_locationName_USA___New_Jersey___2": {
+      "message": "США - Нью-Джерси - 2"
+   },
+   "_locationName_USA___New_Jersey___3": {
+      "message": "США - Нью-Джерси - 3"
+   },
+   "_locationName_USA___New_York": {
+      "message": "США - Нью-Йорк"
+   },
+   "_locationName_USA___New_York___2": {
+      "message": "США - Нью-Йорк - 2"
+   },
+   "_locationName_USA___Phoenix": {
+      "message": "США - Финикс"
+   },
+   "_locationName_USA___Salt_Lake_City": {
+      "message": "США - Солт-Лейк-Сити"
+   },
+   "_locationName_USA___San_Francisco": {
+      "message": "США - Сан-Франциско"
+   },
+   "_locationName_USA___San_Jose": {
+      "message": "США - Сан-Хосе"
+   },
+   "_locationName_USA___Santa_Monica": {
+      "message": "США - Санта-Моника"
+   },
+   "_locationName_USA___Seattle": {
+      "message": "США - Сиэтл"
+   },
+   "_locationName_USA___Tampa___1": {
+      "message": "США - Тампа - 1"
+   },
+   "_locationName_USA___Washington_DC": {
+      "message": "США - г. Вашингтон"
+   },
+   "_locationName_USA___Washington_DC___2": {
+      "message": "США - г. Вашингтон - 2"
+   },
+   "_locationName_Ukraine": {
+      "message": "Украина"
+   },
+   "_locationName_United_Kingdom": {
+      "message": "Великобритания"
+   },
+   "_locationName_United_States": {
+      "message": "США"
+   },
+   "_locationName_Uruguay": {
+      "message": "Уругвай"
+   },
+   "_locationName_Uzbekistan": {
+      "message": "Узбекистан"
+   },
+   "_locationName_Venezuela": {
+      "message": "Венесуэла"
+   },
+   "_locationName_Vietnam": {
+      "message": "Вьетнам"
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Безопасность и скорость. Скройте местоположение и получите свободный доступ к контенту, управляя приложением ExpressVPN из Firefox."
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "Безопасность и скорость. Скройте местоположение и получите свободный доступ к контенту, управляя приложением ExpressVPN из Chrome."
+   },
+   "app_description_text_beta": {
+      "message": "Бета-версия ExpressVPN предназначена для тех, кто хочет идти в ногу с прогрессом. Получите первыми доступ к новейшим функциям."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN: VPN-прокси для лучшего Интернета"
+   },
+   "app_name_title_beta": {
+      "message": "Бета-версия ExpressVPN для лучшего Интернета"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN"
+   },
+   "error_@firefox@_hide_text": {
+      "message": "Кроме того, вы можете скрыть расширение, щелкнув значок правой кнопкой мыши и выбрав «Удалить из панели инструментов» или «Переместить в меню»."
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_main_button_label": {
+      "message": "Купить подписку"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_sub_button_label": {
+      "message": "Выйти"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_title": {
+      "message": "Оставайтесь под защитой"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_main_button_label": {
+      "message": "Обновить платежные данные"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_sub_button_label": {
+      "message": "Выйти"
+   },
+   "error_IAP_CONTINUE_USING_p1_text": {
+      "message": "Чтобы продолжить использовать ExpressVPN, пожалуйста, обновите платежные данные в вашей учетной записи iTunes/App Store."
+   },
+   "error_IAP_MAIN_title": {
+      "message": "Оплата не прошла"
+   },
+   "error_IAP_WILL_AUTO_ACTIVATE_p2_text": {
+      "message": "ExpressVPN автоматически активируется в течение 30 минут после обновления ваших данных."
+   },
+   "error_NOT_INSTALLED_chromeOS_manual": {
+      "message": "Если Play Store недоступен на Chromebook, пожалуйста, следуйте нашим инструкциям по [ручной установке]."
+   },
+   "error_NOT_INSTALLED_chromeOS_primary_button": {
+      "message": "Установить ExpressVPN"
+   },
+   "error_NOT_INSTALLED_chromeOS_secondary_button": {
+      "message": "Связаться с нами"
+   },
+   "error_NOT_INSTALLED_chromeOS_title": {
+      "description": "Context: This message shows to users on Chromebook (operating Chrome OS). The ExpressVPN app does not work for Chromebook users, for now.",
+      "message": "Chrome OS не поддерживается"
+   },
+   "error_NOT_INSTALLED_linux_title": {
+      "message": "Приложение не найдено"
+   },
+   "error_NOT_INSTALLED_primary_button": {
+      "message": "Установить приложение для ПК"
+   },
+   "error_NOT_INSTALLED_secondary_button": {
+      "message": "Купить новую подписку"
+   },
+   "error_NOT_INSTALLED_title": {
+      "message": "Приложение не установлено"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_main_button_label": {
+      "message": "Обновить платежные данные"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_sub_button_label": {
+      "message": "Не сейчас"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_main_button_label": {
+      "message": "Купить новую подписку"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_sub_button_label": {
+      "message": "Выйти"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_title": {
+      "message": "Подписка истекла"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_main_button_label": {
+      "message": "Обновить платежные данные"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_sub_button_label": {
+      "message": "Выйти"
+   },
+   "error_app_not_found_buy_subscription_button_label": {
+      "message": "Купить подписку"
+   },
+   "error_app_not_found_contact_support_text": {
+      "message": "Нужна помощь? Пожалуйста, [обратитесь в службу поддержки]."
+   },
+   "error_app_not_found_download_LINUX_button_label": {
+      "message": "Скачать приложение для Linux"
+   },
+   "error_app_not_found_download_MAC_button_label": {
+      "message": "Скачать приложение для Mac"
+   },
+   "error_app_not_found_download_WINDOWS_button_label": {
+      "message": "Скачать приложение для Windows"
+   },
+   "error_app_not_found_get_started_text": {
+      "message": "Новый пользователь? [Начать]"
+   },
+   "error_app_not_found_require_CHROMIUM_text": {
+      "message": "Пожалуйста, установите приложение ExpressVPN из Google Play."
+   },
+   "error_app_not_found_require_LINUX_snap_text": {
+      "message": "Если вы установили браузер из \u003Cb>Центра приложений Ubuntu\u003C/b>, расширение не сможет общаться с приложением для Linux. [Подробнее]"
+   },
+   "error_app_not_found_require_LINUX_text": {
+      "message": "Необходимо приложение ExpressVPN для Linux с активной подпиской."
+   },
+   "error_app_not_found_require_MAC_text": {
+      "message": "Необходимо приложение ExpressVPN для Mac с действующей подпиской."
+   },
+   "error_app_not_found_require_WINDOWS_text": {
+      "message": "Необходимо приложение ExpressVPN для Windows с активной подпиской."
+   },
+   "error_btnReturnHome_default": {
+      "message": "Главный экран"
+   },
+   "error_business_subscription_expired_contact_support_text": {
+      "message": "Если у вас есть вопросы, пожалуйста, [обратитесь в службу поддержки]."
+   },
+   "error_business_subscription_expired_signout_button_label": {
+      "message": "Выйти"
+   },
+   "error_business_subscription_expired_status_text": {
+      "message": "Подписка истекла (%1)."
+   },
+   "error_business_subscription_expired_text": {
+      "message": "Чтобы купить новую бизнес-подписку, обратитесь к владельцу вашей учетной записи."
+   },
+   "error_business_subscription_expired_title": {
+      "message": "Подписка истекла"
+   },
+   "error_compatibility_error_@firefox@_hide_text": {
+      "message": "Кроме того, вы можете скрыть расширение, щелкнув значок правой кнопкой мыши и выбрав «Удалить из панели инструментов» или «Переместить в меню»."
+   },
+   "error_compatibility_error_hide_text": {
+      "message": "Кроме того, вы можете скрыть расширение, щелкнув значок правой кнопкой мыши и выбрав «Скрыть в меню Chrome»."
+   },
+   "error_compatibility_error_os_version_p1_text": {
+      "message": "В настоящее время расширение доступно только для \u003Cb>macOS 10.10 / Windows 7\u003C/b> и более поздних версий."
+   },
+   "error_compatibility_error_os_version_p2_text": {
+      "message": "Чтобы использовать расширение, пожалуйста, обновите операционную систему."
+   },
+   "error_compatibility_error_os_version_update_button_label": {
+      "message": "Подробнее"
+   },
+   "error_compatibility_error_title": {
+      "message": "Обновите операционную систему"
+   },
+   "error_connection_error_check_l1_text": {
+      "message": "Проверьте интернет-соединение"
+   },
+   "error_connection_error_check_l2_text": {
+      "message": "Выберите другую [VPN-локацию]"
+   },
+   "error_connection_error_check_l3_text": {
+      "message": "Если ничего не помогает, [обратитесь в службу поддержки]"
+   },
+   "error_connection_error_lock_on_text": {
+      "message": "Интернет-трафик заблокирован для защиты вашей конфиденциальности."
+   },
+   "error_connection_error_return_home_button_label": {
+      "message": "Главный экран"
+   },
+   "error_connection_error_return_home_button_label_network_lock_off": {
+      "message": "Отмена"
+   },
+   "error_connection_error_return_home_button_label_network_lock_on": {
+      "message": "Разблокировать Интернет"
+   },
+   "error_connection_error_title": {
+      "message": "Не удается подключиться"
+   },
+   "error_connection_error_to_location_text": {
+      "message": "Не удалось подключиться к %LOCATION%."
+   },
+   "error_connection_error_try_again_button_label": {
+      "message": "Повторить попытку"
+   },
+   "error_expired_update_now_link_text": {
+      "message": "Уже есть подписка? [Обновите сейчас]."
+   },
+   "error_forced_signout_p1_text": {
+      "message": "Из-за обновления учетной записи был произведен выход из системы."
+   },
+   "error_forced_signout_p2_linux_text": {
+      "message": "Чтобы продолжить использовать ExpressVPN, снова войдите в уч. запись, запустив эту команду в терминале:"
+   },
+   "error_forced_signout_p2_text": {
+      "message": "Чтобы продолжить использовать ExpressVPN, войдите в учетную запись еще раз."
+   },
+   "error_forced_signout_signin_button_label": {
+      "message": "Войти"
+   },
+   "error_forced_signout_title": {
+      "message": "Вход в ExpressVPN"
+   },
+   "error_fraudster_hint": {
+      "message": "Мы не смогли подтвердить вашу платежную информацию, поэтому ваш платеж был отменен."
+   },
+   "error_fraudster_p1_text": {
+      "message": "Чтобы активировать подписку,\u003Cbr/>отправьте сообщение по адресу"
+   },
+   "error_fraudster_p2_text": {
+      "description": "Do not translate 'Billing Verification'",
+      "message": "Тема письма: \u003Cspan class='bold DO_NOT_TRANSLATE'>Billing Verification\u003C/span>."
+   },
+   "error_fraudster_p3_text": {
+      "message": "Приложите фотографию кредитной карты, которую вы использовали (должны быть видны ТОЛЬКО последние 4 цифры и имя)"
+   },
+   "error_fraudster_p4_text": {
+      "message": "Напишите свой номер телефона с кодом страны и укажите, когда нам лучше всего связаться с вами."
+   },
+   "error_fraudster_p5_text": {
+      "message": "Сотрудники отдела оплаты услуг ответят вам в течение 24–48 часов. "
+   },
+   "error_fraudster_question1_text": {
+      "message": "Вы платили кредитной картой?"
+   },
+   "error_fraudster_question2_text": {
+      "message": "Не платили кредитной картой?"
+   },
+   "error_fraudster_title": {
+      "message": "Учетная запись приостановлена"
+   },
+   "error_free_trial_expired_benefits_text": {
+      "message": "Бесплатный пробный период истек, но подключиться опять легко!"
+   },
+   "error_free_trial_expired_benefits_title": {
+      "message": "Зачем нужна подписка?"
+   },
+   "error_free_trial_expired_enter_new_code_button_label": {
+      "message": "Ввести код активации"
+   },
+   "error_free_trial_expired_l1_text": {
+      "message": "Приложения для всех устройств"
+   },
+   "error_free_trial_expired_l2_text": {
+      "message": "Гарантия возврата денег 30 дней"
+   },
+   "error_free_trial_expired_l3_text": {
+      "message": "160 локаций по всему миру"
+   },
+   "error_free_trial_expired_l4_text": {
+      "message": "Техподдержка 24/7"
+   },
+   "error_free_trial_expired_noIAP_l3_text": {
+      "message": "Гарантия возврата денег 30 дней"
+   },
+   "error_free_trial_expired_status_text": {
+      "message": "Подписка истекла (%1)."
+   },
+   "error_free_trial_expired_title": {
+      "message": "Срок действия пробной версии истек"
+   },
+   "error_free_trial_expired_upgrade_now_button_label": {
+      "message": "Купить подписку сейчас"
+   },
+   "error_hide_text": {
+      "message": "Кроме того, вы можете скрыть расширение, щелкнув значок правой кнопкой мыши и выбрав «Скрыть в меню Chrome»."
+   },
+   "error_not_activated_LINUX_text": {
+      "message": "Чтобы активировать приложение, запустите эту команду в терминале: "
+   },
+   "error_not_activated_text": {
+      "message": "Чтобы использовать расширение, пожалуйста, авторизуйтесь в приложении ExpressVPN для ПК."
+   },
+   "error_not_activated_title": {
+      "message": "Приложение не активировано"
+   },
+   "error_open_app_@firefox@_text": {
+      "message": "Необходимо, чтобы приложение ExpressVPN было запущено."
+   },
+   "error_open_app_contact_support_button_label": {
+      "message": "Связаться с нами"
+   },
+   "error_open_app_open_app_button_label": {
+      "message": "Открыть приложение для ПК"
+   },
+   "error_open_app_text": {
+      "message": "Необходимо, чтобы приложение ExpressVPN было запущено."
+   },
+   "error_open_app_title": {
+      "message": "Приложение не открыто"
+   },
+   "error_signout_button": {
+      "message": "Выйти"
+   },
+   "error_simultaneous_connection_cancel_button_label": {
+      "message": "Отмена"
+   },
+   "error_simultaneous_connection_hint": {
+      "message": "Превышен лимит подключений."
+   },
+   "error_simultaneous_connection_iap_false_p2_text": {
+      "message": "Пожалуйста, отключите устройство или купите дополнительную подписку."
+   },
+   "error_simultaneous_connection_iap_true_p2_text": {
+      "message": "Пожалуйста, отключите устройство."
+   },
+   "error_simultaneous_connection_learn_more_button_label": {
+      "message": "Подробнее"
+   },
+   "error_simultaneous_connection_p1_text": {
+      "message": "Вы превысили максимально возможное количество устройств для этой подписки."
+   },
+   "error_simultaneous_connection_popup_btn0": {
+      "message": "Отмена"
+   },
+   "error_simultaneous_connection_popup_text": {
+      "message": "Переход по этой ссылке разблокирует весь интернет-трафик."
+   },
+   "error_simultaneous_connection_popup_title": {
+      "message": "Разблокировать Интернет"
+   },
+   "error_subscription_expired_benefits_text": {
+      "message": "Срок вашей подписки истек, но можно подключиться опять."
+   },
+   "error_subscription_expired_benefits_title": {
+      "message": "Зачем продлевать подписку?"
+   },
+   "error_subscription_expired_buy_subscription_button_label": {
+      "message": "Купить новую подписку"
+   },
+   "error_subscription_expired_enter_new_code_button_label": {
+      "message": "Ввести код активации"
+   },
+   "error_subscription_expired_get_subscription_button_label": {
+      "message": "Купить подписку"
+   },
+   "error_subscription_expired_l1_text": {
+      "message": "Можно смотреть любой контент"
+   },
+   "error_subscription_expired_l2_text": {
+      "message": "Безопасность и анонимность онлайн"
+   },
+   "error_subscription_expired_l3_text": {
+      "message": "Техподдержка 24/7"
+   },
+   "error_subscription_expired_l4_text": {
+      "message": "Техподдержка 24/7"
+   },
+   "error_subscription_expired_status_text": {
+      "message": "Истекла (%1)."
+   },
+   "error_subscription_expired_title": {
+      "message": "Подписка истекла"
+   },
+   "error_subscription_expiring_autobill_later_button_label": {
+      "message": "Напомнить позже"
+   },
+   "error_subscription_expiring_autobill_p1_text": {
+      "message": "Чтобы продолжить использовать ExpressVPN, пожалуйста, обновите свои платежные данные."
+   },
+   "error_subscription_expiring_autobill_title": {
+      "message": "Ошибка платежа"
+   },
+   "error_subscription_expiring_autobill_update_payment_button_label": {
+      "message": "Обновить платежные данные"
+   },
+   "error_subscription_expiring_later_button_label": {
+      "message": "Напомнить позже"
+   },
+   "error_subscription_expiring_p1_text": {
+      "message": "Чтобы продолжить использовать ExpressVPN, пожалуйста, обновите подписку."
+   },
+   "error_subscription_expiring_renew_button_label": {
+      "message": "Продлить сейчас"
+   },
+   "error_subscription_expiring_title": {
+      "message": "Срок подписки истекает"
+   },
+   "error_upgrade_app_button_label": {
+      "message": "Обновить сейчас"
+   },
+   "error_upgrade_app_header_title": {
+      "message": "Обновите приложение"
+   },
+   "error_upgrade_app_text": {
+      "message": "Необходима последняя версия приложения ExpressVPN."
+   },
+   "general_contact_support_button_label": {
+      "message": "Связаться с нами"
+   },
+   "hint_connection_delay_text": {
+      "message": "Идет подключение."
+   },
+   "hint_network_state_captive_portal_text": {
+      "message": "Чтобы использовать VPN, подключитесь к сети Wi-Fi."
+   },
+   "hint_network_state_no_internet_connecting_text": {
+      "message": "VPN подключится, когда будет интернет-соединение."
+   },
+   "hint_network_state_no_internet_ready_text": {
+      "message": "Нет интернет-соединения.\u003Cbr>VPN может быть недоступна."
+   },
+   "hint_network_state_no_internet_reconnecting_text": {
+      "message": "VPN-соединение восстановится после подключения к Интернету."
+   },
+   "hint_network_state_not_ready_text": {
+      "message": "Пожалуйста, подождите, пока сеть будет готова."
+   },
+   "hint_network_state_not_sure_connecting_text": {
+      "message": "VPN подключится, когда будет интернет-соединение."
+   },
+   "hint_network_state_not_sure_ready_text": {
+      "message": "Нет интернет-соединения. VPN\nможет быть недоступна."
+   },
+   "hint_network_state_not_sure_reconnecting_text": {
+      "message": "VPN подключится, когда будет интернет-соединение."
+   },
+   "hint_no_internet_connecting_text": {
+      "message": "VPN подключится, когда\u003Cbr>будет интернет-соединение."
+   },
+   "hint_no_internet_ready_text": {
+      "message": "Нет интернет-соединения.\u003Cbr>VPN может быть недоступна."
+   },
+   "hint_no_internet_reconnecting_text": {
+      "message": "VPN-соединение восстановится\u003Cbr>после подключения к Интернету."
+   },
+   "hint_reconnecting_network_lock_off_text": {
+      "message": "Соединение прервалось. Повторное подключение..."
+   },
+   "hint_reconnecting_network_lock_on_text": {
+      "message": "Интернет-трафик заблокирован для защиты вашей конфиденциальности."
+   },
+   "hint_saved_text": {
+      "message": "Сохранено"
+   },
+   "home_change_location_popup_btn0": {
+      "message": "Отмена"
+   },
+   "home_change_location_popup_btn1": {
+      "message": "Продолжить"
+   },
+   "home_change_location_popup_text": {
+      "message": "Ваш интернет-трафик может быть незащищен во время переподключения."
+   },
+   "home_change_location_popup_title": {
+      "message": "Смена локации"
+   },
+   "language_dropdown_danish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Датский (Dansk)"
+   },
+   "language_dropdown_dutch": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Голландский (Nederlands)"
+   },
+   "language_dropdown_english": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Английский (English)"
+   },
+   "language_dropdown_finnish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Финский (Suomi)"
+   },
+   "language_dropdown_french": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Французский (Français)"
+   },
+   "language_dropdown_german": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Немецкий (Deutsch)"
+   },
+   "language_dropdown_italian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Итальянский (Italiano)"
+   },
+   "language_dropdown_japanese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Японский (日本語)"
+   },
+   "language_dropdown_korean": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Корейский (한국어)"
+   },
+   "language_dropdown_norwegian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Норвежский (Norsk)"
+   },
+   "language_dropdown_polish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Польский (Polski)"
+   },
+   "language_dropdown_portuguese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Португальский (Português)"
+   },
+   "language_dropdown_russian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Русский (Русский)"
+   },
+   "language_dropdown_spanish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Испанский (Español)"
+   },
+   "language_dropdown_swedish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Шведский (Svenska)"
+   },
+   "language_dropdown_thai": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Тайский (ภาษาไทย)"
+   },
+   "language_dropdown_turkish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Турецкий (Türkçe)"
+   },
+   "list_item_247_support": {
+      "message": "Техподдержка 24/7"
+   },
+   "list_item_30day_guarantee": {
+      "message": "Гарантия возврата денег 30 дней"
+   },
+   "list_item_apps_for_every_device": {
+      "message": "Приложения для всех устройств"
+   },
+   "list_item_locations_worldwide": {
+      "message": "160 локаций по всему миру"
+   },
+   "list_item_refer_frieds": {
+      "message": "30 бесплатных дней за каждого друга"
+   },
+   "list_item_unlimited_bandwidth": {
+      "message": "Неограниченная пропускная способность"
+   },
+   "location_picker_locations_title": {
+      "message": "Локации VPN-серверов"
+   },
+   "location_picker_recent_locations_text": {
+      "message": "Предыдущие локации"
+   },
+   "location_picker_recommended_locations_text": {
+      "message": "Рекомендуемые локации"
+   },
+   "location_picker_search_no_results_text": {
+      "message": "Ничего не найдено"
+   },
+   "location_picker_search_placeholder_text": {
+      "message": "Поиск по стране"
+   },
+   "location_picker_smart_location_text": {
+      "message": "Автовыбор"
+   },
+   "location_picker_tab_all_text": {
+      "message": "Все локации"
+   },
+   "location_picker_tab_recommended_text": {
+      "message": "Рекомендуемые"
+   },
+   "main_screen_current_location_text": {
+      "message": "Текущая локация"
+   },
+   "main_screen_recent_location_text": {
+      "message": "Предыдущая локация"
+   },
+   "main_screen_selected_location_text": {
+      "message": "Выбранная локация"
+   },
+   "main_screen_smart_location_text": {
+      "message": "Автовыбор"
+   },
+   "main_screen_status_vpn_connected_text": {
+      "message": "Соединение установлено"
+   },
+   "main_screen_status_vpn_connecting_text": {
+      "message": "Подключение"
+   },
+   "main_screen_status_vpn_disconnecting_text": {
+      "message": "Отключение"
+   },
+   "main_screen_status_vpn_ready_text": {
+      "message": "Соединение не установлено"
+   },
+   "main_screen_status_vpn_reconnecting_text": {
+      "message": "Повторное подключение"
+   },
+   "main_screen_status_vpn_speedtesting_text": {
+      "message": "Выполняется тест скорости"
+   },
+   "menu_beta_feedback": {
+      "message": "Отправить отзыв о бета-версии"
+   },
+   "menu_cancel_text": {
+      "message": "Отмена"
+   },
+   "menu_connection_startup_@firefox@_header": {
+      "description": "Settings startup header",
+      "message": "Запуск Firefox"
+   },
+   "menu_connection_startup_text": {
+      "message": "Запуск при открытии браузера"
+   },
+   "menu_desktop_notification_text": {
+      "message": "Уведомления на рабочем столе"
+   },
+   "menu_get_30_days_free": {
+      "message": "Получить 30 дней в подарок"
+   },
+   "menu_header": {
+      "message": "Настройки"
+   },
+   "menu_help_support": {
+      "message": "Справка и поддержка"
+   },
+   "menu_item_DNS_leak_test_text": {
+      "message": "Проверка на утечку DNS"
+   },
+   "menu_item_acknowledgements_text": {
+      "message": "Уведомления"
+   },
+   "menu_item_app_version_text": {
+      "message": "Версия приложения для %OS%: %VERSION%"
+   },
+   "menu_item_contact_support_text": {
+      "message": "Связаться с нами"
+   },
+   "menu_item_diagnostic_text": {
+      "message": "Диагностическая информация"
+   },
+   "menu_item_extension_version_text": {
+      "message": "Версия расширения: %VERSION%"
+   },
+   "menu_item_faq_text": {
+      "message": "Типичные вопросы"
+   },
+   "menu_item_ip_address_checker_text": {
+      "message": "Проверка IP-адреса"
+   },
+   "menu_item_webRTC_leak_test_text": {
+      "message": "Проверка на утечку через WebRTC"
+   },
+   "menu_keyboard_shortcut_text": {
+      "message": "Открыть сочетанием клавиш"
+   },
+   "menu_my_account": {
+      "message": "Уч. запись"
+   },
+   "menu_myaccount_title": {
+      "message": "Учетная запись"
+   },
+   "menu_privacy_block_webrtc_text": {
+      "message": "Блокировка WebRTC"
+   },
+   "menu_privacy_hide_location_text": {
+      "message": "Замена местоположения"
+   },
+   "menu_rate_expressvpn": {
+      "message": "Оценить ExpressVPN"
+   },
+   "menu_section_about_title": {
+      "message": "О приложении"
+   },
+   "menu_section_support_chat_menu_label": {
+      "message": "Обратная связь"
+   },
+   "menu_section_support_improvements_menu_label": {
+      "message": "Предложить улучшение"
+   },
+   "menu_section_support_report_menu_label": {
+      "message": "Сообщить о проблеме"
+   },
+   "menu_section_support_title": {
+      "message": "Связаться с нами"
+   },
+   "menu_settings_general_display_header": {
+      "message": "Настройки отображения"
+   },
+   "menu_settings_general_header": {
+      "message": "Общие"
+   },
+   "menu_settings_general_language_label": {
+      "message": "Язык"
+   },
+   "menu_settings_general_name": {
+      "message": "Настройки"
+   },
+   "menu_settings_general_open_app_settings_button_label": {
+      "message": "Настроить параметры в приложении"
+   },
+   "menu_settings_help_button_label": {
+      "message": "Справка"
+   },
+   "menu_settings_privacy_block_webrtc_description_text": {
+      "message": "Не позволяет веб-сайтам обнаружить ваш настоящий IP-адрес и местоположение при подключении к VPN."
+   },
+   "menu_settings_privacy_hide_location_description_text": {
+      "message": "Отключает функцию геолокации HTML5 на большинстве сайтов, маскируя ваше физическое местонахождение при подключении к VPN."
+   },
+   "menu_settings_privacy_https_everywhere_description_text": {
+      "message": "Автоматическое подключение к более безопасной HTTPS-версии веб-сайтов, если такая имеется."
+   },
+   "menu_settings_privacy_learn_more_button_label": {
+      "message": "Подробнее"
+   },
+   "menu_settings_privacy_security_name": {
+      "message": "Анонимность и безопасность"
+   },
+   "menu_settings_settings_general_title": {
+      "message": "Настройки"
+   },
+   "menu_settings_settings_privacy_title": {
+      "message": "Настройки конфиденциальности"
+   },
+   "menu_setup_other_devices": {
+      "message": "Установка на другие устройства"
+   },
+   "menu_signout_p1_text": {
+      "message": "Вы уверены? Вы также выйдете из уч. записи настольного приложения."
+   },
+   "menu_signout_text": {
+      "message": "Выйти"
+   },
+   "myaccount_account_active_p1_text": {
+      "message": "Порекомендуйте ExpressVPN и получите бесплатное обслуживание!"
+   },
+   "myaccount_account_active_p2_text": {
+      "message": "30 дн. в подарок за подписку друга."
+   },
+   "myaccount_account_expired_label": {
+      "message": "Срок истек"
+   },
+   "myaccount_account_expiry_label": {
+      "message": "Срок истекает"
+   },
+   "myaccount_account_payment_due_label": {
+      "message": "Срок оплаты наступил"
+   },
+   "myaccount_account_renews_label": {
+      "message": "Обновится"
+   },
+   "myaccount_account_status_active_text": {
+      "message": "Активна"
+   },
+   "myaccount_account_status_expired_text": {
+      "message": "Истекла"
+   },
+   "myaccount_account_status_free_trial_active_text": {
+      "message": "Пробный период"
+   },
+   "myaccount_account_status_label": {
+      "message": "Состояние уч. записи:"
+   },
+   "myaccount_account_status_trial_expired_text": {
+      "message": "Истекла"
+   },
+   "myaccount_account_status_trial_text": {
+      "message": "Пробный период"
+   },
+   "myaccount_account_subscription_starts_label": {
+      "message": "Подписка начинается"
+   },
+   "myaccount_active_refer_button_label": {
+      "message": "Пригласить друзей"
+   },
+   "myaccount_expiring_buy_button_label": {
+      "message": "Купить сейчас"
+   },
+   "myaccount_expiring_renew_button_label": {
+      "message": "Продлить сейчас "
+   },
+   "myaccount_expiring_upgrade_button_label": {
+      "message": "Купить подписку сейчас"
+   },
+   "myaccount_manage_button_label": {
+      "message": "Управление учетной записью"
+   },
+   "myaccount_manage_subscription_button_label": {
+      "message": "Управление подпиской"
+   },
+   "myaccount_why_get_subscription_subheader_text": {
+      "message": "Зачем нужна подписка?"
+   },
+   "myaccount_why_renew_subheader_text": {
+      "message": "Зачем продлевать подписку?"
+   },
+   "networkLock_cancel_button_label": {
+      "message": "Отмена"
+   },
+   "networkLock_header_connected_text": {
+      "message": "VPN-соединение установлено"
+   },
+   "networkLock_header_connecting_text": {
+      "message": "Пожалуйста, подождите"
+   },
+   "networkLock_header_connection_error_text": {
+      "message": "Не удается подключиться"
+   },
+   "networkLock_header_reconnecting_text": {
+      "message": "Пожалуйста, подождите"
+   },
+   "networkLock_hint_connected_text": {
+      "message": "Скоро вы будете перенаправлены."
+   },
+   "networkLock_hint_connecting_text": {
+      "message": "Интернет-трафик заблокирован для защиты конфиденциальности."
+   },
+   "networkLock_hint_connection_error_text": {
+      "message": "Интернет-трафик заблокирован для защиты конфиденциальности."
+   },
+   "networkLock_hint_reconnecting_text": {
+      "message": "Интернет-трафик заблокирован для защиты конфиденциальности."
+   },
+   "networkLock_status_connected_text": {
+      "message": "Вы подключены к %LOCATION%."
+   },
+   "networkLock_status_connecting_text": {
+      "message": "Выполняется подключение к %LOCATION%."
+   },
+   "networkLock_status_connection_error_text": {
+      "message": "Не удалось подключиться к %LOCATION%."
+   },
+   "networkLock_status_reconnecting_text": {
+      "message": "Повторное подключение к %LOCATION%."
+   },
+   "networkLock_try_again_button_label": {
+      "message": "Повторить попытку"
+   },
+   "networkLock_unblock_internet_button_label": {
+      "message": "Разблокировать Интернет"
+   },
+   "notification_extension_update_message": {
+      "message": "Нажмите, чтобы узнать, что нового в версии %VERSION%"
+   },
+   "notification_extension_update_title": {
+      "message": "Вышло обновление ExpressVPN"
+   },
+   "promo_bar_free_trial_expiring_soon_days_text": {
+      "message": "До конца пробного периода [days] дн."
+   },
+   "promo_bar_free_trial_expiring_soon_expired_text": {
+      "message": "Ваш пробный период кончился"
+   },
+   "promo_bar_free_trial_expiring_soon_hours_text": {
+      "message": "До конца пробного периода [hours] ч"
+   },
+   "promo_bar_free_trial_expiring_soon_less_than_one_hour_text": {
+      "message": "До окончания пробного периода \u003C 1 ч"
+   },
+   "promo_bar_free_trial_expiring_soon_upgrade_now_button_label": {
+      "message": "Купите подписку"
+   },
+   "promo_bar_splittunneling_@firefox@_text": {
+      "message": "Firefox исключен из VPN"
+   },
+   "promo_bar_splittunneling_settings_button_label": {
+      "message": "Проверьте настройки"
+   },
+   "promo_bar_splittunneling_text": {
+      "message": "Chrome исключен из VPN"
+   },
+   "promo_bar_subscription_expiring_soon_days_text": {
+      "message": "Подписка кончается через [days] дн."
+   },
+   "promo_bar_subscription_expiring_soon_expired_text": {
+      "message": "Срок действия вашей подписки истек"
+   },
+   "promo_bar_subscription_expiring_soon_get_new_subscription_button_label": {
+      "message": "Купите новую подписку"
+   },
+   "promo_bar_subscription_expiring_soon_hours_text": {
+      "message": "Подписка кончается через [hours] ч"
+   },
+   "promo_bar_subscription_expiring_soon_less_than_one_hour_text": {
+      "message": "До окончания подписки \u003C 1 ч"
+   },
+   "promo_bar_subscription_expiring_soon_renew_now_button_label": {
+      "message": "Продлите сейчас "
+   },
+   "promobar_free_trial_expiring_soon_days_header": {
+      "message": "До конца пробного периода [days] дн."
+   },
+   "promobar_free_trial_expiring_soon_expired_header": {
+      "message": "Ваш пробный период кончился"
+   },
+   "promobar_free_trial_expiring_soon_hours_header": {
+      "message": "До конца пробного периода [hours] ч"
+   },
+   "promobar_free_trial_expiring_soon_less_than_one_hour_header": {
+      "message": "До окончания пробного периода \u003C 1 ч"
+   },
+   "promobar_free_trial_expiring_soon_text": {
+      "message": "Купите подписку"
+   },
+   "promobar_iap_failed_header": {
+      "message": "Платеж не прошел"
+   },
+   "promobar_iap_failed_text": {
+      "message": "Обновите платежные данные"
+   },
+   "promobar_splittunneling_@firefox@_header": {
+      "message": "Firefox исключен из VPN"
+   },
+   "promobar_splittunneling_header": {
+      "message": "Chrome исключен из VPN"
+   },
+   "promobar_splittunneling_text": {
+      "message": "Проверьте настройки"
+   },
+   "promobar_subscription_expired_header": {
+      "message": "Срок действия подписки истекает"
+   },
+   "promobar_subscription_expiring_autobill_header": {
+      "message": "Платеж не прошел"
+   },
+   "promobar_subscription_expiring_autobill_text": {
+      "message": "Обновить платежные данные"
+   },
+   "promobar_subscription_expiring_soon_days_header": {
+      "message": "Подписка кончается через [days] дн."
+   },
+   "promobar_subscription_expiring_soon_expired_header": {
+      "message": "Срок действия вашей подписки истек"
+   },
+   "promobar_subscription_expiring_soon_hours_header": {
+      "message": "Подписка кончается через [hours] ч"
+   },
+   "promobar_subscription_expiring_soon_renewable_false_text": {
+      "message": "Купите новую подписку"
+   },
+   "promobar_subscription_expiring_soon_renewable_true_text": {
+      "message": "Продлите сейчас "
+   },
+   "promobar_update_available_header": {
+      "message": "Доступно обновление!"
+   },
+   "promobar_update_available_text": {
+      "message": "Установите сейчас"
+   },
+   "rating_improve_header": {
+      "message": "Как нам улучшить сервис?"
+   },
+   "rating_improve_report_button": {
+      "message": "Сообщить о проблеме"
+   },
+   "rating_improve_suggest_button": {
+      "message": "Предложить улучшение"
+   },
+   "rating_no_thanks_text": {
+      "message": "Не сейчас"
+   },
+   "rating_prompt_header": {
+      "message": "Насколько вам нравится ExpressVPN?"
+   },
+   "rating_thanks4_text": {
+      "message": "Спасибо за вашу оценку!"
+   },
+   "rating_thanks_@firefox@_text": {
+      "message": "Спасибо! Хотите оценить нас в магазине Firefox Add-ons?"
+   },
+   "rating_thanks_text": {
+      "message": "Спасибо! Хотите оценить нас в интернет-магазине Chrome?"
+   },
+   "settings_general_help_improve_description": {
+      "message": "Отчеты о сбоях и попытках подключения, тесты скорости, данные диагностики. Отчеты не содержат личной информации."
+   },
+   "settings_general_help_improve_label": {
+      "message": "Помочь улучшить ExpressVPN"
+   },
+   "vpn_status_notification_connected_label": {
+      "message": "VPN-соединение установлено"
+   },
+   "vpn_status_notification_connected_text": {
+      "message": "Вы подключены к %s."
+   },
+   "vpn_status_notification_connecting_label": {
+      "message": "Подключение к VPN..."
+   },
+   "vpn_status_notification_connection_failed_label": {
+      "message": "Не удается подключиться к VPN"
+   },
+   "vpn_status_notification_connection_failed_network_lock_off_text": {
+      "message": "Не удалось подключиться к %s."
+   },
+   "vpn_status_notification_connection_failed_network_lock_on_text": {
+      "message": "Не удается подключиться к %s. Трафик заблокирован."
+   },
+   "vpn_status_notification_connection_limit_label": {
+      "message": "Превышен лимит подключений"
+   },
+   "vpn_status_notification_connection_limit_text": {
+      "message": "Пожалуйста, отключите устройство или купите дополнительную подписку."
+   },
+   "vpn_status_notification_reconnecting_label": {
+      "message": "Повторное подключение к VPN..."
+   },
+   "vpn_status_notification_reconnecting_network_lock_off_text": {
+      "message": "Повторное подключение к %s."
+   },
+   "vpn_status_notification_reconnecting_network_lock_on_text": {
+      "message": "Идет повторное подключение к %s. Интернет-трафик заблокирован."
+   },
+   "welcome_continue_button_label": {
+      "message": "Продолжить"
+   },
+   "welcome_help_improve_expressvpn_header": {
+      "message": "Помощь в улучшении ExpressVPN"
+   },
+   "welcome_help_improve_expressvpn_learn_more_text": {
+      "message": "Подробнее"
+   },
+   "welcome_help_improve_expressvpn_no_button_label": {
+      "message": "Не сейчас"
+   },
+   "welcome_help_improve_expressvpn_p1_text": {
+      "message": "Отправлять отчеты о сбоях и попытках подключения, данные диагностики и результаты теста скорости. Отчеты не содержат личной информации."
+   },
+   "welcome_not_installed_buy_header": {
+      "message": "Начать без риска"
+   },
+   "welcome_not_installed_buy_text": {
+      "message": "Стоимость подписки: от 8,32$ в месяц"
+   },
+   "welcome_not_installed_existing_button_label": {
+      "message": "Уже есть подписка?"
+   },
+   "welcome_not_installed_get_button_label": {
+      "message": "Купить ExpressVPN"
+   },
+   "welcome_not_installed_reasons_li_1_text": {
+      "message": "Защищенные VPN-локации по всему миру"
+   },
+   "welcome_not_installed_reasons_li_2_text": {
+      "message": "Высокая скорость без ограничений"
+   },
+   "welcome_not_installed_reasons_li_3_text": {
+      "message": "Техподдержка 24/7"
+   },
+   "welcome_not_installed_reasons_li_4_text": {
+      "message": "Гарантия возврата денег 30 дн."
+   },
+   "welcome_not_installed_scene_1_text": {
+      "message": "Защитите свою приватность и свои данные онлайн\n"
+   },
+   "welcome_not_installed_scene_2_text": {
+      "message": "Смотрите любимые шоу и передачи, где бы вы ни находились"
+   },
+   "welcome_not_installed_scene_3_text": {
+      "message": "Безопасно подключайтесь к публичным Wi-Fi-сетям в отелях, кафе и аэропортах"
+   },
+   "welcome_screen1_p1_text": {
+      "message": "Расширение ExpressVPN — это пульт управления настольным приложением."
+   },
+   "welcome_screen2_p1_text": {
+      "message": "Когда вы подключены к VPN, она защищает всё устройство, а не только браузер."
+   },
+   "welcome_screen3_learn_more_text": {
+      "message": "Подробнее"
+   },
+   "welcome_screen3_p1_text": {
+      "message": "Расширение заменяет ваше местоположение на большинстве сайтов, блокирует WebRTC и включает HTTPS Everywhere."
+   },
+   "welcome_skip_button_label": {
+      "message": "Пропустить"
+   }
+}

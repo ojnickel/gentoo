@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Verkkokamera tai kamera"
+   },
+   "Cancel": {
+      "message": "Peruuttaa"
+   },
+   "Countdown": {
+      "message": "Lähtölaskenta ennen tallennusta"
+   },
+   "GrantPerm": {
+      "message": "Myöntää lupa"
+   },
+   "Pause": {
+      "message": "Tauko"
+   },
+   "PermCamDenied": {
+      "message": "Kameran lupa evätty."
+   },
+   "PermMicDenied": {
+      "message": "Mikrofonin käyttöoikeus evätty."
+   },
+   "RateUs": {
+      "message": "Arvioi meitä"
+   },
+   "RecordAnother": {
+      "message": "Tee toinen äänitys"
+   },
+   "RecordCamera": {
+      "message": "Tallenna kamerasi"
+   },
+   "RecordDrive": {
+      "message": "Tallenna Google Drive™️"
+   },
+   "RecordQuality": {
+      "message": "Record Laatu"
+   },
+   "RecordScreen": {
+      "message": "Nauhoita näyttösi"
+   },
+   "RecordSys": {
+      "message": "Tallenna järjestelmän ääntä"
+   },
+   "RecordSysExpl": {
+      "message": "Tallenna ääntä kaiuttimistasi. Valitse Ääni-vaihtoehto seuraavassa valintaikkunassa, jos haluat ottaa äänen tallennuksen käyttöön."
+   },
+   "RecordVoice": {
+      "message": "Äänitä ääni"
+   },
+   "RecordVoiceExpl": {
+      "message": "Nauhoita äänesi mikrofonillasi"
+   },
+   "Resume": {
+      "message": "Jatkaa"
+   },
+   "SaveRecording": {
+      "message": "Tallenna tallennus"
+   },
+   "ScreenSrcs": {
+      "message": "Näyttö, ikkuna tai välilehti"
+   },
+   "Share": {
+      "message": "Jaa sovelluksemme"
+   },
+   "StopRecording": {
+      "message": "Lopeta tallennus"
+   },
+   "Tutorial": {
+      "message": "Näytä opetusohjelma - kuinka sovellusta käytetään"
+   }
+}

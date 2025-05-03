@@ -1,0 +1,1682 @@
+{
+   "_locationName_Albania": {
+      "message": "Albania"
+   },
+   "_locationName_Algeria": {
+      "message": "Algeria"
+   },
+   "_locationName_Americas": {
+      "message": "Americhe"
+   },
+   "_locationName_Andorra": {
+      "message": "Andorra"
+   },
+   "_locationName_Argentina": {
+      "message": "Argentina"
+   },
+   "_locationName_Armenia": {
+      "message": "Armenia"
+   },
+   "_locationName_Asia_Pacific": {
+      "message": "Asia Pacifico"
+   },
+   "_locationName_Australia": {
+      "message": "Australia"
+   },
+   "_locationName_Australia___Adelaide": {
+      "message": "Australia - Adelaide"
+   },
+   "_locationName_Australia___Brisbane": {
+      "message": "Australia - Brisbane"
+   },
+   "_locationName_Australia___Melbourne": {
+      "message": "Australia - Melbourne"
+   },
+   "_locationName_Australia___Perth": {
+      "message": "Australia - Perth"
+   },
+   "_locationName_Australia___Sydney": {
+      "message": "Australia - Sydney"
+   },
+   "_locationName_Australia___Sydney___2": {
+      "message": "Australia - Sydney - 2"
+   },
+   "_locationName_Australia___Sydney___3": {
+      "message": "Australia - Sydney - 3"
+   },
+   "_locationName_Australia___Woolloomooloo": {
+      "message": "Australia - Woolloomooloo"
+   },
+   "_locationName_Austria": {
+      "message": "Austria"
+   },
+   "_locationName_Azerbaijan": {
+      "message": "Azerbaijan"
+   },
+   "_locationName_Bahamas": {
+      "message": "Bahamas"
+   },
+   "_locationName_Bangladesh": {
+      "message": "Bangladesh"
+   },
+   "_locationName_Belarus": {
+      "message": "Bielorussia"
+   },
+   "_locationName_Belgium": {
+      "message": "Belgio"
+   },
+   "_locationName_Bermuda": {
+      "message": "Bermuda"
+   },
+   "_locationName_Bhutan": {
+      "message": "Bhutan"
+   },
+   "_locationName_Bolivia": {
+      "message": "Bolivia"
+   },
+   "_locationName_Bosnia_and_Herzegovina": {
+      "message": "Bosnia ed Erzegovina"
+   },
+   "_locationName_Brazil": {
+      "message": "Brasile"
+   },
+   "_locationName_Brazil___2": {
+      "message": "Brasile - 2"
+   },
+   "_locationName_Brunei": {
+      "message": "Brunei"
+   },
+   "_locationName_Brunei_Darussalam": {
+      "message": "Brunei Darussalam"
+   },
+   "_locationName_Bulgaria": {
+      "message": "Bulgaria"
+   },
+   "_locationName_Cambodia": {
+      "message": "Cambogia"
+   },
+   "_locationName_Canada": {
+      "message": "Canada"
+   },
+   "_locationName_Canada___Montreal": {
+      "message": "Canada - Montreal"
+   },
+   "_locationName_Canada___Montreal___2": {
+      "message": "Canada - Montreal - 2"
+   },
+   "_locationName_Canada___Toronto": {
+      "message": "Canada - Toronto"
+   },
+   "_locationName_Canada___Toronto___2": {
+      "message": "Canada - Toronto - 2"
+   },
+   "_locationName_Canada___Vancouver": {
+      "message": "Canada - Vancouver"
+   },
+   "_locationName_Cayman_Islands": {
+      "message": "Isole Cayman"
+   },
+   "_locationName_Chile": {
+      "message": "Cile"
+   },
+   "_locationName_Colombia": {
+      "message": "Colombia"
+   },
+   "_locationName_Costa_Rica": {
+      "message": "Costa Rica"
+   },
+   "_locationName_Croatia": {
+      "message": "Croazia"
+   },
+   "_locationName_Cuba": {
+      "message": "Cuba"
+   },
+   "_locationName_Cyprus": {
+      "message": "Cipro"
+   },
+   "_locationName_Czech_Republic": {
+      "message": "Repubblica Ceca"
+   },
+   "_locationName_Denmark": {
+      "message": "Danimarca"
+   },
+   "_locationName_Dominican_Republic": {
+      "message": "Repubblica Dominicana"
+   },
+   "_locationName_Ecuador": {
+      "message": "Ecuador"
+   },
+   "_locationName_Egypt": {
+      "message": "Egitto"
+   },
+   "_locationName_Estonia": {
+      "message": "Estonia"
+   },
+   "_locationName_Europe": {
+      "message": "Europa"
+   },
+   "_locationName_Finland": {
+      "message": "Finlandia"
+   },
+   "_locationName_France": {
+      "message": "Francia"
+   },
+   "_locationName_France___Alsace": {
+      "message": "Francia - Alsazia"
+   },
+   "_locationName_France___Marseille": {
+      "message": "Francia - Marsiglia"
+   },
+   "_locationName_France___Paris___1": {
+      "message": "Francia - Parigi - 1"
+   },
+   "_locationName_France___Paris___2": {
+      "message": "Francia - Parigi - 2"
+   },
+   "_locationName_France___Strasbourg": {
+      "message": "Francia - Strasburgo"
+   },
+   "_locationName_Georgia": {
+      "message": "Georgia"
+   },
+   "_locationName_Germany": {
+      "message": "Germania"
+   },
+   "_locationName_Germany___Frankfurt___1": {
+      "message": "Germania - Francoforte - 1"
+   },
+   "_locationName_Germany___Frankfurt___2": {
+      "message": "Germania - Francoforte - 2"
+   },
+   "_locationName_Germany___Frankfurt___3": {
+      "message": "Germania - Francoforte - 3"
+   },
+   "_locationName_Germany___Nuremberg": {
+      "message": "Germania - Norimberga"
+   },
+   "_locationName_Ghana": {
+      "message": "Ghana"
+   },
+   "_locationName_Greece": {
+      "message": "Grecia"
+   },
+   "_locationName_Guam": {
+      "message": "Guam"
+   },
+   "_locationName_Guatemala": {
+      "message": "Guatemala"
+   },
+   "_locationName_Honduras": {
+      "message": "Honduras"
+   },
+   "_locationName_Hong_Kong": {
+      "message": "Hong Kong"
+   },
+   "_locationName_Hong_Kong___1": {
+      "message": "Hong Kong - 1"
+   },
+   "_locationName_Hong_Kong___2": {
+      "message": "Hong Kong - 2"
+   },
+   "_locationName_Hong_Kong___3": {
+      "message": "Hong Kong - 3"
+   },
+   "_locationName_Hong_Kong___4": {
+      "message": "Hong Kong - 4"
+   },
+   "_locationName_Hungary": {
+      "message": "Ungheria"
+   },
+   "_locationName_Iceland": {
+      "message": "Islanda"
+   },
+   "_locationName_India": {
+      "message": "India"
+   },
+   "_locationName_India___Chennai": {
+      "message": "India - Chennai"
+   },
+   "_locationName_India___Mumbai___1": {
+      "message": "India - Mumbai - 1"
+   },
+   "_locationName_India__via_Singapore_": {
+      "message": "India (via Singapore)"
+   },
+   "_locationName_India__via_UK_": {
+      "message": "India (via Regno Unito)"
+   },
+   "_locationName_Indonesia": {
+      "message": "Indonesia"
+   },
+   "_locationName_Ireland": {
+      "message": "Irlanda"
+   },
+   "_locationName_Isle_of_Man": {
+      "message": "Isola di Man"
+   },
+   "_locationName_Israel": {
+      "message": "Israele"
+   },
+   "_locationName_Italy": {
+      "message": "Italia"
+   },
+   "_locationName_Italy___Cosenza": {
+      "message": "Italia - Cosenza"
+   },
+   "_locationName_Italy___Milan": {
+      "message": "Italia - Milano"
+   },
+   "_locationName_Italy___Naples": {
+      "message": "Italia - Napoli"
+   },
+   "_locationName_Jamaica": {
+      "message": "Giamaica"
+   },
+   "_locationName_Japan": {
+      "message": "Giappone"
+   },
+   "_locationName_Japan___Osaka": {
+      "message": "Giappone - Osaka"
+   },
+   "_locationName_Japan___Shibuya": {
+      "message": "Giappone - Shibuya"
+   },
+   "_locationName_Japan___Tokyo": {
+      "message": "Giappone - Tokyo"
+   },
+   "_locationName_Japan___Tokyo___1": {
+      "message": "Giappone - Tokyo - 1"
+   },
+   "_locationName_Japan___Tokyo___2": {
+      "message": "Giappone - Tokyo - 2"
+   },
+   "_locationName_Japan___Tokyo___3": {
+      "message": "Giappone - Tokyo - 3"
+   },
+   "_locationName_Japan___Yokohama": {
+      "message": "Giappone - Yokohama"
+   },
+   "_locationName_Jersey": {
+      "message": "Jersey"
+   },
+   "_locationName_Kazakhstan": {
+      "message": "Kazakistan"
+   },
+   "_locationName_Kenya": {
+      "message": "Kenya"
+   },
+   "_locationName_Kyrgyzstan": {
+      "message": "Kirghizistan"
+   },
+   "_locationName_Laos": {
+      "message": "Laos"
+   },
+   "_locationName_Latvia": {
+      "message": "Lettonia"
+   },
+   "_locationName_Lebanon": {
+      "message": "Libano"
+   },
+   "_locationName_Liechtenstein": {
+      "message": "Liechtenstein"
+   },
+   "_locationName_Lithuania": {
+      "message": "Lituania"
+   },
+   "_locationName_Luxembourg": {
+      "message": "Lussemburgo"
+   },
+   "_locationName_Macau": {
+      "message": "Macau"
+   },
+   "_locationName_Malaysia": {
+      "message": "Malesia"
+   },
+   "_locationName_Malta": {
+      "message": "Malta"
+   },
+   "_locationName_Mexico": {
+      "message": "Messico"
+   },
+   "_locationName_Middle_East_and_Africa": {
+      "message": "Medio Oriente e Africa"
+   },
+   "_locationName_Moldova": {
+      "message": "Moldavia"
+   },
+   "_locationName_Monaco": {
+      "message": "Monaco"
+   },
+   "_locationName_Mongolia": {
+      "message": "Mongolia"
+   },
+   "_locationName_Montenegro": {
+      "message": "Montenegro"
+   },
+   "_locationName_Morocco": {
+      "message": "Marocco"
+   },
+   "_locationName_Myanmar": {
+      "message": "Birmania"
+   },
+   "_locationName_Nepal": {
+      "message": "Nepal"
+   },
+   "_locationName_Netherlands": {
+      "message": "Paesi Bassi"
+   },
+   "_locationName_Netherlands___Amsterdam": {
+      "message": "Paesi Bassi - Amsterdam"
+   },
+   "_locationName_Netherlands___Amsterdam___2": {
+      "message": "Paesi Bassi - Amsterdam - 2"
+   },
+   "_locationName_Netherlands___Rotterdam": {
+      "message": "Paesi Bassi - Rotterdam"
+   },
+   "_locationName_Netherlands___The_Hague": {
+      "message": "Paesi Bassi - L'Aia"
+   },
+   "_locationName_New_Zealand": {
+      "message": "Nuova Zelanda"
+   },
+   "_locationName_North_Macedonia": {
+      "message": "Macedonia del Nord"
+   },
+   "_locationName_Norway": {
+      "message": "Norvegia"
+   },
+   "_locationName_Pakistan": {
+      "message": "Pakistan"
+   },
+   "_locationName_Panama": {
+      "message": "Panama"
+   },
+   "_locationName_Peru": {
+      "message": "Perù"
+   },
+   "_locationName_Philippines": {
+      "message": "Filippine"
+   },
+   "_locationName_Philippines__via_Singapore_": {
+      "message": "Filippine (via Singapore)"
+   },
+   "_locationName_Pick_for_Me": {
+      "message": "Scegli per me"
+   },
+   "_locationName_Poland": {
+      "message": "Polonia"
+   },
+   "_locationName_Portugal": {
+      "message": "Portogallo"
+   },
+   "_locationName_Puerto_Rico": {
+      "message": "Porto Rico"
+   },
+   "_locationName_Romania": {
+      "message": "Romania"
+   },
+   "_locationName_Serbia": {
+      "message": "Serbia"
+   },
+   "_locationName_Singapore": {
+      "message": "Singapore"
+   },
+   "_locationName_Singapore___CBD": {
+      "message": "Singapore - CBD"
+   },
+   "_locationName_Singapore___Jurong": {
+      "message": "Singapore - Jurong"
+   },
+   "_locationName_Singapore___Marina_Bay": {
+      "message": "Singapore - Marina Bay"
+   },
+   "_locationName_Singapore___Sentosa": {
+      "message": "Singapore - Sentosa"
+   },
+   "_locationName_Slovakia": {
+      "message": "Slovacchia"
+   },
+   "_locationName_Slovenia": {
+      "message": "Slovenia"
+   },
+   "_locationName_South_Africa": {
+      "message": "Sud Africa"
+   },
+   "_locationName_South_Korea": {
+      "message": "Sud Corea"
+   },
+   "_locationName_South_Korea___2": {
+      "message": "Sud Corea - 2"
+   },
+   "_locationName_Spain": {
+      "message": "Spagna"
+   },
+   "_locationName_Spain___Barcelona": {
+      "message": "Spagna - Barcellona"
+   },
+   "_locationName_Spain___Barcelona___2": {
+      "message": "Spagna - Barcellona - 2"
+   },
+   "_locationName_Spain___Madrid": {
+      "message": "Spagna - Madrid"
+   },
+   "_locationName_Sri_Lanka": {
+      "message": "Sri Lanka"
+   },
+   "_locationName_Sweden": {
+      "message": "Svezia"
+   },
+   "_locationName_Sweden___2": {
+      "message": "Svezia - 2"
+   },
+   "_locationName_Switzerland": {
+      "message": "Svizzera"
+   },
+   "_locationName_Switzerland___2": {
+      "message": "Svizzera - 2"
+   },
+   "_locationName_Taiwan": {
+      "message": "Taiwan"
+   },
+   "_locationName_Taiwan___3": {
+      "message": "Taiwan - 3"
+   },
+   "_locationName_Thailand": {
+      "message": "Thailandia"
+   },
+   "_locationName_Trinidad_and_Tobago": {
+      "message": "Trinidad e Tobago"
+   },
+   "_locationName_Turkey": {
+      "message": "Turchia"
+   },
+   "_locationName_UK___Docklands": {
+      "message": "Regno Unito - Docklands"
+   },
+   "_locationName_UK___East_London": {
+      "message": "Regno Unito - Londra Est"
+   },
+   "_locationName_UK___Kent": {
+      "message": "Regno Unito - Kent"
+   },
+   "_locationName_UK___London": {
+      "message": "Regno Unito - Londra"
+   },
+   "_locationName_UK___Midlands": {
+      "message": "Regno Unito - Midlands"
+   },
+   "_locationName_UK___Wembley": {
+      "message": "Regno Unito - Wembley"
+   },
+   "_locationName_USA___Albuquerque": {
+      "message": "USA - Albuquerque"
+   },
+   "_locationName_USA___Atlanta": {
+      "message": "USA - Atlanta"
+   },
+   "_locationName_USA___Chicago": {
+      "message": "USA - Chicago"
+   },
+   "_locationName_USA___Dallas": {
+      "message": "USA - Dallas"
+   },
+   "_locationName_USA___Dallas___2": {
+      "message": "USA - Dallas - 2"
+   },
+   "_locationName_USA___Denver": {
+      "message": "USA - Denver"
+   },
+   "_locationName_USA___Hollywood": {
+      "message": "USA - Hollywood"
+   },
+   "_locationName_USA___Lincoln_Park": {
+      "message": "USA - Lincoln Park"
+   },
+   "_locationName_USA___Los_Angeles": {
+      "message": "USA - Los Angeles"
+   },
+   "_locationName_USA___Los_Angeles___1": {
+      "message": "USA - Los Angeles - 1"
+   },
+   "_locationName_USA___Los_Angeles___2": {
+      "message": "USA - Los Angeles - 2"
+   },
+   "_locationName_USA___Los_Angeles___3": {
+      "message": "USA - Los Angeles - 3"
+   },
+   "_locationName_USA___Los_Angeles___4": {
+      "message": "USA - Los Angeles - 4"
+   },
+   "_locationName_USA___Los_Angeles___5": {
+      "message": "USA - Los Angeles - 5"
+   },
+   "_locationName_USA___Miami": {
+      "message": "USA - Miami"
+   },
+   "_locationName_USA___Miami___2": {
+      "message": "USA - Miami - 2"
+   },
+   "_locationName_USA___New_Jersey___1": {
+      "message": "USA - New Jersey - 1"
+   },
+   "_locationName_USA___New_Jersey___2": {
+      "message": "USA - New Jersey - 2"
+   },
+   "_locationName_USA___New_Jersey___3": {
+      "message": "USA - New Jersey - 3"
+   },
+   "_locationName_USA___New_York": {
+      "message": "USA - New York"
+   },
+   "_locationName_USA___New_York___2": {
+      "message": "USA - New York - 2"
+   },
+   "_locationName_USA___Phoenix": {
+      "message": "USA - Phoenix"
+   },
+   "_locationName_USA___Salt_Lake_City": {
+      "message": "USA - Salt Lake City"
+   },
+   "_locationName_USA___San_Francisco": {
+      "message": "USA - San Francisco"
+   },
+   "_locationName_USA___San_Jose": {
+      "message": "USA - San Jose"
+   },
+   "_locationName_USA___Santa_Monica": {
+      "message": "USA - Santa Monica"
+   },
+   "_locationName_USA___Seattle": {
+      "message": "USA - Seattle"
+   },
+   "_locationName_USA___Tampa___1": {
+      "message": "USA - Tampa - 1"
+   },
+   "_locationName_USA___Washington_DC": {
+      "message": "USA - Washington DC"
+   },
+   "_locationName_USA___Washington_DC___2": {
+      "message": "USA - Washington DC - 2"
+   },
+   "_locationName_Ukraine": {
+      "message": "Ucraina"
+   },
+   "_locationName_United_Kingdom": {
+      "message": "Regno Unito"
+   },
+   "_locationName_United_States": {
+      "message": "Stati Uniti"
+   },
+   "_locationName_Uruguay": {
+      "message": "Uruguay"
+   },
+   "_locationName_Uzbekistan": {
+      "message": "Uzbekistan"
+   },
+   "_locationName_Venezuela": {
+      "message": "Venezuela"
+   },
+   "_locationName_Vietnam": {
+      "message": "Vietnam"
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Naviga online in modo sicuro e velocemente. Modifica la posizione, accedi a qualsiasi contenuto e controlla ExpressVPN da Firefox."
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "Naviga online in modo sicuro e velocemente. Modifica la posizione, accedi a qualsiasi contenuto e controlla ExpressVPN da Chrome."
+   },
+   "app_description_text_beta": {
+      "message": "La versione beta di ExpressVPN è per tutti coloro che vogliono anticipare i tempi. Ricevi per primo le ultime funzionalità."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN: proxy VPN per un'internet migliore"
+   },
+   "app_name_title_beta": {
+      "message": "ExpressVPN beta: VPN per migliorare internet"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN"
+   },
+   "error_@firefox@_hide_text": {
+      "message": "In alternativa, puoi nascondere l'estensione facendo clic col pulsante destro del mouse sull'icona e selezionando “Rimuovi dalla barra delle applicazioni\" o \"Sposta al menu\"."
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_main_button_label": {
+      "message": "Abbonati"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_sub_button_label": {
+      "message": "Esci"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_title": {
+      "message": "Resta protetto"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_main_button_label": {
+      "message": "Aggiorna le informazioni di pagamento"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_sub_button_label": {
+      "message": "Esci"
+   },
+   "error_IAP_CONTINUE_USING_p1_text": {
+      "message": "Per continuare a usare ExpressVPN, aggiorna le informazioni di pagamento nell'account iTunes / App Store."
+   },
+   "error_IAP_MAIN_title": {
+      "message": "Pagamento non riuscito"
+   },
+   "error_IAP_WILL_AUTO_ACTIVATE_p2_text": {
+      "message": "ExpressVPN si attiverà automaticamente entro 30 minuti dall'aggiornamento delle informazioni."
+   },
+   "error_NOT_INSTALLED_chromeOS_manual": {
+      "message": "Se il Play Store non è disponibile nel tuo Chromebook, segui le nostre istruzioni di [configurazione manuale]."
+   },
+   "error_NOT_INSTALLED_chromeOS_primary_button": {
+      "message": "Installa ExpressVPN"
+   },
+   "error_NOT_INSTALLED_chromeOS_secondary_button": {
+      "message": "Contatta il supporto "
+   },
+   "error_NOT_INSTALLED_chromeOS_title": {
+      "description": "Context: This message shows to users on Chromebook (operating Chrome OS). The ExpressVPN app does not work for Chromebook users, for now.",
+      "message": "Chrome OS non è supportato"
+   },
+   "error_NOT_INSTALLED_linux_title": {
+      "message": "App non trovata"
+   },
+   "error_NOT_INSTALLED_primary_button": {
+      "message": "Installa l'app per desktop"
+   },
+   "error_NOT_INSTALLED_secondary_button": {
+      "message": "Abbonati di nuovo"
+   },
+   "error_NOT_INSTALLED_title": {
+      "message": "Applicazione non installata"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_main_button_label": {
+      "message": "Aggiorna le informazioni di pagamento"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_sub_button_label": {
+      "message": "Più tardi"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_main_button_label": {
+      "message": "Abbonati di nuovo"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_sub_button_label": {
+      "message": "Esci"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_title": {
+      "message": "Abbonamento scaduto"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_main_button_label": {
+      "message": "Aggiorna le informazioni di pagamento"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_sub_button_label": {
+      "message": "Esci"
+   },
+   "error_app_not_found_buy_subscription_button_label": {
+      "message": "Acquista un abbonamento"
+   },
+   "error_app_not_found_contact_support_text": {
+      "message": "Hai bisogno d'aiuto? [Contatta il supporto]."
+   },
+   "error_app_not_found_download_LINUX_button_label": {
+      "message": "Scarica l'app per Linux"
+   },
+   "error_app_not_found_download_MAC_button_label": {
+      "message": "Scarica l'app per Mac"
+   },
+   "error_app_not_found_download_WINDOWS_button_label": {
+      "message": "Scarica l'app per Windows"
+   },
+   "error_app_not_found_get_started_text": {
+      "message": "Sei nuovo su ExpressVPN? [Get started]"
+   },
+   "error_app_not_found_require_CHROMIUM_text": {
+      "message": "Installa l'app di ExpressVPN da Google Play Store."
+   },
+   "error_app_not_found_require_LINUX_snap_text": {
+      "message": "Se hai installato il tuo browser con \u003Cb>Ubuntu Software Center\u003C/b>, l'estensione non sarà in grado di comunicare con l'app per Linux. [Scopri di più]"
+   },
+   "error_app_not_found_require_LINUX_text": {
+      "message": "Questa estensione richiede l'applicazione di ExpressVPN per Linux con abbonamento attivo."
+   },
+   "error_app_not_found_require_MAC_text": {
+      "message": "Questa estensione richiede l'applicazione di ExpressVPN per Mac con abbonamento attivo."
+   },
+   "error_app_not_found_require_WINDOWS_text": {
+      "message": "Questa estensione richiede l'applicazione di ExpressVPN per Windows con abbonamento attivo."
+   },
+   "error_btnReturnHome_default": {
+      "message": "Torna alla Home"
+   },
+   "error_business_subscription_expired_contact_support_text": {
+      "message": "In caso di domande, [contatta il supporto]."
+   },
+   "error_business_subscription_expired_signout_button_label": {
+      "message": "Esci"
+   },
+   "error_business_subscription_expired_status_text": {
+      "message": "Scaduto (%1)."
+   },
+   "error_business_subscription_expired_text": {
+      "message": "Contatta il proprietario dell'account per acquistare un nuovo abbonamento business."
+   },
+   "error_business_subscription_expired_title": {
+      "message": "Abbonamento scaduto"
+   },
+   "error_compatibility_error_@firefox@_hide_text": {
+      "message": "In alternativa, puoi nascondere l'estensione facendo clic col pulsante destro del mouse sull'icona e selezionando “Rimuovi dalla barra delle applicazioni\" o \"Sposta al menu\"."
+   },
+   "error_compatibility_error_hide_text": {
+      "message": "In alternativa, puoi nascondere l'estensione facendo clic col pulsante destro del mouse sull'icona e selezionando “Nascondi il menu in Chrome\"."
+   },
+   "error_compatibility_error_os_version_p1_text": {
+      "message": "Attualmente, questa estensione è disponibile solo per \u003Cb>macOS 10.10 / Windows 7\u003C/b> e versioni più recenti."
+   },
+   "error_compatibility_error_os_version_p2_text": {
+      "message": "Aggiorna il tuo sistema operativo per usare questa estensione."
+   },
+   "error_compatibility_error_os_version_update_button_label": {
+      "message": "Scopri di più"
+   },
+   "error_compatibility_error_title": {
+      "message": "Aggiorna il sistema operativo"
+   },
+   "error_connection_error_check_l1_text": {
+      "message": "Verifica la tua connessione internet"
+   },
+   "error_connection_error_check_l2_text": {
+      "message": "Seleziona una [posizione VPN] diversa"
+   },
+   "error_connection_error_check_l3_text": {
+      "message": "Se il problema persiste, [contatta il supporto]"
+   },
+   "error_connection_error_lock_on_text": {
+      "message": "Il traffico internet è stato bloccato per proteggere la tua privacy."
+   },
+   "error_connection_error_return_home_button_label": {
+      "message": "Torna alla Home"
+   },
+   "error_connection_error_return_home_button_label_network_lock_off": {
+      "message": "Annulla"
+   },
+   "error_connection_error_return_home_button_label_network_lock_on": {
+      "message": "Sblocca internet"
+   },
+   "error_connection_error_title": {
+      "message": "Impossibile connettersi"
+   },
+   "error_connection_error_to_location_text": {
+      "message": "Impossibile connettersi a %LOCATION%."
+   },
+   "error_connection_error_try_again_button_label": {
+      "message": "Riprova"
+   },
+   "error_expired_update_now_link_text": {
+      "message": "Sei già iscritto? [Abbonati ora]."
+   },
+   "error_forced_signout_p1_text": {
+      "message": "Sei stato disconnesso perché le informazioni del tuo account sono state aggiornate."
+   },
+   "error_forced_signout_p2_linux_text": {
+      "message": "Per continuare a utilizzare ExpressVPN, esegui questo comando nel tuo terminale per accedere di nuovo:"
+   },
+   "error_forced_signout_p2_text": {
+      "message": "Accedi di nuovo per continuare a usare ExpressVPN."
+   },
+   "error_forced_signout_signin_button_label": {
+      "message": "Accedi"
+   },
+   "error_forced_signout_title": {
+      "message": "Accedi a ExpressVPN"
+   },
+   "error_fraudster_hint": {
+      "message": "Non siamo riusciti a verificare i tuoi dati di fatturazione, pertanto abbiamo annullato il pagamento."
+   },
+   "error_fraudster_p1_text": {
+      "message": "Per riattivare il tuo abbonamento,\u003Cbr>invia un'email a"
+   },
+   "error_fraudster_p2_text": {
+      "description": "Do not translate 'Billing Verification'",
+      "message": "con oggetto: \u003Cspan class='bold DO_NOT_TRANSLATE'>Billing Verification\u003C/span>."
+   },
+   "error_fraudster_p3_text": {
+      "message": "Includi una foto della carta di credito utilizzata (con SOLO le ultime 4 cifre e il nome in evidenza)."
+   },
+   "error_fraudster_p4_text": {
+      "message": "Includi il tuo numero di telefono (con prefisso internazionale) e il momento migliore in cui possiamo chiamarti."
+   },
+   "error_fraudster_p5_text": {
+      "message": "Il team di fatturazione risponderà entro 24-48 ore."
+   },
+   "error_fraudster_question1_text": {
+      "message": "Hai pagato con carta di credito?"
+   },
+   "error_fraudster_question2_text": {
+      "message": "Non hai pagato con carta di credito?"
+   },
+   "error_fraudster_title": {
+      "message": "Account sospeso"
+   },
+   "error_free_trial_expired_benefits_text": {
+      "message": "La prova gratuita è terminata, ma connettersi di nuovo è semplice."
+   },
+   "error_free_trial_expired_benefits_title": {
+      "message": "Perché abbonarti?"
+   },
+   "error_free_trial_expired_enter_new_code_button_label": {
+      "message": "Inserisci il codice di attivazione"
+   },
+   "error_free_trial_expired_l1_text": {
+      "message": "App per tutti i dispositivi"
+   },
+   "error_free_trial_expired_l2_text": {
+      "message": "Rimborso garantito entro 30 giorni"
+   },
+   "error_free_trial_expired_l3_text": {
+      "message": "160 posizioni al mondo"
+   },
+   "error_free_trial_expired_l4_text": {
+      "message": "Supporto clienti 24/7"
+   },
+   "error_free_trial_expired_noIAP_l3_text": {
+      "message": "Rimborso garantito entro 30 giorni"
+   },
+   "error_free_trial_expired_status_text": {
+      "message": "Scaduto (%1)."
+   },
+   "error_free_trial_expired_title": {
+      "message": "Prova gratuita terminata"
+   },
+   "error_free_trial_expired_upgrade_now_button_label": {
+      "message": "Abbonati adesso"
+   },
+   "error_hide_text": {
+      "message": "In alternativa, puoi nascondere l'estensione facendo clic col pulsante destro del mouse sull'icona e selezionando “Nascondi il menu in Chrome\"."
+   },
+   "error_not_activated_LINUX_text": {
+      "message": "Esegui questo comando nel tuo terminale per attivare l'app per desktop:"
+   },
+   "error_not_activated_text": {
+      "message": "Per utilizzare questa estensione, accedi all'app per desktop di ExpressVPN."
+   },
+   "error_not_activated_title": {
+      "message": "Applicazione non attiva"
+   },
+   "error_open_app_@firefox@_text": {
+      "message": "Questa estensione richiede l'applicazione di ExpressVPN per funzionare."
+   },
+   "error_open_app_contact_support_button_label": {
+      "message": "Contatta il supporto"
+   },
+   "error_open_app_open_app_button_label": {
+      "message": "Apri l'app per desktop"
+   },
+   "error_open_app_text": {
+      "message": "Questa estensione richiede l'applicazione di ExpressVPN per funzionare."
+   },
+   "error_open_app_title": {
+      "message": "Applicazione non aperta"
+   },
+   "error_signout_button": {
+      "message": "Esci"
+   },
+   "error_simultaneous_connection_cancel_button_label": {
+      "message": "Annulla"
+   },
+   "error_simultaneous_connection_hint": {
+      "message": "Limite di connessioni raggiunto."
+   },
+   "error_simultaneous_connection_iap_false_p2_text": {
+      "message": "Disconnetti un dispositivo o [acquista un abbonamento aggiuntivo]."
+   },
+   "error_simultaneous_connection_iap_true_p2_text": {
+      "message": "Disconnetti un dispositivo."
+   },
+   "error_simultaneous_connection_learn_more_button_label": {
+      "message": "Scopri di più"
+   },
+   "error_simultaneous_connection_p1_text": {
+      "message": "Hai superato il limite di utilizzo di dispositivi consentiti da ExpressVPN per questo abbonamento."
+   },
+   "error_simultaneous_connection_popup_btn0": {
+      "message": "Annulla"
+   },
+   "error_simultaneous_connection_popup_text": {
+      "message": "Aprendo questo link sbloccherai tutto il traffico internet."
+   },
+   "error_simultaneous_connection_popup_title": {
+      "message": "Sblocca internet"
+   },
+   "error_subscription_expired_benefits_text": {
+      "message": "Il tuo abbonamento è scaduto, ma è facile connettersi di nuovo."
+   },
+   "error_subscription_expired_benefits_title": {
+      "message": "Perché rinnovare?"
+   },
+   "error_subscription_expired_buy_subscription_button_label": {
+      "message": "Abbonati di nuovo"
+   },
+   "error_subscription_expired_enter_new_code_button_label": {
+      "message": "Inserisci il codice di attivazione"
+   },
+   "error_subscription_expired_get_subscription_button_label": {
+      "message": "Abbonati"
+   },
+   "error_subscription_expired_l1_text": {
+      "message": "Accedi ai tuoi contenuti preferiti"
+   },
+   "error_subscription_expired_l2_text": {
+      "message": "Naviga in libertà e sicurezza"
+   },
+   "error_subscription_expired_l3_text": {
+      "message": "Supporto 24/7"
+   },
+   "error_subscription_expired_l4_text": {
+      "message": "Supporto clienti 24/7"
+   },
+   "error_subscription_expired_status_text": {
+      "message": "Scaduto (%1)."
+   },
+   "error_subscription_expired_title": {
+      "message": "Abbonamento scaduto"
+   },
+   "error_subscription_expiring_autobill_later_button_label": {
+      "message": "Più tardi"
+   },
+   "error_subscription_expiring_autobill_p1_text": {
+      "message": "Per continuare a utilizzare ExpressVPN, aggiorna le tue informazioni di pagamento."
+   },
+   "error_subscription_expiring_autobill_title": {
+      "message": "Pagamento non riuscito"
+   },
+   "error_subscription_expiring_autobill_update_payment_button_label": {
+      "message": "Aggiorna le informazioni di pagamento"
+   },
+   "error_subscription_expiring_later_button_label": {
+      "message": "Più tardi"
+   },
+   "error_subscription_expiring_p1_text": {
+      "message": "Per continuare a utilizzare ExpressVPN, rinnova il tuo abbonamento."
+   },
+   "error_subscription_expiring_renew_button_label": {
+      "message": "Rinnova adesso"
+   },
+   "error_subscription_expiring_title": {
+      "message": "Abbonamento in scadenza"
+   },
+   "error_upgrade_app_button_label": {
+      "message": "Aggiorna adesso"
+   },
+   "error_upgrade_app_header_title": {
+      "message": "Aggiorna l'app"
+   },
+   "error_upgrade_app_text": {
+      "message": "Questa estensione richiede l'ultima versione dell'app di ExpressVPN."
+   },
+   "general_contact_support_button_label": {
+      "message": "Contatta il supporto"
+   },
+   "hint_connection_delay_text": {
+      "message": "Tentativo di connessione in corso."
+   },
+   "hint_network_state_captive_portal_text": {
+      "message": "Accedi alla rete Wi-Fi per utilizzare la VPN."
+   },
+   "hint_network_state_no_internet_connecting_text": {
+      "message": "Impossibile rilevare la connessione internet.\u003Cbr>La VPN si connetterà non appena disponibile."
+   },
+   "hint_network_state_no_internet_ready_text": {
+      "message": "Impossibile rilevare la connessione internet.\u003Cbr>La VPN potrebbe non essere disponibile."
+   },
+   "hint_network_state_no_internet_reconnecting_text": {
+      "message": "Connessione internet persa.\u003Cbr>La VPN si riconnetterà non appena disponibile."
+   },
+   "hint_network_state_not_ready_text": {
+      "message": "Attendi che la tua rete sia pronta."
+   },
+   "hint_network_state_not_sure_connecting_text": {
+      "message": "Impossibile rilevare la connessione internet. La VPN si connetterà non appena disponibile."
+   },
+   "hint_network_state_not_sure_ready_text": {
+      "message": "Impossibile rilevare la connessione internet. La VPN potrebbe non essere disponibile."
+   },
+   "hint_network_state_not_sure_reconnecting_text": {
+      "message": "Impossibile rilevare la connessione internet. La VPN si connetterà non appena disponibile."
+   },
+   "hint_no_internet_connecting_text": {
+      "message": "Impossibile rilevare la connessione internet.\u003Cbr>La VPN si connetterà non appena disponibile."
+   },
+   "hint_no_internet_ready_text": {
+      "message": "Impossibile rilevare la connessione internet.\u003Cbr>La VPN potrebbe non essere disponibile."
+   },
+   "hint_no_internet_reconnecting_text": {
+      "message": "Connessione internet persa.\u003Cbr>La VPN si riconnetterà non appena disponibile."
+   },
+   "hint_reconnecting_network_lock_off_text": {
+      "message": "Connessione caduta inaspettatamente. Riconnessione..."
+   },
+   "hint_reconnecting_network_lock_on_text": {
+      "message": "Il traffico internet è stato bloccato per proteggere la tua privacy."
+   },
+   "hint_saved_text": {
+      "message": "Salvato"
+   },
+   "home_change_location_popup_btn0": {
+      "message": "Annulla"
+   },
+   "home_change_location_popup_btn1": {
+      "message": "Continua"
+   },
+   "home_change_location_popup_text": {
+      "message": "Il traffico internet potrebbe non essere sicuro durante la riconnessione."
+   },
+   "home_change_location_popup_title": {
+      "message": "Cambia posizione"
+   },
+   "language_dropdown_danish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Danese (Dansk)"
+   },
+   "language_dropdown_dutch": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Olandese (Nederlands)"
+   },
+   "language_dropdown_english": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Inglese (English)"
+   },
+   "language_dropdown_finnish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Finlandese (Suomi)"
+   },
+   "language_dropdown_french": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Francese (Français)"
+   },
+   "language_dropdown_german": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Tedesco (Deutsch)"
+   },
+   "language_dropdown_italian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Italiano (Italiano)"
+   },
+   "language_dropdown_japanese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Giapponese (日本語)"
+   },
+   "language_dropdown_korean": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Coreano (한국어)"
+   },
+   "language_dropdown_norwegian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Norvegese (Norsk)"
+   },
+   "language_dropdown_polish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Polacco (Polski)"
+   },
+   "language_dropdown_portuguese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Portoghese (Português)"
+   },
+   "language_dropdown_russian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Russo (Русский)"
+   },
+   "language_dropdown_spanish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Spagnolo (Español)"
+   },
+   "language_dropdown_swedish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Svedese (Svenska)"
+   },
+   "language_dropdown_thai": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Tailandese (ภาษาไทย)"
+   },
+   "language_dropdown_turkish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Turco (Türkçe)"
+   },
+   "list_item_247_support": {
+      "message": "Supporto clienti 24/7"
+   },
+   "list_item_30day_guarantee": {
+      "message": "Rimborso garantito entro 30 giorni"
+   },
+   "list_item_apps_for_every_device": {
+      "message": "App per tutti i dispositivi"
+   },
+   "list_item_locations_worldwide": {
+      "message": "160 posizioni al mondo"
+   },
+   "list_item_refer_frieds": {
+      "message": "Invita gli amici, 30 giorni gratis"
+   },
+   "list_item_unlimited_bandwidth": {
+      "message": "Larghezza di banda illimitata"
+   },
+   "location_picker_locations_title": {
+      "message": "Posizioni VPN"
+   },
+   "location_picker_recent_locations_text": {
+      "message": "Posizioni recenti"
+   },
+   "location_picker_recommended_locations_text": {
+      "message": "Posizioni consigliate"
+   },
+   "location_picker_search_no_results_text": {
+      "message": "Nessun risultato"
+   },
+   "location_picker_search_placeholder_text": {
+      "message": "Trova una città o una nazione"
+   },
+   "location_picker_tab_all_text": {
+      "message": "Tutte le posizioni"
+   },
+   "location_picker_tab_recommended_text": {
+      "message": "Consigliate"
+   },
+   "main_screen_current_location_text": {
+      "message": "Posizione attuale"
+   },
+   "main_screen_recent_location_text": {
+      "message": "Posizione recente"
+   },
+   "main_screen_selected_location_text": {
+      "message": "Posizione selezionata"
+   },
+   "main_screen_status_vpn_connected_text": {
+      "message": "Connesso"
+   },
+   "main_screen_status_vpn_connecting_text": {
+      "message": "Connessione in corso"
+   },
+   "main_screen_status_vpn_disconnecting_text": {
+      "message": "Disconnessione in corso"
+   },
+   "main_screen_status_vpn_ready_text": {
+      "message": "Non connesso"
+   },
+   "main_screen_status_vpn_reconnecting_text": {
+      "message": "Riconnessione in corso"
+   },
+   "main_screen_status_vpn_speedtesting_text": {
+      "message": "Esecuzione dello Speed Test"
+   },
+   "menu_beta_feedback": {
+      "message": "Invia feedback per la Beta"
+   },
+   "menu_cancel_text": {
+      "message": "Annulla"
+   },
+   "menu_connection_startup_@firefox@_header": {
+      "description": "Settings startup header",
+      "message": "Avvio di Firefox"
+   },
+   "menu_connection_startup_text": {
+      "message": "Connetti all'avvio del browser"
+   },
+   "menu_desktop_notification_text": {
+      "message": "Mostra le notifiche sul desktop"
+   },
+   "menu_get_30_days_free": {
+      "message": "Ricevi 30 giorni gratis"
+   },
+   "menu_header": {
+      "message": "Opzioni"
+   },
+   "menu_help_support": {
+      "message": "Aiuto e supporto"
+   },
+   "menu_item_DNS_leak_test_text": {
+      "message": "Test esposizione DNS"
+   },
+   "menu_item_acknowledgements_text": {
+      "message": "Informazioni legali"
+   },
+   "menu_item_app_version_text": {
+      "message": "Versione app %OS%: %VERSION%"
+   },
+   "menu_item_contact_support_text": {
+      "message": "Contatta il supporto"
+   },
+   "menu_item_diagnostic_text": {
+      "message": "Informazioni di diagnostica"
+   },
+   "menu_item_extension_version_text": {
+      "message": "Versione estensione: %VERSION%"
+   },
+   "menu_item_faq_text": {
+      "message": "Domande frequenti"
+   },
+   "menu_item_ip_address_checker_text": {
+      "message": "Verifica il tuo indirizzo IP"
+   },
+   "menu_item_webRTC_leak_test_text": {
+      "message": "Test esposizione WebRTC"
+   },
+   "menu_keyboard_shortcut_text": {
+      "message": "Apri con i tasti di scelta rapida"
+   },
+   "menu_privacy_block_webrtc_text": {
+      "message": "Blocca WebRTC"
+   },
+   "menu_privacy_hide_location_text": {
+      "message": "Nascondi la tua posizione"
+   },
+   "menu_rate_expressvpn": {
+      "message": "Valuta ExpressVPN"
+   },
+   "menu_section_about_title": {
+      "message": "Informazioni"
+   },
+   "menu_section_support_chat_menu_label": {
+      "message": "Parla con noi"
+   },
+   "menu_section_support_improvements_menu_label": {
+      "message": "Suggerisci una modifica"
+   },
+   "menu_section_support_report_menu_label": {
+      "message": "Segnala un problema"
+   },
+   "menu_section_support_title": {
+      "message": "Contattaci"
+   },
+   "menu_settings_general_display_header": {
+      "message": "Preferenze schermo"
+   },
+   "menu_settings_general_header": {
+      "message": "Generali"
+   },
+   "menu_settings_general_language_label": {
+      "message": "Lingua"
+   },
+   "menu_settings_general_name": {
+      "message": "Impostazioni"
+   },
+   "menu_settings_general_open_app_settings_button_label": {
+      "message": "Configura impostazioni app desktop"
+   },
+   "menu_settings_help_button_label": {
+      "message": "Aiuto"
+   },
+   "menu_settings_privacy_block_webrtc_description_text": {
+      "message": "Evita che i siti web scoprano il tuo indirizzo IP reale e la tua posizione mentre sei connesso alla VPN."
+   },
+   "menu_settings_privacy_hide_location_description_text": {
+      "message": "Interrompe la geolocalizzazione HTML5 sulla maggior parte dei siti, che rivela la tua posizione fisica mentre sei connesso alla VPN."
+   },
+   "menu_settings_privacy_https_everywhere_description_text": {
+      "message": "Connette automaticamente a versioni dei siti web HTTPS più sicure, se disponibili."
+   },
+   "menu_settings_privacy_learn_more_button_label": {
+      "message": "Scopri di più"
+   },
+   "menu_settings_privacy_security_name": {
+      "message": "Privacy e sicurezza"
+   },
+   "menu_settings_settings_general_title": {
+      "message": "Impostazioni"
+   },
+   "menu_settings_settings_privacy_title": {
+      "message": "Impostazioni della privacy"
+   },
+   "menu_setup_other_devices": {
+      "message": "Installa su altri dispositivi"
+   },
+   "menu_signout_p1_text": {
+      "message": "Sei sicuro? Verrai disconnesso anche dall'app per desktop."
+   },
+   "menu_signout_text": {
+      "message": "Esci"
+   },
+   "myaccount_account_active_p1_text": {
+      "message": "Condividi e ricevi ExpressVPN gratis!"
+   },
+   "myaccount_account_active_p2_text": {
+      "message": "30 giorni gratis per ogni amico che si abbona."
+   },
+   "myaccount_account_expired_label": {
+      "message": "Scadenza"
+   },
+   "myaccount_account_expiry_label": {
+      "message": "Scadenza"
+   },
+   "myaccount_account_payment_due_label": {
+      "message": "Pagamento previsto il"
+   },
+   "myaccount_account_renews_label": {
+      "message": "Rinnovo"
+   },
+   "myaccount_account_status_active_text": {
+      "message": "Attivo"
+   },
+   "myaccount_account_status_expired_text": {
+      "message": "Scaduto"
+   },
+   "myaccount_account_status_free_trial_active_text": {
+      "message": "Prova"
+   },
+   "myaccount_account_status_label": {
+      "message": "Stato dell'account"
+   },
+   "myaccount_account_status_trial_expired_text": {
+      "message": "Prova scaduta"
+   },
+   "myaccount_account_status_trial_text": {
+      "message": "Prova"
+   },
+   "myaccount_account_subscription_starts_label": {
+      "message": "Inizio abbonamento"
+   },
+   "myaccount_active_refer_button_label": {
+      "message": "Invita gli amici"
+   },
+   "myaccount_expiring_buy_button_label": {
+      "message": "Acquista ora"
+   },
+   "myaccount_expiring_renew_button_label": {
+      "message": "Rinnova adesso"
+   },
+   "myaccount_expiring_upgrade_button_label": {
+      "message": "Abbonati adesso"
+   },
+   "myaccount_manage_button_label": {
+      "message": "Gestisci l'account"
+   },
+   "myaccount_manage_subscription_button_label": {
+      "message": "Gestisci l'abbonamento"
+   },
+   "myaccount_why_get_subscription_subheader_text": {
+      "message": "Perché abbonarti?"
+   },
+   "myaccount_why_renew_subheader_text": {
+      "message": "Perché rinnovare?"
+   },
+   "networkLock_cancel_button_label": {
+      "message": "Annulla"
+   },
+   "networkLock_header_connected_text": {
+      "message": "VPN connessa"
+   },
+   "networkLock_header_connecting_text": {
+      "message": "Per favore attendi"
+   },
+   "networkLock_header_connection_error_text": {
+      "message": "Impossibile connettersi"
+   },
+   "networkLock_header_reconnecting_text": {
+      "message": "Per favore attendi"
+   },
+   "networkLock_hint_connected_text": {
+      "message": "Verrai reindirizzato a breve."
+   },
+   "networkLock_hint_connecting_text": {
+      "message": "Il traffico internet è stato bloccato per proteggere la tua privacy."
+   },
+   "networkLock_hint_connection_error_text": {
+      "message": "Il traffico internet è stato bloccato per proteggere la tua privacy."
+   },
+   "networkLock_hint_reconnecting_text": {
+      "message": "Il traffico internet è stato bloccato per proteggere la tua privacy."
+   },
+   "networkLock_status_connected_text": {
+      "message": "Connesso a %LOCATION%."
+   },
+   "networkLock_status_connecting_text": {
+      "message": "Connessione a %LOCATION%."
+   },
+   "networkLock_status_connection_error_text": {
+      "message": "Impossibile connettersi a %LOCATION%."
+   },
+   "networkLock_status_reconnecting_text": {
+      "message": "Riconnessione a %LOCATION%."
+   },
+   "networkLock_try_again_button_label": {
+      "message": "Riprova"
+   },
+   "networkLock_unblock_internet_button_label": {
+      "message": "Sblocca internet"
+   },
+   "notification_extension_update_message": {
+      "message": "Vedi cosa c'è di nuovo nella versione %VERSION%"
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN è stato aggiornato"
+   },
+   "promo_bar_free_trial_expiring_soon_days_text": {
+      "message": "La prova gratuita scade tra [days] giorni"
+   },
+   "promo_bar_free_trial_expiring_soon_expired_text": {
+      "message": "La prova gratuita è scaduta"
+   },
+   "promo_bar_free_trial_expiring_soon_hours_text": {
+      "message": "La prova gratuita scade tra [hours] ore"
+   },
+   "promo_bar_free_trial_expiring_soon_less_than_one_hour_text": {
+      "message": "La prova gratuita scade tra meno di 1 ora"
+   },
+   "promo_bar_free_trial_expiring_soon_upgrade_now_button_label": {
+      "message": "Abbonati adesso"
+   },
+   "promo_bar_splittunneling_@firefox@_text": {
+      "message": "Firefox è escluso dalla VPN"
+   },
+   "promo_bar_splittunneling_settings_button_label": {
+      "message": "Controlla le impostazioni"
+   },
+   "promo_bar_splittunneling_text": {
+      "message": "Chrome è escluso dalla VPN"
+   },
+   "promo_bar_subscription_expiring_soon_days_text": {
+      "message": "L'abbonamento scade tra [days] giorni"
+   },
+   "promo_bar_subscription_expiring_soon_expired_text": {
+      "message": "Il tuo abbonamento è scaduto"
+   },
+   "promo_bar_subscription_expiring_soon_get_new_subscription_button_label": {
+      "message": "Abbonati di nuovo"
+   },
+   "promo_bar_subscription_expiring_soon_hours_text": {
+      "message": "L'abbonamento scade tra [hours] ore"
+   },
+   "promo_bar_subscription_expiring_soon_less_than_one_hour_text": {
+      "message": "L'abbonamento scade tra meno di 1 ora"
+   },
+   "promo_bar_subscription_expiring_soon_renew_now_button_label": {
+      "message": "Rinnova adesso"
+   },
+   "promobar_free_trial_expiring_soon_days_header": {
+      "message": "La prova gratuita scade tra [days] giorni"
+   },
+   "promobar_free_trial_expiring_soon_expired_header": {
+      "message": "La prova gratuita è scaduta"
+   },
+   "promobar_free_trial_expiring_soon_hours_header": {
+      "message": "La prova gratuita scade tra [hours] ore"
+   },
+   "promobar_free_trial_expiring_soon_less_than_one_hour_header": {
+      "message": "La prova gratuita scade tra meno di 1 ora"
+   },
+   "promobar_free_trial_expiring_soon_text": {
+      "message": "Abbonati adesso"
+   },
+   "promobar_iap_failed_header": {
+      "message": "Ultimo pagamento non riuscito"
+   },
+   "promobar_iap_failed_text": {
+      "message": "Aggiorna le informazioni"
+   },
+   "promobar_splittunneling_@firefox@_header": {
+      "message": "Firefox è escluso dalla VPN"
+   },
+   "promobar_splittunneling_header": {
+      "message": "Chrome è escluso dalla VPN"
+   },
+   "promobar_splittunneling_text": {
+      "message": "Controlla le impostazioni"
+   },
+   "promobar_subscription_expired_header": {
+      "message": "Il tuo abbonamento è in scadenza"
+   },
+   "promobar_subscription_expiring_autobill_header": {
+      "message": "Ultimo pagamento non riuscito"
+   },
+   "promobar_subscription_expiring_autobill_text": {
+      "message": "Aggiorna le informazioni"
+   },
+   "promobar_subscription_expiring_soon_days_header": {
+      "message": "L'abbonamento scade tra [days] giorni"
+   },
+   "promobar_subscription_expiring_soon_expired_header": {
+      "message": "Il tuo abbonamento è scaduto"
+   },
+   "promobar_subscription_expiring_soon_hours_header": {
+      "message": "L'abbonamento scade tra [hours] ore"
+   },
+   "promobar_subscription_expiring_soon_renewable_false_text": {
+      "message": "Abbonati di nuovo"
+   },
+   "promobar_subscription_expiring_soon_renewable_true_text": {
+      "message": "Rinnova adesso"
+   },
+   "promobar_update_available_header": {
+      "message": "Aggiornamento disponibile!"
+   },
+   "promobar_update_available_text": {
+      "message": "Installa ora"
+   },
+   "rating_improve_header": {
+      "message": "Come possiamo migliorare?"
+   },
+   "rating_improve_report_button": {
+      "message": "Segnala un problema"
+   },
+   "rating_improve_suggest_button": {
+      "message": "Suggerisci un miglioramento"
+   },
+   "rating_no_thanks_text": {
+      "message": "No grazie"
+   },
+   "rating_prompt_header": {
+      "message": "Quanto ti piace ExpressVPN?"
+   },
+   "rating_thanks4_text": {
+      "message": "Grazie per averci votato!"
+   },
+   "rating_thanks_@firefox@_text": {
+      "message": "Grazie! Ti va di valutarci su Firefox Add-ons Store?"
+   },
+   "rating_thanks_text": {
+      "message": "Grazie! Ti va di valutarci su Chrome Web Store?"
+   },
+   "settings_general_help_improve_description": {
+      "message": "Condividi i report degli errori, i risultati degli speed test, la diagnostica dell'usabilità e i tentativi di connessione alla VPN riusciti. Questi report non contengono mai informazioni di identificazione personale."
+   },
+   "settings_general_help_improve_label": {
+      "message": "Aiutaci a migliorare ExpressVPN"
+   },
+   "vpn_status_notification_connected_label": {
+      "message": "VPN connessa"
+   },
+   "vpn_status_notification_connected_text": {
+      "message": "Connesso a %s."
+   },
+   "vpn_status_notification_connecting_label": {
+      "message": "Connessione VPN..."
+   },
+   "vpn_status_notification_connection_failed_label": {
+      "message": "Impossibile connettere la VPN"
+   },
+   "vpn_status_notification_connection_failed_network_lock_off_text": {
+      "message": "Impossibile connettersi a %s."
+   },
+   "vpn_status_notification_connection_failed_network_lock_on_text": {
+      "message": "Impossibile connettersi a %s. Traffico internet bloccato."
+   },
+   "vpn_status_notification_connection_limit_label": {
+      "message": "Limite di connessioni raggiunto"
+   },
+   "vpn_status_notification_connection_limit_text": {
+      "message": "Disconnetti un dispositivo o acquista un abbonamento aggiuntivo."
+   },
+   "vpn_status_notification_reconnecting_label": {
+      "message": "Riconnessione VPN..."
+   },
+   "vpn_status_notification_reconnecting_network_lock_off_text": {
+      "message": "Riconnessione a %s."
+   },
+   "vpn_status_notification_reconnecting_network_lock_on_text": {
+      "message": "Riconnessione a %s. Il traffico internet è stato bloccato."
+   },
+   "welcome_continue_button_label": {
+      "message": "Continua"
+   },
+   "welcome_help_improve_expressvpn_header": {
+      "message": "Aiutaci a migliorare ExpressVPN"
+   },
+   "welcome_help_improve_expressvpn_learn_more_text": {
+      "message": "Scopri di più"
+   },
+   "welcome_help_improve_expressvpn_no_button_label": {
+      "message": "No grazie"
+   },
+   "welcome_help_improve_expressvpn_p1_text": {
+      "message": "Condividi i report degli errori, i risultati degli speed test, la diagnostica dell'usabilità e i tentativi di connessione alla VPN riusciti. Questi report non contengono mai informazioni di identificazione personale."
+   },
+   "welcome_not_installed_buy_header": {
+      "message": "Inizia senza rischi"
+   },
+   "welcome_not_installed_buy_text": {
+      "message": "Abbonati a partire da 8,32 USD/mese"
+   },
+   "welcome_not_installed_existing_button_label": {
+      "message": "Già cliente?"
+   },
+   "welcome_not_installed_get_button_label": {
+      "message": "Ottieni ExpressVPN"
+   },
+   "welcome_not_installed_reasons_li_1_text": {
+      "message": "Posizioni VPN sicure ovunque"
+   },
+   "welcome_not_installed_reasons_li_2_text": {
+      "message": "Velocità elevate e banda illimitata"
+   },
+   "welcome_not_installed_reasons_li_3_text": {
+      "message": "Supporto 24/7"
+   },
+   "welcome_not_installed_reasons_li_4_text": {
+      "message": "Rimborso garantito entro 30 giorni"
+   },
+   "welcome_not_installed_scene_1_text": {
+      "message": "Prendi il controllo della tua privacy e proteggi i tuoi dati online"
+   },
+   "welcome_not_installed_scene_2_text": {
+      "message": "Goditi i tuoi programmi e le app preferite, ovunque ti trovi"
+   },
+   "welcome_not_installed_scene_3_text": {
+      "message": "Connessione sicura a reti Wi-Fi pubbliche in hotel, caffetterie e aeroporti"
+   },
+   "welcome_screen1_p1_text": {
+      "message": "Con l'estensione di ExpressVPN controlli l'app per desktop da remoto."
+   },
+   "welcome_screen2_p1_text": {
+      "message": "Quando sei connesso alla VPN, viene protetto tutto il dispositivo, non solo il browser."
+   },
+   "welcome_screen3_learn_more_text": {
+      "message": "Scopri di più"
+   },
+   "welcome_screen3_p1_text": {
+      "message": "L'estensione nasconde la tua posizione sulla maggior parte dei siti, blocca WebRTC e include HTTPS Everywhere."
+   },
+   "welcome_skip_button_label": {
+      "message": "Salta"
+   }
+}

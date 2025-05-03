@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "مؤشرات مخصصة ممتعة لـ Chrome ™. استخدم مجموعة كبيرة من المؤشرات المجانية أو حمّل مؤشراتك الخاصة."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - المؤشر مبدل"
+   },
+   "close": {
+      "message": "إغلاق"
+   },
+   "cursor_size_extra_large": {
+      "message": "كبير جدا"
+   },
+   "cursor_size_extra_small": {
+      "message": "صغير جدا"
+   },
+   "cursor_size_large": {
+      "message": "كبير"
+   },
+   "cursor_size_medium": {
+      "message": "متوسط"
+   },
+   "cursor_size_small": {
+      "message": "صغير"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "delete_all": {
+      "message": "حذف الكل"
+   },
+   "enter_your_search_text": {
+      "message": "أدخل نص البحث الخاص بك"
+   },
+   "favorite_by_time": {
+      "message": "بالوقت"
+   },
+   "favorite_by_visited_pages": {
+      "message": "بواسطة الصفحات"
+   },
+   "favorite_manage_button": {
+      "message": "إدارة المفضلة"
+   },
+   "favorite_rotate_favorites": {
+      "message": "تدوير المفضلة"
+   },
+   "favorite_sec_page": {
+      "message": "ثان/صفحة"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "إدارة المفضلة"
+   },
+   "hint_defaultTo": {
+      "message": "المؤشر الافتراضي"
+   },
+   "hint_remove_cursor": {
+      "message": "انقر لإزالة المؤشر"
+   },
+   "hint_remove_pointer": {
+      "message": "انقر لإزالة مؤشر اليد"
+   },
+   "hint_settings": {
+      "message": "الإعدادات"
+   },
+   "hint_size": {
+      "message": "حجم المؤشر"
+   },
+   "hint_upload_cursor": {
+      "message": "انقر لتحميل المؤشر"
+   },
+   "hint_upload_pointer": {
+      "message": "انقر لتحميل مؤشر اليد"
+   },
+   "item_cursor": {
+      "message": "المؤشر"
+   },
+   "item_pointer": {
+      "message": "مؤشر"
+   },
+   "manage_cursor_size_settings": {
+      "message": "إعدادات حجم المؤشر"
+   },
+   "manage_manage_collection": {
+      "message": "إدارة المجموعة"
+   },
+   "nav_how_to_use": {
+      "message": "كيف تستعمل"
+   },
+   "nav_manage": {
+      "message": "تدبير"
+   },
+   "nav_more_cursors": {
+      "message": "المزيد من المؤشرات"
+   },
+   "nav_upload_cursor": {
+      "message": "تحميل المؤشر"
+   },
+   "options_add_new": {
+      "message": "اضف جديد"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>التوصيات:\u003C/h2>\u003Cul>\u003Cli>لا تستخدم صورًا أكثر من 128 × 128 بكسل ؛\u003C/li>\u003Cli>استخدم صورًا ذات خلفية شفافة ، مثل .png ؛\u003C/li>\u003Cli>ابتسم كثيرًا ؛) \u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "تحميل المؤشرات الخاصة بك"
+   },
+   "popup_default_cursor": {
+      "message": "المؤشر الافتراضي"
+   },
+   "popup_manage": {
+      "message": "تدبير"
+   },
+   "popup_more_cursor": {
+      "message": "المزيد من المؤشرات"
+   },
+   "popup_upload_cursor": {
+      "message": "تحميل المؤشر"
+   },
+   "rate_us_5_stars": {
+      "message": "قيمنا 5 نجوم ، من فضلك"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

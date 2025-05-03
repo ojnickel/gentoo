@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Krátky opis rozšírenia, ktorý sa zobrazuje vo webovom obchode",
+      "message": "Aktívne chráni tvoje údaje v tvojom aktuálnom prehliadači."
+   },
+   "appName": {
+      "description": "Názov rozšírenia, ktorý je zobrazený vo webovom obchode",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

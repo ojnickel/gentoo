@@ -20,8 +20,10 @@ SETUVAR _fish_abbr__2E_2E_2E_2E_:cd\x20\x2e\x2e\x2e\x2e
 SETUVAR _fish_abbr__2E_2E_2E_2E_2E_:cd\x20\x2e\x2e\x2e\x2e\x2e
 SETUVAR _fish_abbr_agi:sudo\x20apt\x2dget\x20install
 SETUVAR _fish_abbr_arch__up:sudo\x20pacman\x20\x2dSyu
+SETUVAR _fish_abbr_b:bat
+SETUVAR _fish_abbr_c:eza\x20\x2dalgs\x20created\x20\x2d\x2dicons\x20\x2d\x2dcolor\x3dnever
 SETUVAR _fish_abbr_clear__cache:sync\x3b\x20echo\x201\x20\x3e\x20/proc/sys/vm/drop_caches
-SETUVAR _fish_abbr_d:exa\x20\x2dalg\x20\x2d\x2dicons\x20\x2d\x2dcolor\x3dnever\x20\x2dd\x20\x2a/
+SETUVAR _fish_abbr_d:eza\x20\x2dalg\x20\x2d\x2dicons\x20\x2d\x2dcolor\x3dnever\x20\x2dd\x20\x2a/
 SETUVAR _fish_abbr_dcr:docker\x20container\x20run\x20\x2d\x2dit\x20\x2dd\x20\x2dp\x2080\x3a80
 SETUVAR _fish_abbr_g:git
 SETUVAR _fish_abbr_ga:git\x20add
@@ -165,7 +167,7 @@ SETUVAR _fish_abbr_gupv:git\x20pull\x20\x2d\x2drebase\x20\x2dv
 SETUVAR _fish_abbr_gwch:git\x20whatchanged\x20\x2dp\x20\x2d\x2dabbrev\x2dcommit\x20\x2d\x2dpretty\x3dmedium
 SETUVAR _fish_abbr_i:sudo\x20pacman\x20\x2dS
 SETUVAR _fish_abbr_kpw:echo\x20\x27T6dgF5JPUk\x27\x20\x7c\x20clip\x2eexe
-SETUVAR _fish_abbr_l:exa\x20\x2dalg\x20\x2d\x2dicons\x20\x2d\x2dcolor\x3dnever
+SETUVAR _fish_abbr_l:eza\x20\x2dalg\x20\x2d\x2dicons\x20\x2d\x2dcolor\x3dnever
 SETUVAR _fish_abbr_lblk:lsblk\x20\x2do\x20\x2bfstype\x2clabel\x2cuuid\x2cpartuuid
 SETUVAR _fish_abbr_ld:du\x20\x2dhs\x20\x2a/
 SETUVAR _fish_abbr_m:\x7e/git/ho\x2dupdates/wpmod\x2esh\x20\x2dc\x20\x2dd\x20\x27\x27\x20\x2ds\x20\x28pwd\x29
@@ -174,6 +176,7 @@ SETUVAR _fish_abbr_os:sshpass\x20\x2dp\x209v908oZ\x5c\x24\x20ssh\x20nickel\x2edn
 SETUVAR _fish_abbr_q:sudo\x20pacman\x20\x2dQe
 SETUVAR _fish_abbr_r:sudo\x20pacman\x20\x2dR
 SETUVAR _fish_abbr_rb:sudo\x20reboot
+SETUVAR _fish_abbr_sm:eza\x20\x2dalg\x20\x2d\x2dicons\x20\x2d\x2dcolor\x3dnever\x20\x2dssize\x20\x2dL1\x20\x2dr\x20\x2a\x2emp\x2a
 SETUVAR _fish_abbr_u:sudo\x20pacman\x20\x2dSyu
 SETUVAR _fish_abbr_umo:sudo\x20umount
 SETUVAR _fish_abbr_uu:sudo\x20apt\x20update\x20\x26\x26\x20sudo\x20apt\x20upgrade
@@ -184,6 +187,7 @@ SETUVAR _fish_abbr_wpm:\x7e/git/ho\x2dupdates/wpmod\x2esh
 SETUVAR _fish_abbr_wpmod:\x7e/git/ho\x2dupdates/wpmod\x2esh\x20\x2dc
 SETUVAR _fish_abbr_wpup:\x7e/git/ho\x2dupdates/wpupdate\x2esh\x20\x2dc
 SETUVAR _fish_abbr_x:exit
+SETUVAR _fish_abbr_xc:xclip\x20\x2dselection\x20clipboard
 SETUVAR _fisher_danhper_2F_fish_2D_ssh_2D_agent_files:\x7e/\x2econfig/fish/functions/__ssh_agent_is_started\x2efish\x1e\x7e/\x2econfig/fish/functions/__ssh_agent_start\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/fish\x2dssh\x2dagent\x2efish
 SETUVAR _fisher_decors_2F_fish_2D_colored_2D_man_files:\x7e/\x2econfig/fish/functions/man\x2efish
 SETUVAR _fisher_jethrokuan_2F_z_files:\x7e/\x2econfig/fish/functions/__z\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_add\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_clean\x2efish\x1e\x7e/\x2econfig/fish/functions/__z_complete\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/z\x2efish

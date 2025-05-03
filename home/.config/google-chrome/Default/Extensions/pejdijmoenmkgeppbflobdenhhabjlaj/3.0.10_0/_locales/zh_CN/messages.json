@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "在 Windows 版 iCloud 中启用“密码”以配合 Chrome 使用 iCloud 密码。"
+   },
+   "GenericPopupTitle": {
+      "message": "你的密码已与 iCloud 钥匙串同步"
+   },
+   "GettingPasswords": {
+      "message": "正在载入密码…"
+   },
+   "NoUserName": {
+      "message": "无用户名称"
+   },
+   "_lang": {
+      "message": "zh_CN"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "为了防止 Chrome 的页内“自动填充”干扰 iCloud 密码，iCloud 密码可尝试代表你关闭浏览器的“自动填充”设置。"
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "关闭 Chrome 自动填充"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "若要更改此设置，请从 iCloud 钥匙串中移除此网站的条目并重新登录此网站。"
+   },
+   "divDoNotRememberTitle": {
+      "message": "你之前已选择永不保存此网站的密码。"
+   },
+   "divICsMessage": {
+      "message": "选取并使用已保存的密码："
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "你可以在密码 App 中查询和管理已存密码。"
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "你可以在 Safari 浏览器偏好设置的“密码”标签页中管理已存储的密码。"
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "你可以在“系统偏好设置”的“密码”面板中管理已存储的密码。"
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "你可以在“密码”设置中查询和管理已存密码。"
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "你可以在“密码”设置中查询和管理已存密码。"
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "你可以在 iCloud 密码 App 中查看和编辑已保存的密码。"
+   },
+   "divOpenPasswords": {
+      "message": "管理密码…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "查找和创建密码。"
+   },
+   "divOpenPasswords_macos": {
+      "message": "打开密码 App…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "管理密码…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "管理密码…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "管理密码…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "管理密码…"
+   },
+   "divPINMessage_macos": {
+      "message": "Mac 已生成验证码。请输入该验证码以继续。"
+   },
+   "divPINMessage_windows": {
+      "message": "Windows 版 iCloud 已向你发送包含验证码的通知。请输入该验证码以继续。"
+   },
+   "divPINTitle": {
+      "message": "启用密码自动填充"
+   },
+   "divTOTPMenu": {
+      "message": "设置验证码"
+   },
+   "divTOTPTitle": {
+      "message": "设置验证码用于："
+   },
+   "downloadButton": {
+      "message": "下载"
+   },
+   "downloadMessage_macos": {
+      "message": "此扩展需要安装 macOS Sonoma 或更高版本。"
+   },
+   "downloadMessage_windows": {
+      "message": "下载 Windows 版 iCloud 来使用 iCloud 密码。"
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "单击此处以允许 iCloud 密码自动填充密码。"
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "单击 iCloud 密码工具栏按钮以启用“密码自动填充”。"
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "启用密码自动填充"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "允许 iCloud 密码提供页内列表的凭证。你始终可以从 iCloud 密码工具栏按钮填充密码，即使此选项已关闭。"
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "页内自动填充"
+   },
+   "extDescription": {
+      "message": "iCloud 密码可让你在 Chrome 中登录网站时，从 iCloud 钥匙串填充密码。"
+   },
+   "extName": {
+      "message": "iCloud 密码"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "打开密码 App…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "打开密码设置…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "打开密码设置…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "打开密码设置…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "打开密码设置…"
+   },
+   "openThisPageInSafari": {
+      "message": "在 Safari 浏览器中打开此页面…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "打开 Windows 版 iCloud"
+   },
+   "optionsTitle": {
+      "message": "iCloud 密码选项"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "设置“$1”的验证码"
+   },
+   "strongPasswordSuggestion": {
+      "message": "你可以在密码 App 或 Safari 浏览器中创建强密码。"
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "你可以在“密码”设置或 Safari 浏览器中创建强密码。"
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "你可以在“密码”设置或 Safari 浏览器中创建强密码。"
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "你可以在“密码”设置或 Safari 浏览器中创建强密码。"
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "你可以在“密码”设置或 Safari 浏览器中创建强密码。"
+   },
+   "totpVerificationCodeName": {
+      "message": "验证码"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "“$1”的验证码"
+   },
+   "unsupportedOS_windows": {
+      "message": "此扩展设计运行于 Windows 10 或更高版本。如果使用的是 Mac，登录 iCloud 后，你的密码会自动与 iPhone、iPad 和 Mac 同步。"
+   }
+}

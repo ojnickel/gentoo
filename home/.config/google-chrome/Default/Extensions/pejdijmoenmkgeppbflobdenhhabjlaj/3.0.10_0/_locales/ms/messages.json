@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Dayakan Kata Laluan iCloud untuk Windows untuk gunakan Kata Laluan iCloud dengan Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "Kata laluan anda diselaraskan dengan Rantai Kunci iCloud"
+   },
+   "GettingPasswords": {
+      "message": "Memuatkan kata laluan…"
+   },
+   "NoUserName": {
+      "message": "tiada nama pengguna"
+   },
+   "_lang": {
+      "message": "ms"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Untuk menghalang Isi Auto dalam halaman Chrome daripada mengganggu Kata Laluan iCloud, Kata Laluan iCloud boleh mencuba untuk menyahaktifkan seting Isi Auto pelayar bagi pihak anda."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Nyahaktifkan Isi Auto Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Untuk menukar ini, keluarkan entri bagi tapak web ini daripada Rantai Kunci iCloud anda dan log masuk semula ke tapak web ini."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Anda sebelum ini menandakan untuk jangan menyimpan kata laluan bagi tapak web ini."
+   },
+   "divICsMessage": {
+      "message": "Pilih kata laluan disimpan untuk digunakan:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Anda boleh mencari dan mengurus kata laluan disimpan dalam app Kata Laluan."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Anda boleh mengurus kata laluan disimpan dalam tab Kata Laluan keutamaan Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Anda boleh mengurus kata laluan disimpan dalam anak tetingkap Kata Laluan dalam Keutamaan Sistem."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Anda boleh mencari dan mengurus kata laluan disimpan dalam seting Kata Laluan."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Anda boleh mencari dan mengurus kata laluan disimpan dalam seting Kata Laluan."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Anda boleh melihat dan mengedit kata laluan disimpan dalam app Kata Laluan iCloud."
+   },
+   "divOpenPasswords": {
+      "message": "Urus Kata Laluan…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Cari dan cipta kata laluan."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Buka App Kata Laluan…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Urus Kata Laluan…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Urus Kata Laluan…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Urus Kata Laluan…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Urus Kata Laluan…"
+   },
+   "divPINMessage_macos": {
+      "message": "Kod pengesahan telah dijana oleh Mac anda. Masukkan kod untuk meneruskan."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud untuk Windows menghantar pemberitahuan dengan kod pengesahan kepada anda. Masukkan kod untuk meneruskan."
+   },
+   "divPINTitle": {
+      "message": "Dayakan Isi Auto Kata Laluan"
+   },
+   "divTOTPMenu": {
+      "message": "Sediakan Kod Pengesahan"
+   },
+   "divTOTPTitle": {
+      "message": "Sediakan kod pengesahan untuk:"
+   },
+   "downloadButton": {
+      "message": "Muat Turun"
+   },
+   "downloadMessage_macos": {
+      "message": "Sambungan ini memerlukan macOS Sonoma atau lebih baharu untuk dipasang."
+   },
+   "downloadMessage_windows": {
+      "message": "Muat turun iCloud untuk Windows bagi menggunakan Kata Laluan iCloud."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Klik sini bagi membenarkan Kata Laluan iCloud untuk Isi Auto kata laluan anda."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Klik butang bar alat Kata Laluan iCloud untuk mendayakan Isi Auto Kata Laluan."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Dayakan Isi Auto Kata Laluan"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Benarkan Kata Laluan iCloud untuk menawarkan kelayakan daripada senarai dalam halaman. Anda sentiasa boleh mengisi kata laluan daripada butang bar alat Kata Laluan iCloud, walaupun jika pilihan ini dinyahaktifkan."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Isi Auto Dalam Halaman"
+   },
+   "extDescription": {
+      "message": "Kata Laluan iCloud mengisi kata laluan daripada Rantai Kunci iCloud apabila daftar masuk ke tapak web menggunakan Chrome."
+   },
+   "extName": {
+      "message": "Kata Laluan iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Buka App Kata Laluan…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Buka Seting Kata Laluan…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Buka Seting Kata Laluan…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Buka Seting Kata Laluan…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Buka Seting Kata Laluan…"
+   },
+   "openThisPageInSafari": {
+      "message": "Buka Halaman Ini dalam Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Buka iCloud untuk Windows"
+   },
+   "optionsTitle": {
+      "message": "Pilihan Kata Laluan iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Sediakan kod pengesahan untuk “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Anda boleh mencipta kata laluan kukuh dalam app Kata Laluan atau dalam Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Anda boleh mencipta kata laluan kukuh dalam Seting Kata Laluan atau dalam Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Anda boleh mencipta kata laluan kukuh dalam Seting Kata Laluan atau dalam Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Anda boleh mencipta kata laluan kukuh dalam Seting Kata Laluan atau dalam Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Anda boleh mencipta kata laluan kukuh dalam Seting Kata Laluan atau dalam Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Kod pengesahan"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Kod pengesahan untuk “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Sambungan ini direka bentuk untuk dijalankan pada Windows 10 atau lebih baharu. Jika anda menggunakan Mac, kata laluan anda akan diselaraskan secara automatik dengan iPhone, iPad dan Mac anda apabila anda mendaftar masuk ke iCloud."
+   }
+}

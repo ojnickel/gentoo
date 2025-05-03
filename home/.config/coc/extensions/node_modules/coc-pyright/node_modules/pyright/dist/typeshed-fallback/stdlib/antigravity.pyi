@@ -1,4 +1,3 @@
-import sys
+from _typeshed import ReadableBuffer
 
-if sys.version_info >= (3, 0):
-    def geohash(latitude: float, longitude: float, datedow: bytes) -> None: ...
+def geohash(latitude: float, longitude: float, datedow: ReadableBuffer) -> None: ...

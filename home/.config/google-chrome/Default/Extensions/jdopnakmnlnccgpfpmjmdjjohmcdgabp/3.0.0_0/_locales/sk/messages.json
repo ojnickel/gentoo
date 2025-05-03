@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Webová kamera alebo Fotoaparát"
+   },
+   "Cancel": {
+      "message": "Zrušiť"
+   },
+   "Countdown": {
+      "message": "Odpočítavanie pred nahrávaním"
+   },
+   "GrantPerm": {
+      "message": "Udeliť povolenie"
+   },
+   "Pause": {
+      "message": "Pauza"
+   },
+   "PermCamDenied": {
+      "message": "Povolenie pre kameru bolo zamietnuté."
+   },
+   "PermMicDenied": {
+      "message": "Povolenie pre mikrofón bolo zamietnuté."
+   },
+   "RateUs": {
+      "message": "Ohodnoťte nás"
+   },
+   "RecordAnother": {
+      "message": "Urobte ďalší záznam"
+   },
+   "RecordCamera": {
+      "message": "Nahrajte si kameru"
+   },
+   "RecordDrive": {
+      "message": "Nahrávajte na svoj Disk Google™️"
+   },
+   "RecordQuality": {
+      "message": "Kvalita záznamu"
+   },
+   "RecordScreen": {
+      "message": "Zaznamenajte si obrazovku"
+   },
+   "RecordSys": {
+      "message": "Záznam zvuku systému"
+   },
+   "RecordSysExpl": {
+      "message": "Nahrávajte zvuk z reproduktorov. Ak chcete povoliť nahrávanie zvuku, v ďalšom dialógovom okne začiarknite možnosť Zvuk."
+   },
+   "RecordVoice": {
+      "message": "Nahrajte hlas"
+   },
+   "RecordVoiceExpl": {
+      "message": "Nahrajte svoj hlas pomocou mikrofónu"
+   },
+   "Resume": {
+      "message": "Pokračovať"
+   },
+   "SaveRecording": {
+      "message": "Uložiť záznam"
+   },
+   "ScreenSrcs": {
+      "message": "Obrazovka, okno alebo karta"
+   },
+   "Share": {
+      "message": "Zdieľajte našu aplikáciu"
+   },
+   "StopRecording": {
+      "message": "Zastavte nahrávanie"
+   },
+   "Tutorial": {
+      "message": "Zobraziť návod - ako používať aplikáciu"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Laajennuksen lyhyt kuvaus, joka näytetään verkkokaupassa",
+      "message": "Suojaa tietojasi aktiivisesti nykyisessä selaimessasi."
+   },
+   "appName": {
+      "description": "Laajennuksen nimi, joka näytetään verkkokaupassa",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

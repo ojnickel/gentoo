@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Για χρήση των Συνθηματικών iCloud με το Chrome, ενεργοποιήστε τα Συνθηματικά στο iCloud για Windows."
+   },
+   "GenericPopupTitle": {
+      "message": "Τα συνθηματικά σας είναι συγχρονισμένα με την Κλειδοθήκη iCloud"
+   },
+   "GettingPasswords": {
+      "message": "Φόρτωση συνθηματικών…"
+   },
+   "NoUserName": {
+      "message": "κανένα όνομα χρήστη"
+   },
+   "_lang": {
+      "message": "el"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Για να αποτραπεί η παρεμβολή της Αυτοσυμπλήρωσης εντός σελίδας του Chrome με τα Συνθηματικά iCloud, τα Συνθηματικά iCloud μπορούν να προσπαθήσουν να απενεργοποιήσουν τις ρυθμίσεις Αυτοσυμπλήρωσης του προγράμματος περιήγησης για λογαριασμό σας."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Απενεργοποίηση της Αυτοσυμπλήρωσης Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Για να αλλάξετε αυτήν τη ρύθμιση, αφαιρέστε την καταχώριση αυτού του ιστότοπου από την Κλειδοθήκη iCloud και πραγματοποιήστε εκ νέου είσοδο."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Είχατε υποδείξει στο παρελθόν να μην αποθηκεύονται ποτέ συνθηματικά για αυτόν τον ιστότοπο."
+   },
+   "divICsMessage": {
+      "message": "Επιλογή αποθηκευμένου συνθηματικού για χρήση:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Μπορείτε να αναζητήσετε και να διαχειριστείτε αποθηκευμένα συνθηματικά στην εφαρμογή «Συνθηματικά»."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Μπορείτε να διαχειριστείτε τα αποθηκευμένα συνθηματικά στην καρτέλα «Συνθηματικά» των προτιμήσεων του Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Μπορείτε να διαχειριστείτε τα αποθηκευμένα συνθηματικά στο τμήμα «Συνθηματικά» στις Προτιμήσεις συστήματος."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Μπορείτε να αναζητήσετε και να διαχειριστείτε αποθηκευμένα συνθηματικά στις ρυθμίσεις Συνθηματικών."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Μπορείτε να αναζητήσετε και να διαχειριστείτε αποθηκευμένα συνθηματικά στις ρυθμίσεις Συνθηματικών."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Μπορείτε να προβάλετε και να επεξεργαστείτε τα αποθηκευμένα συνθηματικά στην εφαρμογή «Συνθηματικά iCloud»."
+   },
+   "divOpenPasswords": {
+      "message": "Διαχείριση συνθηματικών…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Αναζητήστε και δημιουργήστε συνθηματικά."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Άνοιγμα της εφαρμογής «Συνθηματικά»…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Διαχείριση συνθηματικών…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Διαχείριση συνθηματικών…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Διαχείριση συνθηματικών…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Διαχείριση συνθηματικών…"
+   },
+   "divPINMessage_macos": {
+      "message": "Δημιουργήθηκε ένας κωδικός επαλήθευσης από το Mac σας. Εισαγάγετε τον κωδικό για να συνεχίσετε."
+   },
+   "divPINMessage_windows": {
+      "message": "Το iCloud για Windows σάς έστειλε μια γνωστοποίηση με έναν κωδικό επαλήθευσης. Εισαγάγετε τον κωδικό για να συνεχίσετε."
+   },
+   "divPINTitle": {
+      "message": "Ενεργοποίηση Αυτοσυμπλήρωσης συνθηματικών"
+   },
+   "divTOTPMenu": {
+      "message": "Διαμόρφωση κωδικού επαλήθευσης"
+   },
+   "divTOTPTitle": {
+      "message": "Διαμόρφωση κωδικού επαλήθευσης για:"
+   },
+   "downloadButton": {
+      "message": "Λήψη"
+   },
+   "downloadMessage_macos": {
+      "message": "Αυτή η επέκταση απαιτεί να είναι εγκατεστημένο το macOS Sonoma ή μεταγενέστερη έκδοση."
+   },
+   "downloadMessage_windows": {
+      "message": "Λήψη του iCloud για Windows για χρήση των Συνθηματικών iCloud."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Κάντε κλικ εδώ για να επιτρέψετε την Αυτοσυμπλήρωση των συνθηματικών σας από τα Συνθηματικά iCloud."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Κάντε κλικ στο κουμπί γραμμής εργαλείων «Συνθηματικά iCloud» για να ενεργοποιήσετε την Αυτοσυμπλήρωση συνθηματικών."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Ενεργοποίηση Αυτοσυμπλήρωσης συνθηματικών"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Επιτρέψτε στα Συνθηματικά iCloud να εμφανίζουν διαπιστευτήρια σε μια λίστα εντός σελίδας. Μπορείτε ανά πάσα στιγμή να επιλέξετε συμπλήρωση συνθηματικών με το κουμπί της γραμμής εργαλείων των Συνθηματικών iCloud, ακόμη κι αν η συγκεκριμένη επιλογή είναι απενεργοποιημένη."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Αυτοσυμπλήρωση εντός σελίδας"
+   },
+   "extDescription": {
+      "message": "Τα Συνθηματικά iCloud επιτρέπουν τη συμπλήρωση συνθηματικών από την Κλειδοθήκη iCloud κατά τη σύνδεση σε ιστότοπους στο Chrome."
+   },
+   "extName": {
+      "message": "Συνθηματικά iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Άνοιγμα της εφαρμογής «Συνθηματικά»…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Άνοιγμα ρυθμίσεων Συνθηματικών…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Άνοιγμα ρυθμίσεων Συνθηματικών…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Άνοιγμα ρυθμίσεων Συνθηματικών…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Άνοιγμα ρυθμίσεων Συνθηματικών…"
+   },
+   "openThisPageInSafari": {
+      "message": "Άνοιγμα αυτής της σελίδας στο Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Άνοιγμα iCloud για Windows"
+   },
+   "optionsTitle": {
+      "message": "Επιλογές των Συνθηματικών iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Διαμόρφωση κωδικού επαλήθευσης για «$1»"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Μπορείτε να δημιουργήσετε ένα ισχυρό συνθηματικό στην εφαρμογή «Συνθηματικά» ή στο Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Μπορείτε να δημιουργήσετε ένα ισχυρό συνθηματικό στις ρυθμίσεις Συνθηματικών ή στο Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Μπορείτε να δημιουργήσετε ένα ισχυρό συνθηματικό στις ρυθμίσεις Συνθηματικών ή στο Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Μπορείτε να δημιουργήσετε ένα ισχυρό συνθηματικό στις ρυθμίσεις Συνθηματικών ή στο Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Μπορείτε να δημιουργήσετε ένα ισχυρό συνθηματικό στις ρυθμίσεις Συνθηματικών ή στο Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Κωδικός επαλήθευσης"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Κωδικός επαλήθευσης για «$1»"
+   },
+   "unsupportedOS_windows": {
+      "message": "Αυτή η επέκταση έχει σχεδιαστεί για να εκτελείται σε Windows 10 ή μεταγενέστερη έκδοση. Αν χρησιμοποιείτε Mac, τα συνθηματικά σας θα συγχρονίζονται αυτόματα με το iPhone, το iPad και το Mac σας όταν συνδέεστε στο iCloud."
+   }
+}

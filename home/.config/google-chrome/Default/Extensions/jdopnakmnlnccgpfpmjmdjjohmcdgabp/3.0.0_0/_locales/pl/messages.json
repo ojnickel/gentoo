@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Kamera internetowa lub kamera"
+   },
+   "Cancel": {
+      "message": "Anuluj"
+   },
+   "Countdown": {
+      "message": "Odliczanie przed nagraniem"
+   },
+   "GrantPerm": {
+      "message": "Dać pozwolenie"
+   },
+   "Pause": {
+      "message": "Pauza"
+   },
+   "PermCamDenied": {
+      "message": "Odmowa pozwolenia na użycie kamery."
+   },
+   "PermMicDenied": {
+      "message": "Odmowa dostępu do mikrofonu."
+   },
+   "RateUs": {
+      "message": "Oceń nas"
+   },
+   "RecordAnother": {
+      "message": "Zrób kolejne nagranie"
+   },
+   "RecordCamera": {
+      "message": "Nagraj swoją kamerę"
+   },
+   "RecordDrive": {
+      "message": "Nagrywaj na swoim Dysku Google™️"
+   },
+   "RecordQuality": {
+      "message": "Rekordowa jakość"
+   },
+   "RecordScreen": {
+      "message": "Nagraj swój ekran"
+   },
+   "RecordSys": {
+      "message": "Nagrywaj dźwięk systemowy"
+   },
+   "RecordSysExpl": {
+      "message": "Nagrywaj dźwięk z głośników. Zaznacz opcję Audio w następnym oknie dialogowym, jeśli chcesz włączyć nagrywanie dźwięku."
+   },
+   "RecordVoice": {
+      "message": "Nagraj głos"
+   },
+   "RecordVoiceExpl": {
+      "message": "Nagraj swój głos za pomocą mikrofonu"
+   },
+   "Resume": {
+      "message": "Wznawianie"
+   },
+   "SaveRecording": {
+      "message": "Zapisz nagranie"
+   },
+   "ScreenSrcs": {
+      "message": "Ekran, okno lub karta"
+   },
+   "Share": {
+      "message": "Udostępnij naszą aplikację"
+   },
+   "StopRecording": {
+      "message": "Zatrzymaj nagrywanie"
+   },
+   "Tutorial": {
+      "message": "Pokaż tutorial - jak korzystać z aplikacji"
+   }
+}

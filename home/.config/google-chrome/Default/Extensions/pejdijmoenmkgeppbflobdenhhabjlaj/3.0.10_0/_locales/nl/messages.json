@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Schakel Wachtwoorden in in iCloud voor Windows om iCloud-wachtwoorden te gebruiken in Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "Je wachtwoorden zijn met iCloud-sleutelhanger gesynchroniseerd"
+   },
+   "GettingPasswords": {
+      "message": "Wachtwoorden laden…"
+   },
+   "NoUserName": {
+      "message": "geen gebruikersnaam"
+   },
+   "_lang": {
+      "message": "nl"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Om te voorkomen dat de automatische invulfunctie van Chrome botst met iCloud-wachtwoorden, kan iCloud-wachtwoorden proberen om namens jou de automatische invulfunctie van de browser uit te schakelen."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Automatisch invullen in Chrome uitschakelen"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Als je dit wilt wijzigen, verwijder je de vermelding voor deze website uit je iCloud-sleutelhanger en meld je je opnieuw aan bij deze website."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Je hebt eerder aangegeven dat je nooit wachtwoorden voor deze website wilt opslaan."
+   },
+   "divICsMessage": {
+      "message": "Kies een opgeslagen wachtwoord om te gebruiken:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Je kunt opgeslagen wachtwoorden openen en beheren in de app Wachtwoorden."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Je kunt opgeslagen wachtwoorden beheren in het tabblad Wachtwoorden in de voorkeuren van Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Je kunt opgeslagen wachtwoorden beheren in het paneel Wachtwoorden in Systeemvoorkeuren."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Je kunt opgeslagen wachtwoorden opzoeken en beheren in de instellingen van Wachtwoorden."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Je kunt opgeslagen wachtwoorden opzoeken en beheren in de instellingen van Wachtwoorden."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Je kunt opgeslagen wachtwoorden bekijken en bewerken in de app iCloud-wachtwoorden."
+   },
+   "divOpenPasswords": {
+      "message": "Wachtwoorden beheren…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Wachtwoorden opzoeken en aanmaken."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Open Wachtwoorden-app…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Wachtwoorden beheren…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Wachtwoorden beheren…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Wachtwoorden beheren…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Wachtwoorden beheren…"
+   },
+   "divPINMessage_macos": {
+      "message": "Er is een verificatiecode gegenereerd door je Mac. Voer de code in om verder te gaan."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud voor Windows heeft je een melding met een verificatiecode verzonden. Voer de code in om verder te gaan."
+   },
+   "divPINTitle": {
+      "message": "Automatisch invullen van wachtwoorden inschakelen"
+   },
+   "divTOTPMenu": {
+      "message": "Verificatiecode configureren"
+   },
+   "divTOTPTitle": {
+      "message": "Verificatiecode configureren voor:"
+   },
+   "downloadButton": {
+      "message": "Downloaden"
+   },
+   "downloadMessage_macos": {
+      "message": "Voor deze extensie moet macOS Sonoma of nieuwer zijn geïnstalleerd."
+   },
+   "downloadMessage_windows": {
+      "message": "Download iCloud voor Windows om iCloud-wachtwoorden te gebruiken."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Klik hier om toe te staan dat iCloud-wachtwoorden automatisch je wachtwoorden invult."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Klik op de knop iCloud-wachtwoorden in de knoppenbalk om het automatisch invullen van wachtwoorden in te schakelen."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Automatisch invullen van wachtwoorden inschakelen"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Sta iCloud-wachtwoorden toe om inloggegevens van een lijst in een pagina aan te bieden. Je kunt altijd wachtwoorden invullen via de knoppenbalkknop voor iCloud-wachtwoorden, zelfs als deze optie is uitgeschakeld."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Automatisch invullen op pagina"
+   },
+   "extDescription": {
+      "message": "Met iCloud-wachtwoorden kun je wachtwoorden invullen vanuit de iCloud-sleutelhanger wanneer je je aanmeldt bij websites in Chrome."
+   },
+   "extName": {
+      "message": "iCloud-wachtwoorden"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Open Wachtwoorden-app…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Instellingen van Wachtwoorden openen…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Instellingen van Wachtwoorden openen…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Instellingen van Wachtwoorden openen…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Instellingen van Wachtwoorden openen…"
+   },
+   "openThisPageInSafari": {
+      "message": "Deze pagina in Safari openen…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "iCloud voor Windows openen"
+   },
+   "optionsTitle": {
+      "message": "iCloud-wachtwoordenopties"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Verificatiecode configureren voor '$1'"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Je kunt een sterk wachtwoord aanmaken in de app Wachtwoorden of in Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Je kunt een sterk wachtwoord aanmaken in de instellingen van Wachtwoorden of in Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Je kunt een sterk wachtwoord aanmaken in de instellingen van Wachtwoorden of in Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Je kunt een sterk wachtwoord aanmaken in de instellingen van Wachtwoorden of in Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Je kunt een sterk wachtwoord aanmaken in de instellingen van Wachtwoorden of in Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Verificatiecode"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Verificatiecode voor '$1'"
+   },
+   "unsupportedOS_windows": {
+      "message": "Deze extensie is ontworpen voor gebruik met Windows 10 of nieuwer. Als je een Mac gebruikt, worden je wachtwoorden automatisch gesynchroniseerd met je iPhone, iPad en Mac wanneer je inlogt bij iCloud."
+   }
+}

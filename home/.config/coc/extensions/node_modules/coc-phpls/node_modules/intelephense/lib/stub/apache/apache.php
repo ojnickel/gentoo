@@ -1,26 +1,30 @@
 <?php
 
+use JetBrains\PhpStorm\Pure;
+
 /**
  * Terminate apache process after this request
  * apache_child_terminate() will register the Apache process executing the current PHP request for termination once execution of PHP code is completed. It may be used to terminate a process after a script with high memory consumption has been run as memory will usually only be freed internally but not given back to the operating system.
  * @link https://php.net/manual/en/function.apache-child-terminate.php
  * @return bool <b>TRUE</b> if PHP is running as an Apache 1 module, the Apache version is non-multithreaded, and the child_terminate PHP directive is enabled (disabled by default). If these conditions are not met, <b>FALSE</b> is returned and an error of level <b>E_WARNING</b> is generated.
  */
-function apache_child_terminate () {}
+function apache_child_terminate() {}
 
 /**
  * Get a list of loaded Apache modules
  * @link https://php.net/manual/en/function.apache-get-modules.php
  * @return array of loaded Apache modules.
  */
-function apache_get_modules () {}
+#[Pure]
+function apache_get_modules() {}
 
 /**
  * Fetch the Apache version
  * @link https://php.net/manual/en/function.apache-get-version.php
  * @return string|false the Apache version on success or <b>FALSE</b> on failure.
  */
-function apache_get_version () {}
+#[Pure]
+function apache_get_version() {}
 
 /**
  * Get an Apache subprocess_env variable
@@ -35,7 +39,8 @@ function apache_get_version () {}
  * </p>
  * @return string|false The value of the Apache environment variable on success, or <b>FALSE</b> on failure.
  */
-function apache_getenv ( $variable, $walk_to_top = false ) {}
+#[Pure]
+function apache_getenv($variable, $walk_to_top = false) {}
 
 /**
  * Perform a partial request for the specified URI and return all info about it
@@ -47,7 +52,7 @@ function apache_getenv ( $variable, $walk_to_top = false ) {}
  * </p>
  * @return object of related URI information.
  */
-function apache_lookup_uri ( $filename ) {}
+function apache_lookup_uri($filename) {}
 
 /**
  * Get and set apache request notes
@@ -62,7 +67,7 @@ function apache_lookup_uri ( $filename ) {}
  * </p>
  * @return string|false If called with one argument, it returns the current value of note note_name. If called with two arguments, it sets the value of note note_name to note_value and returns the previous value of note note_name. If the note cannot be retrieved, <b>FALSE</b> is returned.
  */
-function apache_note ( $note_name, $note_value = '' ) {}
+function apache_note($note_name, $note_value = '') {}
 
 /**
  * Reset the Apache write timer
@@ -71,14 +76,14 @@ function apache_note ( $note_name, $note_value = '' ) {}
  * @link https://php.net/manual/en/function.apache-reset-timeout.php
  * @return bool <b>TRUE</b> on success or <b>FALSE</b> on failure.
  */
-function apache_reset_timeout () {}
+function apache_reset_timeout() {}
 
 /**
  * Fetch all HTTP response headers
  * @link https://php.net/manual/en/function.apache-response-headers.php
  * @return array|false An array of all Apache response headers on success or <b>FALSE</b> on failure.
  */
-function apache_response_headers () {}
+function apache_response_headers() {}
 
 /**
  * Sets the value of the Apache environment variable specified by variable.
@@ -95,7 +100,7 @@ function apache_response_headers () {}
  * </p>
  * @return bool <b>TRUE</b> on success or <b>FALSE</b> on failure.
  */
-function apache_setenv ( $variable, $value, $walk_to_top = false ) {}
+function apache_setenv($variable, $value, $walk_to_top = false) {}
 
 /**
  * Perform an Apache sub-request
@@ -108,4 +113,4 @@ function apache_setenv ( $variable, $value, $walk_to_top = false ) {}
  * </p>
  * @return bool Performs the virtual command on success, or returns FALSE on failure.
  */
-function virtual ( $filename ) {}
+function virtual($filename) {}

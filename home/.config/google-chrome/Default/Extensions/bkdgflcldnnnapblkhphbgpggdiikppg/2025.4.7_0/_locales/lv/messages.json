@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Īss paplašinājuma apraksts, kas tiek rādīts tīmekļa veikalā",
+      "message": "Aktīvi aizsargā tavus datus tavā pašreizējā pārlūkprogrammā."
+   },
+   "appName": {
+      "description": "Paplašinājuma nosaukums, kas tiek rādīts tīmekļa veikalā",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

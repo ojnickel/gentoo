@@ -1,0 +1,10 @@
+2025/04/03-19:07:12.339 317e Creating DB /home/ossi/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
+2025/04/03-19:07:12.350 317e Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/03-19:07:12.654 3167 Level-0 table #5: started
+2025/04/03-19:07:12.657 3167 Level-0 table #5: 828 bytes OK
+2025/04/03-19:07:12.663 3167 Delete type=0 #3
+2025/04/03-19:07:12.663 3167 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/03-19:07:20.523 3169 Level-0 table #7: started
+2025/04/03-19:07:20.527 3169 Level-0 table #7: 3770 bytes OK
+2025/04/03-19:07:20.534 3169 Delete type=0 #4
+2025/04/03-19:07:20.535 3166 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

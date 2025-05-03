@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "כדי להשתמש ב״סיסמאות iCloud״ בדפדפן Chrome, יש לאפשר סיסמאות ב-״iCloud עבור Windows״."
+   },
+   "GenericPopupTitle": {
+      "message": "הסיסמאות שלך מסונכרנות עם ״צרור המפתחות של iCloud״"
+   },
+   "GettingPasswords": {
+      "message": "טוען סיסמאות…"
+   },
+   "NoUserName": {
+      "message": "אין שם משתמש"
+   },
+   "_lang": {
+      "message": "he"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "כדי למנוע התנגשויות בין מילוי הסיסמאות האוטומטי בעמודים של Chrome ובין ״סיסמאות iCloud״, ״סיסמאות iCloud״ יכול לנסות לכבות עבורך את המילוי האוטומטי דרך הגדרות הדפדפן."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "כיבוי של ״מילוי אוטומטי״ ב-Chrome "
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "לשינוי הגדרה זו, יש להסיר מ״צרור המפתחות של iCloud״ את הערך עבור אתר אינטרנט זה ואז להתחבר אל האתר מחדש."
+   },
+   "divDoNotRememberTitle": {
+      "message": "בפעם הקודמת הגדרת לא לשמור אף פעם סיסמאות עבור אתר זה."
+   },
+   "divICsMessage": {
+      "message": "יש לבחור בסיסמה שנשמרה לשימוש:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "ניתן לחפש ולנהל סיסמאות שמורות ביישום ״סיסמאות״."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "ניתן לנהל סיסמאות שמורות בכרטיסיה ״סיסמאות״ של העדפות Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "ניתן לנהל סיסמאות שמורות בחלונית ״סיסמאות״ ב״העדפות המערכת״."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "ניתן לחפש ולנהל סיסמאות שמורות בהגדרות ״סיסמאות״."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "ניתן לחפש ולנהל סיסמאות שמורות בהגדרות ״סיסמאות״."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "ניתן להציג ולערוך סיסמאות שמורות ביישום ״סיסמאות iCloud״."
+   },
+   "divOpenPasswords": {
+      "message": "ניהול סיסמאות…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "חיפוש סיסמאות ויצירתן."
+   },
+   "divOpenPasswords_macos": {
+      "message": "פתיחת היישום ״סיסמאות״"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "ניהול סיסמאות…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "ניהול סיסמאות…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "ניהול סיסמאות…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "ניהול סיסמאות…"
+   },
+   "divPINMessage_macos": {
+      "message": "ה-Mac יצר קוד אימות. יש להזין את הקוד כדי להמשיך."
+   },
+   "divPINMessage_windows": {
+      "message": "״iCloud עבור Windows״ שלח לך עדכון עם קוד אימות. יש להזין את הקוד כדי להמשיך."
+   },
+   "divPINTitle": {
+      "message": "הפעלת ״מילוי אוטומטי של סיסמאות״"
+   },
+   "divTOTPMenu": {
+      "message": "הגדרת קוד אימות"
+   },
+   "divTOTPTitle": {
+      "message": "הגדרת קוד אימות עבור:"
+   },
+   "downloadButton": {
+      "message": "הורדה"
+   },
+   "downloadMessage_macos": {
+      "message": "כדי להתקין הרחבה זו יש צורך במערכת ההפעלה macOS Sonoma ואילך."
+   },
+   "downloadMessage_windows": {
+      "message": "כדי להשתמש ב״סיסמאות iCloud״, יש להוריד את ״iCloud עבור Windows״."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "ניתן ללחוץ כאן כדי לאפשר ל״סיסמאות iCloud״ למלא באופן אוטומטי את הסיסמאות שלך."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "יש ללחוץ על הכפתור ״סיסמאות iCloud״ בסרגל הכלים להפעלת ״מילוי אוטומטי של סיסמאות״."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "הפעלת ״מילוי אוטומטי של סיסמאות״"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "ניתן לאפשר ל״סיסמאות iCloud״ להציע מילוי של פרטי זיהוי מתוך רשימה ששמורה בעמוד עצמו. בכל מקרה, תמיד אפשר גם למלא סיסמאות במקום המיועד לכך בעזרת לחיצה על כפתור ״סיסמאות iCloud״ בסרגל הכלים, אפילו אם אפשרות זו כבויה."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "מילוי אוטומטי בתוך העמוד"
+   },
+   "extDescription": {
+      "message": "בעזרת ״סיסמאות iCloud״ באפשרותך למלא סיסמאות מצרור המפתחות של iCloud בעת ההתחברות לאתרים דרך Chrome."
+   },
+   "extName": {
+      "message": "סיסמאות iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "פתיחת היישום ״סיסמאות״"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "פתיחת ״הגדרות סיסמאות״…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "פתיחת ״הגדרות סיסמאות״…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "פתיחת ״הגדרות סיסמאות״…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "פתיחת ״הגדרות סיסמאות״…"
+   },
+   "openThisPageInSafari": {
+      "message": "פתיחת עמוד זה ב-Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "פתיחת ״iCloud עבור Windows״"
+   },
+   "optionsTitle": {
+      "message": "אפשרויות ״סיסמאות iCloud״"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "הגדרת קוד אימות עבור ״$1״"
+   },
+   "strongPasswordSuggestion": {
+      "message": "ניתן ליצור סיסמה חזקה ביישום ״סיסמאות״ או ב-Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "ניתן ליצור סיסמה חזקה ב״הגדרות סיסמאות״ או ב-Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "ניתן ליצור סיסמה חזקה ב״הגדרות סיסמאות״ או ב-Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "ניתן ליצור סיסמה חזקה ב״הגדרות סיסמאות״ או ב-Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "ניתן ליצור סיסמה חזקה ב״הגדרות סיסמאות״ או ב-Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "קוד אימות"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "קוד אימות עבור ״$1״"
+   },
+   "unsupportedOS_windows": {
+      "message": "הרחבה זו נועדה לפעול ב-Windows 10 ואילך. במקרה של שימוש ב-Mac, הסיסמאות שלך יסתנכרנו באופן אוטומטי עם ה-iPhone, ה-iPad וה-Mac שלך בעת ההתחברות אל iCloud."
+   }
+}

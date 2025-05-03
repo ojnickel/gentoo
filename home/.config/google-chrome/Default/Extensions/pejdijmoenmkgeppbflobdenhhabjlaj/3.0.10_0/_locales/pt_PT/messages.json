@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Ative Palavras-passe em iCloud para Windows, para poder usar a extensão Palavras-passe em iCloud no Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "As suas palavras-passe estão sincronizadas com o Porta-chaves em iCloud"
+   },
+   "GettingPasswords": {
+      "message": "A carregar palavras-passe…"
+   },
+   "NoUserName": {
+      "message": "nenhum nome de utilizador"
+   },
+   "_lang": {
+      "message": "pt_PT"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Para impedir que o preenchimento automático na página do Chrome interfira com Palavras-passe em iCloud, Palavras-passe em iCloud pode tentar desativar por si as definições de preenchimento automático do navegador."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Desativar preenchimento automático do Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Para alterar, remova do Porta-Chaves em iCloud a entrada relativa a este site e volte a iniciar sessão."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Optou anteriormente por nunca guardar palavras-passe para este site."
+   },
+   "divICsMessage": {
+      "message": "Escolha uma palavra-passe guardada para usar:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Pode procurar e gerir palavras-passe guardadas na aplicação Palavras-passe."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Pode gerir as palavras-passe guardadas no separador Palavras-passe das preferências do Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Pode gerir as palavras-passe guardadas no painel Palavras-passe das Preferências do Sistema."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Pode procurar e gerir palavras-passe guardadas nas definições de Palavras-passe."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Pode procurar e gerir palavras-passe guardadas nas definições de Palavras-passe."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Pode ver e editar as palavras-passe guardadas na aplicação Palavras-passe em iCloud."
+   },
+   "divOpenPasswords": {
+      "message": "Gerir palavras-passe…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Procure e crie palavras-passe."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Abrir aplicação Palavras-passe…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Gerir palavras-passe…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Gerir palavras-passe…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Gerir palavras-passe…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Gerir palavras-passe…"
+   },
+   "divPINMessage_macos": {
+      "message": "O seu Mac gerou um código de confirmação. Digite o código para continuar."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud para Windows enviou-lhe uma notificação com um código de confirmação. Digite o código para continuar."
+   },
+   "divPINTitle": {
+      "message": "Ativar preenchimento automático de palavras-passe"
+   },
+   "divTOTPMenu": {
+      "message": "Configurar código de confirmação"
+   },
+   "divTOTPTitle": {
+      "message": "Configurar código de confirmação de:"
+   },
+   "downloadButton": {
+      "message": "Descarregar"
+   },
+   "downloadMessage_macos": {
+      "message": "É necessário ter o macOS Sonoma ou posterior para instalar esta extensão."
+   },
+   "downloadMessage_windows": {
+      "message": "Descarregue iCloud para Windows para usar Palavras-passe em iCloud."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Clique aqui para permitir que Palavras‑passe em iCloud preencha as suas palavras‑passe automaticamente."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Clique no botão na barra de ferramentas de Palavras‑passe em iCloud para ativar o preenchimento automático de palavras‑passe."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Ativar preenchimento automático de palavras-passe"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Permite que Palavras-passe em iCloud forneça credenciais de uma lista na página. Poderá ainda assim preencher palavras-passe através do botão da barra de ferramentas de Palavras-passe em iCloud, mesmo que esta opção esteja desativada."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Preenchimento automático na página"
+   },
+   "extDescription": {
+      "message": "Palavras-passe em iCloud permite preencher palavras-passe do Porta-chaves em iCloud ao iniciar sessão em sites através do Chrome."
+   },
+   "extName": {
+      "message": "Palavras-passe em iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Abrir aplicação Palavras-passe…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Abrir definições de Palavras-passe…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Abrir definições de Palavras-passe…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Abrir definições de Palavras-passe…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Abrir definições de Palavras-passe…"
+   },
+   "openThisPageInSafari": {
+      "message": "Abrir esta página no Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Abrir iCloud para Windows"
+   },
+   "optionsTitle": {
+      "message": "Opções de Palavras-passe em iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Configurar código de confirmação de “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Pode criar uma palavra-passe forte na aplicação Palavras-passe ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Pode criar uma palavra-passe forte nas definições de Palavras-passe ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Pode criar uma palavra-passe forte nas definições de Palavras-passe ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Pode criar uma palavra-passe forte nas definições de Palavras-passe ou no Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Pode criar uma palavra-passe forte nas definições de Palavras-passe ou no Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Código de confirmação"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Código de confirmação de “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Esta extensão foi concebida para execução no Windows 10 ou posterior. Se estiver a usar um Mac, as suas palavras-passe serão automaticamente sincronizadas com o seu iPhone, iPad e Mac, quando iniciar sessão em iCloud."
+   }
+}

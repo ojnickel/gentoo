@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Utvidelsens korte beskrivelse i nettbutikken",
+      "message": "Enkelt og sømløst personvern i nettleseren."
+   },
+   "appName": {
+      "description": "Utvidelsens tittel i nettbutikken",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

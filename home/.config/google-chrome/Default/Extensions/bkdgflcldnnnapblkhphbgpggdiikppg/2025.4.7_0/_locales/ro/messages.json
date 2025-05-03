@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Scurtă descriere a extensiei, afișată în magazinul web",
+      "message": "Îți protejează activ datele în browserul tău existent."
+   },
+   "appName": {
+      "description": "Titlul extensiei, afișat în magazinul web",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

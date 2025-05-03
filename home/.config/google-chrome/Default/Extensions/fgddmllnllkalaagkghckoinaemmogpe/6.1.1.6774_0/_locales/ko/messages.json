@@ -1,0 +1,1700 @@
+{
+   "_locationName_Albania": {
+      "message": "알바니아"
+   },
+   "_locationName_Algeria": {
+      "message": "알제리"
+   },
+   "_locationName_Americas": {
+      "message": "미주"
+   },
+   "_locationName_Andorra": {
+      "message": "안도라"
+   },
+   "_locationName_Argentina": {
+      "message": "아르헨티나"
+   },
+   "_locationName_Armenia": {
+      "message": "아르메니아"
+   },
+   "_locationName_Asia_Pacific": {
+      "message": "아시아 태평양"
+   },
+   "_locationName_Australia": {
+      "message": "호주"
+   },
+   "_locationName_Australia___Adelaide": {
+      "message": "호주 - 애들레이드"
+   },
+   "_locationName_Australia___Brisbane": {
+      "message": "호주 - 브리즈번"
+   },
+   "_locationName_Australia___Melbourne": {
+      "message": "호주 - 멜버른"
+   },
+   "_locationName_Australia___Perth": {
+      "message": "호주 - 퍼스"
+   },
+   "_locationName_Australia___Sydney": {
+      "message": "호주 - 시드니"
+   },
+   "_locationName_Australia___Sydney___2": {
+      "message": "호주 - 시드니 - 2"
+   },
+   "_locationName_Australia___Sydney___3": {
+      "message": "호주 - 시드니 - 3"
+   },
+   "_locationName_Australia___Woolloomooloo": {
+      "message": "호주 - 울루물루"
+   },
+   "_locationName_Austria": {
+      "message": "오스트리아"
+   },
+   "_locationName_Azerbaijan": {
+      "message": "아제르바이잔"
+   },
+   "_locationName_Bahamas": {
+      "message": "바하마"
+   },
+   "_locationName_Bangladesh": {
+      "message": "방글라데시"
+   },
+   "_locationName_Belarus": {
+      "message": "벨라루스"
+   },
+   "_locationName_Belgium": {
+      "message": "벨기에"
+   },
+   "_locationName_Bermuda": {
+      "message": "버뮤다"
+   },
+   "_locationName_Bhutan": {
+      "message": "부탄"
+   },
+   "_locationName_Bolivia": {
+      "message": "볼리비아"
+   },
+   "_locationName_Bosnia_and_Herzegovina": {
+      "message": "보스니아 & 헤르체고비나"
+   },
+   "_locationName_Brazil": {
+      "message": "브라질"
+   },
+   "_locationName_Brazil___2": {
+      "message": "브라질 - 2"
+   },
+   "_locationName_Brunei": {
+      "message": "브루나이"
+   },
+   "_locationName_Brunei_Darussalam": {
+      "message": "브루나이 다루살람"
+   },
+   "_locationName_Bulgaria": {
+      "message": "불가리아"
+   },
+   "_locationName_Cambodia": {
+      "message": "캄보디아"
+   },
+   "_locationName_Canada": {
+      "message": "캐나다"
+   },
+   "_locationName_Canada___Montreal": {
+      "message": "캐나다 - 몬트리올"
+   },
+   "_locationName_Canada___Montreal___2": {
+      "message": "캐나다 - 몬트리올 - 2"
+   },
+   "_locationName_Canada___Toronto": {
+      "message": "캐나다 - 토론토"
+   },
+   "_locationName_Canada___Toronto___2": {
+      "message": "캐나다 - 토론토 - 2"
+   },
+   "_locationName_Canada___Vancouver": {
+      "message": "캐나다 - 밴쿠버"
+   },
+   "_locationName_Cayman_Islands": {
+      "message": "케이맨 제"
+   },
+   "_locationName_Chile": {
+      "message": "칠레"
+   },
+   "_locationName_Colombia": {
+      "message": "콜롬비아"
+   },
+   "_locationName_Costa_Rica": {
+      "message": "코스타리카"
+   },
+   "_locationName_Croatia": {
+      "message": "크로아티아"
+   },
+   "_locationName_Cuba": {
+      "message": "쿠바"
+   },
+   "_locationName_Cyprus": {
+      "message": "키프로스"
+   },
+   "_locationName_Czech_Republic": {
+      "message": "체코"
+   },
+   "_locationName_Denmark": {
+      "message": "덴마크"
+   },
+   "_locationName_Dominican_Republic": {
+      "message": "도미니카 공화국"
+   },
+   "_locationName_Ecuador": {
+      "message": "에콰도르"
+   },
+   "_locationName_Egypt": {
+      "message": "이집트"
+   },
+   "_locationName_Estonia": {
+      "message": "에스토니아"
+   },
+   "_locationName_Europe": {
+      "message": "유럽"
+   },
+   "_locationName_Finland": {
+      "message": "핀란드"
+   },
+   "_locationName_France": {
+      "message": "프랑스"
+   },
+   "_locationName_France___Alsace": {
+      "message": "프랑스 - 알자스"
+   },
+   "_locationName_France___Marseille": {
+      "message": "프랑스 - 마르세유"
+   },
+   "_locationName_France___Paris___1": {
+      "message": "프랑스 - 파리 - 1"
+   },
+   "_locationName_France___Paris___2": {
+      "message": "프랑스 - 파리 - 2"
+   },
+   "_locationName_France___Strasbourg": {
+      "message": "프랑스 - 스트라스부르"
+   },
+   "_locationName_Georgia": {
+      "message": "조지아"
+   },
+   "_locationName_Germany": {
+      "message": "독일"
+   },
+   "_locationName_Germany___Frankfurt___1": {
+      "message": "독일 - 프랑크푸르트 - 1"
+   },
+   "_locationName_Germany___Frankfurt___2": {
+      "message": "독일 - 프랑크푸르트 - 2"
+   },
+   "_locationName_Germany___Frankfurt___3": {
+      "message": "독일 - 프랑크푸르트 - 3"
+   },
+   "_locationName_Germany___Nuremberg": {
+      "message": "독일 - 뉘른베르크"
+   },
+   "_locationName_Ghana": {
+      "message": "가나"
+   },
+   "_locationName_Greece": {
+      "message": "그리스"
+   },
+   "_locationName_Guam": {
+      "message": "괌"
+   },
+   "_locationName_Guatemala": {
+      "message": "과테말라"
+   },
+   "_locationName_Honduras": {
+      "message": "온두라스"
+   },
+   "_locationName_Hong_Kong": {
+      "message": "홍콩"
+   },
+   "_locationName_Hong_Kong___1": {
+      "message": "홍콩 - 1"
+   },
+   "_locationName_Hong_Kong___2": {
+      "message": "홍콩 - 2"
+   },
+   "_locationName_Hong_Kong___3": {
+      "message": "홍콩 - 3"
+   },
+   "_locationName_Hong_Kong___4": {
+      "message": "홍콩 - 4"
+   },
+   "_locationName_Hungary": {
+      "message": "헝가리"
+   },
+   "_locationName_Iceland": {
+      "message": "아이슬란드"
+   },
+   "_locationName_India": {
+      "message": "인도"
+   },
+   "_locationName_India___Chennai": {
+      "message": "인도 - 첸나이"
+   },
+   "_locationName_India___Mumbai___1": {
+      "message": "인도 - 뭄바이 - 1"
+   },
+   "_locationName_India__via_Singapore_": {
+      "message": "인도(싱가포르 서버 이용)"
+   },
+   "_locationName_India__via_UK_": {
+      "message": "인도(영국 서버 이용)"
+   },
+   "_locationName_Indonesia": {
+      "message": "인도네시아"
+   },
+   "_locationName_Ireland": {
+      "message": "아일랜드"
+   },
+   "_locationName_Isle_of_Man": {
+      "message": "맨 섬"
+   },
+   "_locationName_Israel": {
+      "message": "이스라엘"
+   },
+   "_locationName_Italy": {
+      "message": "이탈리아"
+   },
+   "_locationName_Italy___Cosenza": {
+      "message": "이탈리아 - 코센차"
+   },
+   "_locationName_Italy___Milan": {
+      "message": "이탈리아 - 밀라노"
+   },
+   "_locationName_Italy___Naples": {
+      "message": "이탈리아 - 나폴리"
+   },
+   "_locationName_Jamaica": {
+      "message": "자메이카"
+   },
+   "_locationName_Japan": {
+      "message": "일본"
+   },
+   "_locationName_Japan___Osaka": {
+      "message": "일본 - 오사카"
+   },
+   "_locationName_Japan___Shibuya": {
+      "message": "일본 - 시부야"
+   },
+   "_locationName_Japan___Tokyo": {
+      "message": "일본 - 도쿄"
+   },
+   "_locationName_Japan___Tokyo___1": {
+      "message": "일본 - 도쿄 - 1"
+   },
+   "_locationName_Japan___Tokyo___2": {
+      "message": "일본 - 도쿄 - 2"
+   },
+   "_locationName_Japan___Tokyo___3": {
+      "message": "일본 - 도쿄 - 3"
+   },
+   "_locationName_Japan___Yokohama": {
+      "message": "일본 - 요코하마"
+   },
+   "_locationName_Jersey": {
+      "message": "저지"
+   },
+   "_locationName_Kazakhstan": {
+      "message": "카자흐스탄"
+   },
+   "_locationName_Kenya": {
+      "message": "케냐"
+   },
+   "_locationName_Kyrgyzstan": {
+      "message": "키르기즈스탄"
+   },
+   "_locationName_Laos": {
+      "message": "라오스"
+   },
+   "_locationName_Latvia": {
+      "message": "라트비아"
+   },
+   "_locationName_Lebanon": {
+      "message": "레바논"
+   },
+   "_locationName_Liechtenstein": {
+      "message": "리히텐슈타인"
+   },
+   "_locationName_Lithuania": {
+      "message": "리투아니아"
+   },
+   "_locationName_Luxembourg": {
+      "message": "룩셈부르크"
+   },
+   "_locationName_Macau": {
+      "message": "마카오"
+   },
+   "_locationName_Malaysia": {
+      "message": "말레이시아"
+   },
+   "_locationName_Malta": {
+      "message": "몰타"
+   },
+   "_locationName_Mexico": {
+      "message": "멕시코"
+   },
+   "_locationName_Middle_East_and_Africa": {
+      "message": "중동 및 아프리카"
+   },
+   "_locationName_Moldova": {
+      "message": "몰도바"
+   },
+   "_locationName_Monaco": {
+      "message": "모나코"
+   },
+   "_locationName_Mongolia": {
+      "message": "몽골"
+   },
+   "_locationName_Montenegro": {
+      "message": "몬테네그로"
+   },
+   "_locationName_Morocco": {
+      "message": "모로코"
+   },
+   "_locationName_Myanmar": {
+      "message": "미얀마"
+   },
+   "_locationName_Nepal": {
+      "message": "네팔"
+   },
+   "_locationName_Netherlands": {
+      "message": "네덜란드"
+   },
+   "_locationName_Netherlands___Amsterdam": {
+      "message": "네덜란드 - 암스테르담"
+   },
+   "_locationName_Netherlands___Amsterdam___2": {
+      "message": "네덜란드 - 암스테르담 - 2"
+   },
+   "_locationName_Netherlands___Rotterdam": {
+      "message": "네덜란드 - 로테르담"
+   },
+   "_locationName_Netherlands___The_Hague": {
+      "message": "네덜란드 - 헤이그"
+   },
+   "_locationName_New_Zealand": {
+      "message": "뉴질랜드"
+   },
+   "_locationName_North_Macedonia": {
+      "message": "북마케도니아"
+   },
+   "_locationName_Norway": {
+      "message": "노르웨이"
+   },
+   "_locationName_Pakistan": {
+      "message": "파키스탄"
+   },
+   "_locationName_Panama": {
+      "message": "파나마"
+   },
+   "_locationName_Peru": {
+      "message": "페루"
+   },
+   "_locationName_Philippines": {
+      "message": "필리핀"
+   },
+   "_locationName_Philippines__via_Singapore_": {
+      "message": "필리핀(싱가포르 서버 이용)"
+   },
+   "_locationName_Pick_for_Me": {
+      "message": "자동 선택"
+   },
+   "_locationName_Poland": {
+      "message": "폴란드"
+   },
+   "_locationName_Portugal": {
+      "message": "포르투갈"
+   },
+   "_locationName_Puerto_Rico": {
+      "message": "푸에르토리코"
+   },
+   "_locationName_Romania": {
+      "message": "루마니아"
+   },
+   "_locationName_Serbia": {
+      "message": "세르비아"
+   },
+   "_locationName_Singapore": {
+      "message": "싱가포르"
+   },
+   "_locationName_Singapore___CBD": {
+      "message": "싱가포르 - CBD"
+   },
+   "_locationName_Singapore___Jurong": {
+      "message": "싱가포르 - 주롱"
+   },
+   "_locationName_Singapore___Marina_Bay": {
+      "message": "싱가포르 - 마리나베이"
+   },
+   "_locationName_Singapore___Sentosa": {
+      "message": "싱가포르 - 센토사"
+   },
+   "_locationName_Slovakia": {
+      "message": "슬로바키아"
+   },
+   "_locationName_Slovenia": {
+      "message": "슬로베니아"
+   },
+   "_locationName_South_Africa": {
+      "message": "남아프리카"
+   },
+   "_locationName_South_Korea": {
+      "message": "대한민국"
+   },
+   "_locationName_South_Korea___2": {
+      "message": "대한민국 - 2"
+   },
+   "_locationName_Spain": {
+      "message": "스페인"
+   },
+   "_locationName_Spain___Barcelona": {
+      "message": "스페인 - 바르셀로나"
+   },
+   "_locationName_Spain___Barcelona___2": {
+      "message": "스페인 - 바르셀로나 - 2"
+   },
+   "_locationName_Spain___Madrid": {
+      "message": "스페인 - 마드리드"
+   },
+   "_locationName_Sri_Lanka": {
+      "message": "스리랑카"
+   },
+   "_locationName_Sweden": {
+      "message": "스웨덴"
+   },
+   "_locationName_Sweden___2": {
+      "message": "스웨덴 - 2"
+   },
+   "_locationName_Switzerland": {
+      "message": "스위스"
+   },
+   "_locationName_Switzerland___2": {
+      "message": "스위스 - 2"
+   },
+   "_locationName_Taiwan": {
+      "message": "대만"
+   },
+   "_locationName_Taiwan___3": {
+      "message": "대만 - 3"
+   },
+   "_locationName_Thailand": {
+      "message": "태국"
+   },
+   "_locationName_Trinidad_and_Tobago": {
+      "message": "트리니다드토바고"
+   },
+   "_locationName_Turkey": {
+      "message": "터키"
+   },
+   "_locationName_UK___Docklands": {
+      "message": "영국 - 도크랜드"
+   },
+   "_locationName_UK___East_London": {
+      "message": "영국 - 이스트런던"
+   },
+   "_locationName_UK___Kent": {
+      "message": "영국 - 켄트"
+   },
+   "_locationName_UK___London": {
+      "message": "영국 - 런던"
+   },
+   "_locationName_UK___Midlands": {
+      "message": "영국 - 미드랜즈"
+   },
+   "_locationName_UK___Wembley": {
+      "message": "영국 - 웸블리"
+   },
+   "_locationName_USA___Albuquerque": {
+      "message": "미국 - 앨버커키"
+   },
+   "_locationName_USA___Atlanta": {
+      "message": "미국 - 애틀란타"
+   },
+   "_locationName_USA___Chicago": {
+      "message": "미국 - 시카고"
+   },
+   "_locationName_USA___Dallas": {
+      "message": "미국 - 달라스"
+   },
+   "_locationName_USA___Dallas___2": {
+      "message": "미국 - 달라스 - 2"
+   },
+   "_locationName_USA___Denver": {
+      "message": "미국 - 덴버"
+   },
+   "_locationName_USA___Hollywood": {
+      "message": "미국 - 헐리우드"
+   },
+   "_locationName_USA___Lincoln_Park": {
+      "message": "미국 - 링컨 파크"
+   },
+   "_locationName_USA___Los_Angeles": {
+      "message": "미국 - 로스앤젤레스"
+   },
+   "_locationName_USA___Los_Angeles___1": {
+      "message": "미국 - 로스앤젤레스 - 1"
+   },
+   "_locationName_USA___Los_Angeles___2": {
+      "message": "미국 - 로스앤젤레스 - 2"
+   },
+   "_locationName_USA___Los_Angeles___3": {
+      "message": "미국 - 로스앤젤레스 - 3"
+   },
+   "_locationName_USA___Los_Angeles___4": {
+      "message": "미국 - 로스앤젤레스 - 4"
+   },
+   "_locationName_USA___Los_Angeles___5": {
+      "message": "미국 - 로스앤젤레스 - 5"
+   },
+   "_locationName_USA___Miami": {
+      "message": "미국 - 마이애미"
+   },
+   "_locationName_USA___Miami___2": {
+      "message": "미국 - 마이애미 - 2"
+   },
+   "_locationName_USA___New_Jersey___1": {
+      "message": "미국 - 뉴저지 - 1"
+   },
+   "_locationName_USA___New_Jersey___2": {
+      "message": "미국 - 뉴저지 - 2"
+   },
+   "_locationName_USA___New_Jersey___3": {
+      "message": "미국 - 뉴저지 - 3"
+   },
+   "_locationName_USA___New_York": {
+      "message": "미국 - 뉴욕"
+   },
+   "_locationName_USA___New_York___2": {
+      "message": "미국 - 뉴욕 - 2"
+   },
+   "_locationName_USA___Phoenix": {
+      "message": "미국 - 피닉스"
+   },
+   "_locationName_USA___Salt_Lake_City": {
+      "message": "미국 - 솔트레이크시티"
+   },
+   "_locationName_USA___San_Francisco": {
+      "message": "미국 - 샌프란시스코"
+   },
+   "_locationName_USA___San_Jose": {
+      "message": "미국 - 산호세"
+   },
+   "_locationName_USA___Santa_Monica": {
+      "message": "미국 - 샌타모니카"
+   },
+   "_locationName_USA___Seattle": {
+      "message": "미국 - 시애틀"
+   },
+   "_locationName_USA___Tampa___1": {
+      "message": "미국 - 탬파 - 1"
+   },
+   "_locationName_USA___Washington_DC": {
+      "message": "미국 - 워싱턴 DC"
+   },
+   "_locationName_USA___Washington_DC___2": {
+      "message": "미국 - 워싱턴 DC - 2"
+   },
+   "_locationName_Ukraine": {
+      "message": "우크라이나"
+   },
+   "_locationName_United_Kingdom": {
+      "message": "영국"
+   },
+   "_locationName_United_States": {
+      "message": "미국"
+   },
+   "_locationName_Uruguay": {
+      "message": "우루과이"
+   },
+   "_locationName_Uzbekistan": {
+      "message": "우즈베키스탄"
+   },
+   "_locationName_Venezuela": {
+      "message": "베네수엘라"
+   },
+   "_locationName_Vietnam": {
+      "message": "베트남"
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "안전하게 초고속으로 온라인에 접속하세요. 위치를 스푸핑하고, 어디서나 콘텐츠에 액세스하고, Firefox에서 바로 ExpressVPN 앱을 제어하세요."
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "안전하게 초고속으로 온라인에 접속하세요. 위치를 스푸핑하고, 어디서나 콘텐츠에 액세스하고, Chrome에서 바로 ExpressVPN 앱을 제어하세요."
+   },
+   "app_description_text_beta": {
+      "message": "ExpressVPN 베타 버전은 최첨단 기술을 즐기는 분들을 위한 것입니다. 최신 기능을 제일 먼저 사용해보세요."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN: VPN 프록시로 더 나은 인터넷 즐기기"
+   },
+   "app_name_title_beta": {
+      "message": "ExpressVPN 베타: 더 나은 인터넷 경험을 위한 VPN"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN"
+   },
+   "error_@firefox@_hide_text": {
+      "message": "또는, 아이콘을 마우스 오른쪽 클릭한 뒤 \"툴바에서 제거\" 또는 \"메뉴로 이동\"을 선택하여 확장 프로그램을 숨길 수 있습니다."
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_main_button_label": {
+      "message": "정액제를 구입하세요"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_sub_button_label": {
+      "message": "로그아웃"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_title": {
+      "message": "보안을 유지하세요"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_main_button_label": {
+      "message": "결제 정보 업데이트"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_sub_button_label": {
+      "message": "로그아웃"
+   },
+   "error_IAP_CONTINUE_USING_p1_text": {
+      "message": "ExpressVPN을 계속 사용하시려면, iTunes / App Store 계정에서 결제 정보를 업데이트해주세요."
+   },
+   "error_IAP_MAIN_title": {
+      "message": "결제에 실패했습니다"
+   },
+   "error_IAP_WILL_AUTO_ACTIVATE_p2_text": {
+      "message": "정보 업데이트 후 30분 내에 ExpressVPN이 자동으로 활성화됩니다."
+   },
+   "error_NOT_INSTALLED_chromeOS_manual": {
+      "message": "Chromebook에서 Play Store를 이용할 수 없는 경우, [수동 구성] 지침을 따라주세요."
+   },
+   "error_NOT_INSTALLED_chromeOS_primary_button": {
+      "message": "ExpressVPN 설치"
+   },
+   "error_NOT_INSTALLED_chromeOS_secondary_button": {
+      "message": "지원 문의"
+   },
+   "error_NOT_INSTALLED_chromeOS_title": {
+      "description": "Context: This message shows to users on Chromebook (operating Chrome OS). The ExpressVPN app does not work for Chromebook users, for now.",
+      "message": "Chrome OS가 지원되지 않습니다"
+   },
+   "error_NOT_INSTALLED_linux_title": {
+      "message": "앱을 찾을 수 없습니다"
+   },
+   "error_NOT_INSTALLED_primary_button": {
+      "message": "데스크탑 앱 설치"
+   },
+   "error_NOT_INSTALLED_secondary_button": {
+      "message": "새로운 정액제 구입"
+   },
+   "error_NOT_INSTALLED_title": {
+      "message": "앱이 설치되지 않습니다"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_main_button_label": {
+      "message": "결제 정보 업데이트"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_sub_button_label": {
+      "message": "나중에"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_main_button_label": {
+      "message": "새로운 정액제 구입"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_sub_button_label": {
+      "message": "로그아웃"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_title": {
+      "message": "정액제가 만료되었습니다"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_main_button_label": {
+      "message": "결제 정보 업데이트"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_sub_button_label": {
+      "message": "로그아웃"
+   },
+   "error_app_not_found_buy_subscription_button_label": {
+      "message": "정액제 구입"
+   },
+   "error_app_not_found_contact_support_text": {
+      "message": "도움이 필요하세요? [지원팀에 문의]하세요."
+   },
+   "error_app_not_found_download_LINUX_button_label": {
+      "message": "Linux 앱 다운로드"
+   },
+   "error_app_not_found_download_MAC_button_label": {
+      "message": "Mac 앱 다운로드"
+   },
+   "error_app_not_found_download_WINDOWS_button_label": {
+      "message": "Windows 앱 다운로드"
+   },
+   "error_app_not_found_get_started_text": {
+      "message": "ExpressVPN에 새로 오셨나요? [지금 바로 시작하세요]"
+   },
+   "error_app_not_found_require_CHROMIUM_text": {
+      "message": "Google Play Store에서 ExpressVPN 앱을 설치해주세요."
+   },
+   "error_app_not_found_require_LINUX_snap_text": {
+      "message": "\u003Cb>Ubuntu 소프트웨어 센터\u003C/b>에서 브라우저를 설치하셨다면, 확장 프로그램이 Linux 앱과 통신할 수 없을 것입니다."
+   },
+   "error_app_not_found_require_LINUX_text": {
+      "message": "이 확장 프로그램을 사용하시려면 활성화 정액제와  Linux용 ExpressVPN 앱이 필요합니다. "
+   },
+   "error_app_not_found_require_MAC_text": {
+      "message": "이 확장 프로그램을 사용하시려면 활성화 정액제와 Mac용 ExpressVPN 앱이 필요합니다. "
+   },
+   "error_app_not_found_require_WINDOWS_text": {
+      "message": "이 확장 프로그램을 사용하시려면 활성화 정액제와 Windows용 ExpressVPN 앱이 필요합니다. "
+   },
+   "error_btnReturnHome_default": {
+      "message": "홈으로 돌아가기"
+   },
+   "error_business_subscription_expired_contact_support_text": {
+      "message": "문의 사항이 있으시면, [지원팀에 문의]하세요."
+   },
+   "error_business_subscription_expired_signout_button_label": {
+      "message": "로그아웃"
+   },
+   "error_business_subscription_expired_status_text": {
+      "message": "만료 (%1)."
+   },
+   "error_business_subscription_expired_text": {
+      "message": "계정 소유자에게 새로운 비즈니스 정액제 구입을 요청하세요."
+   },
+   "error_business_subscription_expired_title": {
+      "message": "정액제가 만료되었습니다"
+   },
+   "error_compatibility_error_@firefox@_hide_text": {
+      "message": "또는, 아이콘을 마우스 오른쪽 클릭한 뒤 \"툴바에서 제거\" 또는 \"메뉴로 이동\"을 선택하여 확장 프로그램을 숨길 수 있습니다."
+   },
+   "error_compatibility_error_hide_text": {
+      "message": "또는, 아이콘을 마우스 오른쪽 클릭한 뒤 \"Chrome 메뉴에서 숨기기\"를 선택하여 확장 프로그램을 숨길 수 있습니다."
+   },
+   "error_compatibility_error_os_version_p1_text": {
+      "message": "이 확장 프로그램은 현재 \u003Cb>macOS 10.10 / Windows 7\u003C/b> 이상에서만 이용 가능합니다."
+   },
+   "error_compatibility_error_os_version_p2_text": {
+      "message": "이 확장 프로그램을 사용하시려면 운영 체제를 업데이트해주세요."
+   },
+   "error_compatibility_error_os_version_update_button_label": {
+      "message": "더 보기"
+   },
+   "error_compatibility_error_title": {
+      "message": "운영 체제를 업데이트해주세요"
+   },
+   "error_connection_error_check_l1_text": {
+      "message": "인터넷 연결을 확인해주세요"
+   },
+   "error_connection_error_check_l2_text": {
+      "message": "다른 [VPN 위치]를 선택해보세요"
+   },
+   "error_connection_error_check_l3_text": {
+      "message": "다른 모든 방법으로도 안 되면, [지원팀에 문의]하세요"
+   },
+   "error_connection_error_lock_on_text": {
+      "message": "개인 정보 보호를 위해 현재 인터넷 트래픽이 차단되었습니다."
+   },
+   "error_connection_error_return_home_button_label": {
+      "message": "홈으로 돌아가기"
+   },
+   "error_connection_error_return_home_button_label_network_lock_off": {
+      "message": "취소"
+   },
+   "error_connection_error_return_home_button_label_network_lock_on": {
+      "message": "인터넷 차단 해제"
+   },
+   "error_connection_error_title": {
+      "message": "연결할 수 없습니다"
+   },
+   "error_connection_error_to_location_text": {
+      "message": "%LOCATION%에 연결할 수 없습니다."
+   },
+   "error_connection_error_try_again_button_label": {
+      "message": "다시 시도"
+   },
+   "error_expired_update_now_link_text": {
+      "message": "이미 가입하셨나요? [지금 업데이트]하세요."
+   },
+   "error_forced_signout_p1_text": {
+      "message": "고객님의 계정 정보가 업데이트되어 로그아웃되셨습니다."
+   },
+   "error_forced_signout_p2_linux_text": {
+      "message": "ExpressVPN을 계속 사용하시려면, 터미널에서 아래 명령을 실행한 후 다시 로그인해주세요."
+   },
+   "error_forced_signout_p2_text": {
+      "message": "ExpressVPN을 계속 사용하시려면, 다시 로그인해주세요."
+   },
+   "error_forced_signout_signin_button_label": {
+      "message": "로그인"
+   },
+   "error_forced_signout_title": {
+      "message": "ExpressVPN에 로그인해주세요"
+   },
+   "error_fraudster_hint": {
+      "message": "고객님의 결제 정보가 확인되지 않아, 결제가 취소되었습니다."
+   },
+   "error_fraudster_p1_text": {
+      "message": "정액제를 재활성화하시려면,\u003Cbr>이메일을 보내주세요"
+   },
+   "error_fraudster_p2_text": {
+      "description": "Do not translate 'Billing Verification'",
+      "message": "제목란: \u003Cspan class='bold DO_NOT_TRANSLATE'>Billing Verification\u003C/span>."
+   },
+   "error_fraudster_p3_text": {
+      "message": "사용하신 신용 카드의 사진을 포함해주세요(마지막 4자리 숫자와 이름만 보이게 해주세요)"
+   },
+   "error_fraudster_p4_text": {
+      "message": "고객님의 전화 번호(국가 번호 포함)와 통화하시기에 가장 좋은 시간대를 알려주세요. "
+   },
+   "error_fraudster_p5_text": {
+      "message": "청구팀이 24-48시간 내에 답변을 드릴 것입니다."
+   },
+   "error_fraudster_question1_text": {
+      "message": "신용 카드로 결제하셨나요?"
+   },
+   "error_fraudster_question2_text": {
+      "message": "신용 카드로 결제한 것이 아니신가요?"
+   },
+   "error_fraudster_title": {
+      "message": "계정이 일시 중지되었습니다"
+   },
+   "error_free_trial_expired_benefits_text": {
+      "message": "무료 체험이 종료되었으나, \n쉽게 다시 이용하실 수 있습니다."
+   },
+   "error_free_trial_expired_benefits_title": {
+      "message": "업그레이드해야 하는 이유"
+   },
+   "error_free_trial_expired_enter_new_code_button_label": {
+      "message": "활성화 코드 입력"
+   },
+   "error_free_trial_expired_l1_text": {
+      "message": "모든 기기에서 이용 가능한 앱"
+   },
+   "error_free_trial_expired_l2_text": {
+      "message": "30일 환불 보장"
+   },
+   "error_free_trial_expired_l3_text": {
+      "message": "전 세계 160개 위치"
+   },
+   "error_free_trial_expired_l4_text": {
+      "message": "연중무휴 고객 지원"
+   },
+   "error_free_trial_expired_noIAP_l3_text": {
+      "message": "30일 환불 보장"
+   },
+   "error_free_trial_expired_status_text": {
+      "message": "만료 (%1)."
+   },
+   "error_free_trial_expired_title": {
+      "message": "무료 체험이 종료되었습니다"
+   },
+   "error_free_trial_expired_upgrade_now_button_label": {
+      "message": "지금 업그레이드"
+   },
+   "error_hide_text": {
+      "message": "또는, 아이콘을 마우스 오른쪽 클릭한 뒤 \"Chrome 메뉴에서 숨기기\"를 선택하여 확장 프로그램을 숨길 수 있습니다."
+   },
+   "error_not_activated_LINUX_text": {
+      "message": "데스크탑 앱을 활성화하시려면 터미널에서 아래 명령을 실행해주세요."
+   },
+   "error_not_activated_text": {
+      "message": "이 확장 프로그램을 사용하시려면 ExpressVPN 데스크탑 앱에 로그인해주세요."
+   },
+   "error_not_activated_title": {
+      "message": "앱이 활성화되지 않습니다"
+   },
+   "error_open_app_@firefox@_text": {
+      "message": "이 확장 프로그램을 사용하시려면 ExpressVPN 앱을 실행해주세요. "
+   },
+   "error_open_app_contact_support_button_label": {
+      "message": "지원팀에 문의"
+   },
+   "error_open_app_open_app_button_label": {
+      "message": "데스크탑 앱 열기"
+   },
+   "error_open_app_text": {
+      "message": "이 확장 프로그램을 사용하시려면 ExpressVPN 앱을 실행해주세요. "
+   },
+   "error_open_app_title": {
+      "message": "앱이 열려있지 않습니다"
+   },
+   "error_signout_button": {
+      "message": "로그아웃"
+   },
+   "error_simultaneous_connection_cancel_button_label": {
+      "message": "취소"
+   },
+   "error_simultaneous_connection_hint": {
+      "message": "연결 제한에 도달했습니다."
+   },
+   "error_simultaneous_connection_iap_false_p2_text": {
+      "message": "장치의 연결을 해제하시거나 [추가 정액제를 구입해주세요]."
+   },
+   "error_simultaneous_connection_iap_true_p2_text": {
+      "message": "장치의 연결을 해제하세요."
+   },
+   "error_simultaneous_connection_learn_more_button_label": {
+      "message": "더 보기"
+   },
+   "error_simultaneous_connection_ok_button_label": {
+      "message": "확인"
+   },
+   "error_simultaneous_connection_p1_text": {
+      "message": "이 정액제에 대한 ExpressVPN 장치 사용 제한을 초과하셨습니다."
+   },
+   "error_simultaneous_connection_popup_btn0": {
+      "message": "취소"
+   },
+   "error_simultaneous_connection_popup_btn1": {
+      "message": "확인"
+   },
+   "error_simultaneous_connection_popup_text": {
+      "message": "이 링크를 열면 모든 인터넷 트래픽이 차단됩니다."
+   },
+   "error_simultaneous_connection_popup_title": {
+      "message": "인터넷 차단 해제"
+   },
+   "error_subscription_expired_benefits_text": {
+      "message": "정액제가 만료되었으나, \n쉽게 다시 이용하실 수 있습니다."
+   },
+   "error_subscription_expired_benefits_title": {
+      "message": "갱신해야 하는 이유"
+   },
+   "error_subscription_expired_buy_subscription_button_label": {
+      "message": "새로운 정액제 구입"
+   },
+   "error_subscription_expired_enter_new_code_button_label": {
+      "message": "활성화 코드 입력"
+   },
+   "error_subscription_expired_get_subscription_button_label": {
+      "message": "정액제 구입"
+   },
+   "error_subscription_expired_l1_text": {
+      "message": "모든 콘텐츠 이용 가능"
+   },
+   "error_subscription_expired_l2_text": {
+      "message": "온라인 보안 및 익명성 유지"
+   },
+   "error_subscription_expired_l3_text": {
+      "message": "연중무휴 지원"
+   },
+   "error_subscription_expired_l4_text": {
+      "message": "연중무휴 고객 지원"
+   },
+   "error_subscription_expired_status_text": {
+      "message": "만료 (%1)."
+   },
+   "error_subscription_expired_title": {
+      "message": "정액제가 만료되었습니다"
+   },
+   "error_subscription_expiring_autobill_later_button_label": {
+      "message": "다음에"
+   },
+   "error_subscription_expiring_autobill_p1_text": {
+      "message": "ExpressVPN을 계속 사용하시려면, 결제 정보를 업데이트해주세요."
+   },
+   "error_subscription_expiring_autobill_title": {
+      "message": "결제 실패"
+   },
+   "error_subscription_expiring_autobill_update_payment_button_label": {
+      "message": "결제 정보 업데이트"
+   },
+   "error_subscription_expiring_later_button_label": {
+      "message": "다음에"
+   },
+   "error_subscription_expiring_p1_text": {
+      "message": "ExpressVPN을 계속 사용하시려면, 정액제를 갱신해주세요."
+   },
+   "error_subscription_expiring_renew_button_label": {
+      "message": "지금 갱신하세요"
+   },
+   "error_subscription_expiring_title": {
+      "message": "정액제 만료"
+   },
+   "error_upgrade_app_button_label": {
+      "message": "지금 업데이트"
+   },
+   "error_upgrade_app_header_title": {
+      "message": "앱을 업데이트해주세요"
+   },
+   "error_upgrade_app_text": {
+      "message": "이 확장 프로그램을 사용하시려면 ExpressVPN 앱을 최신 버전으로 업데이트해주세요."
+   },
+   "general_contact_support_button_label": {
+      "message": "지원 문의"
+   },
+   "hint_connection_delay_text": {
+      "message": "아직 연결 중입니다."
+   },
+   "hint_network_state_captive_portal_text": {
+      "message": "VPN을 사용하시려면 와이파이 네트워크에 로그인해주세요."
+   },
+   "hint_network_state_no_internet_connecting_text": {
+      "message": "인터넷 연결이 감지되지 않습니다.\u003Cbr>인터넷이 연결되면 VPN에 연결됩니다."
+   },
+   "hint_network_state_no_internet_ready_text": {
+      "message": "인터넷 연결이 감지되지 않습니다.\u003Cbr>VPN을 이용하실 수 없습니다."
+   },
+   "hint_network_state_no_internet_reconnecting_text": {
+      "message": "인터넷 연결이 끊어졌습니다.\u003Cbr>인터넷이 연결되면 VPN에 다시 연결됩니다."
+   },
+   "hint_network_state_not_ready_text": {
+      "message": "네트워크가 복구될 때까지 기다려주세요."
+   },
+   "hint_network_state_not_sure_connecting_text": {
+      "message": "인터넷 연결이 감지되지 않습니다. 인터넷이 연결되면 VPN에 연결됩니다."
+   },
+   "hint_network_state_not_sure_ready_text": {
+      "message": "인터넷 연결이 감지되지 않습니다. VPN을 이용하실 수 없습니다."
+   },
+   "hint_network_state_not_sure_reconnecting_text": {
+      "message": "인터넷 연결이 감지되지 않습니다. 인터넷이 연결되면 VPN에 연결됩니다."
+   },
+   "hint_no_internet_connecting_text": {
+      "message": "인터넷 연결이 감지되지 않습니다.\u003Cbr>인터넷이 연결되면 VPN에 연결됩니다."
+   },
+   "hint_no_internet_ready_text": {
+      "message": "인터넷 연결이 감지되지 않습니다.\u003Cbr>VPN을 이용하실 수 없습니다."
+   },
+   "hint_no_internet_reconnecting_text": {
+      "message": "인터넷 연결이 끊어졌습니다.\u003Cbr>인터넷이 연결되면 VPN에 다시 연결됩니다."
+   },
+   "hint_reconnecting_network_lock_off_text": {
+      "message": "연결이 예기치 않게 끊어져, 다시 연결하는 중입니다..."
+   },
+   "hint_reconnecting_network_lock_on_text": {
+      "message": "개인 정보 보호를 위해 인터넷 트래픽이 차단되었습니다."
+   },
+   "hint_saved_text": {
+      "message": "저장되었습니다"
+   },
+   "home_change_location_popup_btn0": {
+      "message": "취소"
+   },
+   "home_change_location_popup_btn1": {
+      "message": "계속"
+   },
+   "home_change_location_popup_text": {
+      "message": "다시 연결하는 동안 인터넷 트래픽이 안전하지 않을 수 있습니다."
+   },
+   "home_change_location_popup_title": {
+      "message": "위치 변경"
+   },
+   "language_dropdown_danish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "덴마크어(Dansk)"
+   },
+   "language_dropdown_dutch": {
+      "description": "Do not translate the text between parentheses",
+      "message": "네덜란드어(Nederlands)"
+   },
+   "language_dropdown_english": {
+      "description": "Do not translate the text between parentheses",
+      "message": "영어(English)"
+   },
+   "language_dropdown_finnish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "핀란드어(Suomi)"
+   },
+   "language_dropdown_french": {
+      "description": "Do not translate the text between parentheses",
+      "message": "프랑스어(Français)"
+   },
+   "language_dropdown_german": {
+      "description": "Do not translate the text between parentheses",
+      "message": "독일어(Deutsch)"
+   },
+   "language_dropdown_italian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "이탈리아어(Italiano)"
+   },
+   "language_dropdown_japanese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "일본어(日本語)"
+   },
+   "language_dropdown_korean": {
+      "description": "Do not translate the text between parentheses",
+      "message": "한국어(한국어)"
+   },
+   "language_dropdown_norwegian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "노르웨이어(Norsk)"
+   },
+   "language_dropdown_polish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "폴란드어(Polski)"
+   },
+   "language_dropdown_portuguese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "포르투갈어(Português)"
+   },
+   "language_dropdown_russian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "러시아어(Русский)"
+   },
+   "language_dropdown_spanish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "스페인어(Español)"
+   },
+   "language_dropdown_swedish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "스웨덴어(Svenska)"
+   },
+   "language_dropdown_thai": {
+      "description": "Do not translate the text between parentheses",
+      "message": "태국어(ภาษาไทย)"
+   },
+   "language_dropdown_turkish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "터키어(Türkçe)"
+   },
+   "list_item_247_support": {
+      "message": "연중무휴 고객 지원"
+   },
+   "list_item_30day_guarantee": {
+      "message": "30일 환불 보장"
+   },
+   "list_item_apps_for_every_device": {
+      "message": "모든 기기에서 이용 가능한 앱"
+   },
+   "list_item_locations_worldwide": {
+      "message": "전 세계 160개 위치"
+   },
+   "list_item_refer_frieds": {
+      "message": "친구 추천 시 30일 무료 이용권 제공"
+   },
+   "list_item_unlimited_bandwidth": {
+      "message": "무제한 대역폭"
+   },
+   "location_picker_locations_title": {
+      "message": "VPN 위치"
+   },
+   "location_picker_recent_locations_text": {
+      "message": "최근 연결 위치"
+   },
+   "location_picker_recommended_locations_text": {
+      "message": "권장 위치"
+   },
+   "location_picker_search_no_results_text": {
+      "message": "결과 없음"
+   },
+   "location_picker_search_placeholder_text": {
+      "message": "도시 또는 국가별 검색"
+   },
+   "location_picker_tab_all_text": {
+      "message": "전체 위치"
+   },
+   "location_picker_tab_recommended_text": {
+      "message": "권장"
+   },
+   "main_screen_current_location_text": {
+      "message": "현재 위치"
+   },
+   "main_screen_recent_location_text": {
+      "message": "최근 연결 위치"
+   },
+   "main_screen_selected_location_text": {
+      "message": "선택된 위치"
+   },
+   "main_screen_status_vpn_connected_text": {
+      "message": "연결됨"
+   },
+   "main_screen_status_vpn_connecting_text": {
+      "message": "연결 중"
+   },
+   "main_screen_status_vpn_disconnecting_text": {
+      "message": "연결 해제 중"
+   },
+   "main_screen_status_vpn_ready_text": {
+      "message": "연결되지 않음"
+   },
+   "main_screen_status_vpn_reconnecting_text": {
+      "message": "재연결 중"
+   },
+   "main_screen_status_vpn_speedtesting_text": {
+      "message": "속도 테스트 실행 중"
+   },
+   "menu_beta_feedback": {
+      "message": "베타 피드백 전송"
+   },
+   "menu_cancel_text": {
+      "message": "취소"
+   },
+   "menu_connection_startup_@firefox@_header": {
+      "description": "Settings startup header",
+      "message": "Firefox 시작"
+   },
+   "menu_connection_startup_text": {
+      "message": "브라우저 실행 시 연결"
+   },
+   "menu_desktop_notification_text": {
+      "message": "데스크탑 알림 표시"
+   },
+   "menu_get_30_days_free": {
+      "message": "30일 무료 이용권 받기"
+   },
+   "menu_header": {
+      "message": "옵션"
+   },
+   "menu_help_support": {
+      "message": "지원"
+   },
+   "menu_item_DNS_leak_test_text": {
+      "message": "DNS 유출 테스트"
+   },
+   "menu_item_acknowledgements_text": {
+      "message": "승인"
+   },
+   "menu_item_app_version_text": {
+      "message": "%OS% 앱 버전: %VERSION%"
+   },
+   "menu_item_contact_support_text": {
+      "message": "지원 문의"
+   },
+   "menu_item_diagnostic_text": {
+      "message": "진단 정보"
+   },
+   "menu_item_extension_version_text": {
+      "message": "확장 프로그램 버전: %VERSION%"
+   },
+   "menu_item_faq_text": {
+      "message": "자주 묻는 질문"
+   },
+   "menu_item_ip_address_checker_text": {
+      "message": "IP 주소 검사기"
+   },
+   "menu_item_webRTC_leak_test_text": {
+      "message": "WebRTC 유출 테스트"
+   },
+   "menu_keyboard_shortcut_text": {
+      "message": "키보드 단축키로 열기"
+   },
+   "menu_my_account": {
+      "message": "계정"
+   },
+   "menu_myaccount_title": {
+      "message": "계정"
+   },
+   "menu_privacy_block_webrtc_text": {
+      "message": "WebRTC 차단"
+   },
+   "menu_privacy_hide_location_text": {
+      "message": "위치 스푸핑"
+   },
+   "menu_rate_expressvpn": {
+      "message": "ExpressVPN 평가하기"
+   },
+   "menu_section_about_title": {
+      "message": "정보"
+   },
+   "menu_section_support_chat_menu_label": {
+      "message": "문의"
+   },
+   "menu_section_support_improvements_menu_label": {
+      "message": "개선 사항 제안"
+   },
+   "menu_section_support_report_menu_label": {
+      "message": "오류 보고"
+   },
+   "menu_section_support_title": {
+      "message": "지원"
+   },
+   "menu_settings_general_display_header": {
+      "message": "디스플레이 설정"
+   },
+   "menu_settings_general_header": {
+      "message": "일반"
+   },
+   "menu_settings_general_language_label": {
+      "message": "언어"
+   },
+   "menu_settings_general_name": {
+      "message": "설정"
+   },
+   "menu_settings_general_open_app_settings_button_label": {
+      "message": "데스크탑 앱 설정 구성"
+   },
+   "menu_settings_help_button_label": {
+      "message": "지원"
+   },
+   "menu_settings_privacy_block_webrtc_description_text": {
+      "message": "VPN에 연결되어있는 동안 웹사이트가 고객님의 실제 IP 주소와 위치를 확인하지 못하도록 합니다."
+   },
+   "menu_settings_privacy_hide_location_description_text": {
+      "message": "VPN에 연결되어있는 동안 대부분의 사이트에서 HTML5 지오로케이션을 차단하여 고객님의 실제 위치를 숨깁니다."
+   },
+   "menu_settings_privacy_https_everywhere_description_text": {
+      "message": "가능한 경우 보다 안전한 HTTPS 웹사이트 버전에 자동으로 연결합니다."
+   },
+   "menu_settings_privacy_learn_more_button_label": {
+      "message": "더 보기"
+   },
+   "menu_settings_privacy_security_name": {
+      "message": "개인 정보 보호 & 보안"
+   },
+   "menu_settings_settings_general_title": {
+      "message": "설정"
+   },
+   "menu_settings_settings_privacy_title": {
+      "message": "개인 정보 보호 설정"
+   },
+   "menu_setup_other_devices": {
+      "message": "다른 장치에 설치"
+   },
+   "menu_signout_p1_text": {
+      "message": "정말이세요? 데스크탑 앱에서도 로그아웃됩니다."
+   },
+   "menu_signout_text": {
+      "message": "로그아웃"
+   },
+   "myaccount_account_active_p1_text": {
+      "message": "ExpressVPN을 공유하시고 무료 이용권을 받으세요!"
+   },
+   "myaccount_account_active_p2_text": {
+      "message": "친구가 가입할 때마다, 두 분 모두에게 30일 무료 이용권이 지급됩니다."
+   },
+   "myaccount_account_expired_label": {
+      "message": "만료"
+   },
+   "myaccount_account_expiry_label": {
+      "message": "만료일"
+   },
+   "myaccount_account_payment_due_label": {
+      "message": "지불 기한 만료일"
+   },
+   "myaccount_account_renews_label": {
+      "message": "갱신"
+   },
+   "myaccount_account_status_active_text": {
+      "message": "활성화"
+   },
+   "myaccount_account_status_expired_text": {
+      "message": "만료"
+   },
+   "myaccount_account_status_free_trial_active_text": {
+      "message": "체험"
+   },
+   "myaccount_account_status_label": {
+      "message": "계정 상태"
+   },
+   "myaccount_account_status_trial_expired_text": {
+      "message": "체험 종료"
+   },
+   "myaccount_account_status_trial_text": {
+      "message": "체험"
+   },
+   "myaccount_account_subscription_starts_label": {
+      "message": "정액제 시작"
+   },
+   "myaccount_active_refer_button_label": {
+      "message": "친구 추천"
+   },
+   "myaccount_expiring_buy_button_label": {
+      "message": "지금 구입"
+   },
+   "myaccount_expiring_renew_button_label": {
+      "message": "지금 갱신"
+   },
+   "myaccount_expiring_upgrade_button_label": {
+      "message": "지금 업그레이드"
+   },
+   "myaccount_manage_button_label": {
+      "message": "계정 관리"
+   },
+   "myaccount_manage_subscription_button_label": {
+      "message": "정액제 관리"
+   },
+   "myaccount_why_get_subscription_subheader_text": {
+      "message": "정액제를 구입해야 하는 이유"
+   },
+   "myaccount_why_renew_subheader_text": {
+      "message": "갱신해야 하는 이유"
+   },
+   "networkLock_cancel_button_label": {
+      "message": "취소"
+   },
+   "networkLock_header_connected_text": {
+      "message": "VPN 연결 완료"
+   },
+   "networkLock_header_connecting_text": {
+      "message": "기다려주세요"
+   },
+   "networkLock_header_connection_error_text": {
+      "message": "연결할 수 없습니다"
+   },
+   "networkLock_header_reconnecting_text": {
+      "message": "기다려주세요"
+   },
+   "networkLock_hint_connected_text": {
+      "message": "잠시 후 다시 연결됩니다."
+   },
+   "networkLock_hint_connecting_text": {
+      "message": "개인 정보 보호를 위해 현재 인터넷 트래픽이 차단되었습니다."
+   },
+   "networkLock_hint_connection_error_text": {
+      "message": "개인 정보 보호를 위해 현재 인터넷 트래픽이 차단되었습니다."
+   },
+   "networkLock_hint_reconnecting_text": {
+      "message": "개인 정보 보호를 위해 현재 인터넷 트래픽이 차단되었습니다."
+   },
+   "networkLock_status_connected_text": {
+      "message": "%LOCATION%에 연결되었습니다."
+   },
+   "networkLock_status_connecting_text": {
+      "message": "\u003Cb>%LOCATION%\u003C/b>에 연결하는 중입니다."
+   },
+   "networkLock_status_connection_error_text": {
+      "message": "%LOCATION%에 연결할 수 없습니다."
+   },
+   "networkLock_status_reconnecting_text": {
+      "message": "%LOCATION%에 연결되었습니다."
+   },
+   "networkLock_try_again_button_label": {
+      "message": "다시 시도"
+   },
+   "networkLock_unblock_internet_button_label": {
+      "message": "인터넷 차단 해제"
+   },
+   "notification_extension_update_message": {
+      "message": "클릭하여 %VERSION% 버전의 새로운 기능을 확인하세요"
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN이 업데이트되었습니다"
+   },
+   "promo_bar_free_trial_expiring_soon_days_text": {
+      "message": "무료 체험이 [days]일 내에 종료됩니다"
+   },
+   "promo_bar_free_trial_expiring_soon_expired_text": {
+      "message": "무료 체험이 종료되었습니다"
+   },
+   "promo_bar_free_trial_expiring_soon_hours_text": {
+      "message": "무료 체험이 [hours]시간 내에 종료됩니다"
+   },
+   "promo_bar_free_trial_expiring_soon_less_than_one_hour_text": {
+      "message": "무료 체험이 1시간 내에 종료됩니다"
+   },
+   "promo_bar_free_trial_expiring_soon_upgrade_now_button_label": {
+      "message": "지금 업그레이드하세요"
+   },
+   "promo_bar_splittunneling_@firefox@_text": {
+      "message": "Firefox가 VPN에서 제외되었습니다"
+   },
+   "promo_bar_splittunneling_settings_button_label": {
+      "message": "설정을 확인하세요"
+   },
+   "promo_bar_splittunneling_text": {
+      "message": "Chrome이 VPN에서 제외되었습니다"
+   },
+   "promo_bar_subscription_expiring_soon_days_text": {
+      "message": "정액제가 [days]일 내에 만료됩니다"
+   },
+   "promo_bar_subscription_expiring_soon_expired_text": {
+      "message": "정액제가 만료되었습니다"
+   },
+   "promo_bar_subscription_expiring_soon_get_new_subscription_button_label": {
+      "message": "새로운 정액제를 구입하세요"
+   },
+   "promo_bar_subscription_expiring_soon_hours_text": {
+      "message": "정액제가 [hours]시간 내에 만료됩니다"
+   },
+   "promo_bar_subscription_expiring_soon_less_than_one_hour_text": {
+      "message": "정액제가 1시간 내에 만료됩니다"
+   },
+   "promo_bar_subscription_expiring_soon_renew_now_button_label": {
+      "message": "지금 갱신하세요"
+   },
+   "promobar_free_trial_expiring_soon_days_header": {
+      "message": "무료 체험이 [days]일 내에 종료됩니다"
+   },
+   "promobar_free_trial_expiring_soon_expired_header": {
+      "message": "무료 체험이 종료되었습니다"
+   },
+   "promobar_free_trial_expiring_soon_hours_header": {
+      "message": "무료 체험이 [hours]시간 내에 종료됩니다"
+   },
+   "promobar_free_trial_expiring_soon_less_than_one_hour_header": {
+      "message": "무료 체험이 1시간 내에 종료됩니다"
+   },
+   "promobar_free_trial_expiring_soon_text": {
+      "message": "지금 업그레이드하세요"
+   },
+   "promobar_iap_failed_header": {
+      "message": "최종 결제에 실패했습니다"
+   },
+   "promobar_iap_failed_text": {
+      "message": "결제 정보를 업데이트해주세요"
+   },
+   "promobar_splittunneling_@firefox@_header": {
+      "message": "Firefox가 VPN에서 제외되었습니다"
+   },
+   "promobar_splittunneling_header": {
+      "message": "Chrome이 VPN에서 제외되었습니다"
+   },
+   "promobar_splittunneling_text": {
+      "message": "설정을 확인하세요"
+   },
+   "promobar_subscription_expired_header": {
+      "message": "정액제가 곧 만료됩니다"
+   },
+   "promobar_subscription_expiring_autobill_header": {
+      "message": "마지막 결제가 실패했습니다"
+   },
+   "promobar_subscription_expiring_autobill_text": {
+      "message": "결제 정보 업데이트"
+   },
+   "promobar_subscription_expiring_soon_days_header": {
+      "message": "정액제가 [days]일 내에 만료됩니다"
+   },
+   "promobar_subscription_expiring_soon_expired_header": {
+      "message": "정액제가 만료되었습니다"
+   },
+   "promobar_subscription_expiring_soon_hours_header": {
+      "message": "정액제가 [hours]시간 내에 만료됩니다"
+   },
+   "promobar_subscription_expiring_soon_renewable_false_text": {
+      "message": "새로운 정액제를 구입하세요"
+   },
+   "promobar_subscription_expiring_soon_renewable_true_text": {
+      "message": "지금 갱신하세요"
+   },
+   "promobar_update_available_header": {
+      "message": "업데이트하실 수 있습니다!"
+   },
+   "promobar_update_available_text": {
+      "message": "지금 설치하세요"
+   },
+   "rating_improve_header": {
+      "message": "저희가 어떻게 개선할 수 있을까요?"
+   },
+   "rating_improve_report_button": {
+      "message": "오류 보고"
+   },
+   "rating_improve_suggest_button": {
+      "message": "개선 사항 제안"
+   },
+   "rating_no_thanks_text": {
+      "message": "아니요"
+   },
+   "rating_prompt_header": {
+      "message": "ExpressVPN이 얼마나 마음에 드시나요?"
+   },
+   "rating_prompt_ok_button": {
+      "message": "확인"
+   },
+   "rating_thanks4_text": {
+      "message": "평가해주셔서 감사합니다!"
+   },
+   "rating_thanks_@firefox@_text": {
+      "message": "감사합니다! Firefox Add-ons에서 저희를 평가해주시겠어요?"
+   },
+   "rating_thanks_text": {
+      "message": "감사합니다! Chrome Web Store에서 저희를 평가해주시겠어요?"
+   },
+   "settings_general_help_improve_description": {
+      "message": "충돌 보고서, 속도 테스트,  유용성 진단 및 VPN 연결 시도 성공 여부를 공유합니다. 개인 식별 정보는 공개되지 않습니다."
+   },
+   "settings_general_help_improve_label": {
+      "message": "ExpressVPN 개선 지원"
+   },
+   "vpn_status_notification_connected_label": {
+      "message": "VPN이 연결되었습니다"
+   },
+   "vpn_status_notification_connected_text": {
+      "message": "%s에 연결되었습니다."
+   },
+   "vpn_status_notification_connecting_label": {
+      "message": "VPN 연결 중..."
+   },
+   "vpn_status_notification_connection_failed_label": {
+      "message": "VPN에 연결할 수 없습니다"
+   },
+   "vpn_status_notification_connection_failed_network_lock_off_text": {
+      "message": "%s에 연결할 수 없습니다."
+   },
+   "vpn_status_notification_connection_failed_network_lock_on_text": {
+      "message": "%s에 연결할 수 없습니다. 인터넷 트래픽이 차단되었습니다."
+   },
+   "vpn_status_notification_connection_limit_label": {
+      "message": "연결 제한에 도달했습니다"
+   },
+   "vpn_status_notification_connection_limit_text": {
+      "message": "장치의 연결을 해제하시거나, 추가 정액제를 구입해주세요."
+   },
+   "vpn_status_notification_reconnecting_label": {
+      "message": "VPN 재연결 중..."
+   },
+   "vpn_status_notification_reconnecting_network_lock_off_text": {
+      "message": "%s에 다시 연결하는 중입니다."
+   },
+   "vpn_status_notification_reconnecting_network_lock_on_text": {
+      "message": "%s에 재연결하는 중입니다. 인터넷 트래픽이 차단되었습니다."
+   },
+   "welcome_continue_button_label": {
+      "message": "계속"
+   },
+   "welcome_help_improve_expressvpn_header": {
+      "message": "ExpressVPN 개선 지원"
+   },
+   "welcome_help_improve_expressvpn_learn_more_text": {
+      "message": "더 보기"
+   },
+   "welcome_help_improve_expressvpn_no_button_label": {
+      "message": "아니요"
+   },
+   "welcome_help_improve_expressvpn_ok_button_label": {
+      "message": "확인"
+   },
+   "welcome_help_improve_expressvpn_p1_text": {
+      "message": "충돌 보고서, 속도 테스트,  유용성 진단 및 VPN 연결 시도 성공 여부를 공유합니다. 개인 식별 정보는 공개되지 않습니다."
+   },
+   "welcome_not_installed_buy_header": {
+      "message": "위험 부담 없이 시작하세요"
+   },
+   "welcome_not_installed_buy_text": {
+      "message": "최저 8.32 USD/월에 가입하세요"
+   },
+   "welcome_not_installed_existing_button_label": {
+      "message": "기존 사용자"
+   },
+   "welcome_not_installed_get_button_label": {
+      "message": "ExpressVPN 가입"
+   },
+   "welcome_not_installed_reasons_li_1_text": {
+      "message": "전 세계 보안 VPN 위치"
+   },
+   "welcome_not_installed_reasons_li_2_text": {
+      "message": "빠른 속도 & 무제한 대역폭"
+   },
+   "welcome_not_installed_reasons_li_3_text": {
+      "message": "연중무휴 지원"
+   },
+   "welcome_not_installed_reasons_li_4_text": {
+      "message": "30일 환불 보장"
+   },
+   "welcome_not_installed_scene_1_text": {
+      "message": "온라인에서 데이터와 개인 정보를 보호하세요"
+   },
+   "welcome_not_installed_scene_2_text": {
+      "message": "좋아하는 프로그램과  앱을 어디서든 즐기세요"
+   },
+   "welcome_not_installed_scene_3_text": {
+      "message": "호텔, 까페 또는 공항에서 공용 와이파이에 안전하게 연결하세요"
+   },
+   "welcome_screen1_p1_text": {
+      "message": "ExpressVPN 확장 프로그램으로 데스크탑 앱을 조종할 수 있습니다."
+   },
+   "welcome_screen2_p1_text": {
+      "message": "VPN이 연결되면, 브라우저뿐만 아니라 기기 전체를 보호해줍니다. "
+   },
+   "welcome_screen3_learn_more_text": {
+      "message": "자세히 알아보세요."
+   },
+   "welcome_screen3_p1_text": {
+      "message": "확장 프로그램은 대부분의 사이트에서 위치를 스푸핑하고 WebRTC를 차단하며 HTTPS Everywhere를 포함합니다."
+   },
+   "welcome_skip_button_label": {
+      "message": "건너뛰기"
+   }
+}

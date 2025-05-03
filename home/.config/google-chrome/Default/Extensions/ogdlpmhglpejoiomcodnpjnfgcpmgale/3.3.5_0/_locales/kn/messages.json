@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome ™ ಗಾಗಿ ಮೋಜಿನ ಕಸ್ಟಮ್ ಕರ್ಸರ್ಗಳು ™. ಉಚಿತವಾದ ದೊಡ್ಡ ಕರ್ಸರ್ಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಅಥವಾ ನಿಮ್ಮದೇ ಆದ ಅಪ್ಲೋಡ್ ಮಾಡಿ."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - ಕಸ್ಟಮ್ ಕರ್ಸರ್"
+   },
+   "close": {
+      "message": "ಮುಚ್ಚಿ"
+   },
+   "cursor_size_extra_large": {
+      "message": "ಎಕ್ಸ್ಟ್ರಾ ದೊಡ್ಡದು"
+   },
+   "cursor_size_extra_small": {
+      "message": "ಎಕ್ಸ್ಟ್ರಾ ಸ್ಮಾಲ್"
+   },
+   "cursor_size_large": {
+      "message": "ದೊಡ್ಡದು"
+   },
+   "cursor_size_medium": {
+      "message": "ಮಧ್ಯಮ"
+   },
+   "cursor_size_small": {
+      "message": "ಸಣ್ಣ"
+   },
+   "delete": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "delete_all": {
+      "message": "ಎಲ್ಲಾ ಅಳಿಸಿ"
+   },
+   "enter_your_search_text": {
+      "message": "ನಿಮ್ಮ ಹುಡುಕಾಟ ಪಠ್ಯವನ್ನು ನಮೂದಿಸಿ"
+   },
+   "favorite_by_time": {
+      "message": "ಸಮಯದಿಂದ"
+   },
+   "favorite_by_visited_pages": {
+      "message": "ಪುಟಗಳಿಂದ"
+   },
+   "favorite_manage_button": {
+      "message": "ಮೆಚ್ಚಿನವುಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "favorite_rotate_favorites": {
+      "message": "ಮೆಚ್ಚಿನವುಗಳನ್ನು ತಿರುಗಿಸಿ"
+   },
+   "favorite_sec_page": {
+      "message": "ಸೆ/ಪುಟ"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "ಮೆಚ್ಚಿನವುಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "hint_defaultTo": {
+      "message": "ಡೀಫಾಲ್ಟ್ ಕರ್ಸರ್"
+   },
+   "hint_remove_cursor": {
+      "message": "ಕರ್ಸರ್ ತೆಗೆದುಹಾಕಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "hint_remove_pointer": {
+      "message": "ಪಾಯಿಂಟರ್ ತೆಗೆದುಹಾಕಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "hint_settings": {
+      "message": "ಸಂಯೋಜನೆಗಳು"
+   },
+   "hint_size": {
+      "message": "ಕರ್ಸರ್ ಗಾತ್ರ"
+   },
+   "hint_upload_cursor": {
+      "message": "ಕರ್ಸರ್ ಅನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "hint_upload_pointer": {
+      "message": "ಪಾಯಿಂಟರ್ ಅನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "item_cursor": {
+      "message": "ಕರ್ಸರ್"
+   },
+   "item_pointer": {
+      "message": "ಪಾಯಿಂಟರ್"
+   },
+   "manage_cursor_size_settings": {
+      "message": "ಕರ್ಸರ್ ಗಾತ್ರ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+   },
+   "manage_manage_collection": {
+      "message": "ಸಂಗ್ರಹಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "nav_how_to_use": {
+      "message": "ಬಳಸುವುದು ಹೇಗೆ"
+   },
+   "nav_manage": {
+      "message": "ನಿರ್ವಹಿಸು"
+   },
+   "nav_more_cursors": {
+      "message": "ಹೆಚ್ಚಿನ ಕರ್ಸರ್ಗಳು"
+   },
+   "nav_upload_cursor": {
+      "message": "ಕರ್ಸರ್ ಅನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ"
+   },
+   "options_add_new": {
+      "message": "ಹೊಸದನ್ನು ಸೇರಿಸಿ"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>ಶಿಫಾರಸುಗಳು:\u003C/h2>\u003Cul>\u003Cli>128x128 ಪಿಕ್ಸೆಲ್ಗಳಿಗಿಂತ ಹೆಚ್ಚಿನ ಚಿತ್ರಗಳನ್ನು ಬಳಸಬೇಡಿ;\u003C/li>\u003Cli>ಪಾರದರ್ಶಕ ಹಿನ್ನೆಲೆ ಹೊಂದಿರುವ ಚಿತ್ರಗಳನ್ನು ಬಳಸಿ, ಉದಾಹರಣೆಗೆ .png;\u003C/li>\u003Cli>ಹೆಚ್ಚಾಗಿ ಕಿರುನಗೆ;) \u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "ನಿಮ್ಮ ಸ್ವಂತ ಕರ್ಸರ್ಗಳನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ"
+   },
+   "popup_default_cursor": {
+      "message": "ಡೀಫಾಲ್ಟ್ ಕರ್ಸರ್"
+   },
+   "popup_manage": {
+      "message": "ನಿರ್ವಹಿಸು"
+   },
+   "popup_more_cursor": {
+      "message": "ಹೆಚ್ಚಿನ ಕರ್ಸರ್ಗಳು"
+   },
+   "popup_upload_cursor": {
+      "message": "ಕರ್ಸರ್ ಅನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ"
+   },
+   "rate_us_5_stars": {
+      "message": "ದಯವಿಟ್ಟು ನಮಗೆ 5 ನಕ್ಷತ್ರಗಳು ನೀಡಿ, ದಯವಿಟ್ಟು"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

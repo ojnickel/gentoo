@@ -1,5 +1,8 @@
 <?php
 
+use JetBrains\PhpStorm\Internal\TentativeType;
+use JetBrains\PhpStorm\Pure;
+
 /**
  * The ReflectionGenerator class reports information about a generator.
  *
@@ -14,9 +17,7 @@ class ReflectionGenerator
      * @param Generator $generator A generator object.
      * @since 7.0
      */
-    public function __construct(Generator $generator)
-    {
-    }
+    public function __construct(Generator $generator) {}
 
     /**
      * Gets the currently executing line of the generator
@@ -26,9 +27,9 @@ class ReflectionGenerator
      * in the generator.
      * @since 7.0
      */
-    public function getExecutingLine()
-    {
-    }
+    #[Pure]
+    #[TentativeType]
+    public function getExecutingLine(): int {}
 
     /**
      * Gets the file name of the currently executing generator
@@ -38,9 +39,9 @@ class ReflectionGenerator
      * executing generator.
      * @since 7.0
      */
-    public function getExecutingFile()
-    {
-    }
+    #[Pure]
+    #[TentativeType]
+    public function getExecutingFile(): string {}
 
     /**
      * Gets the trace of the executing generator
@@ -54,15 +55,13 @@ class ReflectionGenerator
      *
      * {@see DEBUG_BACKTRACE_IGNORE_ARGS} - Don't include the argument
      * information for functions in the stack trace.
-     * </p>
      *
      * @return array Returns the trace of the currently executing generator.
      * @since 7.0
      */
-    public function getTrace($options = DEBUG_BACKTRACE_PROVIDE_OBJECT)
-    {
-    }
-
+    #[Pure]
+    #[TentativeType]
+    public function getTrace(int $options = DEBUG_BACKTRACE_PROVIDE_OBJECT): array {}
 
     /**
      * Gets the function name of the generator
@@ -73,9 +72,9 @@ class ReflectionGenerator
      * or {@see ReflectionMethod} for methods.
      * @since 7.0
      */
-    public function getFunction()
-    {
-    }
+    #[Pure]
+    #[TentativeType]
+    public function getFunction(): ReflectionFunctionAbstract {}
 
     /**
      * Gets the function name of the generator
@@ -85,9 +84,9 @@ class ReflectionGenerator
      * generator was not created in a class context.
      * @since 7.0
      */
-    public function getThis()
-    {
-    }
+    #[Pure]
+    #[TentativeType]
+    public function getThis(): ?object {}
 
     /**
      * Gets the executing Generator object
@@ -95,9 +94,8 @@ class ReflectionGenerator
      * @link https://php.net/manual/en/reflectiongenerator.construct.php
      * @return Generator Returns the currently executing Generator object.
      * @since 7.0
-     *
      */
-    public function getExecutingGenerator()
-    {
-    }
+    #[Pure]
+    #[TentativeType]
+    public function getExecutingGenerator(): Generator {}
 }

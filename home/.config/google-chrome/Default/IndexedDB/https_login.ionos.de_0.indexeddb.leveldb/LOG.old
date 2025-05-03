@@ -1,0 +1,48 @@
+2025/04/05-17:58:46.783 3166 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_login.ionos.de_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/05-17:58:46.783 3166 Recovering log #31
+2025/04/05-17:58:46.783 3166 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_login.ionos.de_0.indexeddb.leveldb/000031.log 
+2025/04/05-17:58:46.827 3169 Level-0 table #37: started
+2025/04/05-17:58:46.833 3169 Level-0 table #37: 638 bytes OK
+2025/04/05-17:58:46.844 3169 Delete type=0 #31
+2025/04/05-17:58:46.844 3166 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/05-17:58:46.844 3169 Level-0 table #39: started
+2025/04/05-17:58:46.847 3169 Level-0 table #39: 661 bytes OK
+2025/04/05-17:58:46.853 3169 Delete type=0 #36
+2025/04/05-17:58:46.853 3166 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 255 : 1
+2025/04/05-17:58:46.853 3166 Compacting 1@0 + 1@1 files
+2025/04/05-17:58:46.856 3166 Generated table #40@0: 11 keys, 637 bytes
+2025/04/05-17:58:46.856 3166 Compacted 1@0 + 1@1 files => 637 bytes
+2025/04/05-17:58:46.862 3166 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/05-17:58:46.862 3166 Delete type=2 #39
+2025/04/05-17:58:46.862 3166 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 255 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/05-17:58:52.925 3169 Level-0 table #42: started
+2025/04/05-17:58:52.928 3169 Level-0 table #42: 1202 bytes OK
+2025/04/05-17:58:52.934 3169 Delete type=2 #37
+2025/04/05-17:58:52.934 3169 Delete type=0 #38
+2025/04/05-17:58:52.935 3166 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 288 : 1
+2025/04/05-17:58:52.935 3166 Compacting 1@0 + 1@1 files
+2025/04/05-17:58:52.937 3166 Generated table #43@0: 22 keys, 997 bytes
+2025/04/05-17:58:52.938 3166 Compacted 1@0 + 1@1 files => 997 bytes
+2025/04/05-17:58:52.943 3166 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/05-17:58:52.944 3166 Delete type=2 #42
+2025/04/05-17:58:52.944 3166 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 288 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/05-18:02:01.855 3166 Level-0 table #45: started
+2025/04/05-18:02:01.859 3166 Level-0 table #45: 249 bytes OK
+2025/04/05-18:02:01.865 3166 Delete type=2 #40
+2025/04/05-18:02:01.865 3166 Delete type=0 #41
+2025/04/05-18:02:01.866 3166 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x08\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 302 : 0
+2025/04/05-18:02:01.866 3166 Compacting 1@0 + 1@1 files
+2025/04/05-18:02:01.869 3166 Generated table #46@0: 24 keys, 1008 bytes
+2025/04/05-18:02:01.869 3166 Compacted 1@0 + 1@1 files => 1008 bytes
+2025/04/05-18:02:01.875 3166 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/05-18:02:01.876 3166 Delete type=2 #43
+2025/04/05-18:02:01.876 3166 Delete type=2 #45
+2025/04/05-18:02:01.876 3166 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x08\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 302 : 0 .. (end); will stop at (end)
+2025/04/05-18:02:01.876 3166 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x001\x009\x003\x000\x003\x001\x003\x002\x009\x001\x007\x00:\x00w\x00e\x00b\x00:\x008\x004\x004\x00f\x00b\x00e\x00f\x00c\x00e\x002\x00c\x00e\x00f\x00e\x002\x00a\x00f\x009\x005\x007\x00b\x00c' @ 276 : 1
+2025/04/05-18:02:01.876 3166 Compacting 1@1 + 1@2 files
+2025/04/05-18:02:01.880 3166 Generated table #47@1: 21 keys, 938 bytes
+2025/04/05-18:02:01.880 3166 Compacted 1@1 + 1@2 files => 938 bytes
+2025/04/05-18:02:01.886 3166 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/05-18:02:01.886 3166 Delete type=2 #34
+2025/04/05-18:02:01.886 3166 Delete type=2 #46
+2025/04/05-18:02:01.887 3166 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x001\x009\x003\x000\x003\x001\x003\x002\x009\x001\x007\x00:\x00w\x00e\x00b\x00:\x008\x004\x004\x00f\x00b\x00e\x00f\x00c\x00e\x002\x00c\x00e\x00f\x00e\x002\x00a\x00f\x009\x005\x007\x00b\x00c' @ 276 : 1 .. (end); will stop at (end)

@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Веб камера или камера"
+   },
+   "Cancel": {
+      "message": "Отказати"
+   },
+   "Countdown": {
+      "message": "Одбројавање пре снимања"
+   },
+   "GrantPerm": {
+      "message": "Дајте дозволу"
+   },
+   "Pause": {
+      "message": "Паузирај"
+   },
+   "PermCamDenied": {
+      "message": "Дозвола за камеру одбијена."
+   },
+   "PermMicDenied": {
+      "message": "Дозвола за микрофон је одбијена."
+   },
+   "RateUs": {
+      "message": "Оцените нас"
+   },
+   "RecordAnother": {
+      "message": "Направите још један снимак"
+   },
+   "RecordCamera": {
+      "message": "Снимите камеру"
+   },
+   "RecordDrive": {
+      "message": "Снимите на свој Гоогле диск™"
+   },
+   "RecordQuality": {
+      "message": "Рецорд Куалити"
+   },
+   "RecordScreen": {
+      "message": "Снимите свој екран"
+   },
+   "RecordSys": {
+      "message": "Рецорд Систем Аудио"
+   },
+   "RecordSysExpl": {
+      "message": "Снимите звук са звучника. Означите опцију Аудио у следећем дијалогу ако желите да омогућите снимање звука."
+   },
+   "RecordVoice": {
+      "message": "Снимите глас"
+   },
+   "RecordVoiceExpl": {
+      "message": "Снимите свој глас помоћу микрофона"
+   },
+   "Resume": {
+      "message": "Резиме"
+   },
+   "SaveRecording": {
+      "message": "Сачувај снимак"
+   },
+   "ScreenSrcs": {
+      "message": "Екран, прозор или картица"
+   },
+   "Share": {
+      "message": "Поделите нашу апликацију"
+   },
+   "StopRecording": {
+      "message": "Заустави снимање"
+   },
+   "Tutorial": {
+      "message": "Прикажи водич - како се користи апликација"
+   }
+}

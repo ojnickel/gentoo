@@ -1,26 +1,24 @@
 from _typeshed import StrPath
-from typing import Dict, List, Optional, Text, Tuple, TypeVar
+from typing_extensions import Self, TypeAlias
 
-_P = TypeVar("_P")
-_Label = Tuple[int, Optional[Text]]
-_DFA = List[List[Tuple[int, int]]]
-_DFAS = Tuple[_DFA, Dict[int, int]]
+_Label: TypeAlias = tuple[int, str | None]
+_DFA: TypeAlias = list[list[tuple[int, int]]]
+_DFAS: TypeAlias = tuple[_DFA, dict[int, int]]
 
 class Grammar:
-    symbol2number: Dict[Text, int]
-    number2symbol: Dict[int, Text]
-    states: List[_DFA]
-    dfas: Dict[int, _DFAS]
-    labels: List[_Label]
-    keywords: Dict[Text, int]
-    tokens: Dict[int, int]
-    symbol2label: Dict[Text, int]
+    symbol2number: dict[str, int]
+    number2symbol: dict[int, str]
+    states: list[_DFA]
+    dfas: dict[int, _DFAS]
+    labels: list[_Label]
+    keywords: dict[str, int]
+    tokens: dict[int, int]
+    symbol2label: dict[str, int]
     start: int
-    def __init__(self) -> None: ...
     def dump(self, filename: StrPath) -> None: ...
     def load(self, filename: StrPath) -> None: ...
-    def copy(self: _P) -> _P: ...
+    def copy(self) -> Self: ...
     def report(self) -> None: ...
 
-opmap_raw: Text
-opmap: Dict[Text, Text]
+opmap_raw: str
+opmap: dict[str, str]

@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome ™ માટે ફન કસ્ટમ કર્સર. મફત કર્સર મોટો સંગ્રહ ઉપયોગ કરો અથવા તમારા પોતાના અપલોડ કરો."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - કર્સર ચેન્જર"
+   },
+   "close": {
+      "message": "બંધ"
+   },
+   "cursor_size_extra_large": {
+      "message": "વિશેષ મોટા"
+   },
+   "cursor_size_extra_small": {
+      "message": "વિશેષ નાના"
+   },
+   "cursor_size_large": {
+      "message": "મોટું"
+   },
+   "cursor_size_medium": {
+      "message": "મધ્યમ"
+   },
+   "cursor_size_small": {
+      "message": "નાના"
+   },
+   "delete": {
+      "message": "કાઢી નાખો"
+   },
+   "delete_all": {
+      "message": "બધું કાઢી નાંખો"
+   },
+   "enter_your_search_text": {
+      "message": "તમારા શોધ લખાણ દાખલ કરો"
+   },
+   "favorite_by_time": {
+      "message": "સમય દ્વારા"
+   },
+   "favorite_by_visited_pages": {
+      "message": "મુલાકાત લીધેલા પાના દ્વારા"
+   },
+   "favorite_manage_button": {
+      "message": "મનપસંદ મેનેજ કરો"
+   },
+   "favorite_rotate_favorites": {
+      "message": "મનપસંદ ફેરવો"
+   },
+   "favorite_sec_page": {
+      "message": "સેકન્ડ/પૃષ્ઠ"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "મનપસંદ મેનેજ કરો"
+   },
+   "hint_defaultTo": {
+      "message": "ડિફaultલ્ટ કર્સર"
+   },
+   "hint_remove_cursor": {
+      "message": "કર્સરને દૂર કરવા માટે ક્લિક કરો"
+   },
+   "hint_remove_pointer": {
+      "message": "પોઇન્ટરને દૂર કરવા ક્લિક કરો"
+   },
+   "hint_settings": {
+      "message": "સેટિંગ્સ"
+   },
+   "hint_size": {
+      "message": "કર્સરનું કદ"
+   },
+   "hint_upload_cursor": {
+      "message": "કર્સર અપલોડ કરવા માટે ક્લિક કરો"
+   },
+   "hint_upload_pointer": {
+      "message": "પોઇન્ટર અપલોડ કરવા ક્લિક કરો"
+   },
+   "item_cursor": {
+      "message": "કર્સર"
+   },
+   "item_pointer": {
+      "message": "નિર્દેશક"
+   },
+   "manage_cursor_size_settings": {
+      "message": "કર્સર કદ સેટિંગ્સ"
+   },
+   "manage_manage_collection": {
+      "message": "સંગ્રહ મેનેજ કરો"
+   },
+   "nav_how_to_use": {
+      "message": "કેવી રીતે વાપરવું"
+   },
+   "nav_manage": {
+      "message": "મેનેજ કરો"
+   },
+   "nav_more_cursors": {
+      "message": "વધુ કર્સર"
+   },
+   "nav_upload_cursor": {
+      "message": "કર્સર અપલોડ કરો"
+   },
+   "options_add_new": {
+      "message": "નવો ઉમેરો"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>ભલામણો:\u003C/h2>\u003Cul>\u003Cli>128x128 પિક્સેલ કરતા વધુ ચિત્રોનો ઉપયોગ કરશો નહીં; \u003C/li>\u003Cli> પારદર્શક પૃષ્ઠભૂમિ સાથેની છબીઓનો ઉપયોગ કરો, જેમ કે .png; \u003C/li>\u003Cli> વધુ વાર સ્માઇલ કરો;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "તમારા પોતાના કર્સર અપલોડ કરો"
+   },
+   "popup_default_cursor": {
+      "message": "ડિફૉલ્ટ કર્સર"
+   },
+   "popup_manage": {
+      "message": "મેનેજ કરો"
+   },
+   "popup_more_cursor": {
+      "message": "વધુ કર્સર"
+   },
+   "popup_upload_cursor": {
+      "message": "કર્સર અપલોડ કરો"
+   },
+   "rate_us_5_stars": {
+      "message": "કૃપા કરીને અમને 5 તારાઓ રેટ કરો"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

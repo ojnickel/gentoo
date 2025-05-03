@@ -68,10 +68,11 @@ function xrar -d "extract all rar and set today date"
                     ###rm -vf $f 
                 ##end
             #end
-            cd -
-            rm -r rar
+            cd ..
+            pwd
         end
     end
+    rm -r rar
 end
 
 function pmp4 -d "play all mp4 accordig to size"
@@ -110,9 +111,9 @@ function rm_part -d "search and del all wrong dls" -a optional
     for f in *
         if string match -q  "*.part" $f
         #if string match   "*.part" $f
-            set m_part $m_part $f
-            set d (path change-extension '' "$f")
-            set f_match $f_match $d                   
+            set m_part $m_part $f #matched files with .part
+            set d (path change-extension '' "$f") #delete the .part of the matched file
+            set f_match $f_match $d # store em in a list/ARRAY
             set f_count (math $f_count + 1)  #####autoincrement
         end
     end
@@ -144,12 +145,14 @@ function rm_part -d "search and del all wrong dls" -a optional
             end
         case d
             echo -e "$f_count files will be deleted \n-------------\ndelete them? (y/n)"
-            read -f a
+            read a
             if test $a = "y"
                 #while test (count $m_part) -ge 1
                 for i in (seq $f_count)
-                    rm $m_part[$i] $f_match[$i] 
-                    echo -e " $m_part[$i] \n $f_match[$i]\n deleted\n-------------\n"
+                    rm $m_part[$i] -v
+                    rm $f_match[$i] -v
+
+                    echo "-------------------------"
                 end
                 #rm "$f" "$d"
             else
@@ -168,5 +171,75 @@ function p -d "play last 10 mp4s"
     end
 end
 function cb -d "put text in clipboard -> clipboard manager" -a text line
-    sed -n '$line'p  "$text" | xsel -ib
+    echo  "$text" | xsel -ib
+end
+
+#function lp -d "list .part and its childs" -a optional
+    #set all_pa
+    #for part in              
+
+
+#chatgpt
+function handle_incomplete_downloads -d "list or remove all *.part and its child" -a optional
+    # Check for an argument (list or delete)
+    if test (count $optional) -eq 0
+        #echo "Usage: $argv[0] [list|delete]"
+        echo "Usage: $argv[1] [l|d]"
+        return 1
+    end
+
+    # Find all files with the .part extension
+    for partfile in *.part
+        set originalfile (string replace ".part" "" $partfile)
+
+        # If the original file without the .part exists
+        if test -e $originalfile
+            if test $argv[2] = "l"
+                echo "Incomplete download: $partfile"
+                echo "Corresponding file: $originalfile"
+            else if test $argv[2] = "d"
+                echo "Deleting: $partfile and $originalfile"
+                rm $partfile $originalfile -v
+            end
+        end
+    end
+end
+
+# for Github
+#eval (ssh-agent -c)
+#ssh-add ~/.ssh/arbeit
+#ssh-add ~/.ssh/id_ed25519
+# Start ssh-agent if not already running
+if not set -q SSH_AUTH_SOCK
+    eval (ssh-agent -c)
+end
+
+# Add all private keys from ~/.ssh
+for pkey in ~/.ssh/*.pub
+    set key (string replace ".pub" "" $pkey)
+    if test -f $key
+        ssh-add $key > /dev/null 2>&1
+    end
+end
+function kpxc
+    # Pfade anpassen:
+    set -l db ~/pp-on.kdbx
+    set -l key ~/pp-on.keyx
+
+    # Alle Einträge (rekursiv) holen, erste Zeile (Überschrift) wegwerfen
+    set -l list (keepassxc-cli ls -R $db | sed '1d')
+
+    # Such-Query aus Arguments zusammenbauen (falls übergeben)
+    set -l query (string join ' ' $argv)
+
+    # fzf starten, mit Höhe, Rahmen & vorausgefüllter Query
+    set -l entry (printf '%s\n' $list \
+        | fzf --height=50% --border --ansi \
+              --query="$query" \
+              --prompt="🔍 Suche: ")
+
+    # Wenn ein Eintrag gewählt wurde, Passwort ausgeben
+    if test -n "$entry"
+        keepassxc-cli show -s -k $key $db "$entry"
+    end
 end

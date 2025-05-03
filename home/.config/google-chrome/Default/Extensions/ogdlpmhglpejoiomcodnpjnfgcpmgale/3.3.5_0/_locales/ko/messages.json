@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome ™ 용 재미있는 맞춤형 커서. 무료 커서의 큰 컬렉션을 사용하거나 자신의 업로드하십시오."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - 사용자 정의 커서"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "cursor_size_extra_large": {
+      "message": "특대"
+   },
+   "cursor_size_extra_small": {
+      "message": "엄청 작은"
+   },
+   "cursor_size_large": {
+      "message": "큰"
+   },
+   "cursor_size_medium": {
+      "message": "매질"
+   },
+   "cursor_size_small": {
+      "message": "작은"
+   },
+   "delete": {
+      "message": "지우다"
+   },
+   "delete_all": {
+      "message": "모두 삭제"
+   },
+   "enter_your_search_text": {
+      "message": "검색 텍스트를 입력하십시오"
+   },
+   "favorite_by_time": {
+      "message": "시간별"
+   },
+   "favorite_by_visited_pages": {
+      "message": "방문한 페이지 별"
+   },
+   "favorite_manage_button": {
+      "message": "즐겨 찾기 관리"
+   },
+   "favorite_rotate_favorites": {
+      "message": "즐겨 찾기 회전"
+   },
+   "favorite_sec_page": {
+      "message": "둘째/페이지(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "즐겨 찾기 관리"
+   },
+   "hint_defaultTo": {
+      "message": "기본 커서"
+   },
+   "hint_remove_cursor": {
+      "message": "커서를 제거하려면 클릭"
+   },
+   "hint_remove_pointer": {
+      "message": "포인터를 제거하려면 클릭"
+   },
+   "hint_settings": {
+      "message": "설정"
+   },
+   "hint_size": {
+      "message": "커서 크기"
+   },
+   "hint_upload_cursor": {
+      "message": "커서를 업로드하려면 클릭하십시오"
+   },
+   "hint_upload_pointer": {
+      "message": "포인터를 업로드하려면 클릭하십시오"
+   },
+   "item_cursor": {
+      "message": "커서"
+   },
+   "item_pointer": {
+      "message": "바늘"
+   },
+   "manage_cursor_size_settings": {
+      "message": "커서 크기 설정"
+   },
+   "manage_manage_collection": {
+      "message": "컬렉션 관리"
+   },
+   "nav_how_to_use": {
+      "message": "사용하는 방법"
+   },
+   "nav_manage": {
+      "message": "꾸리다"
+   },
+   "nav_more_cursors": {
+      "message": "추가 커서"
+   },
+   "nav_upload_cursor": {
+      "message": "커서 업로드"
+   },
+   "options_add_new": {
+      "message": "새로운 걸 더하다"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>권장 사항 :\u003C/h2>\u003Cul>\u003Cli>128x128 픽셀 이상의 사진을 사용하지 마십시오.\u003C/li>\u003Cli>.png와 같이 투명한 배경으로 이미지를 사용하십시오.\u003C/li>\u003Cli>더 자주 미소 짓습니다.)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "나만의 커서 업로드"
+   },
+   "popup_default_cursor": {
+      "message": "기본 커서"
+   },
+   "popup_manage": {
+      "message": "꾸리다"
+   },
+   "popup_more_cursor": {
+      "message": "추가 커서"
+   },
+   "popup_upload_cursor": {
+      "message": "커서 업로드"
+   },
+   "rate_us_5_stars": {
+      "message": "5 별을 평가 해주세요."
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

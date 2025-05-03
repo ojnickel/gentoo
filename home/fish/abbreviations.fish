@@ -16,3 +16,5 @@ abbr -a b "bat"
 abbr -a sm "eza -alg --icons --color=never -smodified -L1 -r *.mp*"
 abbr -a ss "eza -alg --icons --color=never -ssize -L1 -r *.mp*"
 abbr -a wpli "/home/ossi/git/ho-updates/wplocalinstall.sh -sa ga -c"
+abbr -a x "xcp"
+abbr -a upscaler '~/progs/upscaler/start.cmd'

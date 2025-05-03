@@ -5,8 +5,8 @@
  * https://pecl.php.net/package/xlswriter
  * https://www.php.net/manual/en/book.xlswriter.php
  */
-namespace Vtiful\Kernel {
-    use Vtiful\Kernel;
+
+namespace Vtiful\Kernel;
 
     /**
      * Class Excel
@@ -15,29 +15,24 @@ namespace Vtiful\Kernel {
      */
     class Excel
     {
-        const TYPE_STRING = 0x01;
-        const TYPE_INT = 0x02;
-        const TYPE_DOUBLE = 0x04;
-        const TYPE_TIMESTAMP = 0x08;
-
-        const SKIP_NONE = 0x00;
-        const SKIP_EMPTY_ROW = 0x01;
-        const SKIP_EMPTY_CELLS = 0x02;
-
-        const GRIDLINES_HIDE_ALL = 0;
-        const GRIDLINES_SHOW_SCREEN = 1;
-        const GRIDLINES_SHOW_PRINT = 2;
-        const GRIDLINES_SHOW_ALL = 3;
+        public const TYPE_STRING = 0x01;
+        public const TYPE_INT = 0x02;
+        public const TYPE_DOUBLE = 0x04;
+        public const TYPE_TIMESTAMP = 0x08;
+        public const SKIP_NONE = 0x00;
+        public const SKIP_EMPTY_ROW = 0x01;
+        public const SKIP_EMPTY_CELLS = 0x02;
+        public const GRIDLINES_HIDE_ALL = 0;
+        public const GRIDLINES_SHOW_SCREEN = 1;
+        public const GRIDLINES_SHOW_PRINT = 2;
+        public const GRIDLINES_SHOW_ALL = 3;
 
         /**
          * Excel constructor.
          *
          * @param array $config
          */
-        public function __construct(array $config)
-        {
-            //
-        }
+        public function __construct(array $config) {}
 
         /**
          * File Name
@@ -136,10 +131,7 @@ namespace Vtiful\Kernel {
          *
          * @return resource
          */
-        public function getHandle()
-        {
-            //
-        }
+        public function getHandle() {}
 
         /**
          * Auto filter on the worksheet
@@ -158,7 +150,7 @@ namespace Vtiful\Kernel {
          *
          * @param int $row
          * @param int $column
-         * @param int|string|double $data
+         * @param int|string|float $data
          * @param string|null $format
          * @param resource|null $formatHandle
          *
@@ -350,10 +342,7 @@ namespace Vtiful\Kernel {
          * @param callable $callback function(int $row, int $cell, string $data)
          * @param string|null $sheetName sheet name
          */
-        public function nextCellCallback(callable $callback, string $sheetName = null): void
-        {
-            //
-        }
+        public function nextCellCallback(callable $callback, string $sheetName = null): void {}
 
         /**
          * Freeze panes
@@ -365,7 +354,7 @@ namespace Vtiful\Kernel {
          * @param int $row
          * @param int $column
          *
-         * @return $this
+         * @return static
          */
         public function freezePanes(int $row, int $column): self
         {
@@ -386,7 +375,7 @@ namespace Vtiful\Kernel {
          *
          * @param int $option
          *
-         * @return $this
+         * @return static
          */
         public function gridline(int $option): self
         {
@@ -400,7 +389,7 @@ namespace Vtiful\Kernel {
          *
          * @param int $scale
          *
-         * @return $this
+         * @return static
          */
         public function zoom(int $scale): self
         {
@@ -416,89 +405,82 @@ namespace Vtiful\Kernel {
      */
     class Format
     {
-        const UNDERLINE_SINGLE = 0x00;
-        const UNDERLINE_DOUBLE = 0x00;
-        const UNDERLINE_SINGLE_ACCOUNTING = 0x00;
-        const UNDERLINE_DOUBLE_ACCOUNTING = 0x00;
-
-        const FORMAT_ALIGN_LEFT = 0x00;
-        const FORMAT_ALIGN_CENTER = 0x00;
-        const FORMAT_ALIGN_RIGHT = 0x00;
-        const FORMAT_ALIGN_FILL = 0x00;
-        const FORMAT_ALIGN_JUSTIFY = 0x00;
-        const FORMAT_ALIGN_CENTER_ACROSS = 0x00;
-        const FORMAT_ALIGN_DISTRIBUTED = 0x00;
-        const FORMAT_ALIGN_VERTICAL_TOP = 0x00;
-        const FORMAT_ALIGN_VERTICAL_BOTTOM = 0x00;
-        const FORMAT_ALIGN_VERTICAL_CENTER = 0x00;
-        const FORMAT_ALIGN_VERTICAL_JUSTIFY = 0x00;
-        const FORMAT_ALIGN_VERTICAL_DISTRIBUTED = 0x00;
-
-        const COLOR_BLACK = 0x00;
-        const COLOR_BLUE = 0x00;
-        const COLOR_BROWN = 0x00;
-        const COLOR_CYAN = 0x00;
-        const COLOR_GRAY = 0x00;
-        const COLOR_GREEN = 0x00;
-        const COLOR_LIME = 0x00;
-        const COLOR_MAGENTA = 0x00;
-        const COLOR_NAVY = 0x00;
-        const COLOR_ORANGE = 0x00;
-        const COLOR_PINK = 0x00;
-        const COLOR_PURPLE = 0x00;
-        const COLOR_RED = 0x00;
-        const COLOR_SILVER = 0x00;
-        const COLOR_WHITE = 0x00;
-        const COLOR_YELLOW = 0x00;
-
-        const PATTERN_NONE = 0x00;
-        const PATTERN_SOLID = 0x00;
-        const PATTERN_MEDIUM_GRAY = 0x00;
-        const PATTERN_DARK_GRAY = 0x00;
-        const PATTERN_LIGHT_GRAY = 0x00;
-        const PATTERN_DARK_HORIZONTAL = 0x00;
-        const PATTERN_DARK_VERTICAL = 0x00;
-        const PATTERN_DARK_DOWN = 0x00;
-        const PATTERN_DARK_UP = 0x00;
-        const PATTERN_DARK_GRID = 0x00;
-        const PATTERN_DARK_TRELLIS = 0x00;
-        const PATTERN_LIGHT_HORIZONTAL = 0x00;
-        const PATTERN_LIGHT_VERTICAL = 0x00;
-        const PATTERN_LIGHT_DOWN = 0x00;
-        const PATTERN_LIGHT_UP = 0x00;
-        const PATTERN_LIGHT_GRID = 0x00;
-        const PATTERN_LIGHT_TRELLIS = 0x00;
-        const PATTERN_GRAY_125 = 0x00;
-        const PATTERN_GRAY_0625 = 0x00;
-
-        const BORDER_THIN = 0x00;
-        const BORDER_MEDIUM = 0x00;
-        const BORDER_DASHED = 0x00;
-        const BORDER_DOTTED = 0x00;
-        const BORDER_THICK = 0x00;
-        const BORDER_DOUBLE = 0x00;
-        const BORDER_HAIR = 0x00;
-        const BORDER_MEDIUM_DASHED = 0x00;
-        const BORDER_DASH_DOT = 0x00;
-        const BORDER_MEDIUM_DASH_DOT = 0x00;
-        const BORDER_DASH_DOT_DOT = 0x00;
-        const BORDER_MEDIUM_DASH_DOT_DOT = 0x00;
-        const BORDER_SLANT_DASH_DOT = 0x00;
+        public const UNDERLINE_SINGLE = 0x00;
+        public const UNDERLINE_DOUBLE = 0x00;
+        public const UNDERLINE_SINGLE_ACCOUNTING = 0x00;
+        public const UNDERLINE_DOUBLE_ACCOUNTING = 0x00;
+        public const FORMAT_ALIGN_LEFT = 0x00;
+        public const FORMAT_ALIGN_CENTER = 0x00;
+        public const FORMAT_ALIGN_RIGHT = 0x00;
+        public const FORMAT_ALIGN_FILL = 0x00;
+        public const FORMAT_ALIGN_JUSTIFY = 0x00;
+        public const FORMAT_ALIGN_CENTER_ACROSS = 0x00;
+        public const FORMAT_ALIGN_DISTRIBUTED = 0x00;
+        public const FORMAT_ALIGN_VERTICAL_TOP = 0x00;
+        public const FORMAT_ALIGN_VERTICAL_BOTTOM = 0x00;
+        public const FORMAT_ALIGN_VERTICAL_CENTER = 0x00;
+        public const FORMAT_ALIGN_VERTICAL_JUSTIFY = 0x00;
+        public const FORMAT_ALIGN_VERTICAL_DISTRIBUTED = 0x00;
+        public const COLOR_BLACK = 0x00;
+        public const COLOR_BLUE = 0x00;
+        public const COLOR_BROWN = 0x00;
+        public const COLOR_CYAN = 0x00;
+        public const COLOR_GRAY = 0x00;
+        public const COLOR_GREEN = 0x00;
+        public const COLOR_LIME = 0x00;
+        public const COLOR_MAGENTA = 0x00;
+        public const COLOR_NAVY = 0x00;
+        public const COLOR_ORANGE = 0x00;
+        public const COLOR_PINK = 0x00;
+        public const COLOR_PURPLE = 0x00;
+        public const COLOR_RED = 0x00;
+        public const COLOR_SILVER = 0x00;
+        public const COLOR_WHITE = 0x00;
+        public const COLOR_YELLOW = 0x00;
+        public const PATTERN_NONE = 0x00;
+        public const PATTERN_SOLID = 0x00;
+        public const PATTERN_MEDIUM_GRAY = 0x00;
+        public const PATTERN_DARK_GRAY = 0x00;
+        public const PATTERN_LIGHT_GRAY = 0x00;
+        public const PATTERN_DARK_HORIZONTAL = 0x00;
+        public const PATTERN_DARK_VERTICAL = 0x00;
+        public const PATTERN_DARK_DOWN = 0x00;
+        public const PATTERN_DARK_UP = 0x00;
+        public const PATTERN_DARK_GRID = 0x00;
+        public const PATTERN_DARK_TRELLIS = 0x00;
+        public const PATTERN_LIGHT_HORIZONTAL = 0x00;
+        public const PATTERN_LIGHT_VERTICAL = 0x00;
+        public const PATTERN_LIGHT_DOWN = 0x00;
+        public const PATTERN_LIGHT_UP = 0x00;
+        public const PATTERN_LIGHT_GRID = 0x00;
+        public const PATTERN_LIGHT_TRELLIS = 0x00;
+        public const PATTERN_GRAY_125 = 0x00;
+        public const PATTERN_GRAY_0625 = 0x00;
+        public const BORDER_THIN = 0x00;
+        public const BORDER_MEDIUM = 0x00;
+        public const BORDER_DASHED = 0x00;
+        public const BORDER_DOTTED = 0x00;
+        public const BORDER_THICK = 0x00;
+        public const BORDER_DOUBLE = 0x00;
+        public const BORDER_HAIR = 0x00;
+        public const BORDER_MEDIUM_DASHED = 0x00;
+        public const BORDER_DASH_DOT = 0x00;
+        public const BORDER_MEDIUM_DASH_DOT = 0x00;
+        public const BORDER_DASH_DOT_DOT = 0x00;
+        public const BORDER_MEDIUM_DASH_DOT_DOT = 0x00;
+        public const BORDER_SLANT_DASH_DOT = 0x00;
 
         /**
          * Format constructor.
          *
          * @param resource $fileHandle
          */
-        public function __construct($fileHandle)
-        {
-            //
-        }
+        public function __construct($fileHandle) {}
 
         /**
          * Wrap
          *
-         * @return Format
+         * @return static
          */
         public function wrap(): self
         {
@@ -508,7 +490,7 @@ namespace Vtiful\Kernel {
         /**
          * Bold
          *
-         * @return Format
+         * @return static
          */
         public function bold(): self
         {
@@ -518,7 +500,7 @@ namespace Vtiful\Kernel {
         /**
          * Italic
          *
-         * @return Format
+         * @return static
          */
         public function italic(): self
         {
@@ -530,7 +512,7 @@ namespace Vtiful\Kernel {
          *
          * @param int $style const BORDER_***
          *
-         * @return Format
+         * @return static
          */
         public function border(int $style): self
         {
@@ -542,7 +524,7 @@ namespace Vtiful\Kernel {
          *
          * @param int ...$style const FORMAT_ALIGN_****
          *
-         * @return Format
+         * @return static
          */
         public function align(...$style): self
         {
@@ -556,7 +538,7 @@ namespace Vtiful\Kernel {
          *
          * #,##0
          *
-         * @return Format
+         * @return static
          */
         public function number(string $format): self
         {
@@ -568,7 +550,7 @@ namespace Vtiful\Kernel {
          *
          * @param int $color const COLOR_****
          *
-         * @return Format
+         * @return static
          */
         public function fontColor(int $color): self
         {
@@ -580,7 +562,7 @@ namespace Vtiful\Kernel {
          *
          * @param string $fontName
          *
-         * @return Format
+         * @return static
          */
         public function font(string $fontName): self
         {
@@ -592,7 +574,7 @@ namespace Vtiful\Kernel {
          *
          * @param float $size
          *
-         * @return Format
+         * @return static
          */
         public function fontSize(float $size): self
         {
@@ -614,7 +596,7 @@ namespace Vtiful\Kernel {
          *
          * @param int $style const UNDERLINE_****
          *
-         * @return Format
+         * @return static
          */
         public function underline(int $style): self
         {
@@ -627,7 +609,7 @@ namespace Vtiful\Kernel {
          * @param int $color const COLOR_****
          * @param int $pattern const PATTERN_****
          *
-         * @return Format
+         * @return static
          */
         public function background(int $color, int $pattern = self::PATTERN_SOLID): self
         {
@@ -639,9 +621,5 @@ namespace Vtiful\Kernel {
          *
          * @return resource
          */
-        public function toResource()
-        {
-            //
-        }
+        public function toResource() {}
     }
-}

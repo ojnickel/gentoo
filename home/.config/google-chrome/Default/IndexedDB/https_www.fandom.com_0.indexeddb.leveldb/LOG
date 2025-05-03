@@ -1,0 +1,15 @@
+2024/09/29-20:29:53.214 cb3 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/29-20:29:53.215 cb3 Recovering log #7
+2024/09/29-20:29:53.215 cb3 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000007.log 
+2024/09/29-20:30:30.385 cc4 Level-0 table #12: started
+2024/09/29-20:30:30.390 cc4 Level-0 table #12: 1852 bytes OK
+2024/09/29-20:30:30.402 cc4 Delete type=0 #7
+2024/09/29-20:30:30.402 cb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/29-20:30:30.402 cb4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00\x18@' @ 284 : 1
+2024/09/29-20:30:30.402 cb4 Compacting 1@1 + 1@2 files
+2024/09/29-20:30:30.406 cb4 Generated table #13@1: 75 keys, 2543 bytes
+2024/09/29-20:30:30.406 cb4 Compacted 1@1 + 1@2 files => 2543 bytes
+2024/09/29-20:30:30.412 cb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/29-20:30:30.412 cb4 Delete type=2 #9
+2024/09/29-20:30:30.412 cb4 Delete type=2 #12
+2024/09/29-20:30:30.413 cb4 Manual compaction at level-1 from '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00\x18@' @ 284 : 1 .. (end); will stop at (end)

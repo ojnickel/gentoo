@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Bật Mật khẩu trong iCloud cho Windows để sử dụng Mật khẩu iCloud với Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "Các mật khẩu của bạn được đồng bộ hóa với Chuỗi khóa iCloud"
+   },
+   "GettingPasswords": {
+      "message": "Đang tải mật khẩu…"
+   },
+   "NoUserName": {
+      "message": "không có tên người dùng"
+   },
+   "_lang": {
+      "message": "vi"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Để ngăn không cho tính năng Tự động điền trong trang của Chrome can thiệp vào Mật khẩu iCloud, Mật khẩu iCloud có thể cố gắng tắt cài đặt Tự động điền của trình duyệt thay mặt bạn."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Tắt Tự động điền Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Để thay đổi tùy chọn này, hãy xóa mục nhập cho trang web này khỏi Chuỗi khóa iCloud của bạn và đăng nhập lại vào trang web này."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Trước đây, bạn đã cho biết không bao giờ lưu mật khẩu cho trang web này."
+   },
+   "divICsMessage": {
+      "message": "Chọn một mật khẩu đã lưu để sử dụng:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Bạn có thể tìm kiếm và quản lý các mật khẩu đã lưu trong ứng dụng Mật khẩu."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Bạn có thể quản lý các mật khẩu đã lưu trong tab Mật khẩu của tùy chọn Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Bạn có thể quản lý các mật khẩu đã lưu trong khung Mật khẩu trong Tùy chọn hệ thống."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Bạn có thể tìm kiếm và quản lý các mật khẩu đã lưu trong cài đặt Mật khẩu."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Bạn có thể tìm kiếm và quản lý các mật khẩu đã lưu trong cài đặt Mật khẩu."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Bạn có thể xem và sửa các mật khẩu đã lưu trong ứng dụng Mật khẩu iCloud."
+   },
+   "divOpenPasswords": {
+      "message": "Quản lý mật khẩu…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Tra cứu và tạo mật khẩu."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Mở ứng dụng Mật khẩu…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Quản lý mật khẩu…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Quản lý mật khẩu…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Quản lý mật khẩu…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Quản lý mật khẩu…"
+   },
+   "divPINMessage_macos": {
+      "message": "Một mã xác minh đã được tạo bởi máy Mac của bạn. Hãy nhập mã để tiếp tục."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud cho Windows đã gửi cho bạn một thông báo với mã xác minh. Hãy nhập mã để tiếp tục."
+   },
+   "divPINTitle": {
+      "message": "Bật Tự động điền mật khẩu"
+   },
+   "divTOTPMenu": {
+      "message": "Thiết lập mã xác minh"
+   },
+   "divTOTPTitle": {
+      "message": "Thiết lập mã xác minh cho:"
+   },
+   "downloadButton": {
+      "message": "Tải về"
+   },
+   "downloadMessage_macos": {
+      "message": "Phần mở rộng này yêu cầu cài đặt macOS Sonoma trở lên."
+   },
+   "downloadMessage_windows": {
+      "message": "Tải về iCloud cho Windows để sử dụng Mật khẩu iCloud."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Bấm vào đây để cho phép Mật khẩu iCloud tự động điền mật khẩu của bạn."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Bấm vào nút thanh công cụ Mật khẩu iCloud để bật Tự động điền mật khẩu."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Bật Tự động điền mật khẩu"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Cho phép Mật khẩu iCloud cung cấp thông tin đăng nhập từ một danh sách trong trang. Bạn luôn có thể điền mật khẩu từ nút thanh công cụ Mật khẩu iCloud, ngay cả khi tùy chọn này bị tắt."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Tự động điền trong trang"
+   },
+   "extDescription": {
+      "message": "Mật khẩu iCloud cho phép bạn điền mật khẩu từ Chuỗi khóa iCloud khi đăng nhập vào các trang web bằng Chrome."
+   },
+   "extName": {
+      "message": "Mật khẩu iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Mở ứng dụng Mật khẩu…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Mở cài đặt Mật khẩu…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Mở cài đặt Mật khẩu…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Mở cài đặt Mật khẩu…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Mở cài đặt Mật khẩu…"
+   },
+   "openThisPageInSafari": {
+      "message": "Mở trang này trong Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Mở iCloud cho Windows"
+   },
+   "optionsTitle": {
+      "message": "Tùy chọn Mật khẩu iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Thiết lập mã xác minh cho “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Bạn có thể tạo mật khẩu mạnh trong ứng dụng Mật khẩu hoặc trong Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Bạn có thể tạo mật khẩu mạnh trong cài đặt Mật khẩu hoặc trong Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Bạn có thể tạo mật khẩu mạnh trong cài đặt Mật khẩu hoặc trong Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Bạn có thể tạo mật khẩu mạnh trong cài đặt Mật khẩu hoặc trong Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Bạn có thể tạo mật khẩu mạnh trong cài đặt Mật khẩu hoặc trong Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Mã xác minh"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Mã xác minh cho “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Phần mở rộng này được thiết kế để chạy trên Windows 10 trở lên. Nếu bạn đang sử dụng máy Mac thì các mật khẩu sẽ tự động đồng bộ hóa với iPhone, iPad và máy Mac khi bạn đăng nhập vào iCloud."
+   }
+}

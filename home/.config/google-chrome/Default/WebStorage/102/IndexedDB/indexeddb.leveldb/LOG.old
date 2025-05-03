@@ -1,0 +1,6 @@
+2024/04/04-16:51:26.574 dc1 Creating DB /home/ossi/.config/google-chrome/Default/WebStorage/102/IndexedDB/indexeddb.leveldb since it was missing.
+2024/04/04-16:51:26.583 dc1 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/WebStorage/102/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/04/04-18:44:50.590 dc1 Level-0 table #5: started
+2024/04/04-18:44:50.594 dc1 Level-0 table #5: 13501 bytes OK
+2024/04/04-18:44:50.601 dc1 Delete type=0 #3
+2024/04/04-18:44:50.603 dc1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

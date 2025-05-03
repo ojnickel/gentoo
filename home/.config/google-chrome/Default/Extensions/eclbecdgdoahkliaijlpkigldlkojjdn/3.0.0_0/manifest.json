@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "/icons/icon-16.png",
+         "24": "/icons/icon-24.png",
+         "32": "/icons/icon-32.png"
+      }
+   },
+   "background": {
+      "service_worker": "/js/BackgroundService.js",
+      "type": "module"
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_AppDesc__",
+   "homepage_url": "https://recorder.freebusinessapps.net",
+   "icons": {
+      "128": "/icons/icon-128.png",
+      "16": "/icons/icon-16.png",
+      "192": "/icons/icon-192.png",
+      "256": "/icons/icon-256.png",
+      "32": "/icons/icon-32.png",
+      "48": "/icons/icon-48.png",
+      "512": "/icons/icon-512.png",
+      "64": "/icons/icon-64.png",
+      "72": "/icons/icon-72.png",
+      "96": "/icons/icon-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3o7gdGyk5rr6997/jYjz7uyDtc4Jm4cUFsK5qMfcaBUW39E+/WfSljxjr/2Vy5onnnuDngI48YiSPXgWrleKTNp1gwK8P+dBvcQb7JsPdKQkxpPAhuhoJw9osS4FRFLd0GcSDmffnhjzE3ZAsrr6EYDraLHDJIheAsQtLY8OeKJSCyvStU3Ea4RD0ABnB3LhYmgXa8znTSy7nhx4LLMPxFIoKvMXpHZKPbYlN1XFg5ALRu1OdhuVy/PinBHCEFGo7Bs+78q4aObVLG0bw2+ulcpw34XZDomVGm75/ubnwkLoju/gvk9a7+7gogi3w8AJ3k1BrMeXMP+WJ1Qk/Vv8rwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_AppName__",
+   "offline_enabled": true,
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0"
+}

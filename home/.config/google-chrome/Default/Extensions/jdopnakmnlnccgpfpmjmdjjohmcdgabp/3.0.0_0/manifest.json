@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "/icons/icon-16.png",
+         "24": "/icons/icon-24.png",
+         "32": "/icons/icon-32.png"
+      }
+   },
+   "background": {
+      "service_worker": "/js/BackgroundService.js",
+      "type": "module"
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_AppDesc__",
+   "homepage_url": "https://recorder.freeonlineapps.net/",
+   "icons": {
+      "128": "/icons/icon-128.png",
+      "16": "/icons/icon-16.png",
+      "192": "/icons/icon-192.png",
+      "256": "/icons/icon-256.png",
+      "32": "/icons/icon-32.png",
+      "48": "/icons/icon-48.png",
+      "512": "/icons/icon-512.png",
+      "64": "/icons/icon-64.png",
+      "72": "/icons/icon-72.png",
+      "96": "/icons/icon-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkWNCSUNt/CGJy4me6It+mYWUYKctiX55GXafGDRZjmTMV8HFuss3AbhzMxmX0141HVzoWp9v0PFA/sK6GwhiMUpt+sIO+HfDVjn6IgY+YowRhHSHQ9fo82EXNYS6/RliYQtcGr9h8ssltZ4esfQ6G25JzSi2csIjiQygHPJUmFS3yQivnCYreTQI2MIMh0cEKSJG/gDrb73ZsogjCre4ouvNG+oZbjPwS4SyGvOjcN5mDs8eXshbVa+BTdVCuDmp0Y5Ym3noGMKkB5PPQRqUzTQBprtAc9iTu7qNLcSWB2l5Vc5ebiC9QOqPrdZ1bhsbw9NN41QQSShHFmSEKzmDIwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_AppName__",
+   "offline_enabled": true,
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0"
+}

@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Webcam ou appareil photo"
+   },
+   "Cancel": {
+      "message": "Annuler"
+   },
+   "Countdown": {
+      "message": "Compte à rebours avant l&#39;enregistrement"
+   },
+   "GrantPerm": {
+      "message": "Donner la permission"
+   },
+   "Pause": {
+      "message": "Pause"
+   },
+   "PermCamDenied": {
+      "message": "Autorisation pour la caméra refusée."
+   },
+   "PermMicDenied": {
+      "message": "Autorisation pour le microphone refusée."
+   },
+   "RateUs": {
+      "message": "Veuillez nous évaluer"
+   },
+   "RecordAnother": {
+      "message": "Faire un autre enregistrement"
+   },
+   "RecordCamera": {
+      "message": "Enregistrez votre caméra"
+   },
+   "RecordDrive": {
+      "message": "Enregistrez sur votre Google Drive™️"
+   },
+   "RecordQuality": {
+      "message": "Qualité d&#39;enregistrement"
+   },
+   "RecordScreen": {
+      "message": "Enregistrez votre écran"
+   },
+   "RecordSys": {
+      "message": "Enregistrer l&#39;audio du système"
+   },
+   "RecordSysExpl": {
+      "message": "Enregistrez le son de vos haut-parleurs. Cochez l&#39;option Audio dans la boîte de dialogue suivante si vous souhaitez activer l&#39;enregistrement sonore."
+   },
+   "RecordVoice": {
+      "message": "Enregistrer la voix"
+   },
+   "RecordVoiceExpl": {
+      "message": "Enregistrez votre voix à l&#39;aide de votre microphone"
+   },
+   "Resume": {
+      "message": "Reprendre"
+   },
+   "SaveRecording": {
+      "message": "Enregistrer l&#39;enregistrement"
+   },
+   "ScreenSrcs": {
+      "message": "Écran, fenêtre ou onglet"
+   },
+   "Share": {
+      "message": "Partagez notre application"
+   },
+   "StopRecording": {
+      "message": "Arrête d'enregistrer"
+   },
+   "Tutorial": {
+      "message": "Afficher le didacticiel - comment utiliser l&#39;application"
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "አስደሳች የ Chrome ™ ቀስት. ሰፋ ያሉ ጠቋሚዎችን ስብስብ ይጠቀሙ ወይም የራስዎን ይስቀሉ."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™- ጠቋሚ ለውጥ"
+   },
+   "close": {
+      "message": "ን ያጥፉ"
+   },
+   "cursor_size_extra_large": {
+      "message": "በጣም ትልቅ"
+   },
+   "cursor_size_extra_small": {
+      "message": "በጣም ትንሽ"
+   },
+   "cursor_size_large": {
+      "message": "ትልቅ"
+   },
+   "cursor_size_medium": {
+      "message": "መካከለኛ"
+   },
+   "cursor_size_small": {
+      "message": "ትንሽ"
+   },
+   "delete": {
+      "message": "ሰርዝ"
+   },
+   "delete_all": {
+      "message": "ሁሉንም ሰርዝ"
+   },
+   "enter_your_search_text": {
+      "message": "የፍለጋ ጽሑፍዎን ያስገቡ"
+   },
+   "favorite_by_time": {
+      "message": "በሰዓት"
+   },
+   "favorite_by_visited_pages": {
+      "message": "በተጎበኙ ገጾች።"
+   },
+   "favorite_manage_button": {
+      "message": "ተወዳጆችን ያቀናብሩ።"
+   },
+   "favorite_rotate_favorites": {
+      "message": "ተወዳጆችን አዙር ፡፡"
+   },
+   "favorite_sec_page": {
+      "message": "ሰከንድ/ገጾ(ች)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "ተወዳጆችን ያቀናብሩ።"
+   },
+   "hint_defaultTo": {
+      "message": "ነባሪ ጠቋሚ"
+   },
+   "hint_remove_cursor": {
+      "message": "ጠቋሚውን ለማስወገድ ጠቅ ያድርጉ"
+   },
+   "hint_remove_pointer": {
+      "message": "የእጅ ጠቋሚውን ለማስወገድ ጠቅ ያድርጉ"
+   },
+   "hint_settings": {
+      "message": "ቅንጅቶች"
+   },
+   "hint_size": {
+      "message": "የጠቋሚ መጠን"
+   },
+   "hint_upload_cursor": {
+      "message": "ጠቋሚውን ለመስቀል ጠቅ ያድርጉ"
+   },
+   "hint_upload_pointer": {
+      "message": "የእጅ ጠቋሚ ለመስቀል ጠቅ ያድርጉ"
+   },
+   "item_cursor": {
+      "message": "ጠቋሚ"
+   },
+   "item_pointer": {
+      "message": "አገናኝ ጠቋሚ"
+   },
+   "manage_cursor_size_settings": {
+      "message": "የሾም መጠን ቅንጅቶች"
+   },
+   "manage_manage_collection": {
+      "message": "ስብስብ አደራጅ"
+   },
+   "nav_how_to_use": {
+      "message": "እንዴት መጠቀም እንደሚቻል"
+   },
+   "nav_manage": {
+      "message": "አቀናብር"
+   },
+   "nav_more_cursors": {
+      "message": "ተጨማሪ ጠቋሚዎች"
+   },
+   "nav_upload_cursor": {
+      "message": "ጠቋሚውን ይስቀሉ"
+   },
+   "options_add_new": {
+      "message": "አዲስ አስገባ"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>ምክሮች:\u003C/h2>\u003Cul>\u003Cli>ከ 128 x128 ፒክሰሎች በላይ ስሞችን አትጠቀም.\u003C/li>\u003Cli>እንደ .png የመሰለ ግልጽ ብርሃን ያለው ምስል በመጠቀም ምስሎችን ተጠቀም\u003C/li>\u003Cli>ብዙውን ጊዜ ፈገግ በል;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "የራስዎን ጠቋሚዎች ይስቀሉ"
+   },
+   "popup_default_cursor": {
+      "message": "ነባሪ ጠቋሚ"
+   },
+   "popup_manage": {
+      "message": "አቀናብር"
+   },
+   "popup_more_cursor": {
+      "message": "ተጨማሪ ጠቋሚዎች"
+   },
+   "popup_upload_cursor": {
+      "message": "ጠቋሚውን ይስቀሉ"
+   },
+   "rate_us_5_stars": {
+      "message": "እባክዎ ለ 5 ኮከቦች ይስጡን"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

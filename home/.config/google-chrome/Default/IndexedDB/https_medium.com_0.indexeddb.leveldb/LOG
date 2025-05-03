@@ -1,0 +1,14 @@
+2025/04/18-16:12:44.476 567b Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/18-16:12:44.476 567b Recovering log #23
+2025/04/18-16:12:44.476 567b Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/000023.log 
+2025/04/18-16:12:44.591 567b Level-0 table #28: started
+2025/04/18-16:12:44.594 567b Level-0 table #28: 1745 bytes OK
+2025/04/18-16:12:44.600 567b Delete type=0 #23
+2025/04/18-16:12:44.600 567b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/18-16:12:44.600 567b Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x00\x00\xc8\x0d\x00E\x00v\x00e\x00n\x00t\x00R\x00e\x00p\x00o\x00r\x00t\x00e\x00r' @ 250 : 1
+2025/04/18-16:12:44.600 567b Compacting 1@1 + 1@2 files
+2025/04/18-16:12:44.603 567b Generated table #29@1: 25 keys, 637 bytes
+2025/04/18-16:12:44.603 567b Compacted 1@1 + 1@2 files => 637 bytes
+2025/04/18-16:12:44.609 567b compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/18-16:12:44.609 567b Delete type=2 #28
+2025/04/18-16:12:44.609 567b Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x0d\x00E\x00v\x00e\x00n\x00t\x00R\x00e\x00p\x00o\x00r\x00t\x00e\x00r' @ 250 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

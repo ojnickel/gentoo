@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Activa la opción Contraseñas en iCloud para Windows para usar la extensión de contraseñas en iCloud con Chrome."
+   },
+   "GenericPopupTitle": {
+      "message": "Tus contraseñas se han sincronizado con el llavero de iCloud"
+   },
+   "GettingPasswords": {
+      "message": "Cargando contraseñas…"
+   },
+   "NoUserName": {
+      "message": "sin nombre de usuario"
+   },
+   "_lang": {
+      "message": "es"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Para evitar que la función de autorrelleno de Chrome interfiera con Contraseñas en iCloud, la extensión puede intentar desactivar por ti los ajustes de autorrelleno del navegador."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Desactivar el autorrelleno en Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Para cambiar esto, elimina la entrada para este sitio web de tu llavero de iCloud y vuelve a iniciar sesión en este sitio web."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Anteriormente has indicado que nunca se guarden contraseñas para este sitio web."
+   },
+   "divICsMessage": {
+      "message": "Selecciona la contraseña guardada a usar:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Puedes consultar y gestionar las contraseñas guardadas en la app Contraseñas."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Puedes gestionar las contraseñas guardadas en la pestaña Contraseñas de las preferencias de Safari."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Puedes gestionar las contraseñas guardadas en el panel Contraseñas de Preferencias del Sistema."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Puedes consultar y gestionar las contraseñas guardadas en los ajustes de contraseñas."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Puedes consultar y gestionar las contraseñas guardadas en los ajustes de contraseñas."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Puedes ver y editar las contraseñas guardadas en la app Contraseñas en iCloud."
+   },
+   "divOpenPasswords": {
+      "message": "Gestionar contraseñas…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Busca y crea contraseñas."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Abrir la app Contraseñas…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Gestionar contraseñas…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Gestionar contraseñas…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Gestionar contraseñas…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Gestionar contraseñas…"
+   },
+   "divPINMessage_macos": {
+      "message": "El Mac ha generado un código de verificación. Introduce el código para continuar."
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud para Windows te ha enviado una notificación con un código de verificación. Introduce el código para continuar."
+   },
+   "divPINTitle": {
+      "message": "Activa el autorrelleno de contraseñas"
+   },
+   "divTOTPMenu": {
+      "message": "Configurar código de verificación"
+   },
+   "divTOTPTitle": {
+      "message": "Configurar código de verificación para:"
+   },
+   "downloadButton": {
+      "message": "Descargar"
+   },
+   "downloadMessage_macos": {
+      "message": "Esta extensión requiere la instalación de macOS Sonoma o versiones posteriores."
+   },
+   "downloadMessage_windows": {
+      "message": "Descarga iCloud para Windows para usar “Contraseñas en iCloud”."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Haz clic aquí para permitir que “Contraseñas en iCloud” rellene automáticamente tus contraseñas."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Haz clic en el botón de la barra de herramientas de “Contraseñas en iCloud” para activar el autorrelleno de contraseñas."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Activar el autorrelleno de contraseñas"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Permite que Contraseñas en iCloud proporcione credenciales contenidas en una lista para páginas. Siempre puedes rellenar las contraseñas con el botón de la barra de herramientas de Contraseñas en iCloud, aunque esta opción esté desactivada."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Autorrelleno en páginas"
+   },
+   "extDescription": {
+      "message": "Contraseñas en iCloud te permite rellenar las contraseñas desde el llavero de iCloud al iniciar sesión en sitios web en Chrome."
+   },
+   "extName": {
+      "message": "Contraseñas en iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Abrir la app Contraseñas…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Abrir los ajustes de contraseñas…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Abrir los ajustes de contraseñas…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Abrir los ajustes de contraseñas…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Abrir los ajustes de contraseñas…"
+   },
+   "openThisPageInSafari": {
+      "message": "Abrir esta página en Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Abrir iCloud para Windows"
+   },
+   "optionsTitle": {
+      "message": "Opciones de Contraseñas en iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Configurar código de verificación para “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Puedes crear una contraseña segura en la app Contraseñas o en Safari."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Puedes crear una contraseña segura en los ajustes de contraseñas o en Safari."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Puedes crear una contraseña segura en los ajustes de contraseñas o en Safari."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Puedes crear una contraseña segura en los ajustes de contraseñas o en Safari."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Puedes crear una contraseña segura en los ajustes de contraseñas o en Safari."
+   },
+   "totpVerificationCodeName": {
+      "message": "Código de verificación"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Código de verificación para “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Esta extensión está pensada para usarla en Windows Esta extensión está diseñada para Windows 10 o una versión superior. Si utilizas un Mac, tus contraseñas se sincronizarán automáticamente con el iPhone, el iPad y el Mac al iniciar sesión en iCloud."
+   }
+}

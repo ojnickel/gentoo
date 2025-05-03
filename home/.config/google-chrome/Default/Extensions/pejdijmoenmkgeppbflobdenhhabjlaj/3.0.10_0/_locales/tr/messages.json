@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "iCloud Parolaları’nı Chrome ile kullanmak istiyorsanız Windows için iCloud’da Parolalar’ı etkinleştirin."
+   },
+   "GenericPopupTitle": {
+      "message": "Parolalarınız iCloud Anahtar Zinciri ile eşzamanlanıyor"
+   },
+   "GettingPasswords": {
+      "message": "Parolalar yükleniyor…"
+   },
+   "NoUserName": {
+      "message": "kullanıcı adı yok"
+   },
+   "_lang": {
+      "message": "tr"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Chrome’un sayfa içi Otomatik Doldurma özelliğinin iCloud Parolaları’nı engellememesi için iCloud Parolaları, web tarayıcının Otomatik Doldurma ayarlarını sizin adınıza kapatmayı deneyebilir."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Chrome’un Otomatik Doldurmasını Kapat"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Bunu değiştirmek için iCloud Anahtar Zinciri’nizdeki bu web sitesi için olan girişi silin ve bu web sitesine yeniden giriş yapın."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Daha önce bu web sitesi için asla parola kaydedilmemesini belirttiniz."
+   },
+   "divICsMessage": {
+      "message": "Kullanmak istediğiniz kaydedilmiş parolayı seçin:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Parolalar uygulamasında, kaydedilen parolalara bakabilir ve onları yönetebilirsiniz."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Kaydedilen parolaları Safari tercihlerinin Parolalar sekmesinde yönetebilirsiniz."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Kaydedilen parolaları Sistem Tercihleri’nin Parolalar bölümünde yönetebilirsiniz."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Parolalar ayarlarında, kaydedilen parolalara bakabilir ve onları yönetebilirsiniz."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Parolalar ayarlarında, kaydedilen parolalara bakabilir ve onları yönetebilirsiniz."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Kaydedilen parolaları iCloud Parolaları uygulamasında görüntüleyebilir ve düzenleyebilirsiniz."
+   },
+   "divOpenPasswords": {
+      "message": "Parolaları Yönet…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Parolalara bakın ve parola yaratın."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Parolalar Uygulamasını Aç…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Parolaları Yönet…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Parolaları Yönet…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Parolaları Yönet…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Parolaları Yönet…"
+   },
+   "divPINMessage_macos": {
+      "message": "Mac’iniz tarafından bir doğrulama kodu oluşturuldu. Sürdürmek için bu kodu girin."
+   },
+   "divPINMessage_windows": {
+      "message": "Windows için iCloud, doğrulama kodu içeren bir bildirim gönderdi. Sürdürmek için bu kodu girin."
+   },
+   "divPINTitle": {
+      "message": "Otomatik Parola Doldurma’yı Etkinleştirin"
+   },
+   "divTOTPMenu": {
+      "message": "Doğrulama Kodunu Ayarla"
+   },
+   "divTOTPTitle": {
+      "message": "Şunun için doğrulama kodu ayarla:"
+   },
+   "downloadButton": {
+      "message": "İndir"
+   },
+   "downloadMessage_macos": {
+      "message": "Bu genişletme için macOS Sonoma veya daha yenisi yüklü olmalıdır."
+   },
+   "downloadMessage_windows": {
+      "message": "iCloud Parolaları’nı kullanmak üzere Windows için iCloud’u indirin."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "iCloud Parolaları’nın parolalarınızı otomatik doldurmasına izin vermek için burayı tıklayın."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Otomatik Parola Doldurma’yı etkinleştirmek için iCloud Parolaları araç çubuğu düğmesini tıklayın."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Otomatik Parola Doldurma’yı Etkinleştirin"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "iCloud Parolaları’nın bir sayfa içi listeden kimlik bilgilerini sunmasına izin verin. Bu seçenek kapalı olsa bile parolaları her zaman iCloud Parolaları araç çubuğu düğmesinden doldurabilirsiniz."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Sayfa İçi Otomatik Doldurma"
+   },
+   "extDescription": {
+      "message": "iCloud Parolaları, Chrome’u kullanarak web sitelerine giriş yaparken parolaları iCloud Anahtar Zinciri’nden doldurmanızı sağlar."
+   },
+   "extName": {
+      "message": "iCloud Parolaları"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Parolalar Uygulamasını Aç…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Parolalar Ayarlarını Aç…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Parolalar Ayarlarını Aç…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Parolalar Ayarlarını Aç…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Parolalar Ayarlarını Aç…"
+   },
+   "openThisPageInSafari": {
+      "message": "Bu Sayfayı Safari’de Aç…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Windows için iCloud’u Aç"
+   },
+   "optionsTitle": {
+      "message": "iCloud Parolaları Seçenekleri"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "“$1” için doğrulama kodu ayarla"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Parolalar uygulamasında veya Safari’de güçlü bir parola yaratabilirsiniz."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Parolalar ayarlarında veya Safari’de güçlü bir parola yaratabilirsiniz."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Parolalar ayarlarında veya Safari’de güçlü bir parola yaratabilirsiniz."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Parolalar ayarlarında veya Safari’de güçlü bir parola yaratabilirsiniz."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Parolalar ayarlarında veya Safari’de güçlü bir parola yaratabilirsiniz."
+   },
+   "totpVerificationCodeName": {
+      "message": "Doğrulama kodu"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "“$1” için doğrulama kodu"
+   },
+   "unsupportedOS_windows": {
+      "message": "Bu genişletme Windows 10 veya daha yenisinde çalışacak şekilde tasarlandı. Mac kullanıyorsanız iCloud'a giriş yaptığınızda parolalarınız iPhone, iPad ve Mac aygıtlarınızla otomatik olarak eşzamanlanır."
+   }
+}

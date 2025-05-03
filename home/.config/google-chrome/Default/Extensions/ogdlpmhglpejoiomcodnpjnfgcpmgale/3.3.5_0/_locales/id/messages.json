@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Fun cursor kustom untuk Chrome ™. Gunakan banyak koleksi kursor gratis atau unggah milik Anda sendiri."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Pengubah Kursor"
+   },
+   "close": {
+      "message": "tutup"
+   },
+   "cursor_size_extra_large": {
+      "message": "Ekstra besar"
+   },
+   "cursor_size_extra_small": {
+      "message": "Ekstra kecil"
+   },
+   "cursor_size_large": {
+      "message": "Besar"
+   },
+   "cursor_size_medium": {
+      "message": "Perantara"
+   },
+   "cursor_size_small": {
+      "message": "Kecil"
+   },
+   "delete": {
+      "message": "Menghapus"
+   },
+   "delete_all": {
+      "message": "Hapus semua"
+   },
+   "enter_your_search_text": {
+      "message": "Masukkan teks pencarian Anda"
+   },
+   "favorite_by_time": {
+      "message": "Oleh waktu"
+   },
+   "favorite_by_visited_pages": {
+      "message": "oleh Halaman"
+   },
+   "favorite_manage_button": {
+      "message": "Kelola Favorit"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Putar favorit"
+   },
+   "favorite_sec_page": {
+      "message": "detik/halaman"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Kelola Favorit"
+   },
+   "hint_defaultTo": {
+      "message": "Kursor default"
+   },
+   "hint_remove_cursor": {
+      "message": "Klik untuk menghapus kursor"
+   },
+   "hint_remove_pointer": {
+      "message": "Klik untuk menghapus pointer"
+   },
+   "hint_settings": {
+      "message": "Pengaturan"
+   },
+   "hint_size": {
+      "message": "Ukuran kursor"
+   },
+   "hint_upload_cursor": {
+      "message": "Klik untuk mengunggah kursor"
+   },
+   "hint_upload_pointer": {
+      "message": "Klik untuk mengunggah pointer"
+   },
+   "item_cursor": {
+      "message": "kursor"
+   },
+   "item_pointer": {
+      "message": "penunjuk"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Pengaturan Ukuran Kursor"
+   },
+   "manage_manage_collection": {
+      "message": "Kelola Koleksi"
+   },
+   "nav_how_to_use": {
+      "message": "Cara Penggunaan"
+   },
+   "nav_manage": {
+      "message": "Mengelola"
+   },
+   "nav_more_cursors": {
+      "message": "Lebih banyak kursor"
+   },
+   "nav_upload_cursor": {
+      "message": "Unggah kursor"
+   },
+   "options_add_new": {
+      "message": "Tambah baru"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Rekomendasi:\u003C/h2>\u003Cul>\u003Cli>Jangan gunakan gambar lebih dari 128x128 piksel;\u003C/li>\u003Cli>Gunakan gambar dengan latar transparan, seperti .png;\u003C/li>\u003Cli>Senyum lebih sering;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Unggah kursor Anda sendiri"
+   },
+   "popup_default_cursor": {
+      "message": "Kursor Default"
+   },
+   "popup_manage": {
+      "message": "Mengelola"
+   },
+   "popup_more_cursor": {
+      "message": "Lebih banyak kursor"
+   },
+   "popup_upload_cursor": {
+      "message": "Unggah kursor"
+   },
+   "rate_us_5_stars": {
+      "message": "Beri kami 5 bintang, tolong"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

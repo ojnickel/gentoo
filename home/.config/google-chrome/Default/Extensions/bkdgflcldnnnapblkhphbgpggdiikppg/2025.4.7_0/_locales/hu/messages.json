@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "A bővítmény webáruházban megjelenített rövid leírása",
+      "message": "Aktívan védi az adataidat az aktuális böngésződben."
+   },
+   "appName": {
+      "description": "A bővítmény webáruházban megjelenített neve",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

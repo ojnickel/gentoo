@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Miellyttävät mukautetut osoittimet Chrome ™ -ohjelmalle. Käytä suurta kokoelmaa ilmaisista kohdistimista tai lataa oma."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Mukautettu kursori"
+   },
+   "close": {
+      "message": "sulje"
+   },
+   "cursor_size_extra_large": {
+      "message": "Erittäin suuri"
+   },
+   "cursor_size_extra_small": {
+      "message": "Erittäin pieni"
+   },
+   "cursor_size_large": {
+      "message": "Suuri"
+   },
+   "cursor_size_medium": {
+      "message": "Keskikokoinen"
+   },
+   "cursor_size_small": {
+      "message": "Pieni"
+   },
+   "delete": {
+      "message": "Poistaa"
+   },
+   "delete_all": {
+      "message": "Poista kaikki"
+   },
+   "enter_your_search_text": {
+      "message": "Kirjoita hakuteksti"
+   },
+   "favorite_by_time": {
+      "message": "ajan kanssa"
+   },
+   "favorite_by_visited_pages": {
+      "message": "kirjoittanut Vieraillut sivut"
+   },
+   "favorite_manage_button": {
+      "message": "Hallitse suosikkeja"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Kierrä suosikkeja"
+   },
+   "favorite_sec_page": {
+      "message": "sek/sivu(t)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Hallitse suosikkeja"
+   },
+   "hint_defaultTo": {
+      "message": "Oletuskohdistin"
+   },
+   "hint_remove_cursor": {
+      "message": "Napsauta poistaaksesi kohdistimen"
+   },
+   "hint_remove_pointer": {
+      "message": "Napsauta poistaaksesi osoittimen"
+   },
+   "hint_settings": {
+      "message": "asetukset"
+   },
+   "hint_size": {
+      "message": "Kohdistimen koko"
+   },
+   "hint_upload_cursor": {
+      "message": "Lataa kohdistimen napsauttamalla"
+   },
+   "hint_upload_pointer": {
+      "message": "Lataa osoitin napsauttamalla"
+   },
+   "item_cursor": {
+      "message": "kursori"
+   },
+   "item_pointer": {
+      "message": "osoitin"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Kohdistimen koon asetukset"
+   },
+   "manage_manage_collection": {
+      "message": "Hallitse kokoelmia"
+   },
+   "nav_how_to_use": {
+      "message": "Kuinka käyttää"
+   },
+   "nav_manage": {
+      "message": "Hoitaa"
+   },
+   "nav_more_cursors": {
+      "message": "Lisää kohdistimia"
+   },
+   "nav_upload_cursor": {
+      "message": "Siirrä kohdistin"
+   },
+   "options_add_new": {
+      "message": "Lisää uusi"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Suositukset:\u003C/h2>\u003Cul>\u003Cli>Älä käytä yli 128 x 128 kuvapistettä,\u003C/li>\u003Cli> Käytä kuvia, joissa on läpinäkyvä tausta, kuten .png; \u003C/li>\u003Cli>Hymy useammin;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Lataa omia kohdistimia"
+   },
+   "popup_default_cursor": {
+      "message": "Oletuskohdistin"
+   },
+   "popup_manage": {
+      "message": "Hoitaa"
+   },
+   "popup_more_cursor": {
+      "message": "Lisää kohdistimia"
+   },
+   "popup_upload_cursor": {
+      "message": "Siirrä kohdistin"
+   },
+   "rate_us_5_stars": {
+      "message": "Arvostele meille 5 tähteä"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

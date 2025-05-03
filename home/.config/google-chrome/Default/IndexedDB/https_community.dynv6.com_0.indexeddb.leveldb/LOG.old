@@ -1,0 +1,7 @@
+2024/09/12-09:53:54.367 2788 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_community.dynv6.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/12-09:53:54.367 2788 Recovering log #3
+2024/09/12-09:53:54.368 2788 Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_community.dynv6.com_0.indexeddb.leveldb/000003.log 
+2024/09/12-09:54:31.429 2789 Level-0 table #5: started
+2024/09/12-09:54:31.437 2789 Level-0 table #5: 96416 bytes OK
+2024/09/12-09:54:31.443 2789 Delete type=0 #3
+2024/09/12-09:54:31.444 2789 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

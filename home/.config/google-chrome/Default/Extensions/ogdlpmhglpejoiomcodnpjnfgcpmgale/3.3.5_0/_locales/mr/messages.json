@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome ™ साठी सानुकूल कर्सर. विनामूल्य कर्सरचा मोठा संग्रह वापरा किंवा आपले स्वतःचे अपलोड करा."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - सानुकूल कर्सर"
+   },
+   "close": {
+      "message": "अनुप्रयोग बंद करा"
+   },
+   "cursor_size_extra_large": {
+      "message": "जास्त मोठं"
+   },
+   "cursor_size_extra_small": {
+      "message": "अतिरिक्त लहान"
+   },
+   "cursor_size_large": {
+      "message": "मोठा"
+   },
+   "cursor_size_medium": {
+      "message": "मध्यम"
+   },
+   "cursor_size_small": {
+      "message": "लहान"
+   },
+   "delete": {
+      "message": "हटवा"
+   },
+   "delete_all": {
+      "message": "सर्व हटवा"
+   },
+   "enter_your_search_text": {
+      "message": "आपला शोध मजकूर प्रविष्ट करा"
+   },
+   "favorite_by_time": {
+      "message": "वेळेनुसार"
+   },
+   "favorite_by_visited_pages": {
+      "message": "भेट दिलेल्या पृष्ठांद्वारे"
+   },
+   "favorite_manage_button": {
+      "message": "आवडी व्यवस्थापित करा"
+   },
+   "favorite_rotate_favorites": {
+      "message": "आवडी फिरवा"
+   },
+   "favorite_sec_page": {
+      "message": "सेकंद/पृष्ठ"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "आवडी व्यवस्थापित करा"
+   },
+   "hint_defaultTo": {
+      "message": "डीफॉल्ट कर्सर"
+   },
+   "hint_remove_cursor": {
+      "message": "कर्सर काढण्यासाठी क्लिक करा"
+   },
+   "hint_remove_pointer": {
+      "message": "पॉईंटर काढण्यासाठी क्लिक करा"
+   },
+   "hint_settings": {
+      "message": "सेटिंग्ज"
+   },
+   "hint_size": {
+      "message": "कर्सर आकार"
+   },
+   "hint_upload_cursor": {
+      "message": "कर्सर अपलोड करण्यासाठी क्लिक करा"
+   },
+   "hint_upload_pointer": {
+      "message": "पॉईंटर अपलोड करण्यासाठी क्लिक करा"
+   },
+   "item_cursor": {
+      "message": "कर्सर"
+   },
+   "item_pointer": {
+      "message": "पॉइंटर"
+   },
+   "manage_cursor_size_settings": {
+      "message": "कर्सर आकार सेटिंग्ज"
+   },
+   "manage_manage_collection": {
+      "message": "संग्रह व्यवस्थापित करा"
+   },
+   "nav_how_to_use": {
+      "message": "कसे वापरावे"
+   },
+   "nav_manage": {
+      "message": "व्यवस्थापित करा"
+   },
+   "nav_more_cursors": {
+      "message": "अधिक कर्सर"
+   },
+   "nav_upload_cursor": {
+      "message": "कर्सर अपलोड करा"
+   },
+   "options_add_new": {
+      "message": "नवीन जोडा"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>शिफारसी:\u003C/h2>\u003Cul>\u003Cli>128x128 पिक्सेलपेक्षा अधिक चित्रे वापरू नका;\u003C/li>\u003Cli>पारंपारिक पार्श्वभूमीसह प्रतिमा वापरा, जसे की .png;\u003C/li>\u003Cli>अधिक वेळा हसणे;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "आपले स्वतःचे कर्सर अपलोड करा"
+   },
+   "popup_default_cursor": {
+      "message": "डीफॉल्ट कर्सर"
+   },
+   "popup_manage": {
+      "message": "व्यवस्थापित करा"
+   },
+   "popup_more_cursor": {
+      "message": "अधिक कर्सर"
+   },
+   "popup_upload_cursor": {
+      "message": "कर्सर अपलोड करा"
+   },
+   "rate_us_5_stars": {
+      "message": "कृपया आम्हाला 5 तारे रेट करा"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

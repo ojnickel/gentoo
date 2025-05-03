@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "ویب کیم یا کیمرہ"
+   },
+   "Cancel": {
+      "message": "منسوخ کریں"
+   },
+   "Countdown": {
+      "message": "ریکارڈنگ سے پہلے الٹی گنتی"
+   },
+   "GrantPerm": {
+      "message": "اجازت دیں۔"
+   },
+   "Pause": {
+      "message": "توقف"
+   },
+   "PermCamDenied": {
+      "message": "کیمرے کی اجازت سے انکار کر دیا گیا۔"
+   },
+   "PermMicDenied": {
+      "message": "مائیکروفون کی اجازت مسترد کر دی گئی۔"
+   },
+   "RateUs": {
+      "message": "برائے مہربانی ہمیں شرح دیں"
+   },
+   "RecordAnother": {
+      "message": "ایک اور ریکارڈنگ بنائیں"
+   },
+   "RecordCamera": {
+      "message": "اپنے کیمرے کو ریکارڈ کریں۔"
+   },
+   "RecordDrive": {
+      "message": "اپنی Google Drive™️ پر ریکارڈ کریں۔"
+   },
+   "RecordQuality": {
+      "message": "ریکارڈ کوالٹی"
+   },
+   "RecordScreen": {
+      "message": "اپنی اسکرین کو ریکارڈ کریں۔"
+   },
+   "RecordSys": {
+      "message": "سسٹم آڈیو ریکارڈ کریں۔"
+   },
+   "RecordSysExpl": {
+      "message": "اپنے اسپیکرز سے آڈیو ریکارڈ کریں۔ اگر آپ ساؤنڈ ریکارڈنگ کو فعال کرنا چاہتے ہیں تو اگلے ڈائیلاگ میں آڈیو آپشن کو چیک کریں۔"
+   },
+   "RecordVoice": {
+      "message": "آواز ریکارڈ کریں۔"
+   },
+   "RecordVoiceExpl": {
+      "message": "اپنے مائیکروفون کا استعمال کرتے ہوئے اپنی آواز ریکارڈ کریں۔"
+   },
+   "Resume": {
+      "message": "دوبارہ شروع کریں"
+   },
+   "SaveRecording": {
+      "message": "ریکارڈنگ کو محفوظ کریں۔"
+   },
+   "ScreenSrcs": {
+      "message": "اسکرین، ونڈو یا ٹیب"
+   },
+   "Share": {
+      "message": "ہماری ایپ کا اشتراک کریں۔"
+   },
+   "StopRecording": {
+      "message": "ریکارڈنگ بند کرو"
+   },
+   "Tutorial": {
+      "message": "ٹیوٹوریل دکھائیں - ایپ کو کیسے استعمال کریں۔"
+   }
+}

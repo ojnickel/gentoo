@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Chrome™ pritaikyti žymekliai. Naudokite didelę nemokamų žymeklių rinkinį arba įkelkite savo."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Pasirinktinis žymeklis"
+   },
+   "close": {
+      "message": "uždaryti"
+   },
+   "cursor_size_extra_large": {
+      "message": "Labai didelis"
+   },
+   "cursor_size_extra_small": {
+      "message": "Labai mažas"
+   },
+   "cursor_size_large": {
+      "message": "Didelis"
+   },
+   "cursor_size_medium": {
+      "message": "Vidutinis"
+   },
+   "cursor_size_small": {
+      "message": "Mažas"
+   },
+   "delete": {
+      "message": "Ištrinti"
+   },
+   "delete_all": {
+      "message": "Ištrinti viską"
+   },
+   "enter_your_search_text": {
+      "message": "Įveskite paieškos tekstą"
+   },
+   "favorite_by_time": {
+      "message": "laiku"
+   },
+   "favorite_by_visited_pages": {
+      "message": "aplankė puslapiai"
+   },
+   "favorite_manage_button": {
+      "message": "Tvarkyti parankinius"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Pasukti mėgstamiausius"
+   },
+   "favorite_sec_page": {
+      "message": "sek/puslapis"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Tvarkyti parankinius"
+   },
+   "hint_defaultTo": {
+      "message": "Numatytasis žymeklis"
+   },
+   "hint_remove_cursor": {
+      "message": "Spustelėkite, jei norite pašalinti žymeklį"
+   },
+   "hint_remove_pointer": {
+      "message": "Spustelėkite, jei norite pašalinti nuorodos žymeklis"
+   },
+   "hint_settings": {
+      "message": "Nustatymai"
+   },
+   "hint_size": {
+      "message": "Žymeklio dydis"
+   },
+   "hint_upload_cursor": {
+      "message": "Spustelėkite, jei norite įkelti žymeklį"
+   },
+   "hint_upload_pointer": {
+      "message": "Spustelėkite, jei norite įkelti nuorodos žymeklis"
+   },
+   "item_cursor": {
+      "message": "žymeklį"
+   },
+   "item_pointer": {
+      "message": "rodyklė"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Kursoriaus dydžio nustatymai"
+   },
+   "manage_manage_collection": {
+      "message": "Valdyti kolekciją"
+   },
+   "nav_how_to_use": {
+      "message": "Kaip naudoti"
+   },
+   "nav_manage": {
+      "message": "Valdyti"
+   },
+   "nav_more_cursors": {
+      "message": "Daugiau žymeklių"
+   },
+   "nav_upload_cursor": {
+      "message": "Įkelkite žymeklį"
+   },
+   "options_add_new": {
+      "message": "Pridėti naują"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Rekomendacijos:\u003C/h2>\u003Cul>\u003Cli>Nenaudokite daugiau nei 128x128 pikselių nuotraukų\u003C/li>\u003Cli>Naudokite skaidrius fonus, pvz., .Png;\u003C/li>\u003Cli>Smile dažniau;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Įkelkite savo žymeklį"
+   },
+   "popup_default_cursor": {
+      "message": "Numatytasis žymeklis"
+   },
+   "popup_manage": {
+      "message": "Valdyti"
+   },
+   "popup_more_cursor": {
+      "message": "Daugiau žymeklių"
+   },
+   "popup_upload_cursor": {
+      "message": "Įkelkite žymeklį"
+   },
+   "rate_us_5_stars": {
+      "message": "Įvertinkite mus 5 žvaigždutėmis"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "app_description": {
+      "message": "Прилагођени курсори за Цхроме ™. Користите велику колекцију бесплатних курсора или отпремите своје."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Курсор Цхангер"
+   },
+   "close": {
+      "message": "Близу"
+   },
+   "cursor_size_extra_large": {
+      "message": "Екстра велики"
+   },
+   "cursor_size_extra_small": {
+      "message": "Веома мали"
+   },
+   "cursor_size_large": {
+      "message": "Велика"
+   },
+   "cursor_size_medium": {
+      "message": "Средње"
+   },
+   "cursor_size_small": {
+      "message": "Мала"
+   },
+   "delete": {
+      "message": "Обриши"
+   },
+   "delete_all": {
+      "message": "избриши све"
+   },
+   "enter_your_search_text": {
+      "message": "Унесите текст за претрагу"
+   },
+   "favorite_by_time": {
+      "message": "по времену"
+   },
+   "favorite_by_visited_pages": {
+      "message": "од посећених страница"
+   },
+   "favorite_manage_button": {
+      "message": "Управљање омиљеним"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Ротирајте фаворите"
+   },
+   "favorite_sec_page": {
+      "message": "сек/страница"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Управљање омиљеним"
+   },
+   "hint_defaultTo": {
+      "message": "Подразумевани курсор"
+   },
+   "hint_remove_cursor": {
+      "message": "Кликните да бисте уклонили курсор"
+   },
+   "hint_remove_pointer": {
+      "message": "Кликните да уклоните показивач"
+   },
+   "hint_settings": {
+      "message": "Подешавања"
+   },
+   "hint_size": {
+      "message": "Величина курсора"
+   },
+   "hint_upload_cursor": {
+      "message": "Кликните да бисте поставили курсор"
+   },
+   "hint_upload_pointer": {
+      "message": "Кликните да бисте пренели показивач"
+   },
+   "item_cursor": {
+      "message": "курсор"
+   },
+   "item_pointer": {
+      "message": "поинтер"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Поставке величине курсора"
+   },
+   "manage_manage_collection": {
+      "message": "Манаге Цоллецтион"
+   },
+   "nav_how_to_use": {
+      "message": "Како се користи"
+   },
+   "nav_manage": {
+      "message": "Управљати"
+   },
+   "nav_more_cursors": {
+      "message": "Море цурсорс"
+   },
+   "nav_upload_cursor": {
+      "message": "Учитај курсор"
+   },
+   "options_add_new": {
+      "message": "Додај нови"
+   },
+   "options_upload_recommendations": {
+      "message": "\u003Ch2>Препоруке:\u003C/h2>\u003Cul>\u003Cli>Немојте користити слике више од 128к128 пиксела;\u003C/li>\u003Cli>Користите слике са транспарентном позадином, као што је .png;\u003C/li>\u003Cli>Смиле-чешье;)\u003C/li>\u003C/ul>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Отпремите сопствене курсоре"
+   },
+   "popup_default_cursor": {
+      "message": "Дефаулт Цурсор"
+   },
+   "popup_manage": {
+      "message": "Управљати"
+   },
+   "popup_more_cursor": {
+      "message": "Море цурсорс"
+   },
+   "popup_upload_cursor": {
+      "message": "Учитај курсор"
+   },
+   "rate_us_5_stars": {
+      "message": "Оцијените нас 5 звјездица, молим"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

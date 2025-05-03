@@ -1,0 +1,362 @@
+{
+   "alleanzeigen": {
+      "message": "Alle anzeigen"
+   },
+   "appDesc": {
+      "message": "Downloaden sie Videos von Webseiten, oder sammeln sie Videos in ihrer Videoliste ohne sie runterzuladen."
+   },
+   "appName": {
+      "message": "Video Downloader Professional"
+   },
+   "apply": {
+      "message": "Übernehmen"
+   },
+   "apps": {
+      "message": "Apps"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "close": {
+      "message": "schließen"
+   },
+   "country": {
+      "message": "de"
+   },
+   "deffolder": {
+      "message": "Ordner"
+   },
+   "done": {
+      "message": "Änderungen übernehmen"
+   },
+   "downloading": {
+      "message": "Video wird heruntergeladen"
+   },
+   "downloading2": {
+      "message": "Bitte verlassen Sie nicht die Site während des Downloads."
+   },
+   "downloading3": {
+      "message": "Empfangen: 0MB"
+   },
+   "downloading4_0": {
+      "message": "So laden Sie das Video herunter:"
+   },
+   "downloading4_1": {
+      "message": "Klicken Sie mit der rechten Maustaste auf 'Download-Link' und wählen 'Ziel speichern unter'."
+   },
+   "downloading4_2": {
+      "message": "Oder Sie klicken mit der linken Maustaste auf 'Download-Link' und klicken dann mit der rechten Maustaste auf das abgespielte Video und wählen 'Video speichern unter'"
+   },
+   "downloading5": {
+      "message": "Download-Link"
+   },
+   "downloads": {
+      "message": "Downloads"
+   },
+   "downloadtt": {
+      "message": "Lassen Sie die Website selbst das Video herunterladen."
+   },
+   "filter": {
+      "message": "Filter Videos"
+   },
+   "home": {
+      "message": "Startseite"
+   },
+   "idProtected": {
+      "message": "Achtung: Videos von ### sind geschützt und können nicht heruntergeladen werden."
+   },
+   "idTL": {
+      "message": "Seite als Toplink speichern"
+   },
+   "idVDL": {
+      "message": "Gefundene Videodateien:"
+   },
+   "idYT": {
+      "message": "Achtung: Chrome Web Store erlaubt keine Erweiterungen mehr, die Videos von YouTube runterladen."
+   },
+   "idYT2": {
+      "message": "Weitere Informationen und Alternativen..."
+   },
+   "idadded": {
+      "message": "Seite wurde hinzugefügt"
+   },
+   "idadded2": {
+      "message": " wurde zur Videoliste hinzugefügt"
+   },
+   "idaddvideo": {
+      "message": "Webseite in der Videoliste merken"
+   },
+   "idbegin": {
+      "message": "Toplink ganz nach vorne schieben"
+   },
+   "idbeginf": {
+      "message": "Ordner ganz nach vorne schieben"
+   },
+   "idcc": {
+      "message": "Spielen sie dieses Video über Google chromecast auf ihrem Fernseher ab"
+   },
+   "idcc1": {
+      "message": "Um dieses Funktion von Video Downloader Professional verwenden zu können muss die chromecast-Erweiterung von Google installiert sein. Wollen sie diese Erweiterung nun installieren?"
+   },
+   "idcc2": {
+      "message": "Sie müssen die chromecast-Erweiterung aktivieren um diese Funktion nutzen zu können. Soll die Erweiterung aktiviert werden?"
+   },
+   "iddel": {
+      "message": "Toplink löschen"
+   },
+   "iddelf": {
+      "message": "Ordner löschen"
+   },
+   "iddownload": {
+      "message": "Download"
+   },
+   "idedit": {
+      "message": "Toplink-Eigenschaften ändern"
+   },
+   "ideditf": {
+      "message": "Ordner-Eigenschaften ändern"
+   },
+   "idend": {
+      "message": "Toplink ganz nach hinten schieben"
+   },
+   "idendf": {
+      "message": "Ordner ganz nach hinten schieben"
+   },
+   "idmb": {
+      "message": "MB"
+   },
+   "idnovideo": {
+      "message": "Keine Videos gefunden."
+   },
+   "idnovideo1": {
+      "message": "Keine Videos auf dieser Seite gefunden"
+   },
+   "idnovideo2": {
+      "message": "Haben sie versucht, das Video zu starten? Einige Seiten verlangen, dass das Video läuft, damit es runterladen kann.\u003Cbr/>\u003Cbr/>Einige Seiten versuchen es zu verhindern Videos runterzuladen. Wenn sie wollen, dass wir nach einem Weg für diese Seite suchen, teilen sie uns die URL der Seite mit, in dem sie \u003Ca href='#' id='idSubmit'>hier\u003C/a> klicken."
+   },
+   "idnovideo3": {
+      "message": "Vielen Dank, wir werden unser Bestes geben, um auch diese Seite zu unterstützen!"
+   },
+   "idrefresh": {
+      "message": "Suchergebnisse aktualisieren"
+   },
+   "idreview": {
+      "message": "Sollte Ihnen der Video Downloader Professional gefallen, teilen sie ihre Erfahrungen anderen Benutzern mit und geben sie eine Bewertung für uns ab."
+   },
+   "idsidepanel1": {
+      "message": "Aktion beim Klicken des Icons"
+   },
+   "idsidepanel21": {
+      "message": "Menu öffnen"
+   },
+   "idsidepanel31": {
+      "message": "Randleiste anzeigen"
+   },
+   "idsimilar": {
+      "message": "Ähnliche Videos suchen"
+   },
+   "idvideo": {
+      "message": "Videoliste anzeigen"
+   },
+   "idwait1": {
+      "message": "Warte darauf, dass der Video-Server antwortet"
+   },
+   "idwait2": {
+      "message": "Warte auf Server"
+   },
+   "idwhy": {
+      "message": "Warum?"
+   },
+   "langKey_addToplink": {
+      "message": "Toplink hinzufügen"
+   },
+   "langKey_addfolder": {
+      "message": "Ordner hinzufügen"
+   },
+   "langKey_bkcolor": {
+      "message": "Hintergrundfarbe wählen"
+   },
+   "langKey_border": {
+      "message": "Rahmen wählen"
+   },
+   "langKey_bordercolor": {
+      "message": "Farbe des unteren Balkens wählen"
+   },
+   "langKey_checknodefaults": {
+      "message": "Eigene Designeinstellungen verwenden"
+   },
+   "langKey_country": {
+      "message": "Sprache wählen"
+   },
+   "langKey_de": {
+      "message": "Deutsch"
+   },
+   "langKey_delall": {
+      "message": "Alle Toplinks löschen"
+   },
+   "langKey_editToplinks": {
+      "message": "Videos verschieben"
+   },
+   "langKey_en": {
+      "message": "Englisch"
+   },
+   "langKey_firststart": {
+      "message": "Startpage24"
+   },
+   "langKey_helpdrag": {
+      "message": "Um einen Toplink zur verschieben, klicken sie auf ihn und ziehen ihn bei gedrückter Maustaste zur Zielposition"
+   },
+   "langKey_helpedit": {
+      "message": "Zum Verschieben, Löschen und Ändern von Toplinks drücken sie Toplinks bearbeiten"
+   },
+   "langKey_helpsearch": {
+      "message": "Die wichtigsten Suchen haben sie hier immer direkt verfügbar. Geben sie ihren Suchbegriff ein und klicken dann z.B. auf Bilder"
+   },
+   "langKey_helpsettings": {
+      "message": "Klicken sie Einstellungen, um zum Beispiel das Erscheinungsbild von Startpage24 zu ändern"
+   },
+   "langKey_helpslideshow": {
+      "message": "Zum Steuern der Hintergrundbilder können sie mit dem Button \u003Cimg src='./png/slide_toggle_dark.png'/> links unten die Toplinks verstecken"
+   },
+   "langKey_helptoggle": {
+      "message": "Klicken sie einfach auf den Hintergrund um die Toplinks wieder anzuzeigen"
+   },
+   "langKey_helpvideo": {
+      "message": "Um Einträge in ihre Videoliste hinzuzufügen, spielen sie ein Video auf eine der unten aufgeführten Seiten ab und klicken dann oben auf dieses Icon: "
+   },
+   "langKey_settings": {
+      "message": "Einstellungen"
+   },
+   "langKey_sync": {
+      "message": "Synchronisiere Toplinks mit ihrem Google-Konto"
+   },
+   "langKey_textcolor": {
+      "message": "Textfarbe wählen"
+   },
+   "langKey_trans": {
+      "message": "Undurchsichtigkeit der Toplinks"
+   },
+   "langkey_bilder": {
+      "message": "Bilder"
+   },
+   "langkey_maps": {
+      "message": "Landkarten"
+   },
+   "langkey_preis": {
+      "message": "Preissuche"
+   },
+   "langkey_translate": {
+      "message": "Übersetzen"
+   },
+   "langkey_videos": {
+      "message": "Videos"
+   },
+   "language": {
+      "message": "de"
+   },
+   "more": {
+      "message": "Nicht unterstütztes Videoformat gefunden"
+   },
+   "name": {
+      "message": "Name:"
+   },
+   "noborder": {
+      "message": "Kein Rahmen"
+   },
+   "noentries": {
+      "message": "keine Einträge vorhanden"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "original": {
+      "message": "Zur ursprünglichen Video-Seite wechseln"
+   },
+   "ratetext": {
+      "message": "Bitte bewerten sie diese Erweiterung"
+   },
+   "resethelp": {
+      "message": "Hilfeblasen wieder anzeigen"
+   },
+   "resethelp2": {
+      "message": "Wollen sie wirklich alle Einstellungen zurücksetzen?"
+   },
+   "resettheme": {
+      "message": "Alles zurücksetzen"
+   },
+   "rights": {
+      "message": "Sie dürfen nur Videos herunterladen, an denen Sie die Rechte besitzen oder Sie der Rechtinhaber dazu ermächtigt hat.\n\nKlicken Sie Ok, wenn Sie das verstanden haben und einverstanden sind."
+   },
+   "search": {
+      "message": "Suchen"
+   },
+   "searchurl": {
+      "message": "Such-Adresse (optional):"
+   },
+   "searchurl2": {
+      "message": "Verwenden sie %P1% als Platzhalter für den Suchtext"
+   },
+   "shops": {
+      "message": "Shops"
+   },
+   "showinwindow": {
+      "message": "Seite in neuem Tab öffnen"
+   },
+   "supported": {
+      "message": "Unterstützte Videoseiten:"
+   },
+   "theme100": {
+      "message": "Münzen"
+   },
+   "theme101": {
+      "message": "Blätter"
+   },
+   "theme102": {
+      "message": "Blüten"
+   },
+   "theme103": {
+      "message": "Herzen"
+   },
+   "theme104": {
+      "message": "Teddies"
+   },
+   "theme105": {
+      "message": "Fußball"
+   },
+   "theme106": {
+      "message": "Bonbons"
+   },
+   "theme107": {
+      "message": "Kunst"
+   },
+   "theme108": {
+      "message": "Bälle"
+   },
+   "theme109": {
+      "message": "Auto"
+   },
+   "theme110": {
+      "message": "Kinder"
+   },
+   "theme111": {
+      "message": "Haustiere"
+   },
+   "theme112": {
+      "message": "Holz"
+   },
+   "theme113": {
+      "message": "Steine"
+   },
+   "url": {
+      "message": "Adresse:"
+   },
+   "videolist": {
+      "message": "Videos"
+   },
+   "wait": {
+      "message": "Bitte warten Sie..."
+   },
+   "wunschliste": {
+      "message": "Wunschliste"
+   }
+}

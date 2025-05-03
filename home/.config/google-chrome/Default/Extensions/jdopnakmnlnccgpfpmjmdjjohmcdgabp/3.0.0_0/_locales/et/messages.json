@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Veebikaamera või kaamera"
+   },
+   "Cancel": {
+      "message": "tühistama"
+   },
+   "Countdown": {
+      "message": "Pöördloendus enne salvestamist"
+   },
+   "GrantPerm": {
+      "message": "Andke luba"
+   },
+   "Pause": {
+      "message": "Paus"
+   },
+   "PermCamDenied": {
+      "message": "Kaamera luba on keelatud."
+   },
+   "PermMicDenied": {
+      "message": "Mikrofoni luba on keelatud."
+   },
+   "RateUs": {
+      "message": "Palun hinnake meid"
+   },
+   "RecordAnother": {
+      "message": "Tehke uus salvestus"
+   },
+   "RecordCamera": {
+      "message": "Salvestage oma kaamera"
+   },
+   "RecordDrive": {
+      "message": "Salvestage oma Google Drive™️"
+   },
+   "RecordQuality": {
+      "message": "Rekordi kvaliteet"
+   },
+   "RecordScreen": {
+      "message": "Salvestage oma ekraan"
+   },
+   "RecordSys": {
+      "message": "Süsteemi heli salvestamine"
+   },
+   "RecordSysExpl": {
+      "message": "Salvestage kõlaritest heli. Kui soovite helisalvestuse lubada, märkige järgmises dialoogis suvand Heli."
+   },
+   "RecordVoice": {
+      "message": "Salvestage hääl"
+   },
+   "RecordVoiceExpl": {
+      "message": "Salvestage oma hääl mikrofoni abil"
+   },
+   "Resume": {
+      "message": "Jätka"
+   },
+   "SaveRecording": {
+      "message": "Salvesta salvestus"
+   },
+   "ScreenSrcs": {
+      "message": "Ekraan, aken või vahekaart"
+   },
+   "Share": {
+      "message": "Jagage meie rakendust"
+   },
+   "StopRecording": {
+      "message": "Lõpetage salvestamine"
+   },
+   "Tutorial": {
+      "message": "Näita õpetust – kuidas rakendust kasutada"
+   }
+}

@@ -1,0 +1,170 @@
+{
+  "_lang": {
+    "message": "zh_HK"
+  },
+  "downloadButton": {
+    "message": "下載"
+  },
+  "downloadMessage_windows": {
+    "message": "下載 Windows 版 iCloud 以使用「iCloud 密碼」。"
+  },
+  "downloadMessage_macos": {
+    "message": "此延伸功能需要安裝 macOS Sonoma 或較新版本。"
+  },
+  "extDescription": {
+    "message": "「iCloud 密碼」讓可你在使用 Chrome 登入網站時填寫來自「iCloud 鑰匙圈」的密碼。"
+  },
+  "extName": {
+    "message": "iCloud 密碼"
+  },
+  "openiCloudForWindowsButtonText": {
+    "message": "開啟 Windows 版 iCloud"
+  },
+  "CheckEngineMessage": {
+    "message": "在 Windows 版 iCloud 中啟用「密碼」以配合 Chrome 使用「iCloud 密碼」。"
+  },
+  "unsupportedOS_windows": {
+    "message": "此延伸功能設計為在 Windows 10 或較新版本上執行。如你使用 Mac，你的密碼將會在你登入 iCloud 時與你的 iPhone、iPad 和 Mac 自動同步。"
+  },
+  "divPINTitle": {
+    "message": "啟用自動填寫密碼"
+  },
+  "divPINMessage_windows": {
+    "message": "Windows 版 iCloud 已向你傳送包括驗證碼的通知。請輸入驗證碼來繼續。"
+  },
+  "divPINMessage_macos": {
+    "message": "Mac 已產生驗證碼。請輸入驗證碼來繼續。"
+  },
+  "divICsMessage": {
+    "message": "選擇要使用的已儲存密碼："
+  },
+  "GenericPopupTitle": {
+    "message": "你的密碼已與「iCloud 鑰匙圈」同步"
+  },
+  "divNoPasswordsMessage_windows": {
+    "message": "你可在「iCloud 密碼」App 中檢視和編輯已儲存的密碼。"
+  },
+  "divNoPasswordsMessage_macos": {
+    "message": "你可以在「密碼」App 中查詢和管理已儲存的密碼。"
+  },
+  "divNoPasswordsMessage_macos_14": {
+    "message": "你可以在「密碼」設定中查詢和管理已儲存的密碼。"
+  },
+  "divNoPasswordsMessage_macos_13": {
+    "message": "你可以在「密碼」設定中查詢和管理已儲存的密碼。"
+  },
+  "divNoPasswordsMessage_macos_12": {
+    "message": "你可以在「系統偏好設定」的「密碼」面板中管理已儲存的密碼。"
+  },
+  "divNoPasswordsMessage_macos_11": {
+    "message": "你可以在 Safari 偏好設定的「密碼」分頁中管理已儲存的密碼。"
+  },
+  "divDoNotRememberTitle": {
+    "message": "你之前表明永不為此網站儲存密碼。"
+  },
+  "divDoNotRememberMessage": {
+    "message": "如要更改，請從你的 iCloud 鑰匙圈移除此網站的輸入項目，並重新登入此網站。"
+  },
+  "GettingPasswords": {
+    "message": "正在載入密碼⋯"
+  },
+  "NoUserName": {
+    "message": "沒有用户名稱"
+  },
+  "divOpenPasswords_macos": {
+    "message": "開啟「密碼」App⋯"
+  },
+  "divOpenPasswords_macos_14": {
+    "message": "管理密碼⋯"
+  },
+  "divOpenPasswords_macos_13": {
+    "message": "管理密碼⋯"
+  },
+  "divOpenPasswords_macos_12": {
+    "message": "管理密碼⋯"
+  },
+  "divOpenPasswords_macos_11": {
+    "message": "管理密碼⋯"
+  },
+  "divOpenPasswords": {
+    "message": "管理密碼⋯"
+  },
+  "divOpenPasswordsSubtitle": {
+    "message": "查詢並建立密碼。"
+  },
+  "browserName": {
+    "message": "Chrome"
+  },
+  "totpVerificationCodeNameWithDomain": {
+    "message": "「$1」的驗證碼"
+  },
+  "setupTOTPVerificationCodeNameWithDomain": {
+    "message": "為「$1」設定驗證碼"
+  },
+  "totpVerificationCodeName": {
+    "message": "驗證碼"
+  },
+  "enableAutoFillPasswordsTitle": {
+    "message": "啟用自動填寫密碼"
+  },
+  "enableAutoFillPasswordsMessageActivateCompletionList": {
+    "message": "在此處按一下來允許「iCloud 密碼」自動填寫你的密碼。"
+  },
+  "enableAutoFillPasswordsMessageToolbarButton": {
+    "message": "按一下「iCloud 密碼」工具列按鈕以啟用「自動填寫密碼」。"
+  },
+  "optionsTitle": {
+    "message": "「iCloud 密碼」選項"
+  },
+  "enableInPageAutoFillCheckboxLabel": {
+    "message": "頁內「自動填寫」"
+  },
+  "enableInPageAutoFillCheckboxDetail": {
+    "message": "允許「iCloud 密碼」從頁內列表中提供憑證。你總是可以從「iCloud 密碼」工具列按鈕填寫密碼（即使此選項已關閉）。"
+  },
+  "allowExtensionToControlAutoFillLabel": {
+    "message": "關閉「Chrome 自動填寫」"
+  },
+  "allowExtensionToControlAutoFillDetail": {
+    "message": "為防止 Chrome 的頁內「自動填寫」干擾「iCloud 密碼」，「iCloud 密碼」可嘗試代表你關閉瀏覽器的「自動填寫」設定。"
+  },
+  "divTOTPTitle": {
+    "message": "為以下項目設定驗證碼："
+  },
+  "divTOTPMenu": {
+    "message": "設定驗證碼"
+  },
+  "strongPasswordSuggestion": {
+    "message": "你可以在「密碼」App 或 Safari 中建立高強度密碼。"
+  },
+  "strongPasswordSuggestion_macos_14": {
+    "message": "你可以在「密碼設定」或 Safari 中建立高強度密碼。"
+  },
+  "strongPasswordSuggestion_macos_13": {
+    "message": "你可以在「密碼設定」或 Safari 中建立高強度密碼。"
+  },
+  "strongPasswordSuggestion_macos_12": {
+    "message": "你可以在「密碼設定」或 Safari 中建立高強度密碼。"
+  },
+  "strongPasswordSuggestion_macos_11": {
+    "message": "你可以在「密碼設定」或 Safari 中建立高強度密碼。"
+  },
+  "openThisPageInSafari": {
+    "message": "在 Safari 中開啟此頁面⋯"
+  },
+  "openPasswordsSettings_macos": {
+    "message": "開啟「密碼」App⋯"
+  },
+  "openPasswordsSettings_macos_14": {
+    "message": "開啟「密碼」設定⋯"
+  },
+  "openPasswordsSettings_macos_13": {
+    "message": "開啟「密碼」設定⋯"
+  },
+  "openPasswordsSettings_macos_12": {
+    "message": "開啟「密碼」設定⋯"
+  },
+  "openPasswordsSettings_macos_11": {
+    "message": "開啟「密碼」設定⋯"
+  }
+}

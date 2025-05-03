@@ -1,0 +1,15 @@
+2024/12/15-16:46:22.299 1b9c Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.icloud.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/15-16:46:22.299 1b9c Recovering log #19
+2024/12/15-16:46:22.299 1b9c Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.icloud.com_0.indexeddb.leveldb/000019.log 
+2024/12/15-16:46:54.316 1b9c Level-0 table #24: started
+2024/12/15-16:46:54.319 1b9c Level-0 table #24: 778 bytes OK
+2024/12/15-16:46:54.326 1b9c Delete type=0 #19
+2024/12/15-16:46:54.326 1b9c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/12/15-16:46:54.326 1b9c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x09\x00b\x00u\x00i\x00l\x00d\x00I\x00n\x00f\x00o' @ 155 : 1
+2024/12/15-16:46:54.326 1b9c Compacting 1@1 + 1@2 files
+2024/12/15-16:46:54.330 1b9c Generated table #25@1: 21 keys, 763 bytes
+2024/12/15-16:46:54.330 1b9c Compacted 1@1 + 1@2 files => 763 bytes
+2024/12/15-16:46:54.336 1b9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/15-16:46:54.336 1b9c Delete type=2 #21
+2024/12/15-16:46:54.336 1b9c Delete type=2 #24
+2024/12/15-16:46:54.336 1b9c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x09\x00b\x00u\x00i\x00l\x00d\x00I\x00n\x00f\x00o' @ 155 : 1 .. (end); will stop at (end)

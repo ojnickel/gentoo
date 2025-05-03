@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Deskripsi singkat ekstensi, ditampilkan di web store",
+      "message": "Perlindungan privasi yang sederhana dan mulus untuk browser Anda."
+   },
+   "appName": {
+      "description": "Judul ekstensi, ditampilkan di web store",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

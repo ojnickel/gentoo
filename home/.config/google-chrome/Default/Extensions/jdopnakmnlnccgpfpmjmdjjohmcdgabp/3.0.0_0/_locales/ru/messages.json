@@ -1,0 +1,77 @@
+{
+   "AppDesc": {
+      "message": "Free Simple tool for high quality video capturing from Tab, Area of the page and full Screen, with Mic, Webcam and System audio"
+   },
+   "AppName": {
+      "message": "Screen Recorder"
+   },
+   "CameraSrc": {
+      "message": "Веб-камера или камера"
+   },
+   "Cancel": {
+      "message": "Отмена"
+   },
+   "Countdown": {
+      "message": "Обратный отсчет перед записью"
+   },
+   "GrantPerm": {
+      "message": "Предоставить разрешение"
+   },
+   "Pause": {
+      "message": "Пауза"
+   },
+   "PermCamDenied": {
+      "message": "Разрешение на использование камеры отклонено."
+   },
+   "PermMicDenied": {
+      "message": "Разрешение на использование микрофона отклонено."
+   },
+   "RateUs": {
+      "message": "Пожалуйста, оцените нас"
+   },
+   "RecordAnother": {
+      "message": "Сделать еще одну запись"
+   },
+   "RecordCamera": {
+      "message": "Запишите свою камеру"
+   },
+   "RecordDrive": {
+      "message": "Запишите на свой Google Диск™️"
+   },
+   "RecordQuality": {
+      "message": "Качество записи"
+   },
+   "RecordScreen": {
+      "message": "Запишите свой экран"
+   },
+   "RecordSys": {
+      "message": "Запись системного звука"
+   },
+   "RecordSysExpl": {
+      "message": "Записывайте звук из динамиков. Установите флажок «Аудио» в следующем диалоговом окне, если вы хотите включить запись звука."
+   },
+   "RecordVoice": {
+      "message": "Записать голос"
+   },
+   "RecordVoiceExpl": {
+      "message": "Запишите свой голос с помощью микрофона"
+   },
+   "Resume": {
+      "message": "Продолжить"
+   },
+   "SaveRecording": {
+      "message": "Сохранить запись"
+   },
+   "ScreenSrcs": {
+      "message": "Экран, окно или вкладка"
+   },
+   "Share": {
+      "message": "Поделитесь нашим приложением"
+   },
+   "StopRecording": {
+      "message": "Остановить запись"
+   },
+   "Tutorial": {
+      "message": "Показать руководство – как использовать приложение"
+   }
+}

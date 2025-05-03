@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "เปิดใช้งานรหัสผ่านบน iCloud สำหรับ Windows เพื่อใช้รหัสผ่าน iCloud กับ Chrome"
+   },
+   "GenericPopupTitle": {
+      "message": "รหัสผ่านของคุณเชื่อมข้อมูลกับพวงกุญแจ iCloud แล้ว"
+   },
+   "GettingPasswords": {
+      "message": "กำลังโหลดรหัสผ่าน…"
+   },
+   "NoUserName": {
+      "message": "ไม่มีชื่อผู้ใช้"
+   },
+   "_lang": {
+      "message": "th"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "ในการป้องกันไม่ให้การป้อนอัตโนมัติในหน้าของ Chrome รบกวนรหัสผ่าน iCloud นั้น รหัสผ่าน iCloud สามารถพยายามปิดใช้การตั้งค่าการป้อนอัตโนมัติของเบราว์เซอร์แทนคุณได้"
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "ปิดใช้การป้อนอัตโนมัติใน Chrome"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "ในการเปลี่ยนแปลงสิ่งนี้ ให้เอารายการสำหรับเว็บไซต์นี้ออกจากพวงกุญแจ iCloud ของคุณ แล้วเข้าสู่ระบบเว็บไซต์นี้อีกครั้ง"
+   },
+   "divDoNotRememberTitle": {
+      "message": "คุณได้ระบุไว้ก่อนหน้านี้ว่าไม่ต้องบันทึกรหัสผ่านของเว็บไซต์นี้"
+   },
+   "divICsMessage": {
+      "message": "เลือกรหัสผ่านที่บันทึกไว้เพื่อใช้งาน:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "คุณสามารถค้นหาและจัดการรหัสผ่านที่บันทึกไว้ได้ในแอปรหัสผ่าน"
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "คุณสามารถจัดการรหัสผ่านที่บันทึกไว้ได้ในแถบรหัสผ่านของการตั้งค่าของ Safari"
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "คุณสามารถจัดการรหัสผ่านที่บันทึกไว้ได้ในบานหน้าต่างรหัสผ่านในการตั้งค่าระบบ"
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "คุณสามารถค้นหาและจัดการรหัสผ่านที่บันทึกไว้ได้ในการตั้งค่ารหัสผ่าน"
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "คุณสามารถค้นหาและจัดการรหัสผ่านที่บันทึกไว้ได้ในการตั้งค่ารหัสผ่าน"
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "คุณสามารถดูและแก้ไขรหัสผ่านที่บันทึกไว้ได้ในแอปรหัสผ่าน iCloud"
+   },
+   "divOpenPasswords": {
+      "message": "จัดการรหัสผ่าน…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "ค้นดูและสร้างรหัสผ่านใหม่"
+   },
+   "divOpenPasswords_macos": {
+      "message": "เปิดแอปรหัสผ่าน…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "จัดการรหัสผ่าน…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "จัดการรหัสผ่าน…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "จัดการรหัสผ่าน…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "จัดการรหัสผ่าน…"
+   },
+   "divPINMessage_macos": {
+      "message": "Mac ได้สร้างรหัสการตรวจสอบยืนยันของคุณแล้ว ป้อนรหัสนี้เพื่อดำเนินการต่อ"
+   },
+   "divPINMessage_windows": {
+      "message": "iCloud สำหรับ Windows ส่งการแจ้งเตือนที่มีรหัสการตรวจสอบยืนยันให้กับคุณแล้ว ป้อนรหัสนี้เพื่อดำเนินการต่อ"
+   },
+   "divPINTitle": {
+      "message": "เปิดใช้งานการป้อนรหัสผ่านโดยอัตโนมัติ"
+   },
+   "divTOTPMenu": {
+      "message": "ตั้งค่ารหัสการตรวจสอบยืนยัน"
+   },
+   "divTOTPTitle": {
+      "message": "ตั้งค่ารหัสการตรวจสอบยืนยันสำหรับ:"
+   },
+   "downloadButton": {
+      "message": "ดาวน์โหลด"
+   },
+   "downloadMessage_macos": {
+      "message": "ส่วนขยายนี้ต้องติดตั้ง macOS Sonoma ขึ้นไป"
+   },
+   "downloadMessage_windows": {
+      "message": "ดาวน์โหลด iCloud สำหรับ Windows เพื่อใช้รหัสผ่าน iCloud"
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "คลิกที่นี่เพื่ออนุญาตให้รหัสผ่าน iCloud ป้อนรหัสผ่านของคุณโดยอัตโนมัติ"
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "คลิกปุ่มแถบเครื่องมือรหัสผ่าน iCloud เพื่อเปิดใช้งานการป้อนรหัสผ่านโดยอัตโนมัติ"
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "เปิดใช้งานการป้อนรหัสผ่านโดยอัตโนมัติ"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "อนุญาตให้รหัสผ่าน iCloud เสนอข้อมูลประจำตัวจากรายการในหน้า คุณสามารถป้อนรหัสผ่านจากปุ่มแถบเครื่องมือรหัสผ่าน iCloud ได้เสมอแม้ว่าตัวเลือกนี้จะปิดใช้อยู่ก็ตาม"
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "การป้อนอัตโนมัติในหน้า"
+   },
+   "extDescription": {
+      "message": "รหัสผ่าน iCloud ช่วยให้คุณป้อนรหัสผ่านจากพวงกุญแจ iCloud ได้เมื่อคุณลงชื่อเข้าเว็บไซต์โดยใช้ Chrome"
+   },
+   "extName": {
+      "message": "รหัสผ่าน iCloud"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "เปิดแอปรหัสผ่าน…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "เปิดการตั้งค่ารหัสผ่าน…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "เปิดการตั้งค่ารหัสผ่าน…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "เปิดการตั้งค่ารหัสผ่าน…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "เปิดการตั้งค่ารหัสผ่าน…"
+   },
+   "openThisPageInSafari": {
+      "message": "เปิดหน้านี้ใน Safari…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "เปิด iCloud สำหรับ Windows"
+   },
+   "optionsTitle": {
+      "message": "ตัวเลือกรหัสผ่าน iCloud"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "ตั้งค่ารหัสการตรวจสอบยืนยันสำหรับ “$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "คุณสามารถสร้างรหัสผ่านที่ปลอดภัยสูงได้ในแอปรหัสผ่านหรือใน Safari"
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "คุณสามารถสร้างรหัสผ่านที่ปลอดภัยสูงได้ในการตั้งค่ารหัสผ่านหรือใน Safari"
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "คุณสามารถสร้างรหัสผ่านที่ปลอดภัยสูงได้ในการตั้งค่ารหัสผ่านหรือใน Safari"
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "คุณสามารถสร้างรหัสผ่านที่ปลอดภัยสูงได้ในการตั้งค่ารหัสผ่านหรือใน Safari"
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "คุณสามารถสร้างรหัสผ่านที่ปลอดภัยสูงได้ในการตั้งค่ารหัสผ่านหรือใน Safari"
+   },
+   "totpVerificationCodeName": {
+      "message": "รหัสการตรวจสอบยืนยัน"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "รหัสการตรวจสอบยืนยันสำหรับ “$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "ส่วนขยายนี้ออกแบบมาให้ใช้งานบน Windows 10 ขึ้นไป ถ้าคุณใช้ Mac อยู่ รหัสผ่านของคุณจะเชื่อมข้อมูลกับ iPhone, iPad และ Mac ของคุณโดยอัตโนมัติเมื่อคุณลงชื่อเข้า iCloud"
+   }
+}

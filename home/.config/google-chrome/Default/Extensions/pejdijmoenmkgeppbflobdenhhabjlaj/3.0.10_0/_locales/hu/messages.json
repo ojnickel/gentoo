@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Az iCloud-jelszavak Chrome-mal való használatához engedélyezze a jelszavakat az iCloud Windowshoz appban."
+   },
+   "GenericPopupTitle": {
+      "message": "A jelszavai szinkronizálva vannak az iCloud-kulcskarikával"
+   },
+   "GettingPasswords": {
+      "message": "Jelszavak betöltése…"
+   },
+   "NoUserName": {
+      "message": "nincs felhasználói név"
+   },
+   "_lang": {
+      "message": "hu"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Ha meg szeretné akadályozni, hogy a Chrome oldalon belüli automatikus kitöltési funkciója összeütközzön az iCloud-jelszavakkal, az iCloud-jelszavak képes az Ön nevében megkísérelni a böngésző automatikus kitöltési funkciójának kikapcsolását."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "A Chrome automatikus kitöltési funkciójának kikapcsolása."
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "A módosításához távolítsa el a webhely bejegyzését az iCloud-kulcskarikájáról, és jelentkezzen be újra erre a webhelyre."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Ön korábban jelezte, hogy a jelszavak soha ne legyenek mentve ehhez a webhelyhez."
+   },
+   "divICsMessage": {
+      "message": "Válassza ki a használni kívánt mentett jelszót:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "A Jelszavak appban megtekintheti és kezelheti a mentett jelszavait."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "A mentett jelszavakat a Safari beállításainak Jelszavak lapján kezelheti."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "A mentett jelszavakat a Rendszerbeállítások Jelszavak paneljén kezelheti."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "A Jelszavak beállításaiban megtekintheti és kezelheti a mentett jelszavait."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "A Jelszavak beállításaiban megtekintheti és kezelheti a mentett jelszavait."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "A mentett jelszavakat az iCloud-jelszavak appban tekintheti meg és kezelheti."
+   },
+   "divOpenPasswords": {
+      "message": "Jelszavak kezelése…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Jelszavak keresése és létrehozása."
+   },
+   "divOpenPasswords_macos": {
+      "message": "A Jelszavak app megnyitása…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Jelszavak kezelése…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Jelszavak kezelése…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Jelszavak kezelése…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Jelszavak kezelése…"
+   },
+   "divPINMessage_macos": {
+      "message": "A Macje generált egy ellenőrzőkódot. A folytatáshoz adja meg a kódot."
+   },
+   "divPINMessage_windows": {
+      "message": "Az iCloud Windowshoz app küldött Önnek egy ellenőrzőkódot tartalmazó értesítést. A folytatáshoz adja meg a kódot."
+   },
+   "divPINTitle": {
+      "message": "Jelszó automatikus kitöltésének engedélyezése"
+   },
+   "divTOTPMenu": {
+      "message": "Ellenőrzőkód beállítása"
+   },
+   "divTOTPTitle": {
+      "message": "Ellenőrzőkód beállítása a következőhöz:"
+   },
+   "downloadButton": {
+      "message": "Letöltés"
+   },
+   "downloadMessage_macos": {
+      "message": "Ehhez a bővítményhez macOS Sonoma vagy újabb operációs rendszer telepítése szükséges."
+   },
+   "downloadMessage_windows": {
+      "message": "Az iCloud-jelszavak használatához töltse le az iCloud Windowshoz appot."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Kattintson ide, ha engedélyezni szeretné, hogy az iCloud-jelszavak automatikusan kitöltse a jelszavakat."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "A Jelszó automatikus kitöltése funkció engedélyezéséhez kattintson az iCloud-jelszavak eszköztárgombra."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Jelszó automatikus kitöltésének engedélyezése"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Annak engedélyezése, hogy az iCloud-jelszavak egy oldalon belüli listából bejelentkezési adatokat ajánljon fel. Ön akkor is kitöltheti a jelszavakat az iCloud-jelszavak eszközsávgombbal, ha ez a beállítás ki van kapcsolva."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Oldalon belüli automatikus kitöltés"
+   },
+   "extDescription": {
+      "message": "Az iCloud-jelszavak lehetővé teszi, hogy az iCloud-kulcskarikáról töltsön ki jelszavakat, amikor webhelyeken jelentkezik be a Chrome használatával."
+   },
+   "extName": {
+      "message": "iCloud-jelszavak"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "A Jelszavak app megnyitása…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "A Jelszavak beállításainak megnyitása…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "A Jelszavak beállításainak megnyitása…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "A Jelszavak beállításainak megnyitása…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "A Jelszavak beállításainak megnyitása…"
+   },
+   "openThisPageInSafari": {
+      "message": "Az oldal megnyitása a Safariban…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Az iCloud Windowshoz app megnyitása"
+   },
+   "optionsTitle": {
+      "message": "Az iCloud-jelszavak beállításai"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Ellenőrzőkód beállítása a következőhöz: „$1”"
+   },
+   "strongPasswordSuggestion": {
+      "message": "A Jelszavak appban vagy a Safariban létrehozhat egy erős jelszót."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "A Jelszavak beállításaiban vagy a Safariban létrehozhat egy erős jelszót."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "A Jelszavak beállításaiban vagy a Safariban létrehozhat egy erős jelszót."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "A Jelszavak beállításaiban vagy a Safariban létrehozhat egy erős jelszót."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "A Jelszavak beállításaiban vagy a Safariban létrehozhat egy erős jelszót."
+   },
+   "totpVerificationCodeName": {
+      "message": "Ellenőrzőkód"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Ellenőrzőkód a következőhöz: „$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Ezt a bővítményt a Windows 10 vagy újabb rendszeren való használatra tervezték. Ha Macet használ, a jelszavai automatikusan szinkronizálva lesznek az iPhone-jával, iPadjével és Macjével, amikor bejelentkezik az iCloudba."
+   }
+}

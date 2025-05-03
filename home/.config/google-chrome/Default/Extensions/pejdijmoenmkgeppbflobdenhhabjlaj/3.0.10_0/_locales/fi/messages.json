@@ -1,0 +1,170 @@
+{
+   "CheckEngineMessage": {
+      "message": "Ota Salasanat käyttöön Windowsin iCloud -apissa, jotta voit käyttää iCloud-salasanoja Chromessa."
+   },
+   "GenericPopupTitle": {
+      "message": "Salasanasi on synkronoitu iCloud-avainnipun kanssa"
+   },
+   "GettingPasswords": {
+      "message": "Ladataan salasanoja…"
+   },
+   "NoUserName": {
+      "message": "ei käyttäjätunnusta"
+   },
+   "_lang": {
+      "message": "fi"
+   },
+   "allowExtensionToControlAutoFillDetail": {
+      "message": "Jotta Chromen sivujen sisäinen automaattinen täyttö ja iCloud-salasanat eivät vaikuttaisi toisiinsa, iCloud-salasanat voi yrittää laittaa selaimen automaattisen täytön asetukset pois päältä puolestasi."
+   },
+   "allowExtensionToControlAutoFillLabel": {
+      "message": "Laita Chromen automaattinen täyttö pois päältä"
+   },
+   "browserName": {
+      "message": "Chrome"
+   },
+   "divDoNotRememberMessage": {
+      "message": "Voit muuttaa tätä poistamalla tämän verkkosivuston tietueen iCloud-avainnipusta ja kirjautumalla tälle sivustolle uudelleen."
+   },
+   "divDoNotRememberTitle": {
+      "message": "Olet aikaisemmin valinnut, että salasanoja tälle verkkosivustolle ei tallenneta."
+   },
+   "divICsMessage": {
+      "message": "Valitse tallennettu salasana käytettäväksi:"
+   },
+   "divNoPasswordsMessage_macos": {
+      "message": "Voit etsiä ja hallita tallennettuja salasanoja Salasanat-apissa."
+   },
+   "divNoPasswordsMessage_macos_11": {
+      "message": "Voit hallita tallennettuja salasanoja Safari-asetusten Salasanat-välilehdellä."
+   },
+   "divNoPasswordsMessage_macos_12": {
+      "message": "Voit hallita tallennettuja salasanoja Järjestelmäasetusten Salasanat-paneelissa."
+   },
+   "divNoPasswordsMessage_macos_13": {
+      "message": "Voit etsiä ja hallita tallennettuja salasanoja Salasanat-asetuksissa."
+   },
+   "divNoPasswordsMessage_macos_14": {
+      "message": "Voit etsiä ja hallita tallennettuja salasanoja Salasanat-asetuksissa."
+   },
+   "divNoPasswordsMessage_windows": {
+      "message": "Voit katsella ja muokata tallennettuja salasanoja iCloud-salasanat-sovelluksessa."
+   },
+   "divOpenPasswords": {
+      "message": "Hallitse salasanoja…"
+   },
+   "divOpenPasswordsSubtitle": {
+      "message": "Etsi ja luo salasanoja."
+   },
+   "divOpenPasswords_macos": {
+      "message": "Avaa Salasanat-appi…"
+   },
+   "divOpenPasswords_macos_11": {
+      "message": "Hallitse salasanoja…"
+   },
+   "divOpenPasswords_macos_12": {
+      "message": "Hallitse salasanoja…"
+   },
+   "divOpenPasswords_macos_13": {
+      "message": "Hallitse salasanoja…"
+   },
+   "divOpenPasswords_macos_14": {
+      "message": "Hallitse salasanoja…"
+   },
+   "divPINMessage_macos": {
+      "message": "Mac on generoinut vahvistuskoodin. Jatka syöttämällä koodi."
+   },
+   "divPINMessage_windows": {
+      "message": "Windowsin iCloud lähetti sinulle ilmoituksen, jossa on vahvistuskoodi. Jatka syöttämällä koodi."
+   },
+   "divPINTitle": {
+      "message": "Ota salasanojen automaattinen täyttö käyttöön"
+   },
+   "divTOTPMenu": {
+      "message": "Ota vahvistuskoodi käyttöön"
+   },
+   "divTOTPTitle": {
+      "message": "Ota vahvistuskoodi käyttöön kohteelle:"
+   },
+   "downloadButton": {
+      "message": "Lataa"
+   },
+   "downloadMessage_macos": {
+      "message": "Tämä laajennus vaatii, että macOS Sonoma tai uudempi on asennettu."
+   },
+   "downloadMessage_windows": {
+      "message": "Lataa Windowsin iCloud, jotta voit käyttää iCloud-salasanoja."
+   },
+   "enableAutoFillPasswordsMessageActivateCompletionList": {
+      "message": "Salli salasanojen automaattinen täyttö iCloud-salasanoista klikkaamalla tähän."
+   },
+   "enableAutoFillPasswordsMessageToolbarButton": {
+      "message": "Ota salasanojen automaattinen täyttö käyttöön klikkaamalla iCloud-salasanojen työkalupalkin painiketta."
+   },
+   "enableAutoFillPasswordsTitle": {
+      "message": "Ota salasanojen automaattinen täyttö käyttöön"
+   },
+   "enableInPageAutoFillCheckboxDetail": {
+      "message": "Salli iCloud-salasanojen tarjota tunnistetietoja sivulla näkyvästä luettelosta. Voit aina täyttää salasanoja iCloud-salasanojen työkalupalkin painikkeella, vaikka tämä valinta olisikin pois päältä."
+   },
+   "enableInPageAutoFillCheckboxLabel": {
+      "message": "Sivun sisäinen automaattinen täyttö"
+   },
+   "extDescription": {
+      "message": "iCloud-salasanat mahdollistaa salasanojen automaattisen täyttämisen iCloud-avainnipusta, kun kirjaudutaan sivustoille Chromella."
+   },
+   "extName": {
+      "message": "iCloud-salasanat"
+   },
+   "openPasswordsSettings_macos": {
+      "message": "Avaa Salasanat-appi…"
+   },
+   "openPasswordsSettings_macos_11": {
+      "message": "Avaa Salasanat-asetukset…"
+   },
+   "openPasswordsSettings_macos_12": {
+      "message": "Avaa Salasanat-asetukset…"
+   },
+   "openPasswordsSettings_macos_13": {
+      "message": "Avaa Salasanat-asetukset…"
+   },
+   "openPasswordsSettings_macos_14": {
+      "message": "Avaa Salasanat-asetukset…"
+   },
+   "openThisPageInSafari": {
+      "message": "Avaa tämä sivu Safarissa…"
+   },
+   "openiCloudForWindowsButtonText": {
+      "message": "Avaa Windowsin iCloud"
+   },
+   "optionsTitle": {
+      "message": "iCloud-salasanojen valinnat"
+   },
+   "setupTOTPVerificationCodeNameWithDomain": {
+      "message": "Ota vahvistuskoodi käyttöön kohteelle $1"
+   },
+   "strongPasswordSuggestion": {
+      "message": "Voit luoda vahvan salasanan Salasanat-apissa tai Safarissa."
+   },
+   "strongPasswordSuggestion_macos_11": {
+      "message": "Voit luoda vahvan salasanan Salasanat-asetuksissa tai Safarissa."
+   },
+   "strongPasswordSuggestion_macos_12": {
+      "message": "Voit luoda vahvan salasanan Salasanat-asetuksissa tai Safarissa."
+   },
+   "strongPasswordSuggestion_macos_13": {
+      "message": "Voit luoda vahvan salasanan Salasanat-asetuksissa tai Safarissa."
+   },
+   "strongPasswordSuggestion_macos_14": {
+      "message": "Voit luoda vahvan salasanan Salasanat-asetuksissa tai Safarissa."
+   },
+   "totpVerificationCodeName": {
+      "message": "Vahvistuskoodi"
+   },
+   "totpVerificationCodeNameWithDomain": {
+      "message": "Vahvistuskoodi kohteelle ”$1”"
+   },
+   "unsupportedOS_windows": {
+      "message": "Tämä laajennus on suunniteltu Windows 10:lle tai uudemmalle. Jos käytät Macia, salasanasi synkronoidaan automaattisesti iPhonen, iPadin ja Macin välillä, kun kirjaudut iCloudiin."
+   }
+}

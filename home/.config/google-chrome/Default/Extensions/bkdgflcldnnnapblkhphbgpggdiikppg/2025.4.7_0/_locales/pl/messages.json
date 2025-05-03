@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Krótki opis rozszerzenia wyświetlany w sklepie internetowym",
+      "message": "Aktywnie chroni Twoje dane w obecnej przeglądarce."
+   },
+   "appName": {
+      "description": "Tytuł rozszerzenia wyświetlany w sklepie internetowym",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

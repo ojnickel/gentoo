@@ -32,5 +32,6 @@ BackgroundDarkness=0,670000
 TextBlinkMode=TERMINAL_TEXT_BLINK_MODE_UNFOCUSED
 FontAllowBold=FALSE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-TitleInitial=
+TitleInitial=%w
+TitleMode=TERMINAL_TITLE_REPLACE
 

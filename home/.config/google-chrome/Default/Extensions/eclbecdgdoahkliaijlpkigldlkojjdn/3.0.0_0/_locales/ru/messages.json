@@ -1,0 +1,32 @@
+{
+   "AppDesc": {
+      "message": "Screen Recorder is a software that allows you to capture and record your computer screen right in the browser!"
+   },
+   "AppName": {
+      "message": "Screen Recorder for Google Chrome™"
+   },
+   "CaptureScreen": {
+      "message": "Сделать скриншот"
+   },
+   "Instruction": {
+      "message": "Пожалуйста, нажмите кнопку «Захват экрана» ниже, чтобы начать захват экрана, когда вы закончите, нажмите «Остановить захват»"
+   },
+   "RateUs": {
+      "message": "Пожалуйста, оцените нас"
+   },
+   "RecordAudio": {
+      "message": "Чтобы записать звук вашего рабочего стола, выберите «Параметры звука» в следующем диалоговом окне."
+   },
+   "SaveToDrive": {
+      "message": "Мы поддерживаем сохранение файла результатов в Google Drive на нашем сайте."
+   },
+   "SaveToPc": {
+      "message": "Сохранить на свой компьютер"
+   },
+   "Share": {
+      "message": "Поделитесь нашим приложением"
+   },
+   "StopCapture": {
+      "message": "Прекратить захват"
+   }
+}

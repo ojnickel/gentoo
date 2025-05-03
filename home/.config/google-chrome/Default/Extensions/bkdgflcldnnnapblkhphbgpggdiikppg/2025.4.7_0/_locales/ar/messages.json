@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "الوصف المختصر للإضافة، المعروض في المتجر الإلكتروني",
+      "message": "حماية خصوصية بسيطة وسلسة لمتصفحك."
+   },
+   "appName": {
+      "description": "عنوان الإضافة، المعروض في المتجر الإلكتروني",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

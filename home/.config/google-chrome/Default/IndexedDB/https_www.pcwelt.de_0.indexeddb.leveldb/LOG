@@ -1,0 +1,17 @@
+2025/02/14-17:30:03.810 3883 Creating DB /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.pcwelt.de_0.indexeddb.leveldb since it was missing.
+2025/02/14-17:30:03.818 3883 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.pcwelt.de_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/14-17:36:09.392 3884 Level-0 table #5: started
+2025/02/14-17:36:09.427 3884 Level-0 table #5: 4168880 bytes OK
+2025/02/14-17:36:09.439 3884 Delete type=0 #3
+2025/02/14-17:39:19.350 3884 Level-0 table #7: started
+2025/02/14-17:39:19.360 3884 Level-0 table #7: 2364447 bytes OK
+2025/02/14-17:39:19.366 3884 Delete type=0 #4
+2025/02/14-17:39:19.367 3884 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/14-17:39:19.367 3884 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x04\x00c\x00o\x00r\x00e' @ 1015 : 1
+2025/02/14-17:39:19.367 3884 Compacting 1@1 + 1@2 files
+2025/02/14-17:39:19.375 3884 Generated table #8@1: 65 keys, 42122 bytes
+2025/02/14-17:39:19.375 3884 Compacted 1@1 + 1@2 files => 42122 bytes
+2025/02/14-17:39:19.381 3884 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/14-17:39:19.381 3884 Delete type=2 #5
+2025/02/14-17:39:19.381 3884 Delete type=2 #7
+2025/02/14-17:39:19.383 3884 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x04\x00c\x00o\x00r\x00e' @ 1015 : 1 .. (end); will stop at (end)
