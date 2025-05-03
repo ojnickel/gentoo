@@ -14,7 +14,7 @@ function arbeit -d "ssh/sftp quickly in known servers"
         case '1u1'
             $argv[2]  p7822590@home29658965.1and1-data.host     
         case 'vfsw'
-            set pw 'WOWlOfA=Vw$B%$J$!pV1581qgoP'
+            set pw
             if  test "$argv[2]" = "ssh"
                 /usr/bin/sshpass -p $pw ssh vfsw
             else
@@ -22,14 +22,14 @@ function arbeit -d "ssh/sftp quickly in known servers"
             end
 
         case 'pp'
-            set pw "PR%KqSMxTUcwdbL2"
+            set pw
             if  test "$argv[2]" = "ssh"
                 /usr/bin/sshpass -p $pw ssh ww4281@pfennigparade.de
             else
                 /usr/bin/sshpass -p $pw sftp ww4281@pfennigparade.de
             end
         case 'bup'
-            set pw "NFKBHOcw"
+            set pw
             set server "wa6181@ok16.serverdomain.org"
             if test "$argv[2]" = "ssh"
                 /usr/bin/sshpass -p $pw ssh $server 
@@ -37,18 +37,20 @@ function arbeit -d "ssh/sftp quickly in known servers"
                 /usr/bin/sshpass -p $pw sftp $server 
             end
         case 'pgw'
-            set pw "W+XDk^E?a5`rFa`1q#7/"
+            set pw
             if test "$argv[2]" = "ssh"
-                /usr/bin/sshpass -p $pw ssh u89936386@home690690802.1and1-data.host
-            else
-                /usr/bin/sshpass -p $pw sftp u89936386@home690690802.1and1-data.host
+            
+
+/usr/bin/sshpass -p $pw ssh u89936386@home690690802.1and1-data.host
+
+e/usr/bin/sshpass -p $pw sftp u89936386@home690690802.1and1-data.host
             end
         case 'ssnh'
             $argv[2]   seniorenstiftneuhausen.de@ssh.strato.de
         case 'rwl'
             $argv[2] info@rollwagerl.homepage.t-online.de@hosting.telekom.de 
         case 'sbz'
-            set pw "vVm8OTxDmC)"
+            set pw
             /usr/bin/sshpass -p $pw  sftp seh_0@sbz.de    
         case  'bbsb'
             set pw "dm0|7&YZ3#^qEsuY"
