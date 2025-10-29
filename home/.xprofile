@@ -1,9 +1,18 @@
-#! /bin/sh
-# .using xrandr set HDMI properly -> under/overscan
-#sh ~/initxrandr.sh
-#  turn laptop monitor off
-#xrandr --output LVDS --off --output HDMI-0 --auto
-#set keyboard slow
-xset r rate 1000 5
-setxkbmap -option caps:none
-    
+#!/bin/sh
+
+# Set screen resolution
+xrandr --output DP-1 --mode 1920x1080 --rate 60.00
+
+# Load Xresources (cursor size, colors, etc.)
+xrdb -merge ~/.Xresources
+
+# Other accessibility settings (if needed)
+xset r rate 1000 10
+setxkbmap -option keypad:pointerkeys
+xkbset bo 50
+
+# before i3 starts -> SSDM alone doesnt have a launching wrapper
+if [ -z "$DBUS_SESSION_BUS_ADDRESS" ]; then
+    eval "$(dbus-launch --sh-syntax --exit-with-session)"
+fi
+
