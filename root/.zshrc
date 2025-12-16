@@ -363,13 +363,24 @@ alias l="eza -alg"
 #}
 
 function portage() {
-    local package=""
+    local package="$1"
     local flags=""
     local config_type=""
     local config_file=""
 
+    # Interactively select package using fzf if not specified
+    if [[ -z "$package" ]]; then
+        echo "Select a package (start typing to search):"
+        package=$(find /usr/portage/ -mindepth 2 -maxdepth 2 -type d | sed 's/\/usr\/portage\///' | fzf)
+
+        if [[ -z "$package" ]]; then
+            echo "No package selected. Exiting."
+            return 1
+        fi
+    fi
+
     # Interactive menu to choose configuration type
-    echo "What do you want to configure?"
+    echo "What do you want to configure for $package?"
     echo "1) USE flags"
     echo "2) Accept keywords"
     read -k 1 choice
@@ -379,10 +390,42 @@ function portage() {
         1)
             config_type="USE flags"
             config_file="/etc/portage/package.use/packages"
+
+            # Show available USE flags for the package
+            echo "Available USE flags for $package:"
+            echo "=================================="
+            equery uses "$package" 2>/dev/null | grep -E '^\s*[+-]' || echo "Package not found or no USE flags available"
+            echo ""
+
+            # Use fzf to select USE flags
+            local available_flags=$(equery uses "$package" 2>/dev/null | grep -E '^\s*[+-]' | awk '{print $2}')
+            if [[ -n "$available_flags" ]]; then
+                echo "Select USE flags (use TAB for multi-select, prefix with - to disable):"
+                local selected=$(echo "$available_flags" | fzf -m --height=50% --border --prompt="USE flags: ")
+                if [[ -n "$selected" ]]; then
+                    flags=$(echo "$selected" | tr '\n' ' ')
+                fi
+            fi
             ;;
         2)
             config_type="keywords"
             config_file="/etc/portage/package.accept_keywords"
+
+            # Show available keywords for the package
+            echo "Available keywords for $package:"
+            echo "=================================="
+            portageq metadata / ebuild "$package" KEYWORDS 2>/dev/null || echo "Package not found"
+            echo ""
+            echo "Current architecture: $(portageq envvar ARCH)"
+            echo ""
+
+            # Provide common keyword options
+            echo "Select keyword option:"
+            local keyword_options="~amd64 - Accept unstable on amd64\n~x86 - Accept unstable on x86\n** - Accept any keyword"
+            local selected_keyword=$(echo "$keyword_options" | fzf --height=50% --border --prompt="Keyword: " | awk '{print $1}')
+            if [[ -n "$selected_keyword" ]]; then
+                flags="$selected_keyword"
+            fi
             ;;
         *)
             echo "Invalid choice. Exiting."
@@ -390,26 +433,14 @@ function portage() {
             ;;
     esac
 
-    # Interactive package selection with fzf
-    echo "Select a package (type to search):"
-    package=$(find /var/db/repos/gentoo -mindepth 2 -maxdepth 2 -type d 2>/dev/null | \
-              sed 's|/var/db/repos/gentoo/||' | \
-              fzf --height=50% --border --prompt="Package: " --preview 'echo {}')
-
-    if [[ -z "$package" ]]; then
-        echo "No package selected. Exiting."
-        return 1
-    fi
-
-    # Prompt for flags/keywords
-    echo ""
-    echo "Selected package: $package"
-    echo "Enter $config_type (space-separated):"
-    read flags
-
+    # Check if flags were provided
     if [[ -z "$flags" ]]; then
-        echo "No flags provided. Exiting."
-        return 1
+        echo "No $config_type selected. You can also enter them manually:"
+        read flags
+        if [[ -z "$flags" ]]; then
+            echo "No flags provided. Exiting."
+            return 1
+        fi
     fi
 
     # Confirm before writing
