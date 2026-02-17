@@ -1,0 +1,141 @@
+# Starship prompt
+# Requires: Nerd Font
+
+add_newline = true
+
+format = """$directory$git_branch$git_status$package${custom.wordpress}$php$nodejs$python$rust$golang$perl$c$cmake$dart$docker_context$elixir$elm$erlang$haskell$java$julia$kotlin$lua$nim$ruby$scala$swift$zig$all$character"""
+
+[directory]
+truncation_length = 3
+truncate_to_repo = false
+
+[git_branch]
+symbol = " "
+
+[git_status]
+
+[c]
+symbol = " "
+
+[cmake]
+symbol = "△ "
+
+[dart]
+symbol = " "
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[erlang]
+symbol = " "
+
+[golang]
+symbol = " "
+
+[haskell]
+symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[kotlin]
+symbol = " "
+
+[lua]
+symbol = " "
+
+[nim]
+symbol = " "
+
+[nodejs]
+symbol = " "
+
+[php]
+symbol = " "
+
+[python]
+symbol = " "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[scala]
+symbol = " "
+
+[swift]
+symbol = " "
+
+[zig]
+symbol = " "
+
+[perl]
+symbol = " "
+
+[package]
+symbol = "📦 "
+
+[custom.wordpress]
+description = "WordPress project indicator"
+symbol = ""
+command = """\
+  out=""; \
+  d="$PWD"; pf=""; while [ "$d" != "/" ]; do \
+    pf=$(grep -rslm1 'Plugin Name:' "$d"/*.php 2>/dev/null | head -1); \
+    if [ -n "$pf" ]; then break; fi; \
+    if [ -f "$d/style.css" ] && grep -slm1 'Theme Name:' "$d/style.css" >/dev/null 2>&1; then break; fi; \
+    d=$(dirname "$d"); \
+  done; \
+  if [ -n "$pf" ]; then \
+    pname=$(grep -m1 'Plugin Name:' "$pf" | sed 's/.*Plugin Name:[[:space:]]*//;s/[[:space:]]*$//'); \
+    pver=$(grep -m1 'Version:' "$pf" | sed 's/.*Version:[[:space:]]*//;s/[[:space:]]*$//'); \
+    if [ -n "$pver" ]; then out=" ${pname}:${pver}"; else out=" ${pname}"; fi; \
+  fi; \
+  tf=""; d2="$PWD"; while [ "$d2" != "/" ]; do \
+    if [ -f "$d2/style.css" ] && grep -slm1 'Theme Name:' "$d2/style.css" >/dev/null 2>&1; then \
+      tf="$d2/style.css"; break; \
+    fi; \
+    d2=$(dirname "$d2"); \
+  done; \
+  if [ -n "$tf" ]; then \
+    tname=$(grep -m1 'Theme Name:' "$tf" | sed 's/.*Theme Name:[[:space:]]*//;s/[[:space:]]*$//'); \
+    tver=$(grep -m1 'Version:' "$tf" | sed 's/.*Version:[[:space:]]*//;s/[[:space:]]*$//'); \
+    if [ -n "$tver" ]; then tout=" ${tname}:${tver}"; else tout=" ${tname}"; fi; \
+    if [ -n "$out" ]; then out="${out} ${tout}"; else out="${tout}"; fi; \
+  fi; \
+  d3="$PWD"; wpver=""; while [ "$d3" != "/" ]; do \
+    if [ -f "$d3/wp-includes/version.php" ]; then \
+      wpver=$(grep -m1 "\\$wp_version" "$d3/wp-includes/version.php" | sed "s/.*=[[:space:]]*['\"']//;s/['\"'].*//"); \
+      break; \
+    fi; \
+    d3=$(dirname "$d3"); \
+  done; \
+  if [ -n "$wpver" ]; then \
+    if [ -n "$out" ]; then out="${out} v${wpver}"; else out="v${wpver}"; fi; \
+  fi; \
+  printf '%s' "$out" \
+"""
+when = """\
+  grep -rslm1 'Plugin Name:' *.php 2>/dev/null && exit 0; \
+  grep -slm1 'Theme Name:' style.css 2>/dev/null && exit 0; \
+  test -f wp-config.php -o -f wp-includes/version.php && exit 0; \
+  d="$PWD"; while [ "$d" != "/" ]; do \
+    test -f "$d/wp-config.php" -o -f "$d/wp-includes/version.php" && exit 0; \
+    grep -rslm1 'Plugin Name:' "$d"/*.php 2>/dev/null && exit 0; \
+    grep -slm1 'Theme Name:' "$d"/style.css 2>/dev/null && exit 0; \
+    d=$(dirname "$d"); \
+  done; exit 1"""
+shell = ["bash", "--noprofile", "--norc"]
+format = "[$symbol  $output ]($style)"
+style = "fg:#21759B"
