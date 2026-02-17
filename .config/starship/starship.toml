@@ -100,7 +100,7 @@ command = """\
   if [ -n "$pf" ]; then \
     pname=$(grep -m1 'Plugin Name:' "$pf" | sed 's/.*Plugin Name:[[:space:]]*//;s/[[:space:]]*$//'); \
     pver=$(grep -m1 'Version:' "$pf" | sed 's/.*Version:[[:space:]]*//;s/[[:space:]]*$//'); \
-    if [ -n "$pver" ]; then out=" ${pname}:${pver}"; else out=" ${pname}"; fi; \
+    if [ -n "$pver" ]; then out=" ${pname}:${pver}"; else out=" ${pname}"; fi; \
   fi; \
   tf=""; d2="$PWD"; while [ "$d2" != "/" ]; do \
     if [ -f "$d2/style.css" ] && grep -slm1 'Theme Name:' "$d2/style.css" >/dev/null 2>&1; then \
