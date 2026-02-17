@@ -84,6 +84,7 @@ symbol = " "
 symbol = " "
 
 [package]
+disabled = true
 symbol = "📦 "
 
 [custom.wordpress]
