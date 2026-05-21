@@ -78,10 +78,8 @@ function screc
         set x1 (string replace -r '.*x:(\d+).*' '$1' $tl)
         set y1 (string replace -r '.*y:(\d+).*' '$1' $tl)
 
-        # step 2: same for bottom-right
-        notify-send "screc" "Move mouse to bottom-right, then come back and press Enter" -t 20000
-        xdotool key super+1
-        sleep 0.3
+        # step 2: stay on ws3, notify, user switches back to ws1 and presses Enter
+        notify-send "screc" "Move mouse to bottom-right, switch to ws1, press Enter" -t 20000
         read -n1 --silent
         xdotool key super+$workspace
         sleep 0.2
