@@ -121,7 +121,7 @@ function screc-auto
     else
         set ff_input -f x11grab -i :0.0
     end
-    set ff_base -thread_queue_size 512 $ff_input -thread_queue_size 512 -f pulse -i $audio -c:v libx264 -async 1
+    set ff_base -thread_queue_size 512 $ff_input -thread_queue_size 512 -f pulse -i $audio -c:v libx264 -profile:v high -level 4.0 -pix_fmt yuv420p -movflags +faststart -async 1
 
     set start_time (date +%s)
 
