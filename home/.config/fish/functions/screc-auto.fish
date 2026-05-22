@@ -98,8 +98,8 @@ function screc-auto
     # --- region ---
     if test -n "$_flag_points"
         set pts (string split , $_flag_points)
-        set rw (math $pts[3] - $pts[1])
-        set rh (math $pts[4] - $pts[2])
+        set rw (math "($pts[3] - $pts[1]) + (($pts[3] - $pts[1]) % 2)")
+        set rh (math "($pts[4] - $pts[2]) + (($pts[4] - $pts[2]) % 2)")
         set x_off $pts[1]
         set y_off $pts[2]
     end
@@ -125,33 +125,13 @@ function screc-auto
 
     set start_time (date +%s)
 
+    # run ffmpeg in foreground — Ctrl+C stops it and execution continues
     if test -n "$end_arg"
-        ffmpeg $ff_base -t $end_arg $filename 2>/dev/null &
+        ffmpeg $ff_base -t $end_arg $filename 2>/dev/null
     else
-        ffmpeg $ff_base $filename 2>/dev/null &
+        ffmpeg $ff_base $filename 2>/dev/null
     end
-    set ffmpeg_pid $last_pid
-    set -g _sra_pid $ffmpeg_pid
-    function _sra_int --on-signal INT
-        kill -INT $_sra_pid 2>/dev/null
-    end
-
-    while kill -0 $ffmpeg_pid 2>/dev/null
-        set elapsed (math (date +%s) - $start_time)
-        set mins (math -s0 $elapsed / 60)
-        set secs (math $elapsed % 60)
-        printf "\rRecording: $filename  %d:%02d" $mins $secs
-        sleep 2
-        if not set -q _flag_end
-            if not pactl list sink-inputs 2>/dev/null | grep -qi firefox
-                kill -INT $ffmpeg_pid 2>/dev/null
-                break
-            end
-        end
-    end
-    functions -e _sra_int
-    set -e _sra_pid
-    wait $ffmpeg_pid 2>/dev/null
+    printf "\n"
     set elapsed (math (date +%s) - $start_time)
     set mins (math -s0 $elapsed / 60)
     set secs (math $elapsed % 60)

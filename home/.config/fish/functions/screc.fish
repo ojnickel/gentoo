@@ -87,8 +87,8 @@ function screc
         set x2 (string replace -r '.*x:(\d+).*' '$1' $br)
         set y2 (string replace -r '.*y:(\d+).*' '$1' $br)
 
-        set w (math $x2 - $x1)
-        set h (math $y2 - $y1)
+        set w (math "($x2 - $x1) + (($x2 - $x1) % 2)")
+        set h (math "($y2 - $y1) + (($y2 - $y1) % 2)")
 
         # step 3: back to ws1 for confirmation
         xdotool key super+1
