@@ -126,28 +126,32 @@ function screc-auto
     set start_time (date +%s)
 
     if test -n "$end_arg"
-        # foreground — ffmpeg stops itself, Ctrl+C also works
-        ffmpeg $ff_base -t $end_arg $filename 2>/dev/null
-        set ffmpeg_status $status
+        ffmpeg $ff_base -t $end_arg $filename 2>/dev/null &
     else
-        # background — stop when audio stops
         ffmpeg $ff_base $filename 2>/dev/null &
-        set ffmpeg_pid $last_pid
+    end
+    set ffmpeg_pid $last_pid
+    set -g _sra_pid $ffmpeg_pid
+    function _sra_int --on-signal INT
+        kill -INT $_sra_pid 2>/dev/null
+    end
 
-        while kill -0 $ffmpeg_pid 2>/dev/null
-            set elapsed (math (date +%s) - $start_time)
-            set mins (math -s0 $elapsed / 60)
-            set secs (math $elapsed % 60)
-            printf "\rRecording: $filename  %d:%02d" $mins $secs
-            sleep 2
+    while kill -0 $ffmpeg_pid 2>/dev/null
+        set elapsed (math (date +%s) - $start_time)
+        set mins (math -s0 $elapsed / 60)
+        set secs (math $elapsed % 60)
+        printf "\rRecording: $filename  %d:%02d" $mins $secs
+        sleep 2
+        if not set -q _flag_end
             if not pactl list sink-inputs 2>/dev/null | grep -qi firefox
                 kill -INT $ffmpeg_pid 2>/dev/null
                 break
             end
         end
-        wait $ffmpeg_pid 2>/dev/null
-        set ffmpeg_status $status
     end
+    functions -e _sra_int
+    set -e _sra_pid
+    wait $ffmpeg_pid 2>/dev/null
     set elapsed (math (date +%s) - $start_time)
     set mins (math -s0 $elapsed / 60)
     set secs (math $elapsed % 60)
