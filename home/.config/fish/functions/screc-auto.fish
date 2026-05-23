@@ -137,12 +137,33 @@ function screc-auto
     set mins (math -s0 $elapsed / 60)
     set secs (math $elapsed % 60)
     printf "\nSaved: $filename ($mins:"(printf '%02d' $secs)")\n"
-    read -l -P "Keep? [Y/n] " keep
-    if test "$keep" = n -o "$keep" = N
-        rm $filename
-        echo "Deleted."
-    else
-        notify-send "screc-auto" "Saved: "(basename $filename) -t 5000
+
+    # if -e and full duration completed, skip prompt
+    set completed 0
+    if test -n "$_flag_end"
+        set t (string split : (string trim $end_arg))
+        if test (count $t) -eq 3
+            set total_secs (math "$t[1] * 3600 + $t[2] * 60 + $t[3]")
+        else
+            set total_secs (math "$t[1] * 60 + $t[2]")
+        end
+        if test $elapsed -ge (math $total_secs - 5)
+            set completed 1
+        end
+    end
+
+    if test $completed -eq 1
+        echo "Finished."
+        notify-send "screc-auto" "Finished: "(basename $filename) -t 5000
         xdotool key super+1
+    else
+        read -l -P "Keep? [Y/n] " keep
+        if test "$keep" = n -o "$keep" = N
+            rm $filename
+            echo "Deleted."
+        else
+            notify-send "screc-auto" "Saved: "(basename $filename) -t 5000
+            xdotool key super+1
+        end
     end
 end
