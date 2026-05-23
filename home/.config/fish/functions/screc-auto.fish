@@ -19,6 +19,7 @@ function screc-auto
     end
 
     set ws (test -n "$_flag_workspace"; and echo $_flag_workspace; or echo 3)
+    xdotool key super+$ws
     set dir (test -n "$_flag_dir"; and echo $_flag_dir; or echo $PWD)
     set sleep_time (test -n "$_flag_sleep"; and echo $_flag_sleep; or echo 0)
     set audio alsa_output.pci-0000_00_1f.3.hdmi-stereo.monitor
