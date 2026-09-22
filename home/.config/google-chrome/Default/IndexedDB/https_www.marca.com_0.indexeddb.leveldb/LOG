@@ -1,6 +1,0 @@
-2024/11/16-16:29:59.959 24d4 Creating DB /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.marca.com_0.indexeddb.leveldb since it was missing.
-2024/11/16-16:29:59.968 24d4 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.marca.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/16-16:30:23.690 24d4 Level-0 table #5: started
-2024/11/16-16:30:23.694 24d4 Level-0 table #5: 835 bytes OK
-2024/11/16-16:30:23.700 24d4 Delete type=0 #3
-2024/11/16-16:30:23.701 24d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

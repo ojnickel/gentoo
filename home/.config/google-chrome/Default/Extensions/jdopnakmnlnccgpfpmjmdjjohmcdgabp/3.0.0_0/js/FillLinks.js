@@ -1,1 +1,0 @@
-"use strict";new class{constructor(){const e=chrome.runtime.getManifest().homepage_url;if(!e)throw new Error("No homepage_url in manifest.json");document.querySelectorAll("[data-url]").forEach(t=>{t.setAttribute("target","_blank"),t.setAttribute("href",new URL(t.getAttribute("data-url"),e).href)})}};

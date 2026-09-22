@@ -1,1 +1,0 @@
-import{WelcomePage}from"./common/welcome.js";new class{constructor(){new WelcomePage,chrome.action.onClicked.addListener(()=>{chrome.tabs.create({url:"/pages/popup/popup.html"})})}};

@@ -1,7 +1,0 @@
-2024/09/06-15:41:01.899 3abf Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.klm.de_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/06-15:41:01.899 3abf Recovering log #3
-2024/09/06-15:41:01.900 3abf Reusing old log /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.klm.de_0.indexeddb.leveldb/000003.log 
-2024/09/07-15:44:49.128 3ac0 Level-0 table #5: started
-2024/09/07-15:44:49.132 3ac0 Level-0 table #5: 1887 bytes OK
-2024/09/07-15:44:49.139 3ac0 Delete type=0 #3
-2024/09/07-15:44:49.139 3ac0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/05/08-16:48:18.754 3483 Creating DB /home/ossi/.config/google-chrome/Default/IndexedDB/https_community.redwoodjs.com_0.indexeddb.leveldb since it was missing.
-2024/05/08-16:48:18.763 3483 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_community.redwoodjs.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/08-17:08:37.960 3484 Level-0 table #5: started
-2024/05/08-17:08:37.964 3484 Level-0 table #5: 54848 bytes OK
-2024/05/08-17:08:37.970 3484 Delete type=0 #3
-2024/05/08-17:08:37.970 3484 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

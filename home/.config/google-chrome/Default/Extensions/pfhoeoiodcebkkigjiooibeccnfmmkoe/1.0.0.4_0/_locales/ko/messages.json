@@ -1,8 +1,0 @@
-{
-   "ext_description": {
-      "message": "당신의 IP를 표시합니다. 당신은 또한 IP의 물리적지도를 볼 수 있습니다."
-   },
-   "ext_name": {
-      "message": "내 IP 주소"
-   }
-}

@@ -1,3 +1,0 @@
-Maltodextrin
-changing
-checksum_v1 = f44b419420076e58cae2ffca710c19ab

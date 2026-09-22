@@ -1,6 +1,0 @@
-2024/11/16-17:23:27.468 24d3 Creating DB /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb since it was missing.
-2024/11/16-17:23:27.478 24d3 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/16-17:24:20.381 24d4 Level-0 table #5: started
-2024/11/16-17:24:20.385 24d4 Level-0 table #5: 3444 bytes OK
-2024/11/16-17:24:20.391 24d4 Delete type=0 #3
-2024/11/16-17:24:20.391 24d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/05/20-17:01:40.593 d0d Creating DB /home/ossi/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
-2024/05/20-17:01:40.602 d0d Reusing MANIFEST /home/ossi/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/20-17:02:14.021 d0e Level-0 table #5: started
-2024/05/20-17:02:14.029 d0e Level-0 table #5: 73580 bytes OK
-2024/05/20-17:02:14.035 d0e Delete type=0 #3
-2024/05/20-17:02:14.035 d0e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

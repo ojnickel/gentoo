@@ -1,1 +1,0 @@
-[{"action":{"redirect":{"regexSubstitution":"chrome-extension://hdokiejnpimakedhajhdlcegeplioahd/success.html#\\1"},"type":"redirect"},"condition":{"regexFilter":"^https://accounts\\.lastpass\\.com/(auth/saml2/success/.*|federated/oidcredirect.html.*)$","resourceTypes":["main_frame"]},"id":1,"priority":1}]

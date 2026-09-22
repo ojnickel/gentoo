@@ -1,6 +1,0 @@
-2025/04/25-15:59:51.075 df0 Reusing MANIFEST /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/04/25-15:59:51.077 df0 Recovering log #1034
-2025/04/25-15:59:51.079 df0 Reusing old log /home/ossi/.config/google-chrome/Default/Sync Data/LevelDB/001034.log 
-2025/04/26-14:50:02.739 df0 Level-0 table #1038: started
-2025/04/26-14:50:02.746 df0 Level-0 table #1038: 149629 bytes OK
-2025/04/26-14:50:02.753 df0 Delete type=0 #1034
