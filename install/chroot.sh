@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Enter a Gentoo root via chroot, optionally borrowing Portage config/repos from another system.
+#   chroot TARGET          plain chroot
+#   rescue SOURCE TARGET   bind SOURCE's /etc/portage, repos, distfiles and binpkgs into TARGET
 set -euo pipefail
 
 usage() {
@@ -8,36 +11,76 @@ usage() {
 
 action="${1:-}"
 case "$action" in
-    chroot) [ $# -eq 2 ] || usage; idir=""; tdir="${2%/}" ;;
-    rescue) [ $# -eq 3 ] || usage; idir="${2%/}"; tdir="${3%/}" ;;
+    chroot) [ $# -eq 2 ] || usage; idir="";                    tdir=$(realpath -m "$2") ;;
+    rescue) [ $# -eq 3 ] || usage; idir=$(realpath -m "$2");   tdir=$(realpath -m "$3") ;;
     *) usage ;;
 esac
 
-[ -n "$tdir" ] && [ -d "$tdir/usr" ] || { echo "$tdir is not a Linux root"; exit 1; }
+[ "$(id -u)" -eq 0 ] || { echo "Run as root."; exit 1; }
+[ "$tdir" != "/" ] || { echo "TARGET must not be /"; exit 1; }
+[ -d "$tdir/usr" ] || { echo "$tdir is not a Linux root"; exit 1; }
+if [ "$action" = rescue ]; then
+    [ -d "$idir/etc/portage" ] || { echo "$idir has no etc/portage"; exit 1; }
+fi
 
-rescue() {
-    mkdir -p "$tdir/var/db/repos/gentoo" "$tdir/var/cache/binpkgs"
-    mount --bind  "$idir/etc/portage"          "$tdir/etc/portage"
-    mount --bind  "$idir/var/db/repos/gentoo"  "$tdir/var/db/repos/gentoo"
-    mount --rbind "$idir/var/cache/binpkgs"    "$tdir/var/cache/binpkgs"
-}
+MOUNTED=()          # Everything we mounted, in order (unmounted in reverse)
+RESOLV_BAK=""       # Original resolv.conf of the target, restored on exit
 
-mkroot() {
-    cp -L /etc/resolv.conf "$tdir/etc/resolv.conf"
-    mount --rbind /dev "$tdir/dev"; mount --make-rslave "$tdir/dev"
-    mount -t proc /proc "$tdir/proc"
-    mount --rbind /sys "$tdir/sys"; mount --make-rslave "$tdir/sys"
-    mount --rbind /run "$tdir/run"; mount --make-rslave "$tdir/run"
-    mount --rbind /tmp "$tdir/tmp"
-    chroot "$tdir" /bin/bash -l || true
+# Mount only if not already mounted (makes re-runs safe) and remember it
+mnt() {   # mnt DEST mount-args...
+    local dest=$1; shift
+    mountpoint -q "$dest" && return 0
+    mkdir -p "$dest"
+    mount "$@" "$dest"
+    MOUNTED+=("$dest")
 }
 
 cleanup() {
-    for m in dev sys run tmp proc var/cache/binpkgs var/db/repos/gentoo etc/portage; do
-        if mountpoint -q "$tdir/$m"; then umount -R "$tdir/$m" || true; fi
+    set +e
+    local i
+    for (( i=${#MOUNTED[@]}-1; i>=0; i-- )); do
+        umount -R "${MOUNTED[i]}" 2>/dev/null || umount -Rl "${MOUNTED[i]}"
+    done
+    # Put back the target's own resolv.conf (file or symlink)
+    if [ -n "$RESOLV_BAK" ]; then
+        rm -f "$tdir/etc/resolv.conf"
+        mv "$RESOLV_BAK" "$tdir/etc/resolv.conf"
+    fi
+}
+trap cleanup EXIT   # Runs on normal exit, on errors (set -e) and on Ctrl+C
+
+rescue() {
+    mnt "$tdir/etc/portage" --bind "$idir/etc/portage"
+    # Bind the repo/cache dirs at the SAME path they have in SOURCE,
+    # because SOURCE's make.conf/repos.conf (now active) point there.
+    local rel
+    for rel in var/db/repos usr/portage var/cache/distfiles var/cache/binpkgs; do
+        if [ -d "$idir/$rel" ]; then
+            mnt "$tdir/$rel" --rbind "$idir/$rel"
+            mount --make-rslave "$tdir/$rel"
+        fi
     done
 }
 
-if [ "$action" = "rescue" ]; then rescue; fi
+mkroot() {
+    # DNS: never write through a symlink (would hit the HOST's file); back up and replace
+    if [ -e "$tdir/etc/resolv.conf" ] || [ -L "$tdir/etc/resolv.conf" ]; then
+        RESOLV_BAK="$tdir/etc/.resolv.conf.chroot-bak"
+        mv "$tdir/etc/resolv.conf" "$RESOLV_BAK"
+    fi
+    cp -L /etc/resolv.conf "$tdir/etc/resolv.conf"
+
+    mnt "$tdir/proc" -t proc proc
+    mnt "$tdir/sys"  --rbind /sys;  mount --make-rslave "$tdir/sys"
+    mnt "$tdir/dev"  --rbind /dev;  mount --make-rslave "$tdir/dev"
+    mnt "$tdir/run"  --bind  /run;  mount --make-slave  "$tdir/run"
+    # Some live systems have no /dev/shm mount; Python/portage needs it
+    if [ ! -L "$tdir/dev/shm" ] && ! mountpoint -q "$tdir/dev/shm"; then
+        mnt "$tdir/dev/shm" -t tmpfs -o nosuid,nodev,noexec shm
+    fi
+
+    chroot "$tdir" /bin/bash -l || true
+}
+
+if [ "$action" = rescue ]; then rescue; fi
 mkroot
-cleanup

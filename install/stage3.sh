@@ -28,9 +28,9 @@ else
     echo "Neither wget nor curl found. Aborted."; exit 1
 fi
 
-# --- Clock: a wrong date breaks TLS and GPG checks ---
-if command -v chronyd >/dev/null; then chronyd -q || echo "WARNING: time sync failed"
-elif command -v ntpd >/dev/null;  then ntpd -q -g || echo "WARNING: time sync failed"
+# timeout: ntpd -q / chronyd -q wait forever when no time server is reachable
+if command -v chronyd >/dev/null; then timeout 30 chronyd -q || echo "WARNING: time sync failed"
+elif command -v ntpd >/dev/null;  then timeout 30 ntpd -q -g || echo "WARNING: time sync failed"
 elif command -v timedatectl >/dev/null; then       # SystemRescue / other systemd live systems
     timedatectl set-ntp true || true
     for _ in $(seq 15); do
