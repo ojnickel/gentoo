@@ -115,10 +115,10 @@ pick_data() {
 }
 
 enter_chroot() {
-    if yesno "Enter the chroot in $MNT now?\n\nLeave it with 'exit'; mounts are cleaned up automatically."; then
+    if yesno "Enter the chroot in $MNT now?\n\nsetup.sh is copied to /root/setup.sh - run it there with:\n\n    bash /root/setup.sh\n\nLeave the chroot with 'exit'; mounts are cleaned up automatically."; then
         cls
         run "Chroot" bash "$DIR/chroot.sh" chroot "$MNT"
-        msg "Left the chroot. Mounts under $MNT (except the disk itself) were removed."
+        msg "Left the chroot. Mounts under $MNT (except the disk itself) were removed.\n\nIf setup.sh has not run yet, enter the chroot again and run:\n    bash /root/setup.sh"
     fi
 }
 

@@ -9,6 +9,13 @@ DONE=/var/lib/setup.sh          # Step markers
 LOG=/var/log/setup.log          # Full log
 mkdir -p "$DONE"
 exec > >(tee -a "$LOG") 2>&1    # Everything also goes to the log
+TEE_PID=$!                      # tee is not a child job, so the shell would not wait for it
+# Without this the last lines can be lost when the script exits before tee flushes
+flush_log() {
+    exec 1>&- 2>&-                              # close the pipe so tee sees EOF
+    if [ -n "${TEE_PID:-}" ]; then wait "$TEE_PID" 2>/dev/null || true; fi
+}
+trap flush_log EXIT
 
 # ---------- Checks ----------
 [ "$(id -u)" -eq 0 ] || { echo "Run as root."; exit 1; }
@@ -30,8 +37,23 @@ ask TZONE    "Time zone"                Europe/Berlin
 ask SYSLANG  "System language"          en_US.UTF-8
 ask KBD      "Keyboard layout (xkb)"    de
 ask CONSKBD  "Console keymap"           de-latin1-nodeadkeys
+# The binary host is built against the PLAIN profile. The desktop profile flips
+# USE flags globally, so most binary packages stop matching and get compiled
+# from source instead - hours rather than minutes. Sway does not need it.
+ask PROFKIND "Profile: 'plain' (matches binhost, fast) or 'desktop'" plain
 [[ "$USERNAME" =~ ^[a-z_][a-z0-9_-]*$ ]] || { echo "Invalid user name."; exit 1; }
 [ -e "/usr/share/zoneinfo/$TZONE" ] || { echo "Unknown time zone $TZONE."; exit 1; }
+case "$PROFKIND" in plain|desktop) ;; *) echo "Profile must be plain or desktop."; exit 1 ;; esac
+
+# ---------- Detect the init system of the extracted stage3 ----------
+# tui.sh offers systemd stage3 variants, so nothing here may assume OpenRC.
+if [ -x /usr/lib/systemd/systemd ]; then INIT=systemd; else INIT=openrc; fi
+
+# Profile must match BOTH the init system and the desktop choice.
+# All four combinations exist as real profiles in profiles.desc.
+PROFILE=default/linux/amd64/23.0
+if [ "$PROFKIND" = desktop ]; then PROFILE=$PROFILE/desktop; fi
+if [ "$INIT" = systemd ];     then PROFILE=$PROFILE/systemd; fi
 
 # ---------- Detect hardware ----------
 CPUS=$(nproc)
@@ -61,6 +83,8 @@ cat <<INFO
 
   Hostname:  $HOSTNAME        User: $USERNAME
   Time zone: $TZONE    Language: $SYSLANG    Keyboard: $KBD / $CONSKBD
+  Init:      $INIT (detected from the stage3)
+  Profile:   $PROFILE
   CPU:       $CPUS threads, $MEM_GB GB RAM -> MAKEOPTS -j$JOBS, binhost $LEVEL
   GPU:       VIDEO_CARDS="$VIDEO"
   Desktop:   Sway (Wayland) + waybar, foot, fuzzel, mako, PipeWire
@@ -81,11 +105,11 @@ EMERGE=(emerge --noreplace --quiet-build --verbose-conflicts)
 s_sync() { emerge-webrsync; }
 
 s_profile() {
-    local want=default/linux/amd64/23.0/desktop cur
+    local cur
     cur=$(eselect profile show | tail -n1 | xargs)
-    if [ "$cur" != "$want" ]; then
-        echo "Profile is $cur -> setting $want"
-        eselect profile set "$want"
+    if [ "$cur" != "$PROFILE" ]; then
+        echo "Profile is $cur -> setting $PROFILE"
+        eselect profile set "$PROFILE"
     fi
     eselect profile show
 }
@@ -122,8 +146,20 @@ s_locale() {
     printf '%s UTF-8\n' en_US.UTF-8 de_DE.UTF-8 "$SYSLANG" | sort -u > /etc/locale.gen
     locale-gen
     printf 'LANG="%s"\nLC_COLLATE="C.UTF-8"\n' "$SYSLANG" > /etc/env.d/02locale
-    sed -i "s/^keymap=.*/keymap=\"$CONSKBD\"/" /etc/conf.d/keymaps
+    if [ "$INIT" = systemd ]; then
+        # /etc/conf.d/keymaps belongs to OpenRC and does not exist here
+        printf 'KEYMAP=%s\n' "$CONSKBD" > /etc/vconsole.conf
+        printf 'LANG=%s\n'   "$SYSLANG" > /etc/locale.conf
+    else
+        sed -i "s/^keymap=.*/keymap=\"$CONSKBD\"/" /etc/conf.d/keymaps
+    fi
     env-update
+    # Handbook: pick up the new environment right away. /etc/profile is not
+    # written for "set -eu", so relax both while sourcing it.
+    set +eu
+    # shellcheck disable=SC1091
+    . /etc/profile
+    set -eu
 }
 
 s_world() {   # bring the stage3 up to date (mostly binaries)
@@ -132,20 +168,39 @@ s_world() {   # bring the stage3 up to date (mostly binaries)
 
 s_kernel() {
     echo "sys-kernel/installkernel grub dracut" > /etc/portage/package.use/installkernel
+    # btrfs-progs MUST be here, before gentoo-kernel-bin triggers dracut:
+    # dracut's 90btrfs module starts with "require_binaries btrfs || return 1",
+    # so without it the module is skipped and the initramfs gets no btrfs
+    # tooling or udev rules. Root is btrfs, so install it first.
+    "${EMERGE[@]}" sys-fs/btrfs-progs
     local pk=(sys-kernel/linux-firmware sys-kernel/gentoo-kernel-bin)
-    [ "$INTEL_CPU" = yes ] && pk+=(sys-firmware/intel-microcode)
+    if [ "$INTEL_CPU" = yes ]; then pk+=(sys-firmware/intel-microcode); fi
     "${EMERGE[@]}" "${pk[@]}"
 }
 
 s_system() {
-    echo "hostname=\"$HOSTNAME\"" > /etc/conf.d/hostname
     echo "$HOSTNAME" > /etc/hostname
-    "${EMERGE[@]}" app-admin/sysklogd sys-process/cronie net-misc/chrony \
-        net-misc/networkmanager sys-fs/btrfs-progs sys-fs/dosfstools \
-        app-admin/sudo app-shells/fish sys-auth/elogind sys-apps/dbus
-    rc-update add elogind boot
-    local s
-    for s in dbus NetworkManager sysklogd cronie chronyd; do rc-update add "$s" default; done
+    # Packages needed on both init systems (btrfs-progs is already in s_kernel)
+    local pk=(sys-process/cronie net-misc/networkmanager sys-fs/dosfstools
+              app-admin/sudo app-shells/fish sys-apps/dbus)
+    if [ "$INIT" = openrc ]; then
+        # systemd covers these itself: journald, timesyncd, logind
+        pk+=(app-admin/sysklogd net-misc/chrony sys-auth/elogind)
+    fi
+    "${EMERGE[@]}" "${pk[@]}"
+
+    if [ "$INIT" = openrc ]; then
+        echo "hostname=\"$HOSTNAME\"" > /etc/conf.d/hostname
+        rc-update add elogind boot
+        local s
+        for s in dbus NetworkManager sysklogd cronie chronyd; do rc-update add "$s" default; done
+    else
+        # systemd detects the chroot and would silently ignore "enable"
+        # ("Running in chroot, ignoring request") - this env var overrides that.
+        SYSTEMD_IGNORE_CHROOT=1 systemctl enable \
+            NetworkManager.service cronie.service systemd-timesyncd.service
+    fi
+
     mkdir -p /etc/sudoers.d
     echo '%wheel ALL=(ALL:ALL) ALL' > /etc/sudoers.d/wheel
     chmod 440 /etc/sudoers.d/wheel
@@ -165,7 +220,10 @@ s_user() {
     for g in wheel audio video usb input users; do        # only groups that exist
         getent group "$g" >/dev/null && groups="$groups,$g"
     done
-    id "$USERNAME" >/dev/null 2>&1 || useradd -m -G "${groups#,}" -s /bin/fish "$USERNAME"
+    local sh
+    sh=$(command -v fish || echo /bin/bash)            # real path, not a guessed /bin/fish
+    grep -qx "$sh" /etc/shells 2>/dev/null || echo "$sh" >> /etc/shells
+    id "$USERNAME" >/dev/null 2>&1 || useradd -m -G "${groups#,}" -s "$sh" "$USERNAME"
     local h
     h=$(getent passwd "$USERNAME" | cut -d: -f6)
 
@@ -198,12 +256,12 @@ CONF
 s_boot() {
     "${EMERGE[@]}" sys-boot/grub sys-boot/efibootmgr
     if [ -d /sys/firmware/efi/efivars ]; then
-        grub-install --efi-directory=/boot/efi --bootloader-id=Gentoo
+        grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=Gentoo
     else
         echo "No EFI variables visible - installing to the fallback path only."
     fi
     # Fallback path \EFI\BOOT\BOOTX64.EFI: boots even if the NVRAM entry gets lost
-    grub-install --efi-directory=/boot/efi --removable
+    grub-install --target=x86_64-efi --efi-directory=/boot/efi --removable
     grub-mkconfig -o /boot/grub/grub.cfg
     grep -q 'rootflags=subvol=@' /boot/grub/grub.cfg && echo "OK: rootflags=subvol=@ found" \
         || echo "WARNING: rootflags=subvol=@ missing in grub.cfg"

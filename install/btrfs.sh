@@ -58,7 +58,9 @@ umount -R "$MNT" 2>/dev/null || true               # Old mounts under /mnt/gento
 for p in $(lsblk -lnpo NAME,TYPE "$DISK" | awk '$2=="part"{print $1}'); do
     swapoff "$p" 2>/dev/null || true                # Swap on this disk
     umount "$p" 2>/dev/null || true                 # Other mounts of this disk
-    wipefs -a "$p"                                  # Old filesystem signatures on the partition
+    # Best effort: sgdisk --zap-all below removes the table anyway, so a
+    # still-busy partition must not kill the whole run here.
+    wipefs -a "$p" 2>/dev/null || echo "Note: could not wipe $p (still in use?), continuing"
 done
 
 # --- GPT partitioning ---

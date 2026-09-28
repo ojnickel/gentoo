@@ -10,6 +10,11 @@ FSTAB=/tmp/fstab.gentoo                # Written by btrfs.sh
 BASE=https://distfiles.gentoo.org/releases/amd64/autobuilds
 KEY=/usr/share/openpgp-keys/gentoo-release.asc   # Only on the Gentoo live ISO; SystemRescue uses WKD
 DL=$MNT/.stage3-download               # Download to the new disk, not into the live system's RAM
+# Primary key of "Gentoo Linux Release Engineering (Automated Weekly Release Key)".
+# The tarball is signed by a SUBKEY of it, so we pin the primary key that GnuPG
+# reports as the last field of its VALIDSIG status line.
+# Cross-check at https://www.gentoo.org/downloads/signatures/
+REL_KEY=13EBBDBEDE7A12775DFDB1BABB572E0E2D182910
 
 # --- Checks ---
 [ "$(id -u)" -eq 0 ] || { echo "Run as root. Aborted."; exit 1; }
@@ -41,19 +46,45 @@ fi
 echo "Date: $(date)   <- must be correct, otherwise TLS/GPG fail"
 
 # --- Temporary download dir + throwaway GPG keyring, removed on exit ---
-mkdir -p "$DL"
+# Trap first, so a leftover dir from a killed run is still cleaned up.
 export GNUPGHOME=$DL/gnupg
-mkdir -m 700 "$GNUPGHOME"
 cleanup() {
     gpgconf --kill gpg-agent 2>/dev/null || true
     rm -rf "$DL"
 }
 trap cleanup EXIT
+rm -rf "$DL"                    # leftovers from an interrupted run
+mkdir -p "$DL"
+mkdir -m 700 "$GNUPGHOME"       # gpg refuses a world-readable home
 
-# --- Find the latest tarball for this variant ---
+# --- Get the Gentoo release key BEFORE downloading anything ---
+if [ -f "$KEY" ]; then
+    gpg --quiet --import "$KEY"                       # Gentoo live ISO
+else                                                  # SystemRescue and other non-Gentoo live systems
+    echo "No local Gentoo key (not a Gentoo ISO), fetching via WKD from gentoo.org..."
+    gpg --quiet --auto-key-locate clear,wkd --locate-keys releng@gentoo.org \
+        || { echo "Could not fetch the Gentoo release key. Aborted."; exit 1; }
+fi
+
+# verify FILE [SIGFILE] - signature must chain to the pinned release primary key.
+# A bare "gpg --verify" exits 0 for ANY key in the keyring, so check VALIDSIG
+# instead: its last field is the primary key of whichever subkey signed.
+verify() {
+    local status=$DL/gpgstatus
+    gpg --status-fd 3 --verify "$@" 3>"$status" || {
+        echo "SIGNATURE CHECK FAILED for $1. Aborted."; exit 1; }
+    grep -q "^\[GNUPG:\] VALIDSIG .* $REL_KEY\$" "$status" || {
+        echo "Signature is valid but NOT from the Gentoo release key $REL_KEY."
+        echo "Aborted."; exit 1; }
+}
+
+# --- Find the latest tarball for this variant (the list itself is signed) ---
 get "$BASE/latest-stage3-amd64-$VARIANT.txt" "$DL/latest.txt" \
     || { echo "No stage3 for variant '$VARIANT'. Aborted."; exit 1; }
-REL=$(grep -o '^[^ ]*stage3-amd64-[^ ]*\.tar\.xz' "$DL/latest.txt" | head -n1)
+verify "$DL/latest.txt"
+# Parse the SIGNED text only, so a tampered list cannot point us at an old build
+gpg --quiet --decrypt "$DL/latest.txt" > "$DL/latest.verified" 2>/dev/null
+REL=$(grep -o '^[^ ]*stage3-amd64-[^ ]*\.tar\.xz' "$DL/latest.verified" | head -n1)
 [ -n "$REL" ] || { echo "Could not parse latest-stage3 file. Aborted."; exit 1; }
 TAR=$DL/${REL##*/}
 echo "Stage3: $REL"
@@ -62,17 +93,9 @@ echo "Stage3: $REL"
 get "$BASE/$REL"     "$TAR"
 get "$BASE/$REL.asc" "$TAR.asc"
 
-# --- Verify signature ---
-if [ -f "$KEY" ]; then
-    gpg --quiet --import "$KEY"
-else
-    echo "No local Gentoo key (not a Gentoo ISO), fetching via WKD from gentoo.org..."
-    gpg --auto-key-locate clear,wkd --locate-keys releng@gentoo.org \
-        || { echo "Could not fetch the Gentoo release key. Aborted."; exit 1; }
-fi
-# "not certified with a trusted signature" is normal with a fresh keyring;
-# compare the printed fingerprint with https://www.gentoo.org/downloads/signatures/
-gpg --verify "$TAR.asc" "$TAR" || { echo "SIGNATURE CHECK FAILED. Aborted."; exit 1; }
+# --- Verify the tarball against the same pinned key ---
+verify "$TAR.asc" "$TAR"
+echo "Signature OK (Gentoo release key $REL_KEY)"
 
 # --- Extract (keep permissions, xattrs and numeric owners) ---
 tar xpf "$TAR" --xattrs-include='*.*' --numeric-owner -C "$MNT"

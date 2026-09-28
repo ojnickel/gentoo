@@ -4,6 +4,8 @@
 #        DATA=single ./install.sh sda     (passed on to btrfs.sh)
 # To resume after a failure, run the remaining steps on their own:
 #        ./stage3.sh [VARIANT]   and/or   ./chroot.sh chroot /mnt/gentoo
+# chroot.sh copies setup.sh to /root/setup.sh - run it once inside the chroot:
+#        bash /root/setup.sh
 set -euo pipefail
 
 DIR=$(cd "$(dirname "$0")" && pwd)   # Folder with the other scripts
@@ -24,4 +26,5 @@ echo "=== 2/3 Stage3 ==="
 bash "$DIR/stage3.sh" "$VARIANT"
 
 echo "=== 3/3 Chroot ==="
+echo "Inside the chroot, run:  bash /root/setup.sh"
 bash "$DIR/chroot.sh" chroot /mnt/gentoo

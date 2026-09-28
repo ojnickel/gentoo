@@ -9,6 +9,8 @@ usage() {
     exit 1
 }
 
+DIR=$(cd "$(dirname "$0")" && pwd)   # Folder with setup.sh
+
 action="${1:-}"
 case "$action" in
     chroot) [ $# -eq 2 ] || usage; idir="";                    tdir=$(realpath -m "$2") ;;
@@ -74,11 +76,21 @@ mkroot() {
     mnt "$tdir/sys"  --rbind /sys;  mount --make-rslave "$tdir/sys"
     mnt "$tdir/dev"  --rbind /dev;  mount --make-rslave "$tdir/dev"
     mnt "$tdir/run"  --bind  /run;  mount --make-slave  "$tdir/run"
-    # Some live systems have no /dev/shm mount; Python/portage needs it
+    # Some live systems have no /dev/shm mount; Python/portage needs it.
+    # CAREFUL: /dev was rbind-mounted above, so "$tdir/dev/shm" IS the live
+    # system's /dev/shm. Never rm/mkdir here - only add a tmpfs if none exists.
     if [ ! -L "$tdir/dev/shm" ] && ! mountpoint -q "$tdir/dev/shm"; then
         mnt "$tdir/dev/shm" -t tmpfs -o nosuid,nodev,noexec shm
+        chmod 1777 "$tdir/dev/shm"      # handbook: world-writable + sticky
     fi
 
+    # Put setup.sh where the chroot expects it, so every entry path has it
+    if [ -f "$DIR/setup.sh" ]; then
+        install -m 755 "$DIR/setup.sh" "$tdir/root/setup.sh"
+        echo "setup.sh copied to /root/setup.sh - run it with:  bash /root/setup.sh"
+    fi
+
+    # -l makes bash a login shell, so it sources /etc/profile like the handbook does
     chroot "$tdir" /bin/bash -l || true
 }
 
