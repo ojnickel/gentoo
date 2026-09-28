@@ -3,7 +3,7 @@
 # Uses dialog (on the Gentoo live ISO), else whiptail, else plain text menus.
 set -euo pipefail
 
-DIR=$(cd "$(dirname "$0")" && pwd)   # Folder with btrfs.sh, stage3.sh, chroot.sh
+DIR=$(cd "$(dirname "$0")" && pwd)   # Folder with disk.sh, stage3.sh, chroot.sh
 MNT=/mnt/gentoo
 TITLE="Gentoo install"
 H=20; W=76; LH=10                    # Dialog height, width, list height
@@ -108,10 +108,25 @@ pick_variant() {
         desktop-systemd   "systemd, desktop profile"
 }
 
+pick_fs() {
+    menu "Root filesystem:" \
+        btrfs "Subvolumes, snapshots, compression (default)" \
+        ext4  "Plain and proven, no snapshots" \
+        xfs   "Plain, good with large files, cannot be shrunk"
+}
+
 pick_data() {
     menu "Btrfs data profile (metadata is always dup):" \
         dup    "2 copies of data - protects against bad blocks, half the space" \
         single "1 copy of data - full space"
+}
+
+pick_swap() {
+    menu "Swap partition:" \
+        8G  "8 GB (default)" \
+        4G  "4 GB" \
+        16G "16 GB" \
+        0   "No swap partition"
 }
 
 enter_chroot() {
@@ -125,19 +140,29 @@ enter_chroot() {
 # ---------- Modes ----------
 
 full_install() {
-    local disk data variant typed
+    local disk fs data swap variant typed swaptext
     disk=$(pick_disk)       || exit 0
-    data=$(pick_data)       || exit 0
+    fs=$(pick_fs)           || exit 0
+    data=dup                                  # only meaningful for btrfs
+    if [ "$fs" = btrfs ]; then
+        data=$(pick_data)   || exit 0
+    fi
+    swap=$(pick_swap)       || exit 0
     variant=$(pick_variant) || exit 0
 
-    yesno "Summary:\n\n  Disk:     /dev/$disk  (EFI 1G, swap 8G, rest Btrfs)\n  Data:     $data\n  Stage3:   $variant\n  Mount:    $MNT\n\nCurrent contents:\n$(lsblk -o NAME,SIZE,FSTYPE,LABEL "/dev/$disk")\n\nContinue?" || exit 0
+    if [ "$swap" = 0 ]; then swaptext="none"; else swaptext="$swap"; fi
+    local fstext="$fs"
+    [ "$fs" = btrfs ] && fstext="btrfs (data=$data)"
+
+    yesno "Summary:\n\n  Disk:     /dev/$disk  (EFI 1G, swap $swaptext, rest $fs)\n  Root FS:  $fstext\n  Stage3:   $variant\n  Mount:    $MNT\n\nCurrent contents:\n$(lsblk -o NAME,SIZE,FSTYPE,LABEL "/dev/$disk")\n\nContinue?" || exit 0
 
     typed=$(input "ALL DATA ON /dev/$disk WILL BE LOST.\n\nType the disk name ($disk) to confirm:") || exit 0
     [ "$typed" = "$disk" ] || { msg "Input did not match. Nothing was changed."; exit 0; }
 
     cls
-    run "1/3 Partition and Btrfs" env CONFIRM=YES DATA="$data" bash "$DIR/btrfs.sh" "$disk"
-    run "2/3 Stage3"              bash "$DIR/stage3.sh" "$variant"
+    run "1/3 Partition and filesystem" \
+        env CONFIRM=YES FS="$fs" DATA="$data" SWAP_SIZE="$swap" bash "$DIR/disk.sh" "$disk"
+    run "2/3 Stage3" bash "$DIR/stage3.sh" "$variant"
     read -rp "Disk and stage3 done. Press Enter..." _
     enter_chroot
 }
