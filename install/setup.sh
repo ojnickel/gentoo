@@ -32,27 +32,73 @@ mountpoint -q /proc || { echo "/proc not mounted - start via chroot.sh."; exit 1
 mountpoint -q /boot/efi || { echo "/boot/efi is not mounted. From the live system run:"; \
     echo "  mount /dev/<disk>1 /mnt/gentoo/boot/efi   (NVMe: /dev/nvme0n1p1)"; exit 1; }
 
-# ---------- Questions (Enter = default) ----------
-# Every answer can be preset from the environment, which makes unattended runs
-# possible. The CFG_ prefix keeps them clear of HOSTNAME and SHELL, which bash
-# and the login environment already define.
-#   CFG_HOSTNAME=box CFG_USER=bob CFG_DESKTOP=none bash /root/setup.sh
-ask() {   # ask VAR "Question" default
-    local var=$1 q=$2 def=$3 a=""
-    if [ -n "${!var:-}" ]; then
-        printf '%s: %s   (preset)\n' "$q" "${!var}"
+# ---------- Personal defaults live OUTSIDE the repo ----------
+# The repo ships no names, locales or passwords. Put yours in a setup.env
+# (see setup.env.example); it is gitignored. Without one, every personal
+# field below starts out empty and has to be typed in.
+# Search order: $SETUP_ENV, /root/setup.env, setup.env next to this script.
+if [ -z "${SETUP_ENV:-}" ]; then
+    for c in /root/setup.env "$(dirname "$0")/setup.env"; do
+        if [ -f "$c" ]; then SETUP_ENV=$c; break; fi
+    done
+fi
+CFG_VARS=(CFG_HOSTNAME CFG_USER CFG_TZONE CFG_LANG CFG_KBD CFG_CONSKBD
+          CFG_SHELL CFG_DESKTOP CFG_PROFILE CFG_ROOT_PW CFG_USER_PW UNATTENDED)
+
+if [ -n "${SETUP_ENV:-}" ] && [ -f "$SETUP_ENV" ]; then
+    echo "Loading personal defaults from $SETUP_ENV"
+    # Remember what the environment already set. The file is sourced after it,
+    # so without this its empty assignments would wipe a value passed for this
+    # run only. An explicit variable beats the stored default.
+    declare -A _from_env=()
+    for v in "${CFG_VARS[@]}"; do
+        if [ -n "${!v:-}" ]; then _from_env[$v]=${!v}; fi
+    done
+    set -a
+    # shellcheck disable=SC1090  # path is chosen at runtime
+    . "$SETUP_ENV"
+    set +a
+    for v in "${!_from_env[@]}"; do printf -v "$v" '%s' "${_from_env[$v]}"; done
+    unset _from_env
+else
+    SETUP_ENV=""
+    echo "No setup.env found - personal fields start empty (see setup.env.example)."
+fi
+
+# ---------- Questions ----------
+# A CFG_ value already set (from setup.env or the environment) is offered as
+# the default; UNATTENDED=1 accepts it without asking. Fields with no default
+# must be typed in - empty is refused. The CFG_ prefix keeps these clear of
+# HOSTNAME and SHELL, which bash and the login environment already define.
+ask() {   # ask VAR "Question" [fallback-default]
+    local var=$1 q=$2 def=${!1:-} a=""
+    [ -n "$def" ] || def=${3:-}                  # setup.env wins over the fallback
+    if [ -n "$def" ] && [ "${UNATTENDED:-}" = 1 ]; then
+        printf '%s: %s   (unattended)\n' "$q" "$def"
+        printf -v "$var" '%s' "$def"
         return
     fi
-    read -rp "$q [$def]: " a || true
-    printf -v "$var" '%s' "${a:-$def}"
+    while :; do
+        if [ -n "$def" ]; then
+            read -rp "$q [$def]: " a || true
+            a=${a:-$def}
+        else
+            read -rp "$q: " a || true
+        fi
+        [ -n "$a" ] && break
+        echo "  This field cannot be empty."
+    done
+    printf -v "$var" '%s' "$a"
 }
 echo "=== Gentoo setup - press Enter to accept the value in [brackets] ==="
-ask CFG_HOSTNAME "Hostname"                       gentoo
-ask CFG_USER     "User name"                      user
-ask CFG_TZONE    "Time zone"                      UTC
-ask CFG_LANG     "System language"                en_US.UTF-8
-ask CFG_KBD      "Keyboard layout (xkb)"          us
-ask CFG_CONSKBD  "Console keymap"                 us
+ask CFG_HOSTNAME "Hostname"
+ask CFG_USER     "User name"
+ask CFG_TZONE    "Time zone (e.g. Europe/Berlin)"
+ask CFG_LANG     "System language (e.g. de_DE.UTF-8)"
+ask CFG_KBD      "Keyboard layout (xkb, e.g. de)"
+ask CFG_CONSKBD  "Console keymap (e.g. de-latin1-nodeadkeys)"
+# These are choices from a fixed list, not personal data, so they keep
+# working fallbacks when setup.env says nothing.
 ask CFG_SHELL    "Login shell (bash, fish, zsh)"  bash
 ask CFG_DESKTOP  "Desktop (sway, none)"           sway
 # The binary host is built against the PLAIN profile. The desktop profile flips
@@ -129,7 +175,11 @@ cat <<INFO
   Log:       $LOG
 
 INFO
-read -rp "Start? [Y/n] " a; [[ "${a:-y}" =~ ^[yYjJ] ]] || exit 0
+if [ "${UNATTENDED:-}" = 1 ]; then
+    echo "UNATTENDED=1 - starting without asking."
+else
+    read -rp "Start? [Y/n] " a; [[ "${a:-y}" =~ ^[yYjJ] ]] || exit 0
+fi
 
 # ---------- Step runner (skips finished steps) ----------
 step() {   # step NAME function
@@ -351,10 +401,46 @@ step 10-user     s_user
 step 11-boot     s_boot
 
 # ---------- Passwords (repeat until they work) ----------
-echo; echo ">>> Password for root"
-until passwd root; do echo "Try again."; done
-echo; echo ">>> Password for $CFG_USER"
-until passwd "$CFG_USER"; do echo "Try again."; done
+# ---------- Passwords ----------
+# CFG_ROOT_PW / CFG_USER_PW may come from setup.env. A value starting with '$'
+# is treated as an already-hashed password and handed to "chpasswd -e", so the
+# file never has to hold a plaintext one. Neither form is echoed: the value
+# goes down a pipe into chpasswd, never to stdout, so it stays out of $LOG.
+set_pw() {   # set_pw ACCOUNT VALUE
+    local acct=$1 val=$2
+    case "$val" in
+        # A crypt hash has the shape $id$salt$digest.
+        \$*\$*\$*) printf '%s:%s\n' "$acct" "$val" | chpasswd -e ;;
+        # Starts with '$' but is not that shape: almost certainly written
+        # unquoted in setup.env, where bash expanded $id away.
+        \$*) echo "ERROR: the password for $acct looks like a damaged hash."
+             echo "Hashes must be in SINGLE quotes in setup.env, e.g."
+             echo "    CFG_ROOT_PW='\$6\$salt\$digest...'"
+             exit 1 ;;
+        *)   printf '%s:%s\n' "$acct" "$val" | chpasswd ;;
+    esac
+}
+
+if [ -n "${CFG_ROOT_PW:-}" ]; then
+    set_pw root "$CFG_ROOT_PW"; echo ">>> Password for root taken from setup.env"
+else
+    echo; echo ">>> Password for root"
+    until passwd root; do echo "Try again."; done
+fi
+if [ -n "${CFG_USER_PW:-}" ]; then
+    set_pw "$CFG_USER" "$CFG_USER_PW"; echo ">>> Password for $CFG_USER taken from setup.env"
+else
+    echo; echo ">>> Password for $CFG_USER"
+    until passwd "$CFG_USER"; do echo "Try again."; done
+fi
+
+# The config may hold a password, so it must not stay on the installed system.
+# This runs only after every step succeeded, so re-runs after a failure still
+# find their defaults.
+if [ -n "${SETUP_ENV:-}" ] && [ "$SETUP_ENV" = /root/setup.env ]; then
+    shred -u /root/setup.env 2>/dev/null || rm -f /root/setup.env
+    echo "Removed /root/setup.env from the installed system."
+fi
 
 cat <<DONEMSG
 

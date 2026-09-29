@@ -111,23 +111,75 @@ manager, keymap file and filesystem tools. It is safe to re-run: finished
 steps are marked in `/var/lib/setup.sh/` and skipped. Full log in
 `/var/log/setup.log`.
 
-Everything it asks can be preset in the environment for an unattended run:
+### Your own defaults: setup.env
 
-| Variable | Default | Meaning |
+**The repo contains no names, locales or passwords.** Put yours in a
+`setup.env`, which is gitignored:
+
+```sh
+cp setup.env.example setup.env
+chmod 600 setup.env
+$EDITOR setup.env
+```
+
+`chroot.sh` copies it to `/root/setup.env` (mode 600) next to `setup.sh`, and
+its values become the **defaults** in the prompts — you can still type over
+them. Without a `setup.env`, every personal field starts out empty and has to
+be filled in; empty answers are refused.
+
+`setup.sh` looks for it at `$SETUP_ENV`, then `/root/setup.env`, then
+`setup.env` beside the script.
+
+| Variable | Default without setup.env | Meaning |
 |---|---|---|
-| `CFG_HOSTNAME` | `gentoo` | Hostname |
-| `CFG_USER` | `user` | Login account to create (added to `wheel`) |
-| `CFG_TZONE` | `UTC` | Time zone, e.g. `Europe/Berlin` |
-| `CFG_LANG` | `en_US.UTF-8` | System locale |
-| `CFG_KBD` | `us` | X/Wayland keyboard layout |
-| `CFG_CONSKBD` | `us` | Console keymap |
+| `CFG_HOSTNAME` | *(empty, asked)* | Hostname |
+| `CFG_USER` | *(empty, asked)* | Login account to create (added to `wheel`) |
+| `CFG_TZONE` | *(empty, asked)* | Time zone, e.g. `Europe/Berlin` |
+| `CFG_LANG` | *(empty, asked)* | System locale, e.g. `de_DE.UTF-8` |
+| `CFG_KBD` | *(empty, asked)* | X/Wayland keyboard layout, e.g. `de` |
+| `CFG_CONSKBD` | *(empty, asked)* | Console keymap |
 | `CFG_SHELL` | `bash` | Login shell: `bash`, `fish`, `zsh` |
 | `CFG_DESKTOP` | `sway` | `sway` or `none` (console only) |
 | `CFG_PROFILE` | `plain` | `plain` or `desktop` — see below |
+| `CFG_ROOT_PW` | *(empty, prompted)* | root password, plaintext or hash |
+| `CFG_USER_PW` | *(empty, prompted)* | user password, plaintext or hash |
+| `UNATTENDED` | *(unset)* | `1` accepts every value without asking |
+
+The last three are choices from a fixed list rather than personal data, so
+they keep working defaults.
+
+A variable set in the environment **overrides** `setup.env` for that run:
 
 ```sh
-CFG_HOSTNAME=box CFG_USER=bob CFG_DESKTOP=none bash /root/setup.sh
+CFG_HOSTNAME=laptop bash /root/setup.sh        # one-off override
+UNATTENDED=1 bash /root/setup.sh               # ask nothing at all
 ```
+
+### Passwords
+
+Leaving `CFG_ROOT_PW` and `CFG_USER_PW` empty is the safest option: you are
+prompted interactively at the end and nothing is written to disk.
+
+If you do store them, prefer a hash. A value starting with `$` is passed to
+`chpasswd -e`:
+
+```sh
+openssl passwd -6          # or: mkpasswd --method=yescrypt
+```
+
+**Quote it in single quotes.** `setup.env` is sourced by bash, so an unquoted
+`$6$salt$digest` gets expanded into nothing:
+
+```sh
+CFG_ROOT_PW='$6$salt$digest'     # correct
+CFG_ROOT_PW=$6$salt$digest       # WRONG - bash eats it
+```
+
+`setup.sh` refuses a value that starts with `$` but is not a well-formed
+hash, so a mangled one fails loudly instead of setting a password nobody
+knows. Passwords are piped straight into `chpasswd` and never reach stdout,
+so they do not appear in `/var/log/setup.log`. On a successful finish,
+`/root/setup.env` is shredded from the installed system.
 
 ### plain vs desktop profile
 
