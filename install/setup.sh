@@ -6,9 +6,11 @@
 #
 # Usage (in the chroot):  bash /root/setup.sh
 #
-# Every answer can be preset in the environment for an unattended run:
+# Personal defaults come from a .env outside the repo (see env.example).
+# Every answer can also be preset in the environment, which wins over the file:
 #   CFG_HOSTNAME  CFG_USER  CFG_TZONE  CFG_LANG  CFG_KBD  CFG_CONSKBD
 #   CFG_SHELL (bash|fish|zsh)  CFG_DESKTOP (sway|none)  CFG_PROFILE (plain|desktop)
+#   CFG_ROOT_PW  CFG_USER_PW  UNATTENDED=1
 # e.g.  CFG_HOSTNAME=box CFG_USER=bob CFG_DESKTOP=none bash /root/setup.sh
 set -euo pipefail
 
@@ -33,12 +35,13 @@ mountpoint -q /boot/efi || { echo "/boot/efi is not mounted. From the live syste
     echo "  mount /dev/<disk>1 /mnt/gentoo/boot/efi   (NVMe: /dev/nvme0n1p1)"; exit 1; }
 
 # ---------- Personal defaults live OUTSIDE the repo ----------
-# The repo ships no names, locales or passwords. Put yours in a setup.env
-# (see setup.env.example); it is gitignored. Without one, every personal
-# field below starts out empty and has to be typed in.
-# Search order: $SETUP_ENV, /root/setup.env, setup.env next to this script.
+# The repo ships no names, locales or passwords. Put yours in a .env
+# (see env.example); it is gitignored. Without one, every personal field
+# below starts out empty and has to be typed in.
+# Search order: $SETUP_ENV, /root/.env (copied in by chroot.sh),
+# .env next to this script, then ~/.env.
 if [ -z "${SETUP_ENV:-}" ]; then
-    for c in /root/setup.env "$(dirname "$0")/setup.env"; do
+    for c in /root/.env "$(dirname "$0")/.env" "${HOME:-/root}/.env"; do
         if [ -f "$c" ]; then SETUP_ENV=$c; break; fi
     done
 fi
@@ -62,17 +65,17 @@ if [ -n "${SETUP_ENV:-}" ] && [ -f "$SETUP_ENV" ]; then
     unset _from_env
 else
     SETUP_ENV=""
-    echo "No setup.env found - personal fields start empty (see setup.env.example)."
+    echo "No .env found - personal fields start empty (see env.example)."
 fi
 
 # ---------- Questions ----------
-# A CFG_ value already set (from setup.env or the environment) is offered as
+# A CFG_ value already set (from .env or the environment) is offered as
 # the default; UNATTENDED=1 accepts it without asking. Fields with no default
 # must be typed in - empty is refused. The CFG_ prefix keeps these clear of
 # HOSTNAME and SHELL, which bash and the login environment already define.
 ask() {   # ask VAR "Question" [fallback-default]
     local var=$1 q=$2 def=${!1:-} a=""
-    [ -n "$def" ] || def=${3:-}                  # setup.env wins over the fallback
+    [ -n "$def" ] || def=${3:-}                  # .env wins over the fallback
     if [ -n "$def" ] && [ "${UNATTENDED:-}" = 1 ]; then
         printf '%s: %s   (unattended)\n' "$q" "$def"
         printf -v "$var" '%s' "$def"
@@ -98,7 +101,7 @@ ask CFG_LANG     "System language (e.g. de_DE.UTF-8)"
 ask CFG_KBD      "Keyboard layout (xkb, e.g. de)"
 ask CFG_CONSKBD  "Console keymap (e.g. de-latin1-nodeadkeys)"
 # These are choices from a fixed list, not personal data, so they keep
-# working fallbacks when setup.env says nothing.
+# working fallbacks when .env says nothing.
 ask CFG_SHELL    "Login shell (bash, fish, zsh)"  bash
 ask CFG_DESKTOP  "Desktop (sway, none)"           sway
 # The binary host is built against the PLAIN profile. The desktop profile flips
@@ -402,7 +405,7 @@ step 11-boot     s_boot
 
 # ---------- Passwords (repeat until they work) ----------
 # ---------- Passwords ----------
-# CFG_ROOT_PW / CFG_USER_PW may come from setup.env. A value starting with '$'
+# CFG_ROOT_PW / CFG_USER_PW may come from .env. A value starting with '$'
 # is treated as an already-hashed password and handed to "chpasswd -e", so the
 # file never has to hold a plaintext one. Neither form is echoed: the value
 # goes down a pipe into chpasswd, never to stdout, so it stays out of $LOG.
@@ -412,9 +415,9 @@ set_pw() {   # set_pw ACCOUNT VALUE
         # A crypt hash has the shape $id$salt$digest.
         \$*\$*\$*) printf '%s:%s\n' "$acct" "$val" | chpasswd -e ;;
         # Starts with '$' but is not that shape: almost certainly written
-        # unquoted in setup.env, where bash expanded $id away.
+        # unquoted in .env, where bash expanded $id away.
         \$*) echo "ERROR: the password for $acct looks like a damaged hash."
-             echo "Hashes must be in SINGLE quotes in setup.env, e.g."
+             echo "Hashes must be in SINGLE quotes in .env, e.g."
              echo "    CFG_ROOT_PW='\$6\$salt\$digest...'"
              exit 1 ;;
         *)   printf '%s:%s\n' "$acct" "$val" | chpasswd ;;
@@ -422,24 +425,26 @@ set_pw() {   # set_pw ACCOUNT VALUE
 }
 
 if [ -n "${CFG_ROOT_PW:-}" ]; then
-    set_pw root "$CFG_ROOT_PW"; echo ">>> Password for root taken from setup.env"
+    set_pw root "$CFG_ROOT_PW"; echo ">>> Password for root taken from .env"
 else
     echo; echo ">>> Password for root"
     until passwd root; do echo "Try again."; done
 fi
 if [ -n "${CFG_USER_PW:-}" ]; then
-    set_pw "$CFG_USER" "$CFG_USER_PW"; echo ">>> Password for $CFG_USER taken from setup.env"
+    set_pw "$CFG_USER" "$CFG_USER_PW"; echo ">>> Password for $CFG_USER taken from .env"
 else
     echo; echo ">>> Password for $CFG_USER"
     until passwd "$CFG_USER"; do echo "Try again."; done
 fi
 
-# The config may hold a password, so it must not stay on the installed system.
-# This runs only after every step succeeded, so re-runs after a failure still
-# find their defaults.
-if [ -n "${SETUP_ENV:-}" ] && [ "$SETUP_ENV" = /root/setup.env ]; then
-    shred -u /root/setup.env 2>/dev/null || rm -f /root/setup.env
-    echo "Removed /root/setup.env from the installed system."
+# The config may hold a password, so the COPY inside the chroot must not stay
+# on the installed system. Only /root/.env is removed - that is the throwaway
+# chroot.sh made. A .env reached through $SETUP_ENV or found in the repo is
+# the original and is left alone. This runs only after every step succeeded,
+# so re-runs after a failure still find their defaults.
+if [ -n "${SETUP_ENV:-}" ] && [ "$SETUP_ENV" = /root/.env ]; then
+    shred -u /root/.env 2>/dev/null || rm -f /root/.env
+    echo "Removed /root/.env from the installed system."
 fi
 
 cat <<DONEMSG

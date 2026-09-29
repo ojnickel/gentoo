@@ -90,11 +90,11 @@ mkroot() {
         echo "setup.sh copied to /root/setup.sh - run it with:  bash /root/setup.sh"
     fi
     # Personal defaults, which live outside the repo. May contain a password,
-    # so it goes in mode 600; setup.sh deletes it when it finishes.
-    local env_src=${SETUP_ENV:-$DIR/setup.env}
+    # so it goes in mode 600; setup.sh shreds this copy when it finishes.
+    local env_src=${SETUP_ENV:-$DIR/.env}
     if [ -f "$env_src" ]; then
-        install -m 600 "$env_src" "$tdir/root/setup.env"
-        echo "setup.env copied to /root/setup.env (mode 600)"
+        install -m 600 "$env_src" "$tdir/root/.env"
+        echo ".env copied to /root/.env (mode 600)"
     fi
 
     # -l makes bash a login shell, so it sources /etc/profile like the handbook does

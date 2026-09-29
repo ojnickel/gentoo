@@ -111,26 +111,30 @@ manager, keymap file and filesystem tools. It is safe to re-run: finished
 steps are marked in `/var/lib/setup.sh/` and skipped. Full log in
 `/var/log/setup.log`.
 
-### Your own defaults: setup.env
+### Your own defaults: .env
 
-**The repo contains no names, locales or passwords.** Put yours in a
-`setup.env`, which is gitignored:
+**The repo contains no names, locales or passwords.** Put yours in a `.env`,
+which is gitignored:
 
 ```sh
-cp setup.env.example setup.env
-chmod 600 setup.env
-$EDITOR setup.env
+cp env.example .env
+chmod 600 .env
+$EDITOR .env
 ```
 
-`chroot.sh` copies it to `/root/setup.env` (mode 600) next to `setup.sh`, and
-its values become the **defaults** in the prompts — you can still type over
-them. Without a `setup.env`, every personal field starts out empty and has to
-be filled in; empty answers are refused.
+`chroot.sh` copies it to `/root/.env` (mode 600) next to `setup.sh`, and its
+values become the **defaults** in the prompts — you can still type over them.
+Without a `.env`, every personal field starts out empty and has to be filled
+in; empty answers are refused.
 
-`setup.sh` looks for it at `$SETUP_ENV`, then `/root/setup.env`, then
-`setup.env` beside the script.
+`setup.sh` looks for it at `$SETUP_ENV`, then `/root/.env`, then `.env`
+beside the script, then `~/.env`.
 
-| Variable | Default without setup.env | Meaning |
+Because `.env` is gitignored it does **not** come down with a fresh clone —
+keep your copy somewhere you can reach from the live system (a second USB
+partition, or `~/.env`) and put it beside the scripts before you start.
+
+| Variable | Default without .env | Meaning |
 |---|---|---|
 | `CFG_HOSTNAME` | *(empty, asked)* | Hostname |
 | `CFG_USER` | *(empty, asked)* | Login account to create (added to `wheel`) |
@@ -145,10 +149,10 @@ be filled in; empty answers are refused.
 | `CFG_USER_PW` | *(empty, prompted)* | user password, plaintext or hash |
 | `UNATTENDED` | *(unset)* | `1` accepts every value without asking |
 
-The last three are choices from a fixed list rather than personal data, so
-they keep working defaults.
+`CFG_SHELL`, `CFG_DESKTOP` and `CFG_PROFILE` are choices from a fixed list
+rather than personal data, so they keep working defaults even with no `.env`.
 
-A variable set in the environment **overrides** `setup.env` for that run:
+A variable set in the environment **overrides** `.env` for that run:
 
 ```sh
 CFG_HOSTNAME=laptop bash /root/setup.sh        # one-off override
@@ -167,7 +171,7 @@ If you do store them, prefer a hash. A value starting with `$` is passed to
 openssl passwd -6          # or: mkpasswd --method=yescrypt
 ```
 
-**Quote it in single quotes.** `setup.env` is sourced by bash, so an unquoted
+**Quote it in single quotes.** `.env` is sourced by bash, so an unquoted
 `$6$salt$digest` gets expanded into nothing:
 
 ```sh
@@ -179,7 +183,7 @@ CFG_ROOT_PW=$6$salt$digest       # WRONG - bash eats it
 hash, so a mangled one fails loudly instead of setting a password nobody
 knows. Passwords are piped straight into `chpasswd` and never reach stdout,
 so they do not appear in `/var/log/setup.log`. On a successful finish,
-`/root/setup.env` is shredded from the installed system.
+`/root/.env` is shredded from the installed system.
 
 ### plain vs desktop profile
 
