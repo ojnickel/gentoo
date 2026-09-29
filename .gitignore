@@ -1,5 +1,0 @@
-# Personal install defaults - names, locale and passwords. Never commit these.
-.env
-.env.local
-install/.env
-!env.example

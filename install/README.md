@@ -113,44 +113,54 @@ steps are marked in `/var/lib/setup.sh/` and skipped. Full log in
 
 ### Your own defaults: .env
 
-**The repo contains no names, locales or passwords.** Put yours in a `.env`,
-which is gitignored:
+Hostname, user name, locale and keyboard live in `install/.env`, **not** in
+the scripts. That file is tracked in git, so a fresh clone on a live USB
+already has everything filled in — nothing to carry across separately.
+
+Its values are **defaults, not decisions**: `setup.sh` offers them in the
+prompts and you can type over any of them. A variable set in the environment
+wins for a single run:
+
+```sh
+CFG_HOSTNAME=laptop bash /root/setup.sh
+```
+
+Editing it for your own machine is just editing the file. `env.example`
+documents every option if you want to start from scratch:
 
 ```sh
 cp env.example .env
-chmod 600 .env
 $EDITOR .env
 ```
 
-`chroot.sh` copies it to `/root/.env` (mode 600) next to `setup.sh`, and its
-values become the **defaults** in the prompts — you can still type over them.
-Without a `.env`, every personal field starts out empty and has to be filled
-in; empty answers are refused.
-
+`chroot.sh` copies `.env` to `/root/.env` (mode 600) next to `setup.sh`.
 `setup.sh` looks for it at `$SETUP_ENV`, then `/root/.env`, then `.env`
-beside the script, then `~/.env`.
+beside the script, then `~/.env` — first hit wins. With no `.env` at all,
+every personal field starts out empty and has to be filled in; empty answers
+are refused.
 
-Because `.env` is gitignored it does **not** come down with a fresh clone —
-keep your copy somewhere you can reach from the live system (a second USB
-partition, or `~/.env`) and put it beside the scripts before you start.
+**Passwords are deliberately empty in the tracked `.env`.** Left empty you
+are prompted at the end of the run and nothing is written to disk. See
+[Passwords](#passwords) before putting anything in those two fields.
 
-| Variable | Default without .env | Meaning |
+| Variable | Value in the tracked `.env` | Meaning |
 |---|---|---|
-| `CFG_HOSTNAME` | *(empty, asked)* | Hostname |
-| `CFG_USER` | *(empty, asked)* | Login account to create (added to `wheel`) |
-| `CFG_TZONE` | *(empty, asked)* | Time zone, e.g. `Europe/Berlin` |
-| `CFG_LANG` | *(empty, asked)* | System locale, e.g. `de_DE.UTF-8` |
-| `CFG_KBD` | *(empty, asked)* | X/Wayland keyboard layout, e.g. `de` |
-| `CFG_CONSKBD` | *(empty, asked)* | Console keymap |
-| `CFG_SHELL` | `bash` | Login shell: `bash`, `fish`, `zsh` |
+| `CFG_HOSTNAME` | `gentoo` | Hostname |
+| `CFG_USER` | `ossi` | Login account to create (added to `wheel`) |
+| `CFG_TZONE` | `Europe/Berlin` | Time zone |
+| `CFG_LANG` | `de_DE.UTF-8` | System locale |
+| `CFG_KBD` | `de` | X/Wayland keyboard layout |
+| `CFG_CONSKBD` | `de-latin1-nodeadkeys` | Console keymap |
+| `CFG_SHELL` | `fish` | Login shell: `bash`, `fish`, `zsh` |
 | `CFG_DESKTOP` | `sway` | `sway` or `none` (console only) |
 | `CFG_PROFILE` | `plain` | `plain` or `desktop` — see below |
-| `CFG_ROOT_PW` | *(empty, prompted)* | root password, plaintext or hash |
-| `CFG_USER_PW` | *(empty, prompted)* | user password, plaintext or hash |
-| `UNATTENDED` | *(unset)* | `1` accepts every value without asking |
+| `CFG_ROOT_PW` | *(empty — prompted)* | root password, plaintext or hash |
+| `CFG_USER_PW` | *(empty — prompted)* | user password, plaintext or hash |
+| `UNATTENDED` | *(empty)* | `1` accepts every value without asking |
 
-`CFG_SHELL`, `CFG_DESKTOP` and `CFG_PROFILE` are choices from a fixed list
-rather than personal data, so they keep working defaults even with no `.env`.
+If you delete `.env`, `CFG_SHELL`, `CFG_DESKTOP` and `CFG_PROFILE` still fall
+back to `bash`, `sway` and `plain` in the script — they are picks from a fixed
+list, not personal data. Every other field would then be asked for.
 
 A variable set in the environment **overrides** `.env` for that run:
 
@@ -161,11 +171,12 @@ UNATTENDED=1 bash /root/setup.sh               # ask nothing at all
 
 ### Passwords
 
-Leaving `CFG_ROOT_PW` and `CFG_USER_PW` empty is the safest option: you are
-prompted interactively at the end and nothing is written to disk.
+Both are empty in the tracked `.env`, which is the safest option and the
+right one for a file in version control: you are prompted at the end of the
+run and nothing is written to disk.
 
-If you do store them, prefer a hash. A value starting with `$` is passed to
-`chpasswd -e`:
+If you do store them, **do not put a plaintext password in a tracked file.**
+Use a hash — a value starting with `$` is passed to `chpasswd -e`:
 
 ```sh
 openssl passwd -6          # or: mkpasswd --method=yescrypt
@@ -179,9 +190,10 @@ CFG_ROOT_PW='$6$salt$digest'     # correct
 CFG_ROOT_PW=$6$salt$digest       # WRONG - bash eats it
 ```
 
-`setup.sh` refuses a value that starts with `$` but is not a well-formed
-hash, so a mangled one fails loudly instead of setting a password nobody
-knows. Passwords are piped straight into `chpasswd` and never reach stdout,
+Bear in mind a hash in a repo can still be attacked offline, so the prompt
+is better. `setup.sh` refuses a value that starts with `$` but is not a
+well-formed hash, so a mangled one fails loudly instead of setting a password
+nobody knows. Passwords are piped straight into `chpasswd` and never reach stdout,
 so they do not appear in `/var/log/setup.log`. On a successful finish,
 `/root/.env` is shredded from the installed system.
 

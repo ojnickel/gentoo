@@ -6,7 +6,7 @@
 #
 # Usage (in the chroot):  bash /root/setup.sh
 #
-# Personal defaults come from a .env outside the repo (see env.example).
+# Personal defaults come from install/.env, which is tracked (see env.example).
 # Every answer can also be preset in the environment, which wins over the file:
 #   CFG_HOSTNAME  CFG_USER  CFG_TZONE  CFG_LANG  CFG_KBD  CFG_CONSKBD
 #   CFG_SHELL (bash|fish|zsh)  CFG_DESKTOP (sway|none)  CFG_PROFILE (plain|desktop)
@@ -34,10 +34,13 @@ mountpoint -q /proc || { echo "/proc not mounted - start via chroot.sh."; exit 1
 mountpoint -q /boot/efi || { echo "/boot/efi is not mounted. From the live system run:"; \
     echo "  mount /dev/<disk>1 /mnt/gentoo/boot/efi   (NVMe: /dev/nvme0n1p1)"; exit 1; }
 
-# ---------- Personal defaults live OUTSIDE the repo ----------
-# The repo ships no names, locales or passwords. Put yours in a .env
-# (see env.example); it is gitignored. Without one, every personal field
-# below starts out empty and has to be typed in.
+# ---------- Personal defaults live in .env, not in this script ----------
+# install/.env is tracked in git, so a fresh clone already has hostname,
+# user, locale and keyboard filled in (see env.example for every option).
+# Its values are offered as prompt defaults and can be typed over; a
+# variable set in the environment wins for a single run. Passwords are
+# deliberately empty there, so they get asked for instead.
+# With no .env at all, every personal field starts empty and is asked for.
 # Search order: $SETUP_ENV, /root/.env (copied in by chroot.sh),
 # .env next to this script, then ~/.env.
 if [ -z "${SETUP_ENV:-}" ]; then
